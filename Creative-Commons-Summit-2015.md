@@ -4,7 +4,7 @@ The [Creative Commons Global Summit 2015](https://summit.creativecommons.org/) h
 Rethinking open research policies
 
 # Abstract
-Open access mandates and declarations, requirements for data management plans and related policy instruments have had considerable impact on the way research results are communicated between researchers, institutions and with the public. They have had much less of an effect on how research is being performed and how the research process is being shared. I will outline some ways in which they could be more aligned with research workflows.
+Open access mandates and declarations, requirements for data management plans and related policy instruments have had considerable impact on the way research results are communicated between researchers, institutions and with the public. They have had much less of an effect on how research is being performed and how the research process is being shared. Based on an analysis of shortcomings in existing policies, I will outline some ways in which we could increase their individual and collective impact.
 
 # Detailed description
 Typical problems with existing policies include that they:
