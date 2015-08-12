@@ -1,5 +1,5 @@
 # About
-This file hosts an abstract for the EGI Community Forum 2015 (to take place on 10-13 November, 2015, in Bari, Italy), which was submitted on July 12.
+This file hosts an abstract for the [EGI Community Forum 2015](https://indico.egi.eu/indico/conferenceDisplay.py?confId=2544) (to take place on 10-13 November, 2015, in Bari, Italy), which was submitted on July 12.
 
 # Title 
 Wikidata - structured information for Wikipedia and what this means for research workflows
