@@ -30,6 +30,5 @@ None
 # Track classification
  
 * Community Engagement and Innovation
-* Virtual Research Environments
 * Open Science Commons
 
