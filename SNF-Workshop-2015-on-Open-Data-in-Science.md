@@ -1,4 +1,4 @@
-On September 14, 2015, the [Swiss National Science Foundation](http://www.snf.ch/) are organizing a workshop on Open Data in Science, to which this document is a contribution.
+On September 14, 2015 in Berne, the [Swiss National Science Foundation](http://www.snf.ch/) are organizing a workshop on Open Data in Science, to which this document is a contribution.
 
 # Title
 A vision for Open Data at NIH
@@ -22,16 +22,17 @@ A vision for Open Data at NIH
 
 ## At the NIH level
 * [The Cloud, dbGaP and the NIH](https://datascience.nih.gov/blog/cloud)
-* Sex as a variable
+* [Sex as a Biological Variable](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-102.html)
+* [NIH Genomic Data Sharing Policy](https://gds.nih.gov/03policy2.html)
 
 # Outlook
-* Public Access policies of other Federal agencies are being developed. Many of them explicitly build on the NIH experience with PubMed Central.
+* Public Access policies of other Federal agencies are being developed. Many of them explicitly build on the NIH experience with PubMed Central. They also refer to a "research data Commons".
+* The Commons
 * public and machine readable data management plans
-
 
 # See also 
 * [Rethinking open research policies](https://github.com/Daniel-Mietchen/talks/blob/master/Creative-Commons-Summit-2015.md)
 
 # License
-[CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+[CC0](http://creativecommons.org/publicdomain/zero/1.0/)/ [Public Domain](https://creativecommons.org/licenses/publicdomain/)
 
