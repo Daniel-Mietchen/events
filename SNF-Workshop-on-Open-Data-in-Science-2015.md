@@ -21,9 +21,12 @@ A vision for Open Data at NIH
 * Congress bills 
 
 ## At the NIH level
-* [The Cloud, dbGaP and the NIH](https://datascience.nih.gov/blog/cloud)
-* [Sex as a Biological Variable](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-102.html)
-* [NIH Genomic Data Sharing Policy](https://gds.nih.gov/03policy2.html)
+* [NIH Data Sharing Policy](http://grants.nih.gov/grants/policy/data_sharing/)
+   * [NIH Model Organism Sharing Policy](http://grants.nih.gov/grants/policy/model_organism/)
+   * [NIH Genomic Data Sharing Policy](https://gds.nih.gov/03policy2.html)
+   * [Policy for Sharing of Data Obtained in NIH Supported or Conducted Genome-Wide Association Studies (GWAS)](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-07-088.html)
+   * [The Cloud, dbGaP and the NIH](https://datascience.nih.gov/blog/cloud)
+   * [Sex as a Biological Variable](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-102.html)
 
 # Outlook
 * Public Access policies of other Federal agencies are being developed. Many of them explicitly build on the NIH experience with PubMed Central. They also refer to a "research data Commons".
