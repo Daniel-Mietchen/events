@@ -8,7 +8,9 @@ A vision for Open Data at NIH
 ## What is NIH?
 * [National Institutes of Health](http://nih.gov) in Bethesda, Maryland, USA
 * a Federal Agency within the Department of Health and Human Services
+* the world's largest biomedical research agency
 * [NIH Mission](http://www.nih.gov/about/mission.htm)
+* the [data science team](http://datascience.nih.gov/) (ADDS office)
 
 # Sharing policies relevant to NIH
 
@@ -19,6 +21,7 @@ A vision for Open Data at NIH
 * Policy memorandum by John Holdren, Director of the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp), ["direct[ing] Federal agencies with more than $100M in R&D expenditures to develop plans to make the results of federally funded research freely available to the public"](https://www.whitehouse.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research). (Feb 2013)
 * Executive Order by President Obama: [Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013)
 * Congress bills 
+* Blue button
 
 ## At the NIH level
 * [NIH Data Sharing Policy](http://grants.nih.gov/grants/policy/data_sharing/)
@@ -33,6 +36,7 @@ A vision for Open Data at NIH
 * The Commons
 * Future of NLM; recommendation for it to become a world leader in open science
 * public and machine readable data management plans
+* What about funders leading the research community by example in terms of being more open in the way they work?
 
 # See also 
 * [Rethinking open research policies](https://github.com/Daniel-Mietchen/talks/blob/master/Creative-Commons-Summit-2015.md)
