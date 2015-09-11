@@ -28,6 +28,7 @@ A vision for Open Data at NIH
 # Outlook
 * Public Access policies of other Federal agencies are being developed. Many of them explicitly build on the NIH experience with PubMed Central. They also refer to a "research data Commons".
 * The Commons
+* Future of NLM; recommendation for it to become a world leader in open science
 * public and machine readable data management plans
 
 # See also 
