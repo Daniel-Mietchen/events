@@ -39,6 +39,7 @@ A vision for Open Data at NIH
 * What about funders leading the research community by example in terms of being more open in the way they work?
 
 # See also 
+* [Public access policies](https://github.com/Daniel-Mietchen/datascience/blob/master/public-access-policies.md)
 * [Rethinking open research policies](https://github.com/Daniel-Mietchen/talks/blob/master/Creative-Commons-Summit-2015.md)
 
 # License
