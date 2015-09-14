@@ -73,8 +73,8 @@ A vision for Open Data at NIH
     * [via Wikimedia](http://events.labs.crossref.org/events/types/WikipediaCitation/live)
  * Content mining
    * [ContentMine](http://contentmine.org/)
-   * [Open Access Media Importer](https://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot)
-   * [Suggestbot](https://en.wikipedia.org/wiki/User_talk:Daniel_Mietchen/SuggestBot#Articles_you_might_like_to_edit.2C_from_SuggestBot_41)
+    * [Open Access Media Importer](https://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot)
+    * [Suggestbot](https://en.wikipedia.org/wiki/User_talk:Daniel_Mietchen/SuggestBot#Articles_you_might_like_to_edit.2C_from_SuggestBot_41)
   * [Data-driven journalism](https://github.com/Daniel-Mietchen/datascience/blob/master/data-driven-journalism.md)
 
 # See also 
