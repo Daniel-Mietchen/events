@@ -15,8 +15,9 @@ A vision for Open Data at NIH
 * the world's largest biomedical research agency
 * [NIH Mission](http://www.nih.gov/about/mission.htm)
 
-## [Associate Director for Data Science (ADDS)](https://datascience.nih.gov/adds)
-* "provide input to the overall NIH vision and actions undertaken by each of the 27 Institutes and Centers in support of biomedical research as a digital enterprise"
+## Data science at NIH
+* [Associate Director for Data Science (ADDS)](https://datascience.nih.gov/adds)
+  * to "provide input to the overall NIH vision and actions undertaken by each of the 27 Institutes and Centers in support of biomedical research as a digital enterprise"
 * [ADDS website](http://datascience.nih.gov/)
 
 # Sharing policies relevant to NIH
