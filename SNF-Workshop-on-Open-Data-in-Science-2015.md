@@ -85,6 +85,8 @@ A vision for Open Data at NIH
 * What about funders leading the research community by example in terms of being more open in the way they work?
    * Open data from funders might help research *about* research funding.
 * public and machine readable [data management plans](https://github.com/Daniel-Mietchen/datascience/blob/master/data-management-plans.md)
+  * might help with the compliance element too
+    * [OA Compliance Checking for Wellcome Trust](https://github.com/CottageLabs/oacwellcome)
 * [What would happen if grant reviews were made public?](http://dx.doi.org/10.1038/517247f)
    * [more notes on open research funding](https://github.com/Daniel-Mietchen/datascience/blob/master/open-research-funding.md)
 * Encouraging the [reuse](https://github.com/Daniel-Mietchen/datascience/blob/master/reuse.md) of public data
