@@ -110,7 +110,7 @@ A vision for Open Data at NIH
 * put it under an open license
 
 # Questions?
-* [https://twitter.com/EvoMRI @EvoMRI]
+* [@EvoMRI](https://twitter.com/EvoMRI)
 
 # See also 
 * [Rethinking open research policies](https://github.com/Daniel-Mietchen/talks/blob/master/Creative-Commons-Summit-2015.md)
