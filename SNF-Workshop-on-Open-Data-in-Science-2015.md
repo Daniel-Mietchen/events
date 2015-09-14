@@ -97,6 +97,12 @@ A vision for Open Data at NIH
     * [Suggestbot](https://en.wikipedia.org/wiki/User_talk:Daniel_Mietchen/SuggestBot#Articles_you_might_like_to_edit.2C_from_SuggestBot_41)
   * [Data-driven journalism](https://github.com/Daniel-Mietchen/datascience/blob/master/data-driven-journalism.md)
 
+# Suggestions for SNF's upcoming open data policy
+* interpret the term *data* broadly
+* make it machine readable
+* put it under an open license
+* if you allow for exceptions, keep a public record
+
 # See also 
 * [Rethinking open research policies](https://github.com/Daniel-Mietchen/talks/blob/master/Creative-Commons-Summit-2015.md)
 * [Comments on NIH Strategic Plan](https://github.com/Daniel-Mietchen/datascience/blob/master/nih-strategic-plan.md)
