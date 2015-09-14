@@ -1,7 +1,15 @@
 On September 14, 2015 in Berne, the [Swiss National Science Foundation](http://www.snf.ch/) are organizing a workshop on Open Data in Science, to which this document is a contribution.
 
-#Hashtag suggestion
+# Hashtag suggestion
 [#opensnsf](https://twitter.com/search?q=%23opensnsf)
+
+# Comments on previous talks
+* Solutions to [collective action problems](https://en.wikipedia.org/wiki/Collective_action#Collective_action_problem) often involve both top-down and bottom-up efforts ![Dagen H](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kungsgatan_1967.jpg/640px-Kungsgatan_1967.jpg) 
+  * example: [Dagen H](https://en.wikipedia.org/wiki/Dagen_H)
+  * clear role for funders
+    * glad that the SNSF are taking initiative here.
+  * [Collective action: fifty years later](http://dx.doi.org/10.1007/s11127-015-0252-0)
+* [EU Consultation](http://ec.europa.eu/research/consultations/science-2.0/consultation_en.htm): not just a *renaming* from 'Science 2.0' to 'Open Science' but hopefully a shift in focus towards as well, rather than open washing
 
 # Title
 A vision for Open Data at NIH
@@ -11,10 +19,6 @@ A vision for Open Data at NIH
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/)/ [Public Domain](https://creativecommons.org/licenses/publicdomain/); all kinds of sharing and feedback welcome; attribution appreciated
 
 # Background
-
-* Solutions to [collective action problems](https://en.wikipedia.org/wiki/Collective_action#Collective_action_problem) often involve both top-down and bottom-up efforts ![Dagen H](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kungsgatan_1967.jpg/640px-Kungsgatan_1967.jpg) 
-* (example: [Dagen H](https://en.wikipedia.org/wiki/Dagen_H)); glad that the SNSF are taking initiative here.
-* [Collective action: fifty years later](http://dx.doi.org/10.1007/s11127-015-0252-0)
 
 ## What is NIH?
 * [National Institutes of Health](http://nih.gov) in Bethesda, Maryland, USA
