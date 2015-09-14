@@ -54,15 +54,15 @@ A vision for Open Data at NIH
    * supported by dedicated infrastructure, in particular [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/)
    * [FAQ](http://publicaccess.nih.gov/FAQ.htm)
 * [NIH Data Sharing Policy](http://grants.nih.gov/grants/policy/data_sharing/)
-   * [NIH Model Organism Sharing Policy](http://grants.nih.gov/grants/policy/model_organism/)
+   * [NIH Model Organism Sharing Policy](http://grants.nih.gov/grants/policy/model_organism/) (cf. Sabina Leonelli's talk) 
    * [NIH Genomic Data Sharing Policy](https://gds.nih.gov/03policy2.html)
    * [Policy for Sharing of Data Obtained in NIH Supported or Conducted Genome-Wide Association Studies (GWAS)](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-07-088.html)
    * [The Cloud, dbGaP and the NIH](https://datascience.nih.gov/blog/cloud)
    * [Sex as a Biological Variable](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-102.html)
-   * [Enhancing Reproducibility through Rigor and Transparency](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-103.html)
+   * [Enhancing Reproducibility through Rigor and Transparency](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-103.html) ( (cf. Daniël Lakens' talk)
 * [A vision for open data at NIH](http://www.slideshare.net/pebourne/the-vision-for-data-the-nih/27)
   * [The Commons](https://datascience.nih.gov/commons)
-  * [Data citation](http://www.ncbi.nlm.nih.gov/books/NBK280240/)
+  * [Data citation](http://www.ncbi.nlm.nih.gov/books/NBK280240/) (cf. Robert Terry's talk)
   * [Data discoverability](https://biocaddie.org/)
   * also for software and other research outputs
 * [intramural/ extramural](http://www.niaid.nih.gov/researchfunding/qa/pages/extraintra.aspx#difference)
@@ -74,9 +74,9 @@ A vision for Open Data at NIH
    * "lead efforts to support and catalyze open science, data sharing, and research reproducibility, striving to promote the concept that biomedical information and its transparent analysis are public"
    * and, in particular, "lead efforts to promulgate and implement best practices in open source, open science, standards, and data harmonization, forming partnerships across communities, stakeholder organizations, agencies, and countries" as well as "be an active participant in the design and oversight of programs that incentivize and celebrate the open sharing of data and resources."
 
-
 # Outlook
 * [Rise of the citizen scientist](http://dx.doi.org/10.1038/524265a)
+  * [Wikipedia Emerges as Trusted Internet Source for Ebola Information](http://www.nytimes.com/2014/10/27/business/media/wikipedia-is-emerging-as-trusted-internet-source-for-information-on-ebola-.html) (cf. Robert Terry's talk)
 * [Patient-led innovation](https://patient-innovation.com/)
 * [Patient peer review](http://news.sciencemag.org/health/2014/12/rise-patient-peer-review)
 * [E-consent](http://sagebase.org/e-consent/)
