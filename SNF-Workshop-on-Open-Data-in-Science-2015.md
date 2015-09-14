@@ -61,6 +61,7 @@ A vision for Open Data at NIH
   * [Data citation](http://www.ncbi.nlm.nih.gov/books/NBK280240/)
   * [Data discoverability](https://biocaddie.org/)
   * also for software and other research outputs
+* intramural/ extramural
 
 ## At [NIH Institutes and Centers](http://www.nih.gov/icd/)
 * 27 of them, e.g. the National Library of Medicine (NLM)
