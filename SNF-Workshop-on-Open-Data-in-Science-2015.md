@@ -99,9 +99,11 @@ A vision for Open Data at NIH
 
 # Suggestions for SNF's upcoming open data policy
 * interpret the term *data* broadly
+* go for immediate sharing as the default
+  * don't allow for embargoes but for exceptions
+    * require public justification (i.e. open data) about these exceptions
 * make it machine readable
 * put it under an open license
-* if you allow for exceptions, keep a public record
 
 # See also 
 * [Rethinking open research policies](https://github.com/Daniel-Mietchen/talks/blob/master/Creative-Commons-Summit-2015.md)
