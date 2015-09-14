@@ -1,7 +1,7 @@
 On September 14, 2015 in Berne, the [Swiss National Science Foundation](http://www.snf.ch/) are organizing a workshop on Open Data in Science, to which this document is a contribution.
 
 #Hashtag suggestion
-[https://twitter.com/search?q=%23opensnsf #opensnsf]
+[#opensnsf](https://twitter.com/search?q=%23opensnsf)
 
 # Title
 A vision for Open Data at NIH
