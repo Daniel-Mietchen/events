@@ -18,7 +18,13 @@ A vision for Open Data at NIH
 
 # Sharing policies relevant to NIH
 
-## At the Federal level
+## At the international level
+* cross-disciplinary, e.g.
+  * [Bethesda Statement on Open Access Publishing](http://legacy.earlham.edu/~peters/fos/bethesda.htm)
+* field-specific, e.g. 
+  * [Bermuda principles](http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002751.htm) for human genome sequencing
+
+## At the U.S. Federal level
 * Policy memorandum by John Holdren, Director of the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp), ["direct[ing] Federal agencies with more than $100M in R&D expenditures to develop plans to make the results of federally funded research freely available to the public"](https://www.whitehouse.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research). (Feb 2013)
   * [SPARC overview of responses](http://www.sparc.arl.org/advocacy/national/directive) (regularly updated)
     * Apart from NIH, three agencies so far (AHRQ, NASA, NIST) opted for an approach based on PubMed Central for handling the literature part
