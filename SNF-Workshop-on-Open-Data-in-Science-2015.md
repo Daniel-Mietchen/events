@@ -70,5 +70,4 @@ A vision for Open Data at NIH
 # See also 
 * [Rethinking open research policies](https://github.com/Daniel-Mietchen/talks/blob/master/Creative-Commons-Summit-2015.md)
 * [Comments on NIH Strategic Plan](https://github.com/Daniel-Mietchen/datascience/blob/master/nih-strategic-plan.md)
-
-# My lab notes
+* [My lab notes](https://github.com/Daniel-Mietchen/datascience)
