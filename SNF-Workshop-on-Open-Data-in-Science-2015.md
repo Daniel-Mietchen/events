@@ -12,6 +12,8 @@ A vision for Open Data at NIH
 
 # Background
 
+* Solutions to [collective action problems](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) (example: [Dagen H](https://en.wikipedia.org/wiki/Dagen_H)) often involve both top-down and bottom-up efforts; glad that the SNSF are taking initiative here.
+
 ## What is NIH?
 * [National Institutes of Health](http://nih.gov) in Bethesda, Maryland, USA
 * a Federal Agency within the [Department of Health and Human Services](http://www.hhs.gov/) (HHS)
