@@ -56,12 +56,21 @@ A vision for Open Data at NIH
   * [Data discoverability](https://biocaddie.org/)
   * also for software and other research outputs
 
-# Outlook
+## At [NIH Institutes and Centers](http://www.nih.gov/icd/)
+* 27 of them, e.g. the National Library of Medicine (NLM)
 * The [report on the strategic vision for the National Library of Medicine](http://acd.od.nih.gov/reports/Report-NLM-06112015-ACD.pdf) recommends that NLM should
    * "be a leader and innovator in open science efforts worldwide"
    * "lead efforts to support and catalyze open science, data sharing, and research reproducibility, striving to promote the concept that biomedical information and its transparent analysis are public"
    * and, in particular, "lead efforts to promulgate and implement best practices in open source, open science, standards, and data harmonization, forming partnerships across communities, stakeholder organizations, agencies, and countries" as well as "be an active participant in the design and oversight of programs that incentivize and celebrate the open sharing of data and resources."
+
+
+# Outlook
+* [Rise of the citizen scientist](http://dx.doi.org/10.1038/524265a)
+* [Patient-led innovation](https://patient-innovation.com/)
+* [Patient peer review](http://news.sciencemag.org/health/2014/12/rise-patient-peer-review)
+* [E-consent](http://sagebase.org/e-consent/)
 * [Patient data sharing demo](https://zenodo.org/collection/user-patient-data?ln=en)
+* [NIH databases on Wikidata](https://www.wikidata.org/wiki/Template:NIH_properties)
 * What about funders leading the research community by example in terms of being more open in the way they work?
    * Open data from funders might help research *about* research funding.
 * public and machine readable [data management plans](https://github.com/Daniel-Mietchen/datascience/blob/master/data-management-plans.md)
