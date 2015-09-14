@@ -45,7 +45,7 @@ A vision for Open Data at NIH
 * [Public Access](http://www.hhs.gov/open/publicaccess/index.html)
    * ["By ensuring that all publicly released research data is provided in open, machine-readable formats that can easily be accessed for computational analysis and machine-learning, it is our hope that we can help realize the promise of ‘big data’ in medicine and healthcare."](http://www.hhs.gov/idealab/2015/02/27/hhs-expands-approach-making-research-results-freely-available-public/) 
 * [Common Rule](http://www.hhs.gov/ohrp/humansubjects/commonrule/)
-   * [US agencies plan research-ethics overhaul](http://dx.doi.org/doi:10.1038/nature.2015.18309)
+   * [US agencies plan research-ethics overhaul](http://dx.doi.org/doi:10.1038/nature.2015.18309) (cf. Robert Terry's talk)
      * [advanced notice of proposed rulemaking](http://www.hhs.gov/ohrp/humansubjects/anprmchangetable.html)
      * [detailed commentary](http://www.mwe.com/HHS-Releases-Highly-Anticipated-Proposal-to-Modernize-US-Human-Subjects-Research-Protections-09-08-2015/)
 
@@ -59,7 +59,7 @@ A vision for Open Data at NIH
    * [Policy for Sharing of Data Obtained in NIH Supported or Conducted Genome-Wide Association Studies (GWAS)](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-07-088.html)
    * [The Cloud, dbGaP and the NIH](https://datascience.nih.gov/blog/cloud)
    * [Sex as a Biological Variable](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-102.html)
-   * [Enhancing Reproducibility through Rigor and Transparency](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-103.html) ( (cf. Daniël Lakens' talk)
+   * [Enhancing Reproducibility through Rigor and Transparency](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-103.html) (cf. Daniël Lakens' talk)
 * [A vision for open data at NIH](http://www.slideshare.net/pebourne/the-vision-for-data-the-nih/27)
   * [The Commons](https://datascience.nih.gov/commons)
   * [Data citation](http://www.ncbi.nlm.nih.gov/books/NBK280240/) (cf. Robert Terry's talk)
@@ -76,12 +76,14 @@ A vision for Open Data at NIH
 
 # Outlook
 * [Rise of the citizen scientist](http://dx.doi.org/10.1038/524265a)
+  * [NIH databases on Wikidata](https://www.wikidata.org/wiki/Template:NIH_properties)
   * [Wikipedia Emerges as Trusted Internet Source for Ebola Information](http://www.nytimes.com/2014/10/27/business/media/wikipedia-is-emerging-as-trusted-internet-source-for-information-on-ebola-.html) (cf. Robert Terry's talk)
 * [Patient-led innovation](https://patient-innovation.com/)
 * [Patient peer review](http://news.sciencemag.org/health/2014/12/rise-patient-peer-review)
 * [E-consent](http://sagebase.org/e-consent/)
 * [Patient data sharing demo](https://zenodo.org/collection/user-patient-data?ln=en)
-* [NIH databases on Wikidata](https://www.wikidata.org/wiki/Template:NIH_properties)
+* [Open responses to emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md) (cf. Robert Terry's talk)
+  * What about using [preprints](http://www.theguardian.com/science/occams-corner/2015/sep/07/peer-review-preprints-speed-science-journals), or thinking of "reviewables" rather than "publications"?
 * What about funders leading the research community by example in terms of being more open in the way they work?
    * Open data from funders might help research *about* research funding.
 * public and machine readable [data management plans](https://github.com/Daniel-Mietchen/datascience/blob/master/data-management-plans.md)
