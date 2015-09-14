@@ -50,9 +50,12 @@ A vision for Open Data at NIH
    * [Sex as a Biological Variable](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-102.html)
    * [Enhancing Reproducibility through Rigor and Transparency](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-103.html)
 * [A vision for open data at NIH](http://www.slideshare.net/pebourne/the-vision-for-data-the-nih/27)
+  * [The Commons](https://datascience.nih.gov/commons)
+  * [Data citation](http://www.ncbi.nlm.nih.gov/books/NBK280240/)
+  * [Data discoverability](https://biocaddie.org/)
+  * also for software and other research outputs
 
 # Outlook
-* [The Commons](https://datascience.nih.gov/commons)
 * The [report on the strategic vision for the National Library of Medicine](http://acd.od.nih.gov/reports/Report-NLM-06112015-ACD.pdf) recommends that NLM should
    * "be a leader and innovator in open science efforts worldwide"
    * "lead efforts to support and catalyze open science, data sharing, and research reproducibility, striving to promote the concept that biomedical information and its transparent analysis are public"
