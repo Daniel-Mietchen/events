@@ -11,10 +11,13 @@ A vision for Open Data at NIH
 
 ## What is NIH?
 * [National Institutes of Health](http://nih.gov) in Bethesda, Maryland, USA
-* a Federal Agency within the Department of Health and Human Services
+* a Federal Agency within the [Department of Health and Human Services](http://www.hhs.gov/) (HHS)
 * the world's largest biomedical research agency
 * [NIH Mission](http://www.nih.gov/about/mission.htm)
-* the [data science team](http://datascience.nih.gov/) (ADDS office)
+
+## [Associate Director for Data Science (ADDS)](https://datascience.nih.gov/adds)
+* "provide input to the overall NIH vision and actions undertaken by each of the 27 Institutes and Centers in support of biomedical research as a digital enterprise"
+* [ADDS website](http://datascience.nih.gov/)
 
 # Sharing policies relevant to NIH
 
