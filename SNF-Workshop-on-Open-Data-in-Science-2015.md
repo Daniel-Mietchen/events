@@ -20,8 +20,19 @@ A vision for Open Data at NIH
    * [FAQ](http://publicaccess.nih.gov/FAQ.htm)
 * Policy memorandum by John Holdren, Director of the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp), ["direct[ing] Federal agencies with more than $100M in R&D expenditures to develop plans to make the results of federally funded research freely available to the public"](https://www.whitehouse.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research). (Feb 2013)
 * Executive Order by President Obama: [Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013)
+* Personalized Medicine Initiative
+   * report of Working Group to be presented on Sep 17
 * Congress bills 
 * Blue button
+* 508
+
+## At the HHS level
+* [Public Access](http://www.hhs.gov/open/publicaccess/index.html)
+   * ["By ensuring that all publicly released research data is provided in open, machine-readable formats that can easily be accessed for computational analysis and machine-learning, it is our hope that we can help realize the promise of ‘big data’ in medicine and healthcare."](http://www.hhs.gov/idealab/2015/02/27/hhs-expands-approach-making-research-results-freely-available-public/) 
+* [Common Rule](http://www.hhs.gov/ohrp/humansubjects/commonrule/)
+   * [US agencies plan research-ethics overhaul](http://dx.doi.org/doi:10.1038/nature.2015.18309)
+     * [advanced notice of proposed rulemaking](http://www.hhs.gov/ohrp/humansubjects/anprmchangetable.html)
+     * [detailed commentary](http://www.mwe.com/HHS-Releases-Highly-Anticipated-Proposal-to-Modernize-US-Human-Subjects-Research-Protections-09-08-2015/)
 
 ## At the NIH level
 * [NIH Data Sharing Policy](http://grants.nih.gov/grants/policy/data_sharing/)
@@ -35,8 +46,10 @@ A vision for Open Data at NIH
 * Public Access policies of other Federal agencies are being developed. Many of them explicitly build on the NIH experience with PubMed Central. They also refer to a "research data Commons".
 * The Commons
 * Future of NLM; recommendation for it to become a world leader in open science
-* public and machine readable data management plans
 * What about funders leading the research community by example in terms of being more open in the way they work?
+   * Open data from funders might help research *about* research funding.
+* public and machine readable data management plans
+* [What would happen if grant reviews were made public?](http://dx.doi.org/10.1038/517247f)
 
 # See also 
 * [Public access policies](https://github.com/Daniel-Mietchen/datascience/blob/master/public-access-policies.md)
