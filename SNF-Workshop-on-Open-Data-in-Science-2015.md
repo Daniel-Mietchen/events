@@ -105,6 +105,9 @@ A vision for Open Data at NIH
 * make it machine readable
 * put it under an open license
 
+# Questions?
+* [https://twitter.com/EvoMRI @EvoMRI]
+
 # See also 
 * [Rethinking open research policies](https://github.com/Daniel-Mietchen/talks/blob/master/Creative-Commons-Summit-2015.md)
 * [Comments on NIH Strategic Plan](https://github.com/Daniel-Mietchen/datascience/blob/master/nih-strategic-plan.md)
