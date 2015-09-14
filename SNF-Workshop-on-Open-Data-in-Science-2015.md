@@ -2,7 +2,7 @@ On September 14, 2015 in Berne, the [Swiss National Science Foundation](http://w
 
 # Title
 A vision for Open Data at NIH
-* inspired by [A vision for data at NIH](http://www.slideshare.net/pebourne/the-vision-for-data-the-nih/27)
+* inspired by [The Vision for Data @ the NIH ](http://www.slideshare.net/pebourne/the-vision-for-data-the-nih)
 
 # License
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/)/ [Public Domain](https://creativecommons.org/licenses/publicdomain/); all kinds of sharing and feedback welcome; attribution appreciated
