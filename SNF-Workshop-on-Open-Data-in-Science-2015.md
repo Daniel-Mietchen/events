@@ -6,7 +6,7 @@ On September 14, 2015 in Berne, the [Swiss National Science Foundation](http://w
 # Comments on previous talks
 * Solutions to [collective action problems](https://en.wikipedia.org/wiki/Collective_action#Collective_action_problem) often involve both top-down and bottom-up efforts ![Dagen H](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kungsgatan_1967.jpg/640px-Kungsgatan_1967.jpg) 
   * example: [Dagen H](https://en.wikipedia.org/wiki/Dagen_H)
-    * image: Jan Collsiöö, Public Domain
+    * [image: Jan Collsiöö, Public Domain](https://commons.wikimedia.org/wiki/File:Kungsgatan_1967.jpg)
   * clear role for funders
     * glad that the SNSF are taking initiative here.
   * [Collective action: fifty years later](http://dx.doi.org/10.1007/s11127-015-0252-0)
