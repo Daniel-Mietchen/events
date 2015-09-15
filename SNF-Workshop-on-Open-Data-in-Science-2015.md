@@ -11,7 +11,7 @@ On September 14, 2015 in Berne, the [Swiss National Science Foundation](http://w
     * glad that the SNSF are taking initiative here.
   * [Collective action: fifty years later](http://dx.doi.org/10.1007/s11127-015-0252-0)
 * [EU Consultation](http://ec.europa.eu/research/consultations/science-2.0/consultation_en.htm): not just a *renaming* from 'Science 2.0' to 'Open Science' but hopefully a shift in focus towards as well, rather than open washing
-* Integrate sharing within research and beyond ![Open Data stickers](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Open_Data_stickers.jpg/640px-Open_Data_stickers.jpg) 
+* Integrate sharing within research and beyond (cf. Paul Ayers' talk) ![Open Data stickers](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Open_Data_stickers.jpg/640px-Open_Data_stickers.jpg) 
   * [image: Jonathan Gray, Public Domain](https://commons.wikimedia.org/wiki/File:Open_Data_stickers.jpg)
 
 # Title
@@ -101,6 +101,7 @@ A vision for Open Data at NIH
 * What about funders leading the research community by example in terms of being more open in the way they work?
    * Open data from funders might help research *about* research funding.
 * public and machine readable [data management plans](https://github.com/Daniel-Mietchen/datascience/blob/master/data-management-plans.md)
+  * could serve as a discovery tool
   * might help with the compliance element too
     * [OA Compliance Checking for Wellcome Trust](https://github.com/CottageLabs/oacwellcome)
 * [What would happen if grant reviews were made public?](http://dx.doi.org/10.1038/517247f)
@@ -110,8 +111,8 @@ A vision for Open Data at NIH
     * [via Hypothesis](http://hypothes.is/stream)
     * [via Wikimedia](http://events.labs.crossref.org/events/types/WikipediaCitation/live)
  * Content mining
-   * [ContentMine](http://contentmine.org/)
-    * [Open Access Media Importer](https://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot)
+   * [ContentMine](http://contentmine.org/) (cf. Martin Vetterli's introduction)
+    * [Open Access Media Importer](https://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) (cf. Michael Rieser's talk)
     * [Suggestbot](https://en.wikipedia.org/wiki/User_talk:Daniel_Mietchen/SuggestBot#Articles_you_might_like_to_edit.2C_from_SuggestBot_41)
   * [Data-driven journalism](https://github.com/Daniel-Mietchen/datascience/blob/master/data-driven-journalism.md)
 
