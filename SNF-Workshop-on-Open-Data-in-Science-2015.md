@@ -11,7 +11,7 @@ On September 14, 2015 in Berne, the [Swiss National Science Foundation](http://w
     * glad that the SNSF are taking initiative here.
   * [Collective action: fifty years later](http://dx.doi.org/10.1007/s11127-015-0252-0)
 * [EU Consultation](http://ec.europa.eu/research/consultations/science-2.0/consultation_en.htm): not just a *renaming* from 'Science 2.0' to 'Open Science' but hopefully a shift in focus towards as well, rather than open washing
-* Integrate sharing within research and beyond (cf. Paul Ayers' talk) ![Open Data stickers](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Open_Data_stickers.jpg/640px-Open_Data_stickers.jpg) 
+* Integrate sharing within research and beyond (cf. Paul Ayris' talk) ![Open Data stickers](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Open_Data_stickers.jpg/640px-Open_Data_stickers.jpg) 
   * [image: Jonathan Gray, Public Domain](https://commons.wikimedia.org/wiki/File:Open_Data_stickers.jpg)
 
 # Title
