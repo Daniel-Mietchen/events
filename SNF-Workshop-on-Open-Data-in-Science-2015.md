@@ -52,6 +52,7 @@ A vision for Open Data at NIH
 * Executive Order by President Obama: [Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013)
 * [Personalized Medicine Initiative](https://www.whitehouse.gov/precision-medicine#section-the-initiative)
    * *Precision Medicine Initiative (PMI) Working Group [Report](http://acd.od.nih.gov/pmi.htm) to the Advisory Committee to the Director, NIH* to be published this week
+     * UPDATE: [report has been published](http://www.nih.gov/precisionmedicine/working-group.htm)
 * [Blue button](http://bluebuttonconnector.healthit.gov/)
 * [Rehabilitation Act, Section 508](http://www.section508.gov/)
 
