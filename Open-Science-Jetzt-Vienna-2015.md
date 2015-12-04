@@ -138,6 +138,7 @@ Open research, peer review and the role of funders
 * [Want a grant? First review someone else's proposal](http://news.sciencemag.org/policy/2014/07/want-grant-first-review-someone-elses-proposal)
 * [What would happen if grant reviews were made public?](http://dx.doi.org/10.1038/517247f)
 * [A new journal wants to publish your research ideas](http://news.sciencemag.org/scientific-community/2015/09/new-journal-wants-publish-your-research-ideas)
+* [Annotating the scholarly web](http://dx.doi.org/10.1038/528153a)
 * [more notes on open research funding](https://github.com/Daniel-Mietchen/datascience/blob/master/open-research-funding.md)
 * [Rise of the citizen scientist](http://dx.doi.org/10.1038/524265a)
   * [NIH databases on Wikidata](https://www.wikidata.org/wiki/Template:NIH_properties)
