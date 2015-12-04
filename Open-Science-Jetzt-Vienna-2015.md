@@ -12,7 +12,7 @@ Open research, peer review and the role of funders
 # Introduction
 ## What is Open research?
 * [Video introduction](https://www.youtube.com/watch?v=LwW1-X3glak)
-	 * **scientists __sharing__ their __research__ with the world as soon as they __record__ it for themselves**
+	 * *scientists __sharing__ their __research__ with the world as soon as they __record__ it for themselves*
 
 ## What means open in this context?
 * [Open Definition](http://opendefinition.org/)
