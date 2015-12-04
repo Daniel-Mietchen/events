@@ -1,4 +1,4 @@
-This document provides the basis for a talk at the University of Vienna on December 3, 2015, which is a contribution to a lecture series on Open Science that they are organizing.
+This document provides the basis for a talk at the University of Vienna on December 3, 2015, which is a contribution to the [kickoff event](http://www.wtz-ost.at/veranstaltungen/open-science-jetzt/) of the Open Science Lecture Series that they are organizing.
 
 # Hashtag suggestion
 [#openscience](https://twitter.com/search?q=%23openscience)
