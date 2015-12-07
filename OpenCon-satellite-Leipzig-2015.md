@@ -164,6 +164,7 @@ Open research, peer review and the role of funders
 
 # See also 
 * A [similar talk](https://github.com/Daniel-Mietchen/talks/edit/master/SNF-Workshop-on-Open-Data-in-Science-2015.md) given at the [Swiss National Science Foundation](http://www.snf.ch/) in September
+* An even [more similar talk](https://github.com/Daniel-Mietchen/talks/blob/master/Open-Science-Jetzt-Vienna-2015.md) given at the Open Science Lecture Series in Vienna in December
 * [The Vision for Data @ the NIH](http://www.slideshare.net/pebourne/the-vision-for-data-the-nih)
 * [Rethinking open research policies](https://github.com/Daniel-Mietchen/talks/blob/master/Creative-Commons-Summit-2015.md)
 * [Comments on NIH Strategic Plan](https://github.com/Daniel-Mietchen/datascience/blob/master/nih-strategic-plan.md)
