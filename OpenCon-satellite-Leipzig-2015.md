@@ -159,6 +159,17 @@ Open research, peer review and the role of funders
     * [Suggestbot](https://en.wikipedia.org/wiki/User_talk:Daniel_Mietchen/SuggestBot#Articles_you_might_like_to_edit.2C_from_SuggestBot_41)
   * [Data-driven journalism](https://github.com/Daniel-Mietchen/datascience/blob/master/data-driven-journalism.md)
 
+# Open Science Prize
+* Joint initiative between NIH, the [Wellcome Trust](http://www.wellcome.ac.uk/) and [Howard Hughes Medical Institute](https://www.hhmi.org/)
+* [Homepage](https://www.openscienceprize.org/)
+* Hashtag: [#openscienceprize](https://twitter.com/search?q=%23openscienceprize)
+* Key aspects:
+	 * support technical infrastructure around scientific data
+	 * promote open science
+	 * support international collaboration
+	 * thematic focus on biomedicine
+* [Webinar after the break](https://capitalconsultingcorp.webex.com/mw3000/mywebex/default.do?nomenu=true&siteurl=capitalconsultingcorp&service=6&rnd=0.2707969528534576&main_url=https%3A%2F%2Fcapitalconsultingcorp.webex.com%2Fec3000%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26confViewID%3D4219976312%26%26%26encryptTicket%3DSDJTSwAAAAKejTSxn3bWO81Gn7c5SrfAXFuaWS21OiiWQH0OosDw-g2%26%26siteurl%3Dcapitalconsultingcorp)
+
 # Questions?
 * [@EvoMRI](https://twitter.com/EvoMRI)
 
