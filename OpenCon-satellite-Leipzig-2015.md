@@ -14,6 +14,10 @@ Open research, peer review and the role of funders
 * [Video introduction](https://www.youtube.com/watch?v=LwW1-X3glak)
 	 * *scientists __sharing__ their __research__ with the world as soon as they __record__ it for themselves*
 
+## Why Open research?
+* [dedicated website](http://whyopenresearch.org/)
+	 * [source code](https://github.com/emckiernan/whyopenresearch)
+
 ## What means open in this context?
 * [Open Definition](http://opendefinition.org/)
 * no limits to the kind of contexts (e.g. academic, non-commercial) in which the shared research can be reused and adapted
