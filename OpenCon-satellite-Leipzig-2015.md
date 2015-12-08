@@ -9,6 +9,10 @@ Open research, peer review and the role of funders
 # License
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/)/ [Public Domain](https://creativecommons.org/licenses/publicdomain/); all kinds of sharing and feedback welcome; attribution appreciated
 
+# Some quotes
+* ["If data is food for science, code is the gut."](https://twitter.com/heidiklaine/status/672040928719302656) (Jari Oksanen)
+* ["#SDGs will be achieved by smart societies, #opendata the means to build smart societies."](https://twitter.com/UNDPSerbia/status/674152685654904836) (Oleg Petrov of @WorldBank)
+
 # Introduction
 ## What is Open research?
 * [Video introduction](https://www.youtube.com/watch?v=LwW1-X3glak)
