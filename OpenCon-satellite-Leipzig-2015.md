@@ -14,9 +14,6 @@ Open research, peer review and the role of funders
 * [Video introduction](https://www.youtube.com/watch?v=LwW1-X3glak)
 	 * *scientists __sharing__ their __research__ with the world as soon as they __record__ it for themselves*
 
-## Why Open research?
-* [dedicated website](http://whyopenresearch.org/)
-	 * [source code](https://github.com/emckiernan/whyopenresearch)
 
 ## What means open in this context?
 * [Open Definition](http://opendefinition.org/)
@@ -184,3 +181,4 @@ Open research, peer review and the role of funders
 * [Rethinking open research policies](https://github.com/Daniel-Mietchen/talks/blob/master/Creative-Commons-Summit-2015.md)
 * [Comments on NIH Strategic Plan](https://github.com/Daniel-Mietchen/datascience/blob/master/nih-strategic-plan.md)
 * [My lab notes](https://github.com/Daniel-Mietchen/datascience)
+* [Why Open research?](http://whyopenresearch.org/) (currently focused on open access to final results)
