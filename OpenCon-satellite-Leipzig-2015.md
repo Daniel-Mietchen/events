@@ -30,7 +30,7 @@ Open research, peer review and the role of funders
 
 ## Kai Geschuhn
 * [Berlin 12 conference](http://openaccess.mpg.de/2128132/Berlin12)
-* [Open APC](https://github.com/Daniel-Mietchen/talks/blob/master/OpenCon-satellite-Leipzig-2015.md)
+* [Open APC](https://github.com/OpenAPC)
 * [MPDL institutional agreements](https://www.mpdl.mpg.de/en/21-specials/50-oa-goldpublishing.html)
 
 ## Jimmy Wales
