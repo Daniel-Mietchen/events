@@ -20,6 +20,8 @@ Open research, peer review and the role of funders
 * [DOI event tracker](http://blog.crossref.org/2015/09/det-poised-for-launch.html)
 	 * [Wikipedia example](http://wikipedia.labs.crossref.org/)
 * [importing OA materials into Wikimedia platforms](https://github.com/wpoa/OA-signalling/issues/113)
+## Mike Eisen
+* [E-Biomed: A Proposal for Electronic Publications in the Biomedical Sciences (Draft and Addendum)](https://profiles.nlm.nih.gov/ps/retrieve/ResourceMetadata/MVBBWN)
 
 # Introduction
 ## What is Open research?
