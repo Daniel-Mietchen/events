@@ -20,8 +20,20 @@ Open research, peer review and the role of funders
 * [DOI event tracker](http://blog.crossref.org/2015/09/det-poised-for-launch.html)
 	 * [Wikipedia example](http://wikipedia.labs.crossref.org/)
 * [importing OA materials into Wikimedia platforms](https://github.com/wpoa/OA-signalling/issues/113)
+* Example for pre-publication peer review via preprints and blogs: Can parametric statistical methods be trusted for fMRI based group studies?
+	 * [arXive post](http://arxiv.org/abs/1511.01863v1)
+	 * [blog commentary](http://blogs.discovermagazine.com/neuroskeptic/2015/12/07/false-positive-fmri-revisited/#.Vml2YMrSir-)
+
 ## Mike Eisen
 * [E-Biomed: A Proposal for Electronic Publications in the Biomedical Sciences (Draft and Addendum)](https://profiles.nlm.nih.gov/ps/retrieve/ResourceMetadata/MVBBWN)
+
+## Kai Geschuhn
+* [Berlin 12 conference](http://openaccess.mpg.de/2128132/Berlin12)
+* [Open APC](https://github.com/Daniel-Mietchen/talks/blob/master/OpenCon-satellite-Leipzig-2015.md)
+* [MPDL institutional agreements](https://www.mpdl.mpg.de/en/21-specials/50-oa-goldpublishing.html)
+
+## Jimmy Wales
+* [Wikimedia and scholarly publishing](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015)
 
 # Introduction
 ## What is Open research?
