@@ -26,6 +26,7 @@ Open research, peer review and the role of funders
 
 ## Mike Eisen
 * [E-Biomed: A Proposal for Electronic Publications in the Biomedical Sciences (Draft and Addendum)](https://profiles.nlm.nih.gov/ps/retrieve/ResourceMetadata/MVBBWN)
+* [Æthelred the Unready](https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready)
 
 ## Kai Geschuhn
 * [Berlin 12 conference](http://openaccess.mpg.de/2128132/Berlin12)
@@ -36,6 +37,7 @@ Open research, peer review and the role of funders
 * [Wikimedia and scholarly publishing](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015)
 * [Wikipedia Zero](https://www.youtube.com/watch?v=ZaZf6h0Pus8)
 * [that video by school kids from South Africa](https://www.youtube.com/watch?v=0nTVAmstteM)
+* [Amplifying the Impact of Open Access: Wikipedia and the Diffusion of Science](http://arxiv.org/abs/1506.07608)
 
 # Introduction
 ## What is Open research?
