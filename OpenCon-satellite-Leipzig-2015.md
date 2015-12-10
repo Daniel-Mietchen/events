@@ -203,6 +203,7 @@ Open research, peer review and the role of funders
 
 # Questions?
 * [@EvoMRI](https://twitter.com/EvoMRI)
+* [Open Science Q & A](https://openscience.uni-bielefeld.de/)
 
 # See also 
 * A [similar talk](https://github.com/Daniel-Mietchen/talks/edit/master/SNF-Workshop-on-Open-Data-in-Science-2015.md) given at the [Swiss National Science Foundation](http://www.snf.ch/) in September
