@@ -15,11 +15,11 @@ Open research, peer review and the role of funders
 * [more quotes](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikimania_2012/FESIN_North_American_Mycoflora_Workshop/Quotes)
 
 # Comments on previous talks
-## Lambo
+## Lambert Heller
 * [Emergency responses](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
 * [DOI event tracker](http://blog.crossref.org/2015/09/det-poised-for-launch.html)
 	 * [Wikipedia example](http://wikipedia.labs.crossref.org/)
-
+* [importing OA materials into Wikimedia platforms](https://github.com/wpoa/OA-signalling/issues/113)
 
 # Introduction
 ## What is Open research?
