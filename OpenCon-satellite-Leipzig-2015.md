@@ -12,6 +12,10 @@ Open research, peer review and the role of funders
 # Some quotes
 * ["If data is food for science, code is the gut."](https://twitter.com/heidiklaine/status/672040928719302656) (Jari Oksanen)
 * ["#SDGs will be achieved by smart societies, #opendata the means to build smart societies."](https://twitter.com/UNDPSerbia/status/674152685654904836) (Oleg Petrov of @WorldBank)
+* [more quotes](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikimania_2012/FESIN_North_American_Mycoflora_Workshop/Quotes)
+
+# Comments on previous talks
+*[Emergency responses](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
 
 # Introduction
 ## What is Open research?
