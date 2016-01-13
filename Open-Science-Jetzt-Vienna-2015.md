@@ -1,4 +1,6 @@
-This document provides the basis for a talk at the University of Vienna on December 3, 2015, which is a contribution to the [kickoff event](http://www.wtz-ost.at/veranstaltungen/open-science-jetzt/) of the [Open Science Lecture Series](http://openscienceasap.org/education/courses/open-science-lecture-series-wtz-ost/) that they are organizing. The talk was given in German and has been [recorded](https://www.youtube.com/watch?v=oYKEW3rffgQ) &mdash; after a brief introduction by the organizers, it starts at around 7:15min and is followed by a panel session at around 58 min.
+This document provides the basis for a talk at the University of Vienna on December 3, 2015, which is a contribution to the [kickoff event](http://www.wtz-ost.at/veranstaltungen/open-science-jetzt/) of the [Open Science Lecture Series](http://openscienceasap.org/education/courses/open-science-lecture-series-wtz-ost/) that they are organizing. 
+
+The talk was given in German and has been [recorded](https://www.youtube.com/watch?v=oYKEW3rffgQ) &mdash; after a brief introduction by the organizers, it starts at around 7:15 min and is followed by a panel session at around 58 min.
 
 # Hashtag suggestion
 [#openscience](https://twitter.com/search?q=%23openscience)
