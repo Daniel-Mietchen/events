@@ -18,3 +18,18 @@ The time is ripe for the Wikimedia movement and our partners to identify the nec
 
 #Co-author
 [@DarTar](https://github.com/dartar)
+
+#Keywords
+references  
+sources  
+citations  
+bibliographic metadata  
+author disambiguation  
+altmetrics  
+Wikidata  
+Wikischolar  
+Wikicite  
+Librarybase  
+GLAMwiki
+
+
