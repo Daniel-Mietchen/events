@@ -1,3 +1,6 @@
+#About
+This is a submission ofr Wikimania 2016, co-authored with [@DarTar](https://github.com/dartar).
+
 #Title
 Citations needed for the sum of human knowledge
 
@@ -16,9 +19,6 @@ In this session, we will review the state of citations and source metadata in Wi
 
 The time is ripe for the Wikimedia movement and our partners to identify the necessary steps towards achieving this vision.
 
-#Co-author
-[@DarTar](https://github.com/dartar)
-
 #Keywords
 references  
 sources  
@@ -32,4 +32,8 @@ Wikicite
 Librarybase  
 GLAMwiki
 
+#Topics
+Technical  
+Projects  
+Research
 
