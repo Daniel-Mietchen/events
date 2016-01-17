@@ -2,7 +2,7 @@
 This is a submission for [Wikimania 2016](https://wikimania2016.wikimedia.org/wiki/Submissions), co-authored with [@DarTar](https://github.com/dartar).
 
 #Title
-Citations needed for the sum of human knowledge
+Citations needed for the sum of all human knowledge
 
 #Abstract
 The idea of a repository to store all citations and source metadata across Wikimedia projects has been proposed in different forms for the past 10 years. Wikipedia is one of the most popular entry points into the scientific literature and ranges among the top 5 referrers of scholarly citations. However, as of today, references and source metadata are still a second-class citizen in Wikimedia projects. 
