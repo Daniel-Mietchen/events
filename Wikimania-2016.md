@@ -1,5 +1,5 @@
 #About
-This is a submission for [Wikimania 2016](https://wikimania2016.wikimedia.org/wiki/Submissions), co-authored with [@DarTar](https://github.com/dartar).
+This is a submission for [Wikimania 2016](https://wikimania2016.wikimedia.org/wiki/Submissions), co-authored with [@DarTar](https://github.com/dartar). It was rejected on February 1, 2016.
 
 #Title
 Citations needed for the sum of all human knowledge
