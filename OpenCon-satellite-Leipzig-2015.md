@@ -1,4 +1,4 @@
-This document provides the basis for a talk at the [OpenCon 2015 satellite event](http://www.opencon2015.org/marinawinkler/opencon_2015_leipzig) at the [Max Planck Institute for Human Cognitive Brain Sciences](http://www.cbs.mpg.de/) in Leipzig on December 10, 2015. For a report on the meeting, see [here](http://janaklaus.com/on-fixing-science-the-open-way/).
+This document provides the basis for a talk at the [OpenCon 2015 satellite event](http://www.opencon2015.org/marinawinkler/opencon_2015_leipzig) at the [Max Planck Institute for Human Cognitive Brain Sciences](http://www.cbs.mpg.de/) in Leipzig on December 10, 2015. For a report on the meeting, see [here](http://janaklaus.com/fixing-science.html).
 
 # Hashtag
 [#opencon](https://twitter.com/search?q=%23opencon)
