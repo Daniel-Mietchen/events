@@ -1,5 +1,5 @@
 # About
-This file hosts an abstract (submission ID 342) for [SciDataCon 2016](http://www.scidatacon.org/2016/submit/) (to take place on 11-13 September, 2016, in Denver, U.S.), which was submitted on May 31. The abstract has been accepted on July 7, and the talk has been included in the session [The Data requirements and availability for decision makers (ID 93)](http://www.scidatacon.org/2016/sessions/).
+This file hosts an abstract (submission ID 342) for [SciDataCon 2016](http://www.scidatacon.org/2016/) (11-13 September, 2016, in Denver, U.S.), which was submitted on May 31. The abstract has been accepted on July 7, and the talk has been included in the session [The Data requirements and availability for decision makers (ID 93)](http://www.scidatacon.org/2016/sessions/).
 
 # Title 
 Data sharing in public health emergencies
@@ -35,3 +35,7 @@ I have changed the abstract slightly. Not sure yet what to write in terms of met
 > This submission will discuss use cases for sharing data during public health disasters. If this will be a lightening talk for Session 93, then this seems appropriate to the session as this talk will address data sharing requirements in emergency situations. The information needs to be more clearly and robustly presented.
 
 Yes, I will try to make it more clear and more robust, and I like lightning talks. On the other hand, I have enough material to fill the 10 min allocated to my part of the session.
+
+#See also
+
+* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/edit/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
