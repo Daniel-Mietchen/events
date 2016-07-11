@@ -26,6 +26,12 @@ The author works as a contractor for the National Institutes of Health, includin
 The following reviewer comments were transmitted to me. As I was on vacation at the time (and still am), I did not have time to incorporate them into the final submission. I will take care of that when back. In the meantime, I am including here a few quick responses to these comments.
 > The paper has delve into important topic of data sharing in public health. But the paper should also provide further explanation about some of the challenges that are identified and possible solutions for data sharing. If the solution is not available, at least explaining the problem and how it is affecting the targetted sector will be helpful.
 
+Yes, the talk will provide further detail. Will check how the session is going to be documented, and provide the information accordingly.
+
 > This paper discusses an important issue of data sharing in public health emergencies. The abstract, however, is not properly written, and there is no specific substance with regard to the approach or methodology taken in this paper.  This needs to be improved.
 
+I have changed the abstract slightly. Not sure yet what to write in terms of methodology &mdash; so far, it has been little more than just taking notes of relevant activities as I saw them flow by in the news or in the literature. One of the purposes of the talk would be to get in contact with others who actually do research on such topics (so far, I haven't, but I am interested).
+
 > This submission will discuss use cases for sharing data during public health disasters. If this will be a lightening talk for Session 93, then this seems appropriate to the session as this talk will address data sharing requirements in emergency situations. The information needs to be more clearly and robustly presented.
+
+Yes, I will try to make it more clear and more robust, and I like lightning talks. On the other hand, I have enough material to fill the 10 min allocated to my part of the session.
