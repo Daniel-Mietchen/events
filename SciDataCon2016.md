@@ -1,5 +1,5 @@
 # About
-This file hosts an abstract for [SciDataCon 2016](http://www.scidatacon.org/2016/submit/) (to take place on 11-13 September, 2016, in Denver, U.S.), which was submitted on May 31. The abstract has been accepted on July 7, and the talk has been included in the session [The Data requirements and availability for decision makers (ID 93)](http://www.scidatacon.org/2016/sessions/).
+This file hosts an abstract (submission ID 342) for [SciDataCon 2016](http://www.scidatacon.org/2016/submit/) (to take place on 11-13 September, 2016, in Denver, U.S.), which was submitted on May 31. The abstract has been accepted on July 7, and the talk has been included in the session [The Data requirements and availability for decision makers (ID 93)](http://www.scidatacon.org/2016/sessions/).
 
 # Title 
 Data sharing in public health emergencies
@@ -21,3 +21,11 @@ The talk itself will be given on the basis of https://github.com/Daniel-Mietchen
 
 # Competing Interests
 The author works as a contractor for the National Institutes of Health, including on issues around data sharing in public health emergencies.
+
+# Reviews
+The following reviewer comments were transmitted to me. As I was on vacation at the time (and still am), I did not have time to incorporate them into the final submission. I will take care of that when back. In the meantime, I am including here a few quick responses to these comments.
+> The paper has delve into important topic of data sharing in public health. But the paper should also provide further explanation about some of the challenges that are identified and possible solutions for data sharing. If the solution is not available, at least explaining the problem and how it is affecting the targetted sector will be helpful.
+
+> This paper discusses an important issue of data sharing in public health emergencies. The abstract, however, is not properly written, and there is no specific substance with regard to the approach or methodology taken in this paper.  This needs to be improved.
+
+> This submission will discuss use cases for sharing data during public health disasters. If this will be a lightening talk for Session 93, then this seems appropriate to the session as this talk will address data sharing requirements in emergency situations. The information needs to be more clearly and robustly presented.
