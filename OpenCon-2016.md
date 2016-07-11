@@ -18,7 +18,7 @@ This file hosts the free-text parts of my application for [OpenCon 2016](http://
 
 
 
-# For the events you checked, please explain how you participated and/or how you plan to participate.
+# For the events you checked [out of Open Access Week/ Open Education Week/ Open Data Day], please explain how you participated and/or how you plan to participate.
 
 > Maximum 600 characters (~100 words). 
 
