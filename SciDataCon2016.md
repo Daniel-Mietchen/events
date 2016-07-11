@@ -23,7 +23,7 @@ The talk itself will be given on the basis of https://github.com/Daniel-Mietchen
 The author works as a contractor for the National Institutes of Health, including on issues around data sharing in public health emergencies.
 
 # Reviews
-The following reviewer comments were transmitted to me. As I was on vacation at the time (and still am), I did not have time to incorporate them into the final submission. I will take care of that when back. In the meantime, I am including here a few quick responses to these comments.
+The following reviewer comments were transmitted to me. As I was on vacation at the time (and still am), I did not have time to incorporate them into the final conference paper (which was due on July 10, i.e. two months before the talk). I will take care of that when back. In the meantime, I am including here a few quick responses to these comments.
 > The paper has delve into important topic of data sharing in public health. But the paper should also provide further explanation about some of the challenges that are identified and possible solutions for data sharing. If the solution is not available, at least explaining the problem and how it is affecting the targetted sector will be helpful.
 
 Yes, the talk will provide further detail. Will check how the session is going to be documented, and provide the information accordingly.
