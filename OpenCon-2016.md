@@ -7,6 +7,8 @@ This file hosts the free-text parts of my application for [OpenCon 2016](http://
 
 An evolutionary biophysicist working on integrating research workflows with the Web, all along the research cycle.
 
+Often thinks about how the research ecosystem would look like if it had a public version history and open licensing by default, and what we have to do to get there.
+
 # Why are you interested in Open Access, Open Education and/or Open Data and how does it relate to your work? If you are already involved in these issues, tell us how.
 
 > Maximum 1600 characters (~250 words). There are many reasons why Open is important. This question is asking specifically why Open is important to *you*. Please use your own words to describe your perspective and experience. 
