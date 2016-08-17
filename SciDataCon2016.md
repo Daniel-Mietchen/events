@@ -38,4 +38,5 @@ Yes, I will try to make it more clear and more robust, and I like lightning talk
 
 #See also
 
+* [Make Data Sharing Routine to Prepare for Public Health Emergencies](http://dx.doi.org/10.1371/journal.pmed.1002109) &mdash; a paper on basically the same topic as this talk.
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/edit/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
