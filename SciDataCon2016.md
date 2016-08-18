@@ -23,10 +23,10 @@ The talk itself will be given on the basis of https://github.com/Daniel-Mietchen
 The author works as a contractor for the National Institutes of Health, including on issues around data sharing in public health emergencies.
 
 # Reviews
-The following reviewer comments were transmitted to me on July 3 in response to the original submission. As I was on vacation at the time, I did not have time to incorporate them into the final conference paper (which was due on July 10, i.e. two months before the talk). I will take care of that when back. In the meantime, I am including here a few quick responses to these comments.
+The following reviewer comments were transmitted to me on July 3 in response to the original submission. As I was on vacation at the time, I did not have time to incorporate them into the final conference paper (which was due on July 10, i.e. two months before the talk). I will take care of that in the coming weeks. In the meantime, I am including here a few quick responses to these comments.
 > The paper has delve into important topic of data sharing in public health. But the paper should also provide further explanation about some of the challenges that are identified and possible solutions for data sharing. If the solution is not available, at least explaining the problem and how it is affecting the targetted sector will be helpful.
 
-Yes, the talk will provide further detail. Will check how the session is going to be documented, and provide the information accordingly.
+Yes, the talk will provide further detail. Will check how the session is going to be documented, and provide the information accordingly. As it happens, a paper on a very related topic as this talk has since appeared ([Make Data Sharing Routine to Prepare for Public Health Emergencies](http://dx.doi.org/10.1371/journal.pmed.1002109)), which provides some of the details requested in this reviewer's comment.
 
 > This paper discusses an important issue of data sharing in public health emergencies. The abstract, however, is not properly written, and there is no specific substance with regard to the approach or methodology taken in this paper.  This needs to be improved.
 
@@ -38,5 +38,4 @@ Yes, I will try to make it more clear and more robust, and I like lightning talk
 
 #See also
 
-* [Make Data Sharing Routine to Prepare for Public Health Emergencies](http://dx.doi.org/10.1371/journal.pmed.1002109) &mdash; a paper on basically the same topic as this talk.
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/edit/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
