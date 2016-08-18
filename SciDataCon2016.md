@@ -15,9 +15,9 @@ The SciDataCon website states that “the most significant contemporary research
 
 With this contribution, I propose to present a range of contemporary research challenges related to major public health emergencies from around the globe and to highlight how the sharing or safeguarding of data and digital infrastructure affected the respective responses, particularly in ways that do not easily map to traditional disciplines.
 
-The underlying project is conducted by way of open notebook science that can be followed and contributed to via https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md .
+The underlying project is conducted by way of open notebook science that can be followed and contributed to via [https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md).
 
-The talk itself will be given on the basis of https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md , which will be continuously expanded until the event takes place, and possibly thereafter.
+The talk itself will be given on the basis of [https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md), which will be continuously expanded until the event takes place, and possibly thereafter.
 
 # Competing Interests
 The author works as a contractor for the National Institutes of Health, including on issues around data sharing in public health emergencies.
@@ -30,7 +30,7 @@ Yes, the talk will provide further detail. Will check how the session is going t
 
 > This paper discusses an important issue of data sharing in public health emergencies. The abstract, however, is not properly written, and there is no specific substance with regard to the approach or methodology taken in this paper.  This needs to be improved.
 
-I have changed the abstract slightly. Not sure yet what to write in terms of methodology &mdash; so far, it has been little more than just taking notes of relevant activities as I saw them flow by in the news or in the literature. One of the purposes of the talk would be to get in contact with others who actually do research on such topics (so far, I haven't, but I am interested).
+I have changed the abstract slightly. Not sure yet what to write in terms of methodology &mdash; so far, it has been little more than just [taking notes](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md) of relevant activities in the framework of the Zika response or as I saw them flow by in the news or in the literature. One of the purposes of the talk would be to get in contact with others who actually do research on such topics (so far, I haven't, but I am interested).
 
 > This submission will discuss use cases for sharing data during public health disasters. If this will be a lightening talk for Session 93, then this seems appropriate to the session as this talk will address data sharing requirements in emergency situations. The information needs to be more clearly and robustly presented.
 
