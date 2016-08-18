@@ -1,5 +1,5 @@
 # About
-This file hosts an abstract (submission ID 342) for [SciDataCon 2016](http://www.scidatacon.org/2016/) (11-13 September, 2016, in Denver, U.S.), which was submitted on May 31. The abstract has been accepted on July 7, and the talk has been included in the session [The Data requirements and availability for decision makers (ID 93)](http://www.scidatacon.org/2016/sessions/).
+This file hosts an abstract (submission ID 342) for [SciDataCon 2016](http://www.scidatacon.org/2016/) (11-13 September, 2016, in Denver, U.S.), which was submitted on May 31. The abstract has been accepted on July 7, and the talk has been included in the session [The Data requirements and availability for decision makers (ID 93)](http://www.scidatacon.org/2016/sessions/), which is to take place on Sepember 12 from 9:30–11:00 am MDT as part of the *Data Reuse and Enhancement* track (see [draft schedule](https://docs.google.com/spreadsheets/d/101Am_FU1QzrmXkEMqDtV_NVyeygMbflXIPABNbAYWUk/edit#gid=1517036826)).
 
 # Title 
 Data sharing in public health emergencies
