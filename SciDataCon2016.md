@@ -40,3 +40,4 @@ Yes, I will try to make it more clear and more robust, and I like lightning talk
 
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
 * from the Zibra blog: ["there we were limited by upload speed and here throughput"](http://www.zibraproject.org/blog/a-new-method-for-whole-zika-virus-sequencing/)
+* [World Health Organization Member States and Open Health Data: An Observational Study](https://doi.org/10.2427/11950)
