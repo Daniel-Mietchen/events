@@ -29,7 +29,7 @@
 * OpenStreetMap
    * [coordination page](http://wiki.openstreetmap.org/wiki/2011_Sendai_earthquake_and_tsunami)
    * [sinsai.info](http://www.sinsai.info/)
-    * run by OpenStreetMap Japan using Ushahidi
+    * run by OpenStreetMap Japan using [Ushahidi](https://www.ushahidi.com/)
 * [saveMLAK](https://en.wikipedia.org/wiki/SaveMLAK)
 * [Geigermap](http://japan.failedrobot.com/)
 * [Japan’s Nuclear Woes Give Rise to Crowd-Sourced Radiation Maps In Asia and US](http://singularityhub.com/2011/03/24/japans-nuclear-woes-give-rise-to-crowd-sourced-radiation-maps-in-asia-and-us/)
@@ -44,6 +44,7 @@
 
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
 * [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
+
 A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
 ![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
 
