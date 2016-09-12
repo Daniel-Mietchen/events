@@ -73,6 +73,10 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Zika Data From the Lab, and Right to the Web](http://www.nytimes.com/2016/07/19/health/zika-data-monkey-studies.html)
 * [Reanalysis of open Zika data](http://dx.doi.org/10.12688/f1000research.9110.1) using a [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
 * from the Zibra blog (comparing Ebola versus Zika project): ["there we were limited by upload speed and here throughput"](http://www.zibraproject.org/blog/a-new-method-for-whole-zika-virus-sequencing/)
+* preprints
+  * [Zika Virus Spurs Preprint Revolution](http://read.hipporeads.com/zika-virus-spurs-preprint-revolution/)
+  * [Zika virus initiative reveals deeper malady in scientific publishing ](https://www.theguardian.com/science/occams-corner/2016/feb/16/zika-virus-scientific-publishing-malady)
+  * [Zika Virus and Preprint Servers](https://www.asm.org/index.php/zika-diaries/item/45-zika-virus-and-preprint-servers)
 
 ## Future?
 * [Forecasting the 2013–2014 Influenza Season Using Wikipedia](http://dx.doi.org/10.1371/journal.pcbi.1004239.g001)
