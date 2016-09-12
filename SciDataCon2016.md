@@ -5,7 +5,7 @@
 
 ![Map of 1854 Broad Street cholera outbreak](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)
 
-[John Snow](https://en.wikipedia.org/wiki/John_Snow)'s [original map](https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg) of the [1854 Broad Street cholera outbreak in London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak). Cholera cases are highlighted in black, as are water pumps. The pump on Broad Street turned out to have been the one through which the contaiminated water was distributed.
+[John Snow](https://en.wikipedia.org/wiki/John_Snow)'s [original map](https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg) of the [1854 Broad Street cholera outbreak in London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak). Cholera cases are highlighted in black, as are water pumps. The [pump on Broad Street](https://en.wikipedia.org/wiki/Soho#Broad_Street_pump) turned out to have been the one through which the contaiminated water was distributed.
 
 
 #See also
