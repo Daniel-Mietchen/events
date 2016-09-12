@@ -4,7 +4,7 @@
 # Data sharing in public health emergencies
 [1854: Cholera]()・[2005: H5N1]()・[2009: H1N1]()・[2010: Haiti earthquake]()・[2011: Tōhoku earthquake]()・[2011: E. coli O104:H4]()・[2013: Typhoon Hiyan]()・[2015: Ebola]()・[2016: Zika]()・[Future?]()・
 
-## 1854: Cholera
+## [1854: Cholera, London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak)
 ![Map of 1854 Broad Street cholera outbreak](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)
 
 [John Snow](https://en.wikipedia.org/wiki/John_Snow)'s [original map](https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg) of the [1854 Broad Street cholera outbreak in London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak). Cholera cases are highlighted in black, as are water pumps (data available [here](https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map#data)). The [pump on Broad Street](https://en.wikipedia.org/wiki/Soho#Broad_Street_pump) was identified as the one through which the contaiminated water was distributed. Removing its handle then essentially stopped the outbreak, and when the next Cholera outbreak hit London in 1866, sanitary measures had been improved.
