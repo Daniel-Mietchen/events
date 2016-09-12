@@ -1,5 +1,5 @@
-# About
-This file hosts a contribution for [SciDataCon 2016](http://www.scidatacon.org/2016/) (11-13 September, 2016, in Denver, Colorado, U.S.), which was submitted on May 31 (submission ID 342). The [abstract](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#abstract) has been accepted on July 7, and the talk has been included in the session [The Data requirements and availability for decision makers (ID 93)](http://www.scidatacon.org/2016/sessions/), which is to take place on September 12 from 9:30–11:00 am [MDT](https://www.timeanddate.com/time/zones/mdt) as part of the *Data Reuse and Enhancement* track (see [program](http://www.scidatacon.org/2016/programme/)). The talk's projected time slot is ca. 10:14-10:26 am.
+[About](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#about)・[Abstract](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#abstract)・[Reviews](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#reviews)・[See also](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#see-also)
+
 
 # Data sharing in public health emergencies
 
@@ -18,6 +18,9 @@ This file hosts a contribution for [SciDataCon 2016](http://www.scidatacon.org/2
 # Illustrations
 A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
 ![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
+
+# About
+This file hosts a contribution for [SciDataCon 2016](http://www.scidatacon.org/2016/) (11-13 September, 2016, in Denver, Colorado, U.S.), which was submitted on May 31 (submission ID 342). The [abstract](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#abstract) has been accepted on July 7, and the talk has been included in the session [The Data requirements and availability for decision makers (ID 93)](http://www.scidatacon.org/2016/sessions/), which is to take place on September 12 from 9:30–11:00 am [MDT](https://www.timeanddate.com/time/zones/mdt) as part of the *Data Reuse and Enhancement* track (see [program](http://www.scidatacon.org/2016/programme/)). The talk's projected time slot is ca. 10:14-10:26 am.
 
 # Abstract
 ["Open data matters most when the stakes are high"](https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9#.6fhghgjqe) – and what this means in the context of public health emergencies like the ongoing Zika virus outbreak.
