@@ -2,7 +2,7 @@
 
 
 # Data sharing in public health emergencies
-[1854: Cholera]()・[2005: H5N1]()・[2009: H1N1]()・[2010: Haiti earthquake]()・[2011: Tōhoku earthquake]()・[2011: E. coli O104:H4]()・[2015: Ebola]()・[2016: Zika]()・[Future?]()・
+[1854: Cholera]()・[2005: H5N1]()・[2009: H1N1]()・[2010: Haiti earthquake]()・[2011: Tōhoku earthquake]()・[2011: E. coli O104:H4]()・[2013: Typhoon Hiyan]()・[2015: Ebola]()・[2016: Zika]()・[Future?]()・
 
 ## 1854: Cholera
 ![Map of 1854 Broad Street cholera outbreak](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)
@@ -13,18 +13,39 @@
 * Global Initiative on Sharing Avian Influenza Data (GISAID)
   * [paper](http://doi.org/10.1038/442981a)
   * [website](http://gisaid.org/)
+
+## [Hurricane Katrina (2005)](https://en.wikipedia.org/wiki/Hurricane_Katrina)
+ * ["Open data matters most when the stakes are high"](https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9#.6fhghgjqe)
  
 ## [2009 H1N1 pandemic](https://en.wikipedia.org/wiki/2009_flu_pandemic)
 * [PLOS Currents: Influenza was started](https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
 
-## 2010 Haiti earthquake
+## [2010 Haiti earthquake](https://en.wikipedia.org/wiki/2010_Haiti_earthquake)
+* [OpenStreetMap response](http://blog.okfn.org/2010/01/15/open-street-map-community-responds-to-haiti-crisis/)
+* [Crisis camp](https://en.wikipedia.org/wiki/Crisis_camp)
+* [Random Hacks of Kindness](https://en.wikipedia.org/wiki/Random_Hacks_of_Kindness)
 
-## 2011 Tōhoku earthquake
+## [2011 Tōhoku earthquake and tsunami](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami)
+* OpenStreetMap
+   * [coordination page](http://wiki.openstreetmap.org/wiki/2011_Sendai_earthquake_and_tsunami)
+   * [sinsai.info](http://www.sinsai.info/)
+    * run by OpenStreetMap Japan using Ushahidi
+* [saveMLAK](https://en.wikipedia.org/wiki/SaveMLAK)
+* [Geigermap](http://japan.failedrobot.com/)
+* [Japan’s Nuclear Woes Give Rise to Crowd-Sourced Radiation Maps In Asia and US](http://singularityhub.com/2011/03/24/japans-nuclear-woes-give-rise-to-crowd-sourced-radiation-maps-in-asia-and-us/)
+* [Japan’s Radiation Levels: Real-Time Crowd Sourcing](http://scienceblogs.com/deanscorner/2011/03/21/japans-radiation-levels-real-t/)
+* [Crowdsourcing Japan’s Nuclear Crisis](http://blogs.law.harvard.edu/herdict/2011/03/26/crowdsourcing-japans-nuclear-crisis/)
+* [How Citizen Science Changed the Way Fukushima Radiation is Reported](http://voices.nationalgeographic.com/2016/02/13/how-citizen-science-changed-the-way-fukushima-radiation-is-reported/)
 
 ## [2011 E. coli O104:H4 outbreak](https://en.wikipedia.org/wiki/2011_Germany_E._coli_O104:H4_outbreak)
 ![EHEC outbreak stats](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png/640px-Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png)
 * [EHEC outbreak stats](https://en.wikipedia.org/wiki/File:Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png) by [Pozos](https://commons.wikimedia.org/wiki/User:Pozos), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 * [crowdsourced genome analysis via GitHub](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
+
+## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
+* [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
+A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
+![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
 
 ## [Ebola virus epidemic in West Africa](https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa)
 * [Ebola teaches tough lessons about rapid research](http://doi.org/10.1038/521405a)
@@ -52,9 +73,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Reanalysis of open Zika data](http://dx.doi.org/10.12688/f1000research.9110.1) using a [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
 
 ## Future?
-
-## Future?
 * [Forecasting the 2013–2014 Influenza Season Using Wikipedia](http://dx.doi.org/10.1371/journal.pcbi.1004239.g001)
+* [Make Data Sharing Routine to Prepare for Public Health Emergencies](http://dx.doi.org/10.1371/journal.pmed.1002109)
 
 # See also
 
@@ -62,9 +82,6 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * from the Zibra blog: ["there we were limited by upload speed and here throughput"](http://www.zibraproject.org/blog/a-new-method-for-whole-zika-virus-sequencing/)
 * [World Health Organization Member States and Open Health Data: An Observational Study](https://doi.org/10.2427/11950)
 
-# Illustrations
-A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
-![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
 
 # About
 This file hosts a contribution for [SciDataCon 2016](http://www.scidatacon.org/2016/) (11-13 September, 2016, in Denver, Colorado, U.S.), which was submitted on May 31 (submission ID 342). The [abstract](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#abstract) has been accepted on July 7, and the talk has been included in the session [The Data requirements and availability for decision makers (ID 93)](http://www.scidatacon.org/2016/sessions/), which is to take place on September 12 from 9:30–11:00 am [MDT](https://www.timeanddate.com/time/zones/mdt) as part of the *Data Reuse and Enhancement* track (see [program](http://www.scidatacon.org/2016/programme/)). The talk's projected time slot is ca. 10:14-10:26 am.
