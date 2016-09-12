@@ -1,16 +1,63 @@
-[About](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#about)・[Abstract](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#abstract)・[Reviews](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#reviews)・[See also](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#see-also)
+*[About](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#about)・[Abstract](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#abstract)・[Reviews](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#reviews)・[See also](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#see-also)*
 
 
 # Data sharing in public health emergencies
+[1854: Cholera]()・[2005: H5N1]()・[2009: H1N1]()・[2010: Haiti earthquake]()・[2011: Tōhoku earthquake]()・[2011: E. coli O104:H4]()・[2015: Ebola]()・[2016: Zika]()・[Future?]()・
 
+## 1854: Cholera
 ![Map of 1854 Broad Street cholera outbreak](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)
 
-[John Snow](https://en.wikipedia.org/wiki/John_Snow)'s [original map](https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg) of the [1854 Broad Street cholera outbreak in London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak). Cholera cases are highlighted in black, as are water pumps. The [pump on Broad Street](https://en.wikipedia.org/wiki/Soho#Broad_Street_pump) turned out to have been the one through which the contaiminated water was distributed.
+[John Snow](https://en.wikipedia.org/wiki/John_Snow)'s [original map](https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg) of the [1854 Broad Street cholera outbreak in London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak). Cholera cases are highlighted in black, as are water pumps (data available [here](https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map#data)). The [pump on Broad Street](https://en.wikipedia.org/wiki/Soho#Broad_Street_pump) was identified as the one through which the contaiminated water was distributed. Removing its handle then essentially stopped the outbreak, and when the next Cholera outbreak hit London in 1866, sanitary measures had been improved.
 
+## [Global spread of H5N1 in 2005](https://en.wikipedia.org/wiki/Global_spread_of_H5N1_in_2005)
+* Global Initiative on Sharing Avian Influenza Data (GISAID)
+  * [paper](http://doi.org/10.1038/442981a)
+  * [website](http://gisaid.org/)
+ 
+## [2009 H1N1 pandemic](https://en.wikipedia.org/wiki/2009_flu_pandemic)
+* [PLOS Currents: Influenza was started](https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
 
-#See also
+## 2010 Haiti earthquake
 
+## 2011 Tōhoku earthquake
+
+## [2011 E. coli O104:H4 outbreak](https://en.wikipedia.org/wiki/2011_Germany_E._coli_O104:H4_outbreak)
+![EHEC outbreak stats](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png/640px-Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png)
+* [EHEC outbreak stats](https://en.wikipedia.org/wiki/File:Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png) by [Pozos](https://commons.wikimedia.org/wiki/User:Pozos), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+* [crowdsourced genome analysis via GitHub](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
+
+## [Ebola virus epidemic in West Africa](https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa)
+* [Ebola teaches tough lessons about rapid research](http://doi.org/10.1038/521405a)
+* [Data sharing: Make outbreak research open access](http://doi.org/10.1038/518477a)
+* [Special issue of Journal of Empirical Research on Human Research Ethics: Ethics and sharing individual-level health research data from low and middle income settings](http://jre.sagepub.com/content/10/3.toc) (13 papers, 2015)
+* [Ebola outbeak data scraped from government PDF](https://github.com/cmrivers/ebola)
+* [WHO Report of the Ebola Interim Assessment Panel - July 2015](http://www.who.int/csr/resources/publications/ebola/ebola-panel-report/en/)
+  * ["Member  States  have  largely  failed  to  implement  the  core  capacities,  particularly  under 
+surveillance  and  data  collection,  which  are  required  under  the  International  Health  Regulations  (2005)"](http://www.who.int/csr/resources/publications/ebola/report-by-panel.pdf)
+   * [International Health Regulations](https://en.wikipedia.org/wiki/International_Health_Regulations)
+    * ["A proposal to amend the International Health Regulations with clear codes of practice for data sharing warrants serious consideration"](http://dx.doi.org/10.1371/journal.pmed.1002109)
+  * ["data were not aggregated, analysed or shared in a timely manner and in some cases not at all"](http://www.who.int/csr/resources/publications/ebola/report-by-panel.pdf)
+* [Open Data's Impact: Battling Ebola in Sierra Leone &mdash; Data Sharing to Improve Crisis Response](http://odimpact.org/case-battling-ebola-in-sierra-leone.html)
+
+## [Zika virus outbreak](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
 * [Statement on data sharing in public health emergencies](https://wellcome.ac.uk/what-we-do/our-work/statement-data-sharing-public-health-emergencies)
+* [Zika researchers release real-time data on viral infection study in monkeys](http://dx.doi.org/10.1038/nature.2016.19438)
+* [Science, get over yourself: Zika data-sharing should be the norm, not the exception](https://www.statnews.com/2016/02/16/zika-data-sharing/)
+* ["Several participants noted that it is critical to study ZIKV in humans in the countries most affected and highlighted the importance of establishing a coordinated and well-resourced research approach to ZIKV, which would include the efficient sharing of biospecimens across international borders, availability of rapid funding announcements, better communication among scientists about the types of research being conducted, and the availability of datasets."](http://www.ncbi.nlm.nih.gov/books/NBK349626/)
+* [Partnerships, Not Parachutists, for Zika Research](http://doi.org/10.1056/NEJMp1602278):
+  * "But we believe the experience with recent outbreaks makes clear that if open sharing of data and specimens becomes the norm among scientists and epidemiologists around the world, we will be far more likely to succeed in improving international public health capacity and strengthening our collective health — and human — security. 
+  * To avoid having to make this argument again every time we face an outbreak with the potential for becoming a global crisis, we believe the global health community should develop and agree on a framework of principles for sharing data and biologic samples during any such public health emergency. It would be best if the researchers themselves developed such a framework, as the genomics community did in the Human Genome Project."
+* [Public Health Surveillance: A Call to Share Data](http://ianphi.org/news/2016/datasharing.html)
+* [Zika Data From the Lab, and Right to the Web](http://www.nytimes.com/2016/07/19/health/zika-data-monkey-studies.html)
+* [Reanalysis of open Zika data](http://dx.doi.org/10.12688/f1000research.9110.1) using a [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
+
+## Future?
+
+## Future?
+* [Forecasting the 2013–2014 Influenza Season Using Wikipedia](http://dx.doi.org/10.1371/journal.pcbi.1004239.g001)
+
+# See also
+
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
 * from the Zibra blog: ["there we were limited by upload speed and here throughput"](http://www.zibraproject.org/blog/a-new-method-for-whole-zika-virus-sequencing/)
 * [World Health Organization Member States and Open Health Data: An Observational Study](https://doi.org/10.2427/11950)
