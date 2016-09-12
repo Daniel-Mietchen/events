@@ -71,17 +71,15 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Public Health Surveillance: A Call to Share Data](http://ianphi.org/news/2016/datasharing.html)
 * [Zika Data From the Lab, and Right to the Web](http://www.nytimes.com/2016/07/19/health/zika-data-monkey-studies.html)
 * [Reanalysis of open Zika data](http://dx.doi.org/10.12688/f1000research.9110.1) using a [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
+* from the Zibra blog (comparing Ebola versus Zika project): ["there we were limited by upload speed and here throughput"](http://www.zibraproject.org/blog/a-new-method-for-whole-zika-virus-sequencing/)
 
 ## Future?
 * [Forecasting the 2013–2014 Influenza Season Using Wikipedia](http://dx.doi.org/10.1371/journal.pcbi.1004239.g001)
 * [Make Data Sharing Routine to Prepare for Public Health Emergencies](http://dx.doi.org/10.1371/journal.pmed.1002109)
 
 # See also
-
-* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
-* from the Zibra blog: ["there we were limited by upload speed and here throughput"](http://www.zibraproject.org/blog/a-new-method-for-whole-zika-virus-sequencing/)
 * [World Health Organization Member States and Open Health Data: An Observational Study](https://doi.org/10.2427/11950)
-
+* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
 
 # About
 This file hosts a contribution for [SciDataCon 2016](http://www.scidatacon.org/2016/) (11-13 September, 2016, in Denver, Colorado, U.S.), which was submitted on May 31 (submission ID 342). The [abstract](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#abstract) has been accepted on July 7, and the talk has been included in the session [The Data requirements and availability for decision makers (ID 93)](http://www.scidatacon.org/2016/sessions/), which is to take place on September 12 from 9:30–11:00 am [MDT](https://www.timeanddate.com/time/zones/mdt) as part of the *Data Reuse and Enhancement* track (see [program](http://www.scidatacon.org/2016/programme/)). The talk's projected time slot is ca. 10:14-10:26 am.
