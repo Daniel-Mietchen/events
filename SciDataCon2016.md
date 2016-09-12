@@ -42,3 +42,11 @@ Yes, I will try to make it more clear and more robust, and I like lightning talk
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
 * from the Zibra blog: ["there we were limited by upload speed and here throughput"](http://www.zibraproject.org/blog/a-new-method-for-whole-zika-virus-sequencing/)
 * [World Health Organization Member States and Open Health Data: An Observational Study](https://doi.org/10.2427/11950)
+
+# Illustrations
+A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
+![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
+
+![Map of 1854 Broad Street cholera outbreak](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)
+
+[John Snow](https://en.wikipedia.org/wiki/John_Snow)'s [original map](https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg) of the [1854 Broad Street cholera outbreak in London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak). Cholera cases are highlighted in black, as is the pump through which the contaiminated water was distributed.
