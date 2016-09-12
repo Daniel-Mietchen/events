@@ -2,7 +2,7 @@
 
 
 # Data sharing in public health emergencies
-[1854: Cholera]()・[2005: H5N1]()・[2009: H1N1]()・[2010: Haiti earthquake]()・[2011: Tōhoku earthquake]()・[2011: E. coli O104:H4]()・[2013: Typhoon Hiyan]()・[2015: Ebola]()・[2016: Zika]()・[Future?]()・
+[1854: Cholera](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#1854-cholera-london)・[2005: H5N1](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#global-spread-of-h5n1-in-2005)・[2005: Hurricane Katrina](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#hurricane-katrina-2005)・[2009: H1N1](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#2009-h1n1-pandemic)・[2010: Haiti earthquake](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#2010-haiti-earthquake)・[2011: Tōhoku earthquake](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#2011-t%C5%8Dhoku-earthquake-and-tsunami)・[2011: E. coli O104:H4](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#2011-e-coli-o104h4-outbreak)・[2013: Typhoon Hiyan](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#typhoon-haiyan-2013)・[2015: Ebola](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#ebola-virus-epidemic-in-west-africa)・[2016: Zika](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#zika-virus-outbreak)・[Future?](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#future)
 
 ## [1854: Cholera, London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak)
 ![Map of 1854 Broad Street cholera outbreak](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)
@@ -80,6 +80,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 # See also
 * [World Health Organization Member States and Open Health Data: An Observational Study](https://doi.org/10.2427/11950)
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
+* [More details on sharing in response to public health emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
 
 # About
 This file hosts a contribution for [SciDataCon 2016](http://www.scidatacon.org/2016/) (11-13 September, 2016, in Denver, Colorado, U.S.), which was submitted on May 31 (submission ID 342). The [abstract](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#abstract) has been accepted on July 7, and the talk has been included in the session [The Data requirements and availability for decision makers (ID 93)](http://www.scidatacon.org/2016/sessions/), which is to take place on September 12 from 9:30–11:00 am [MDT](https://www.timeanddate.com/time/zones/mdt) as part of the *Data Reuse and Enhancement* track (see [program](http://www.scidatacon.org/2016/programme/)). The talk's projected time slot is ca. 10:14-10:26 am.
