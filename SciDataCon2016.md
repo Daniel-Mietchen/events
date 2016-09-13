@@ -86,6 +86,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [World Health Organization Member States and Open Health Data: An Observational Study](https://doi.org/10.2427/11950)
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
 * [More details on sharing in response to public health emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
+* SciDataCon session [Disasters and Disasters Risk Data](http://www.scidatacon.org/2016/sessions/51/)
 
 # About
 This file hosts a contribution for [SciDataCon 2016](http://www.scidatacon.org/2016/) (11-13 September, 2016, in Denver, Colorado, U.S.), which was submitted on May 31 (submission ID 342). The [abstract](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md#abstract) has been accepted on July 7, and the talk has been included in the session [The Data requirements and availability for decision makers (ID 93)](http://www.scidatacon.org/2016/sessions/), which took place on September 12 from 9:30–11:00 am [MDT](https://www.timeanddate.com/time/zones/mdt) as part of the *Data Reuse and Enhancement* track (see [program](http://www.scidatacon.org/2016/programme/)). The talk's time slot was ca. 10:14-10:26 am.
