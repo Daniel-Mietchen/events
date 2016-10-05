@@ -1,5 +1,5 @@
 #About
-This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), which is to take place on November 9-10, 2016, in Reykyavik.
+This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), which is to take place on November 9-10, 2016, in Reykyavik. Note that these are topics I would like to discuss, not necessarily topics I have done research about.
 
 - An API for ethics: so far, the entire ecosystem of ethical review of past, present and future research is basically hidden. This is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Assigning PIDs to important components of the ethical review process (e.g. IRB, review requests, reviews, IRB decisions) could pave the way for ethical aspects of research to be included more prominently in research communication.
 
