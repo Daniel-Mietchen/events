@@ -1,10 +1,11 @@
 #About
 This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), which is to take place on November 9-10, 2016, in Reykyavik. Note that these are topics I would like to discuss, not necessarily topics I have done research about.
 
-- An API for ethics: so far, the entire ecosystem of ethical review of past, present and future research is basically hidden. This is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Assigning PIDs to important components of the ethical review process (e.g. IRB, review requests, reviews, IRB decisions) could pave the way for ethical aspects of research to be included more prominently in research communication.
+- An API for ethics: so far, most of the ecosystem of ethical review of past, present and future research is basically hidden. This is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Assigning PIDs to important components of the ethical review process (e.g. IRB, review requests, reviews, IRB decisions) could pave the way for ethical aspects of research to be included more prominently in research communication.
 
   - examples:
     - ["The relevant ethics approval for this study was granted by a Department of Primary Industries NSW Animal Ethics Committee of qualified scientific and lay members (AEC Number 100802/04)"](https://doi.org/10.1186/s40317-016-0107-6)
+    - ["The data collected anonymously will be made available to any research group in the world following the data-sharing agreement initiative (http://www.wellcome.ac.uk/News/Media-office/Press-releases/2016/WTP060169.htm), provided that they have a clear, non-redundant research question and a biomedical research Ethics committee approval"](https://epgl.unige.ch/zika-in-pregnancy-registry/)
    
  - questions:
  
@@ -14,6 +15,7 @@ This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), which 
     - Was there any discussion within the Committee?
     - Was there any discussion with the team who had requested the approval?
     - Was there any modification to the request as a consequence of the approval process?
+    - How to find past approvals or rejections for similar research?
 
 - Should each version of a research object get a new DOI?
 
