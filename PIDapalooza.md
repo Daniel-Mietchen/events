@@ -3,8 +3,16 @@ This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), which 
 
 - An API for ethics: so far, the entire ecosystem of ethical review of past, present and future research is basically hidden. This is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Assigning PIDs to important components of the ethical review process (e.g. IRB, review requests, reviews, IRB decisions) could pave the way for ethical aspects of research to be included more prominently in research communication.
 
-  - ["The relevant ethics approval for this study was granted by a Department of Primary Industries NSW Animal Ethics Committee of qualified scientific and lay members (AEC Number 100802/04)"](https://doi.org/10.1186/s40317-016-0107-6)
-
+  - examples:
+   - ["The relevant ethics approval for this study was granted by a Department of Primary Industries NSW Animal Ethics Committee of qualified scientific and lay members (AEC Number 100802/04)"](https://doi.org/10.1186/s40317-016-0107-6)
+ - questions:
+  - Which aspect of the research triggered the need for ethics approval?
+  - How can I find the relevant documentation (e.g. "AEC Number 100802/04")?
+  - What options had the Animal Ethics Committee to choose from?
+  - Was there any discussion within the Committee?
+  - Was there any discussion with the team who had requested the approval?
+  - Was there any modification to the request as a consequence of the approval process?
+  
 - Should each version of a research object get a new DOI?
 
 - Data management plans are gaining ground as a component of the research funding process. However, they can also be used as implied by their name, i.e. to manage data. An important step in this direction would be to make data management plans machine actionable, which would mean to embed them into a network of datasets, repositories, grants, researchers, publications et al. that all have PIDs.
