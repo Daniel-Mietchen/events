@@ -4,18 +4,21 @@ This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), which 
 - An API for ethics: so far, most of the ecosystem of ethical review of past, present and future research is basically hidden. This is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Assigning PIDs to important components of the ethical review process (e.g. IRB, review requests, reviews, IRB decisions) could pave the way for ethical aspects of research to be included more prominently in research communication.
 
   - examples:
+    - ["The study was approved by the ethics committee of the hospital, and the patients gave informed consent."](https://doi.org/10.1056/NEJM199010113231505)
     - ["The relevant ethics approval for this study was granted by a Department of Primary Industries NSW Animal Ethics Committee of qualified scientific and lay members (AEC Number 100802/04)"](https://doi.org/10.1186/s40317-016-0107-6)
     - ["The data collected anonymously will be made available to any research group in the world following the data-sharing agreement initiative (http://www.wellcome.ac.uk/News/Media-office/Press-releases/2016/WTP060169.htm), provided that they have a clear, non-redundant research question and a biomedical research Ethics committee approval"](https://epgl.unige.ch/zika-in-pregnancy-registry/)
    
  - questions:
- 
     - Which aspect of the research triggered the need for ethics approval?
-    - How can I find the relevant documentation (e.g. "AEC Number 100802/04")?
-    - What options did the Animal Ethics Committee have to choose from?
+    - How can I find the relevant documentation (e.g. "AEC Number 100802/04" or the informed consent forms)?
+    - What options did the relevant Ethics Committee have to choose from?
     - Was there any discussion within the Committee?
     - Was there any discussion with the team who had requested the approval?
     - Was there any modification to the request as a consequence of the approval process?
     - How to find past approvals or rejections for similar research?
+
+ - principles:
+    - ["The research protocol must be submitted for consideration, comment, guidance and approval to the concerned research ethics committee before the study begins. This committee must be transparent in its functioning, must be independent of the researcher, the sponsor and any other undue influence and must be duly qualified."](http://www.wma.net/en/30publications/10policies/b3/)
 
 - Should each version of a research object get a new DOI?
 
