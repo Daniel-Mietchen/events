@@ -1,7 +1,10 @@
 #About
-This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), which is to take place on November 9-10, 2016, in Reykyavik. Note that these are topics I would like to discuss, not necessarily topics I have done research about.
+This file hosts my five submissions to [PIDapalooza](http://pidapalooza.org/), which is to take place on November 9-10, 2016, in Reykyavik.
 
-- An [API](https://en.wikipedia.org/wiki/Application_programming_interface) for ethics: so far, most of the ecosystem of ethical review of past, present and future research is basically hidden. This is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Assigning [PIDs](https://en.wikipedia.org/wiki/Persistent_identifier) to important components of the ethical review process (e.g. [IRB](https://en.wikipedia.org/wiki/Institutional_review_board) or other ethics committee, review requests, reviews, IRB decisions) could pave the way for ethical aspects of research to be included more prominently in research communication.
+On September 30, I was contacted "on behalf of the PIDapalooza Program Committee to inform you that one of your proposals for a session at the open festival of persistent identifiers has been accepted. We received a huge number of submissions, and will have more than 40 speakers. In light of this, it was not possible to fit in more than one of your submissions to our program. The proposal that emerged from the review process with the highest marks was on the topic of 'An API for ethics'." It is thus this submission that I will develop into a talk here. You can find the other submissions [here]().
+
+#An [API](https://en.wikipedia.org/wiki/Application_programming_interface) for ethics
+So far, most of the ecosystem of ethical review of past, present and future research is basically hidden. This is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Assigning [PIDs](https://en.wikipedia.org/wiki/Persistent_identifier) to important components of the ethical review process (e.g. [IRB](https://en.wikipedia.org/wiki/Institutional_review_board) or other ethics committee, review requests, reviews, IRB decisions) could pave the way for ethical aspects of research to be included more prominently in research communication.
 
   - examples (emphasis added to highlight opportunities for using PIDs):
     - ["The **proposed investigation** received the **approval** of the **Ethics Committee of the United Oxford Hospitals**."](https://doi.org/10.1111/j.1365-2044.1971.tb04793.x)
@@ -28,6 +31,7 @@ This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), which 
        - This is where persistent identifiers come in
     - [(irb OR ethics OR ethical) AND (approved OR approval OR consent)](http://tweetedtimes.com/v/13396)
 
+#Rejected submissions
 - Should each version of a research object get a new DOI?
 
 - Data management plans are gaining ground as a component of the research funding process. However, they can also be used as implied by their name, i.e. to manage data. An important step in this direction would be to make data management plans machine actionable, which would mean to embed them into a network of datasets, repositories, grants, researchers, publications et al. that all have PIDs.
