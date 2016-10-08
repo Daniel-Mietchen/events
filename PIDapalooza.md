@@ -1,7 +1,7 @@
 #About
 This file hosts my five submissions to [PIDapalooza](http://pidapalooza.org/), which is to take place on November 9-10, 2016, in Reykyavik.
 
-On September 30, I was contacted "on behalf of the PIDapalooza Program Committee to inform you that one of your proposals for a session at the open festival of persistent identifiers has been accepted. We received a huge number of submissions, and will have more than 40 speakers. In light of this, it was not possible to fit in more than one of your submissions to our program. The proposal that emerged from the review process with the highest marks was on the topic of 'An API for ethics'." It is thus this submission that I will develop into a talk here. You can find the other submissions [here]().
+On September 30, I was contacted "on behalf of the PIDapalooza Program Committee to inform you that one of your proposals for a session at the open festival of persistent identifiers has been accepted. We received a huge number of submissions, and will have more than 40 speakers. In light of this, it was not possible to fit in more than one of your submissions to our program. The proposal that emerged from the review process with the highest marks was on the topic of 'An API for ethics'." It is thus this submission that I will develop into a talk here. You can find the other submissions [here](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#rejected-submissions).
 
 #An [API](https://en.wikipedia.org/wiki/Application_programming_interface) for ethics
 So far, most of the ecosystem of ethical review of past, present and future research is basically hidden. This is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Assigning [PIDs](https://en.wikipedia.org/wiki/Persistent_identifier) to important components of the ethical review process (e.g. [IRB](https://en.wikipedia.org/wiki/Institutional_review_board) or other ethics committee, review requests, reviews, IRB decisions) could pave the way for ethical aspects of research to be included more prominently in research communication.
@@ -13,8 +13,8 @@ So far, most of the ecosystem of ethical review of past, present and future rese
     - ["The **relevant ethics approval** for **this study** was granted by a **Department of Primary Industries NSW Animal Ethics Committee** of qualified scientific and lay members (**AEC Number 100802/04**)"](https://doi.org/10.1186/s40317-016-0107-6)
     - ["The data collected anonymously will be made available to any research group in the world following the data-sharing agreement initiative (http://www.wellcome.ac.uk/News/Media-office/Press-releases/2016/WTP060169.htm), provided that they have a clear, non-redundant research question and a **biomedical research Ethics committee approval**"](https://epgl.unige.ch/zika-in-pregnancy-registry/)
     - ["Does your work need IRB approval? Better check, says author of **retracted paper**"](http://retractionwatch.com/2016/09/30/does-your-work-need-irb-approval-better-check-says-author-of-retracted-paper/)
-   
- - questions:
+
+  - questions:
     - Which aspect of the research triggered the need for ethics approval?
     - How can I find the relevant documentation (e.g. "AEC Number 100802/04" or the informed consent forms)?
     - What options did the relevant Ethics Committee(s) have to choose from?
