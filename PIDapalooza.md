@@ -3,15 +3,13 @@ This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), which 
 
 - An [API](https://en.wikipedia.org/wiki/Application_programming_interface) for ethics: so far, most of the ecosystem of ethical review of past, present and future research is basically hidden. This is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Assigning [PIDs](https://en.wikipedia.org/wiki/Persistent_identifier) to important components of the ethical review process (e.g. [IRB](https://en.wikipedia.org/wiki/Institutional_review_board) or other ethics committee, review requests, reviews, IRB decisions) could pave the way for ethical aspects of research to be included more prominently in research communication.
 
-  - sources:
+  - examples:
     - ["The proposed investigation received the approval of the Ethics Committee of the United Oxford Hospitals."](https://doi.org/10.1111/j.1365-2044.1971.tb04793.x)
     - ["The study was approved by the ethics committee of the hospital, and the patients gave informed consent."](https://doi.org/10.1056/NEJM199010113231505)
     - ["The project was approved by two local Ethics Committees and one national committee"](https://doi.org/10.1177/030006057300100505)
     - ["The relevant ethics approval for this study was granted by a Department of Primary Industries NSW Animal Ethics Committee of qualified scientific and lay members (AEC Number 100802/04)"](https://doi.org/10.1186/s40317-016-0107-6)
     - ["The data collected anonymously will be made available to any research group in the world following the data-sharing agreement initiative (http://www.wellcome.ac.uk/News/Media-office/Press-releases/2016/WTP060169.htm), provided that they have a clear, non-redundant research question and a biomedical research Ethics committee approval"](https://epgl.unige.ch/zika-in-pregnancy-registry/)
     - ["Does your work need IRB approval? Better check, says author of retracted paper"](http://retractionwatch.com/2016/09/30/does-your-work-need-irb-approval-better-check-says-author-of-retracted-paper/)
-    - [timeline "ethics committee" vs. "informed consent"](https://books.google.com/ngrams/graph?content=%22ethics+committee%22%2C%22informed+consent%22&case_insensitive=on&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t4%3B%2C%22%20ethics%20committee%20%22%3B%2Cc0%3B%2Cs0%3B%3B%22%20Ethics%20Committee%20%22%3B%2Cc0%3B%3B%22%20ethics%20committee%20%22%3B%2Cc0%3B.t4%3B%2C%22%20informed%20consent%20%22%3B%2Cc0%3B%2Cs0%3B%3B%22%20informed%20consent%20%22%3B%2Cc0%3B%3B%22%20Informed%20Consent%20%22%3B%2Cc0%3B%3B%22%20Informed%20consent%20%22%3B%2Cc0%3B%3B%22%20INFORMED%20CONSENT%20%22%3B%2Cc0)
-    - ["Make all documentation around ethical approval and consent freely available"](https://doi.org/10.1136/bmj.i4626)
    
  - questions:
     - Which aspect of the research triggered the need for ethics approval?
@@ -22,8 +20,12 @@ This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), which 
     - Was there any modification to the request as a consequence of the approval process?
     - How to find past approvals or rejections for similar research?
 
- - principles:
+ - resources:
     - ["The research protocol must be submitted for consideration, comment, guidance and approval to the concerned research ethics committee before the study begins. This committee must be transparent in its functioning, must be independent of the researcher, the sponsor and any other undue influence and must be duly qualified."](http://www.wma.net/en/30publications/10policies/b3/)
+    - [timeline "ethics committee" vs. "informed consent"](https://books.google.com/ngrams/graph?content=%22ethics+committee%22%2C%22informed+consent%22&case_insensitive=on&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t4%3B%2C%22%20ethics%20committee%20%22%3B%2Cc0%3B%2Cs0%3B%3B%22%20Ethics%20Committee%20%22%3B%2Cc0%3B%3B%22%20ethics%20committee%20%22%3B%2Cc0%3B.t4%3B%2C%22%20informed%20consent%20%22%3B%2Cc0%3B%2Cs0%3B%3B%22%20informed%20consent%20%22%3B%2Cc0%3B%3B%22%20Informed%20Consent%20%22%3B%2Cc0%3B%3B%22%20Informed%20consent%20%22%3B%2Cc0%3B%3B%22%20INFORMED%20CONSENT%20%22%3B%2Cc0)
+    - ["Make all documentation around ethical approval and consent freely available"](https://doi.org/10.1136/bmj.i4626)
+       - This is where persistent identifiers come in
+    - [(irb OR ethics OR ethical) AND (approved OR approval OR consent)](http://tweetedtimes.com/v/13396)
 
 - Should each version of a research object get a new DOI?
 
