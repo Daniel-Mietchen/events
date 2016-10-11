@@ -1,5 +1,5 @@
 #About
-This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), a conference dedicated to [Ppersistent identifiers](https://en.wikipedia.org/wiki/Persistent_identifier) that is to take place on November 9-10, 2016, in Reykjavík.
+This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), a conference dedicated to [Persistent identifiers](https://en.wikipedia.org/wiki/Persistent_identifier) that is to take place on November 9-10, 2016, in Reykjavík.
 
 On September 30, I was contacted "on behalf of the PIDapalooza Program Committee to inform you that one of your proposals for a session at the open festival of persistent identifiers has been accepted. We received a huge number of submissions, and will have more than 40 speakers. In light of this, it was not possible to fit in more than one of your submissions to our program. The proposal that emerged from the review process with the highest marks was on the topic of 'An [API](https://en.wikipedia.org/wiki/Application_programming_interface) for ethics'."
 
