@@ -1,11 +1,13 @@
 #About
-This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), a conference dedicated to [Persistent identifiers](https://en.wikipedia.org/wiki/Persistent_identifier) that is to take place on November 9-10, 2016, in Reykjavík.
+This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), a conference dedicated to [persistent identifiers](https://en.wikipedia.org/wiki/Persistent_identifier) that is to take place on November 9-10, 2016, in Reykjavík.
 
-On September 30, I was contacted "on behalf of the PIDapalooza Program Committee to inform you that one of your proposals for a session at the open festival of persistent identifiers has been accepted. We received a huge number of submissions, and will have more than 40 speakers. In light of this, it was not possible to fit in more than one of your submissions to our program. The proposal that emerged from the review process with the highest marks was on the topic of 'An [API](https://en.wikipedia.org/wiki/Application_programming_interface) for ethics'."
+On September 30, I was contacted "on behalf of the PIDapalooza Program Committee to inform you that one of your proposals for a session at the open festival of persistent identifiers has been accepted. We received a huge number of submissions, and will have more than 40 speakers. In light of this, it was not possible to fit in more than one of your submissions to our program. The proposal that emerged from the review process with the highest marks was on the topic of 'An [API](https://en.wikipedia.org/wiki/Application_programming_interface) for ethics'.
 
-It is thus this topic that I will develop into a talk, which will be given on the basis of this GitHub repo. I have since changed the title a bit, since the original one was just a shorthand for an ecosystem of ethics-related infrastructure, and the phrase "an API" might be misleading.
+I would also like to add that we would be happy to offer you a poster slot as well, for you to discuss some of the other interesting ideas you put forward. Please let me know if you would like to take this offer up."
 
-You can find the other submissions [below](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#rejected-submissions).
+It is thus the "Ethics API" topic that I will develop into a talk, which will be given on the basis of this GitHub repo. I have since changed the title a bit &mdash; the original one was just a shorthand for an ecosystem of ethics-related infrastructure, for which the phrase "an API" might be misleading.
+
+You can find the other submissions [below](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#rejected-submissions), which I will address in a demo with poster.
 
 #Making ethics data FAIR
 So far, most of the ecosystem of ethical review of past, present and future research is basically hidden. This secrecy is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Not surprisingly, it has thus been suggested to ["[m]ake all documentation around ethical approval and consent freely available"](https://doi.org/10.1136/bmj.i4626), which is where persistent (and preferably unique) identifers come in handy.
