@@ -1,11 +1,11 @@
 #About
 This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), a conference dedicated to [persistent identifiers](https://en.wikipedia.org/wiki/Persistent_identifier) that is to take place on November 9-10, 2016, in Reykjavík.
 
-On September 30, I was contacted "on behalf of the PIDapalooza Program Committee to inform you that one of your proposals for a session at the open festival of persistent identifiers has been accepted. We received a huge number of submissions, and will have more than 40 speakers. In light of this, it was not possible to fit in more than one of your submissions to our program. The proposal that emerged from the review process with the highest marks was on the topic of 'An [API](https://en.wikipedia.org/wiki/Application_programming_interface) for ethics'.
+On September 30, I was contacted "on behalf of the PIDapalooza Program Committee to inform you that one of your proposals for a session at the open festival of persistent identifiers has been accepted. We received a huge number of submissions, and will have more than 40 speakers. In light of this, it was not possible to fit in more than one of your submissions to our program. The proposal that emerged from the review process with the highest marks was on the topic of 'An API for ethics'.
 
 I would also like to add that we would be happy to offer you a poster slot as well, for you to discuss some of the other interesting ideas you put forward. Please let me know if you would like to take this offer up."
 
-It is thus the "Ethics API" topic that I will develop into a talk, which will be given on the basis of this GitHub repo. I have since changed the title a bit &mdash; the original one was just a shorthand for an ecosystem of ethics-related infrastructure, for which the phrase "an API" might be misleading.
+It is thus the "An [API](https://en.wikipedia.org/wiki/Application_programming_interface) for ethics" topic that I will develop into a talk, which will be given on the basis of this GitHub repo. I have since changed the title a bit &mdash; the original one was just a shorthand for an ecosystem of ethics-related infrastructure, for which the singular phrase "an API" might be misleading.
 
 I will address the other submissions in a combined poster and demo (see [below](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#combined-poster-and-demo)).
 
