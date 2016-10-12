@@ -7,7 +7,7 @@ I would also like to add that we would be happy to offer you a poster slot as we
 
 It is thus the "Ethics API" topic that I will develop into a talk, which will be given on the basis of this GitHub repo. I have since changed the title a bit &mdash; the original one was just a shorthand for an ecosystem of ethics-related infrastructure, for which the phrase "an API" might be misleading.
 
-You can find the other submissions [below](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#rejected-submissions), which I will address in a demo with poster.
+I will address the other submissions in a combined poster and demo (see [below](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#combined-poster-and-demo)).
 
 #Making ethics data FAIR
 So far, most of the ecosystem of ethical review of past, present and future research is basically hidden. This secrecy is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Not surprisingly, it has thus been suggested to ["[m]ake all documentation around ethical approval and consent freely available"](https://doi.org/10.1136/bmj.i4626), which is where persistent (and preferably unique) identifers come in handy.
@@ -34,7 +34,7 @@ The talk itself will be given on the basis of [https://github.com/Daniel-Mietche
     - Was there any modification to the request as a consequence of the approval process?
     - How to find past approvals or rejections for similar research?
 
- - resources:
+  - resources:
     - ["The research protocol must be submitted for consideration, comment, guidance and approval to the concerned research ethics committee before the study begins. This committee must be transparent in its functioning, must be independent of the researcher, the sponsor and any other undue influence and must be duly qualified."](http://www.wma.net/en/30publications/10policies/b3/)
        - not machine actionable (cf. [making data management plans machine actionable and public](http://www.slideshare.net/StephanieSimms/making-dmps-actionable-and-public))
     - [timeline "ethics committee" vs. "informed consent"](https://books.google.com/ngrams/graph?content=%22ethics+committee%22%2C%22informed+consent%22&case_insensitive=on&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t4%3B%2C%22%20ethics%20committee%20%22%3B%2Cc0%3B%2Cs0%3B%3B%22%20Ethics%20Committee%20%22%3B%2Cc0%3B%3B%22%20ethics%20committee%20%22%3B%2Cc0%3B.t4%3B%2C%22%20informed%20consent%20%22%3B%2Cc0%3B%2Cs0%3B%3B%22%20informed%20consent%20%22%3B%2Cc0%3B%3B%22%20Informed%20Consent%20%22%3B%2Cc0%3B%3B%22%20Informed%20consent%20%22%3B%2Cc0%3B%3B%22%20INFORMED%20CONSENT%20%22%3B%2Cc0)
@@ -42,7 +42,9 @@ The talk itself will be given on the basis of [https://github.com/Daniel-Mietche
        - This is where persistent identifiers come in
     - [(irb OR ethics OR ethical) AND (approved OR approval OR consent)](http://tweetedtimes.com/v/13396)
 
-#Rejected submissions
+#Combined poster and demo
+The following four topics will be turned into a poster, on the basis of which I plan to demo them to poster visitors.
+
 - Should each version of a research object get a new DOI?
 
 - Data management plans are gaining ground as a component of the research funding process. However, they can also be used as implied by their name, i.e. to manage data. An important step in this direction would be to make data management plans machine actionable, which would mean to embed them into a network of datasets, repositories, grants, researchers, publications et al. that all have PIDs.
