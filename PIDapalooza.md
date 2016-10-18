@@ -24,6 +24,7 @@ The talk itself will be given on the basis of [https://github.com/Daniel-Mietche
     - ["The **relevant ethics approval** for **this study** was granted by a **Department of Primary Industries NSW Animal Ethics Committee** of qualified scientific and lay members (**AEC Number 100802/04**)"](https://doi.org/10.1186/s40317-016-0107-6)
     - ["The data collected anonymously will be made available to any research group in the world following the data-sharing agreement initiative (http://www.wellcome.ac.uk/News/Media-office/Press-releases/2016/WTP060169.htm), provided that they have a clear, non-redundant research question and a **biomedical research Ethics committee approval**"](https://epgl.unige.ch/zika-in-pregnancy-registry/)
     - ["Does your work need IRB approval? Better check, says author of **retracted paper**"](http://retractionwatch.com/2016/09/30/does-your-work-need-irb-approval-better-check-says-author-of-retracted-paper/)
+    - ["The article included the statement ‘Ethics approval Regional Medical Ethics committee of medical and health research ethics, South East Norway, and the Norwegian data inspectorate’, when in fact the study did not itself have approval."](https://doi.org/10.1136/bjsports-2014-094053ret)
 
   - questions:
     - Which aspect of the research triggered the need for ethics approval?
