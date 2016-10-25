@@ -42,6 +42,7 @@ The talk itself will be given on the basis of [https://github.com/Daniel-Mietche
     - ["Make all documentation around ethical approval and consent freely available"](https://doi.org/10.1136/bmj.i4626)
        - This is where persistent identifiers come in
     - [(irb OR ethics OR ethical) AND (approved OR approval OR consent)](http://tweetedtimes.com/v/13396)
+    - [Is Europe ready for centralised ethical approval?](http://cancerworld.net/spotlight-on/policy-is-europe-ready-for-centralised-ethical-approval/)
 
 #Combined poster and demo
 The following four topics will be turned into a poster, on the basis of which I plan to demo them to poster visitors.
