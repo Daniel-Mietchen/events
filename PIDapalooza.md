@@ -38,6 +38,7 @@ The talk itself will be given on the basis of [https://github.com/Daniel-Mietche
   - [(irb OR ethics OR ethical) AND (approved OR approval OR consent)](http://tweetedtimes.com/v/13396)
   - [Is Europe ready for centralised ethical approval?](http://cancerworld.net/spotlight-on/policy-is-europe-ready-for-centralised-ethical-approval/)
   - [Wikimedia Commons Category:Clinical research documents](https://commons.wikimedia.org/wiki/Category:Clinical_research_documents)
+  - ["The Rise of Ethnic Politics in Latin America"](https://doi.org/10.5064/F6MS3QNV) (data collection with full ethics documentation)
 
 # Combined poster and demo
 The following four topics will be turned into a poster, on the basis of which I plan to demo them to poster visitors.
