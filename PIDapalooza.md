@@ -29,6 +29,7 @@ The talk itself will be given on the basis of [https://github.com/Daniel-Mietche
   - How can I find out whether my current, past or planned research would be subject to ethics approval?
 
 ## Resources:
+  - [Declaration of Helsinki](https://en.wikipedia.org/wiki/Declaration_of_Helsinki)
   - ["Make all documentation around ethical approval and consent freely available &mdash; Blank consent forms should be made publicly available alongside trial registration, accompanied by the participant information sheet. Similarly, correspondence with ethics committees and other bodies with a similar role should routinely be made publicly available. This will allow ethics processes to be independently reviewed, publically discussed, and learnt from."](https://doi.org/10.1136/bmj.i4626)
        - This is where persistent identifiers come in
   - ["The research protocol must be submitted for consideration, comment, guidance and approval to the concerned research ethics committee before the study begins. This committee must be transparent in its functioning, must be independent of the researcher, the sponsor and any other undue influence and must be duly qualified."](http://www.wma.net/en/30publications/10policies/b3/)
