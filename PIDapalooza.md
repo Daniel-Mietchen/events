@@ -1,14 +1,15 @@
 *[About](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza#about)・[Making Ethics data FAIR](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#making-ethics-data-fair)・[Combined poster and demo](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#combined-poster-and-demo)*
 
-#Making ethics data FAIR
+# Making ethics data FAIR
+## Abstract
 So far, most of the ecosystem of ethical review of past, present and future research is basically hidden. This secrecy is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Not surprisingly, it has thus been suggested to ["[m]ake all documentation around ethical approval and consent freely available"](https://doi.org/10.1136/bmj.i4626), which is where persistent (and preferably unique) identifers come in handy.
 
 Assigning PIDs to important components of the ethical review process (e.g. [IRB](https://en.wikipedia.org/wiki/Institutional_review_board) or other ethics committee, review requests, reviews, IRB decisions) and making that information accessible to humans and machines could pave the way for ethical aspects of research to be included more prominently in research communication. For research data, the [FAIR principles](http://dx.doi.org/10.1038/sdata.2016.18) have been established to ensure that data are Findable, Accessible, Interoperable and Reusable.
 
 The talk itself will be given on the basis of [https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md), which will be continuously expanded until the event takes place, and possibly thereafter.
 
-##Background
-  - examples (emphasis added to highlight opportunities for using PIDs):
+## Examples from the literature
+  - emphasis added to highlight opportunities for using persistent identifiers:
     - ["The **proposed investigation** received the **approval** of the **Ethics Committee of the United Oxford Hospitals**."](https://doi.org/10.1111/j.1365-2044.1971.tb04793.x)
     - ["The **study** was approved by the **ethics committee** of **the hospital**, and **the patients** gave **informed consent**."](https://doi.org/10.1056/NEJM199010113231505)
     - ["The **project** was **approved** by **two local Ethics Committees and one national committee"**](https://doi.org/10.1177/030006057300100505)
@@ -28,11 +29,11 @@ The talk itself will be given on the basis of [https://github.com/Daniel-Mietche
   - How can I find out whether my current, past or planned research would be subject to ethics approval?
 
 ## Resources:
+  - ["Make all documentation around ethical approval and consent freely available &mdash; Blank consent forms should be made publicly available alongside trial registration, accompanied by the participant information sheet. Similarly, correspondence with ethics committees and other bodies with a similar role should routinely be made publicly available. This will allow ethics processes to be independently reviewed, publically discussed, and learnt from."](https://doi.org/10.1136/bmj.i4626)
+       - This is where persistent identifiers come in
   - ["The research protocol must be submitted for consideration, comment, guidance and approval to the concerned research ethics committee before the study begins. This committee must be transparent in its functioning, must be independent of the researcher, the sponsor and any other undue influence and must be duly qualified."](http://www.wma.net/en/30publications/10policies/b3/)
      - not machine actionable (cf. [making data management plans machine actionable and public](http://www.slideshare.net/StephanieSimms/making-dmps-actionable-and-public))
   - [timeline "ethics committee" vs. "informed consent"](https://books.google.com/ngrams/graph?content=%22ethics+committee%22%2C%22informed+consent%22&case_insensitive=on&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t4%3B%2C%22%20ethics%20committee%20%22%3B%2Cc0%3B%2Cs0%3B%3B%22%20Ethics%20Committee%20%22%3B%2Cc0%3B%3B%22%20ethics%20committee%20%22%3B%2Cc0%3B.t4%3B%2C%22%20informed%20consent%20%22%3B%2Cc0%3B%2Cs0%3B%3B%22%20informed%20consent%20%22%3B%2Cc0%3B%3B%22%20Informed%20Consent%20%22%3B%2Cc0%3B%3B%22%20Informed%20consent%20%22%3B%2Cc0%3B%3B%22%20INFORMED%20CONSENT%20%22%3B%2Cc0)
-  - ["Make all documentation around ethical approval and consent freely available"](https://doi.org/10.1136/bmj.i4626)
-       - This is where persistent identifiers come in
   - [(irb OR ethics OR ethical) AND (approved OR approval OR consent)](http://tweetedtimes.com/v/13396)
   - [Is Europe ready for centralised ethical approval?](http://cancerworld.net/spotlight-on/policy-is-europe-ready-for-centralised-ethical-approval/)
   - [Wikimedia Commons Category:Clinical research documents](https://commons.wikimedia.org/wiki/Category:Clinical_research_documents)
