@@ -1,13 +1,4 @@
-#About
-This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), a conference dedicated to [persistent identifiers](https://en.wikipedia.org/wiki/Persistent_identifier) that is to take place on November 9-10, 2016, in Reykjavík.
-
-On September 30, I was contacted "on behalf of the PIDapalooza Program Committee to inform you that one of your proposals for a session at the open festival of persistent identifiers has been accepted. We received a huge number of submissions, and will have more than 40 speakers. In light of this, it was not possible to fit in more than one of your submissions to our program. The proposal that emerged from the review process with the highest marks was on the topic of 'An API for ethics'.
-
-I would also like to add that we would be happy to offer you a poster slot as well, for you to discuss some of the other interesting ideas you put forward. Please let me know if you would like to take this offer up."
-
-It is thus the "An [API](https://en.wikipedia.org/wiki/Application_programming_interface) for ethics" topic that I will develop into a talk, which will be given on the basis of this GitHub repo. I have since changed the title a bit &mdash; the original one was just a shorthand for an ecosystem of ethics-related infrastructure, for which the singular phrase "an API" might be misleading.
-
-I will address the other submissions in a combined poster and demo (see [below](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#combined-poster-and-demo)).
+*[About](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza#about)・[Making Ethics data FAIR]()・[Combined poster and demo]()*
 
 #Making ethics data FAIR
 So far, most of the ecosystem of ethical review of past, present and future research is basically hidden. This secrecy is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Not surprisingly, it has thus been suggested to ["[m]ake all documentation around ethical approval and consent freely available"](https://doi.org/10.1136/bmj.i4626), which is where persistent (and preferably unique) identifers come in handy.
@@ -16,7 +7,7 @@ Assigning PIDs to important components of the ethical review process (e.g. [IRB]
 
 The talk itself will be given on the basis of [https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md), which will be continuously expanded until the event takes place, and possibly thereafter.
 
-#Introduction
+#Background
   - examples (emphasis added to highlight opportunities for using PIDs):
     - ["The **proposed investigation** received the **approval** of the **Ethics Committee of the United Oxford Hospitals**."](https://doi.org/10.1111/j.1365-2044.1971.tb04793.x)
     - ["The **study** was approved by the **ethics committee** of **the hospital**, and **the patients** gave **informed consent**."](https://doi.org/10.1056/NEJM199010113231505)
@@ -56,3 +47,15 @@ The following four topics will be turned into a poster, on the basis of which I 
 - The most common way of constructing an ontology is to define the terms and then (maybe) give them an identifier. Another way of going about it would be to start with identifiers for the terms, which could then be annotated with relations between the terms and between terms and the outside world if needed, and expanded to use natural language. The same could be done for the relations between terms, and I would like to discuss this approach on the basis of experiences gathered by contributing to Wikidata.
 
 - Many libraries are curating a set of publications for which they know not just the string of characters that represents the authors' names, but also something about the authors' identities, though not necessarily using PIDs. ORCIDs are a way of bringing PIDs to authors of scholarly publications, but they do not go back sufficiently in time to cover all authors of scholarly publications throughout history, nor do they cover authors more broadly. Wikidata has both functionalities, and could serve as a bridge between authors that do and do not have an ORCID, at least for those that are notable by Wikidata standards.
+
+#About
+This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), a conference dedicated to [persistent identifiers](https://en.wikipedia.org/wiki/Persistent_identifier) that is to take place on November 9-10, 2016, in Reykjavík.
+
+On September 30, I was contacted "on behalf of the PIDapalooza Program Committee to inform you that one of your proposals for a session at the open festival of persistent identifiers has been accepted. We received a huge number of submissions, and will have more than 40 speakers. In light of this, it was not possible to fit in more than one of your submissions to our program. The proposal that emerged from the review process with the highest marks was on the topic of 'An API for ethics'.
+
+I would also like to add that we would be happy to offer you a poster slot as well, for you to discuss some of the other interesting ideas you put forward. Please let me know if you would like to take this offer up."
+
+It is thus the "An [API](https://en.wikipedia.org/wiki/Application_programming_interface) for ethics" topic that I will develop into a talk, which will be given on the basis of this GitHub repo. I have since changed the title a bit &mdash; the original one was just a shorthand for an ecosystem of ethics-related infrastructure, for which the singular phrase "an API" might be misleading.
+
+I will address the other submissions in a combined poster and demo (see [below](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#combined-poster-and-demo)).
+
