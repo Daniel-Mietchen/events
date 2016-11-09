@@ -1,4 +1,4 @@
-*[About](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza#about)・[Making Ethics data FAIR]()・[Combined poster and demo]()*
+*[About](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza#about)・[Making Ethics data FAIR](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#making-ethics-data-fair)・[Combined poster and demo](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#combined-poster-and-demo)*
 
 #Making ethics data FAIR
 So far, most of the ecosystem of ethical review of past, present and future research is basically hidden. This secrecy is a barrier to communicating ethical aspects of research, establishing best practices and standards, and educating researchers and the public about this topic. Not surprisingly, it has thus been suggested to ["[m]ake all documentation around ethical approval and consent freely available"](https://doi.org/10.1136/bmj.i4626), which is where persistent (and preferably unique) identifers come in handy.
@@ -7,7 +7,7 @@ Assigning PIDs to important components of the ethical review process (e.g. [IRB]
 
 The talk itself will be given on the basis of [https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md), which will be continuously expanded until the event takes place, and possibly thereafter.
 
-#Background
+##Background
   - examples (emphasis added to highlight opportunities for using PIDs):
     - ["The **proposed investigation** received the **approval** of the **Ethics Committee of the United Oxford Hospitals**."](https://doi.org/10.1111/j.1365-2044.1971.tb04793.x)
     - ["The **study** was approved by the **ethics committee** of **the hospital**, and **the patients** gave **informed consent**."](https://doi.org/10.1056/NEJM199010113231505)
@@ -17,27 +17,27 @@ The talk itself will be given on the basis of [https://github.com/Daniel-Mietche
     - ["The **article** included the statement ‘**Ethics approval Regional** **Medical Ethics committee of medical and health research ethics, South East Norway**, and the **Norwegian data inspectorate**’, when in fact the study did not itself have approval."](https://doi.org/10.1136/bjsports-2014-094053ret)
     - ["The **relevant ethics approval** for **this study** was granted by a **Department of Primary Industries NSW Animal Ethics Committee** of qualified scientific and lay members (**AEC Number 100802/04**). Field work was carried out under **NSW Fisheries Scientific Collection** Permit **P01/0059(A)-2.0**."](https://doi.org/10.1186/s40317-016-0107-6)
 
-  - questions:
-    - Which aspect of the research triggered the need for ethics approval?
-    - How can I find the relevant documentation (e.g. "AEC Number 100802/04" or the informed consent forms)?
-    - What options did the relevant Ethics Committee(s) have to choose from?
-    - Was there any discussion within the Committee?
-    - Was there any discussion with the team who had requested the approval?
-    - Was there any modification to the request as a consequence of the approval process?
-    - How to find past approvals or rejections for similar research?
-    - How can I find out whether my current, past or planned research would be subject to ethics approval?
+## Questions:
+  - Which aspect of the research triggered the need for ethics approval?
+  - How can I find the relevant documentation (e.g. "AEC Number 100802/04" or the informed consent forms)?
+  - What options did the relevant Ethics Committee(s) have to choose from?
+  - Was there any discussion within the Committee?
+  - Was there any discussion with the team who had requested the approval?
+  - Was there any modification to the request as a consequence of the approval process?
+  - How to find past approvals or rejections for similar research?
+  - How can I find out whether my current, past or planned research would be subject to ethics approval?
 
-  - resources:
-    - ["The research protocol must be submitted for consideration, comment, guidance and approval to the concerned research ethics committee before the study begins. This committee must be transparent in its functioning, must be independent of the researcher, the sponsor and any other undue influence and must be duly qualified."](http://www.wma.net/en/30publications/10policies/b3/)
-       - not machine actionable (cf. [making data management plans machine actionable and public](http://www.slideshare.net/StephanieSimms/making-dmps-actionable-and-public))
-    - [timeline "ethics committee" vs. "informed consent"](https://books.google.com/ngrams/graph?content=%22ethics+committee%22%2C%22informed+consent%22&case_insensitive=on&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t4%3B%2C%22%20ethics%20committee%20%22%3B%2Cc0%3B%2Cs0%3B%3B%22%20Ethics%20Committee%20%22%3B%2Cc0%3B%3B%22%20ethics%20committee%20%22%3B%2Cc0%3B.t4%3B%2C%22%20informed%20consent%20%22%3B%2Cc0%3B%2Cs0%3B%3B%22%20informed%20consent%20%22%3B%2Cc0%3B%3B%22%20Informed%20Consent%20%22%3B%2Cc0%3B%3B%22%20Informed%20consent%20%22%3B%2Cc0%3B%3B%22%20INFORMED%20CONSENT%20%22%3B%2Cc0)
-    - ["Make all documentation around ethical approval and consent freely available"](https://doi.org/10.1136/bmj.i4626)
+## Resources:
+  - ["The research protocol must be submitted for consideration, comment, guidance and approval to the concerned research ethics committee before the study begins. This committee must be transparent in its functioning, must be independent of the researcher, the sponsor and any other undue influence and must be duly qualified."](http://www.wma.net/en/30publications/10policies/b3/)
+     - not machine actionable (cf. [making data management plans machine actionable and public](http://www.slideshare.net/StephanieSimms/making-dmps-actionable-and-public))
+  - [timeline "ethics committee" vs. "informed consent"](https://books.google.com/ngrams/graph?content=%22ethics+committee%22%2C%22informed+consent%22&case_insensitive=on&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t4%3B%2C%22%20ethics%20committee%20%22%3B%2Cc0%3B%2Cs0%3B%3B%22%20Ethics%20Committee%20%22%3B%2Cc0%3B%3B%22%20ethics%20committee%20%22%3B%2Cc0%3B.t4%3B%2C%22%20informed%20consent%20%22%3B%2Cc0%3B%2Cs0%3B%3B%22%20informed%20consent%20%22%3B%2Cc0%3B%3B%22%20Informed%20Consent%20%22%3B%2Cc0%3B%3B%22%20Informed%20consent%20%22%3B%2Cc0%3B%3B%22%20INFORMED%20CONSENT%20%22%3B%2Cc0)
+  - ["Make all documentation around ethical approval and consent freely available"](https://doi.org/10.1136/bmj.i4626)
        - This is where persistent identifiers come in
-    - [(irb OR ethics OR ethical) AND (approved OR approval OR consent)](http://tweetedtimes.com/v/13396)
-    - [Is Europe ready for centralised ethical approval?](http://cancerworld.net/spotlight-on/policy-is-europe-ready-for-centralised-ethical-approval/)
+  - [(irb OR ethics OR ethical) AND (approved OR approval OR consent)](http://tweetedtimes.com/v/13396)
+  - [Is Europe ready for centralised ethical approval?](http://cancerworld.net/spotlight-on/policy-is-europe-ready-for-centralised-ethical-approval/)
   - [Wikimedia Commons Category:Clinical research documents](https://commons.wikimedia.org/wiki/Category:Clinical_research_documents)
 
-#Combined poster and demo
+# Combined poster and demo
 The following four topics will be turned into a poster, on the basis of which I plan to demo them to poster visitors.
 
 - Should each version of a research object get a new DOI?
