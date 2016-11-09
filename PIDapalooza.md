@@ -21,10 +21,10 @@ The talk itself will be given on the basis of [https://github.com/Daniel-Mietche
     - ["The **proposed investigation** received the **approval** of the **Ethics Committee of the United Oxford Hospitals**."](https://doi.org/10.1111/j.1365-2044.1971.tb04793.x)
     - ["The **study** was approved by the **ethics committee** of **the hospital**, and **the patients** gave **informed consent**."](https://doi.org/10.1056/NEJM199010113231505)
     - ["The **project** was **approved** by **two local Ethics Committees and one national committee"**](https://doi.org/10.1177/030006057300100505)
-    - ["The **relevant ethics approval** for **this study** was granted by a **Department of Primary Industries NSW Animal Ethics Committee** of qualified scientific and lay members (**AEC Number 100802/04**)"](https://doi.org/10.1186/s40317-016-0107-6)
     - ["The data collected anonymously will be made available to any research group in the world following the data-sharing agreement initiative (http://www.wellcome.ac.uk/News/Media-office/Press-releases/2016/WTP060169.htm), provided that they have a clear, non-redundant research question and a **biomedical research Ethics committee approval**"](https://epgl.unige.ch/zika-in-pregnancy-registry/)
     - ["Does your work need IRB approval? Better check, says author of **retracted paper**"](http://retractionwatch.com/2016/09/30/does-your-work-need-irb-approval-better-check-says-author-of-retracted-paper/)
     - ["The **article** included the statement ‘**Ethics approval Regional** **Medical Ethics committee of medical and health research ethics, South East Norway**, and the **Norwegian data inspectorate**’, when in fact the study did not itself have approval."](https://doi.org/10.1136/bjsports-2014-094053ret)
+    - ["The **relevant ethics approval** for **this study** was granted by a **Department of Primary Industries NSW Animal Ethics Committee** of qualified scientific and lay members (**AEC Number 100802/04**). Field work was carried out under **NSW Fisheries Scientific Collection** Permit **P01/0059(A)-2.0**."](https://doi.org/10.1186/s40317-016-0107-6)
 
   - questions:
     - Which aspect of the research triggered the need for ethics approval?
@@ -34,6 +34,7 @@ The talk itself will be given on the basis of [https://github.com/Daniel-Mietche
     - Was there any discussion with the team who had requested the approval?
     - Was there any modification to the request as a consequence of the approval process?
     - How to find past approvals or rejections for similar research?
+    - How can I find out whether my current, past or planned research would be subject to ethics approval?
 
   - resources:
     - ["The research protocol must be submitted for consideration, comment, guidance and approval to the concerned research ethics committee before the study begins. This committee must be transparent in its functioning, must be independent of the researcher, the sponsor and any other undue influence and must be duly qualified."](http://www.wma.net/en/30publications/10policies/b3/)
@@ -43,6 +44,7 @@ The talk itself will be given on the basis of [https://github.com/Daniel-Mietche
        - This is where persistent identifiers come in
     - [(irb OR ethics OR ethical) AND (approved OR approval OR consent)](http://tweetedtimes.com/v/13396)
     - [Is Europe ready for centralised ethical approval?](http://cancerworld.net/spotlight-on/policy-is-europe-ready-for-centralised-ethical-approval/)
+  - [Wikimedia Commons Category:Clinical research documents](https://commons.wikimedia.org/wiki/Category:Clinical_research_documents)
 
 #Combined poster and demo
 The following four topics will be turned into a poster, on the basis of which I plan to demo them to poster visitors.
