@@ -40,19 +40,8 @@ The talk itself will be given on the basis of [https://github.com/Daniel-Mietche
   - [(irb OR ethics OR ethical) AND (approved OR approval OR consent)](http://tweetedtimes.com/v/13396)
   - [Is Europe ready for centralised ethical approval?](http://cancerworld.net/spotlight-on/policy-is-europe-ready-for-centralised-ethical-approval/)
 
-# Combined poster and demo
-The following four topics will be turned into a poster, on the basis of which I plan to demo them to poster visitors.
-
-- Should each version of a research object get a new DOI?
-
-- Data management plans are gaining ground as a component of the research funding process. However, they can also be used as implied by their name, i.e. to manage data. An important step in this direction would be to make data management plans machine actionable, which would mean to embed them into a network of datasets, repositories, grants, researchers, publications et al. that all have PIDs.
-
-- The most common way of constructing an ontology is to define the terms and then (maybe) give them an identifier. Another way of going about it would be to start with identifiers for the terms, which could then be annotated with relations between the terms and between terms and the outside world if needed, and expanded to use natural language. The same could be done for the relations between terms, and I would like to discuss this approach on the basis of experiences gathered by contributing to Wikidata.
-
-- Many libraries are curating a set of publications for which they know not just the string of characters that represents the authors' names, but also something about the authors' identities, though not necessarily using PIDs. ORCIDs are a way of bringing PIDs to authors of scholarly publications, but they do not go back sufficiently in time to cover all authors of scholarly publications throughout history, nor do they cover authors more broadly. Wikidata has both functionalities, and could serve as a bridge between authors that do and do not have an ORCID, at least for those that are notable by Wikidata standards.
-
 #About
-This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), a conference dedicated to [persistent identifiers](https://en.wikipedia.org/wiki/Persistent_identifier) that is to take place on November 9-10, 2016, in Reykjavík.
+This file hosts my submissions to [PIDapalooza](http://pidapalooza.org/), a conference dedicated to [persistent identifiers](https://en.wikipedia.org/wiki/Persistent_identifier) that took place on November 9-10, 2016, in Reykjavík.
 
 On September 30, I was contacted "on behalf of the PIDapalooza Program Committee to inform you that one of your proposals for a session at the open festival of persistent identifiers has been accepted. We received a huge number of submissions, and will have more than 40 speakers. In light of this, it was not possible to fit in more than one of your submissions to our program. The proposal that emerged from the review process with the highest marks was on the topic of 'An API for ethics'.
 
@@ -60,5 +49,16 @@ I would also like to add that we would be happy to offer you a poster slot as we
 
 It is thus the "An [API](https://en.wikipedia.org/wiki/Application_programming_interface) for ethics" topic that I will develop into a talk, which will be given on the basis of this GitHub repo. I have since changed the title a bit &mdash; the original one was just a shorthand for an ecosystem of ethics-related infrastructure, for which the singular phrase "an API" might be misleading.
 
-I will address the other submissions in a combined poster and demo (see [below](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#combined-poster-and-demo)).
+I will address the other submissions in the combined poster and demo (see [below](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#combined-poster-and-demo)).
+
+# Combined poster and demo
+My original plan was to turn these four topics into a poster, on the basis of which I was planning to demo them to poster visitors. However, the poster session was later reshaped to something more freestyle, and the first of these topics has been directly addressed in another talk (Stephanie Simms: "PIDs in DMPs: spinning tracks with syntax"), whereas the second and third were partly covered by Arthur Smith's "Wikidata and Persistent Identifiers". This left the fourth, which I addressed in multiple conversations that ranged from integrating the Memento protocol with MediaWiki to updates of Crossref metadata records.
+
+- Data management plans are gaining ground as a component of the research funding process. However, they can also be used as implied by their name, i.e. to manage data. An important step in this direction would be to make data management plans machine actionable, which would mean to embed them into a network of datasets, repositories, grants, researchers, publications et al. that all have PIDs.
+
+- The most common way of constructing an ontology is to define the terms and then (maybe) give them an identifier. Another way of going about it would be to start with identifiers for the terms, which could then be annotated with relations between the terms and between terms and the outside world if needed, and expanded to use natural language. The same could be done for the relations between terms, and I would like to discuss this approach on the basis of experiences gathered by contributing to Wikidata.
+
+- Many libraries are curating a set of publications for which they know not just the string of characters that represents the authors' names, but also something about the authors' identities, though not necessarily using PIDs. ORCIDs are a way of bringing PIDs to authors of scholarly publications, but they do not go back sufficiently in time to cover all authors of scholarly publications throughout history, nor do they cover authors more broadly. Wikidata has both functionalities, and could serve as a bridge between authors that do and do not have an ORCID, at least for those that are notable by Wikidata standards.
+
+- Should each version of a research object get a new persistent identifier?
 
