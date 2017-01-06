@@ -47,3 +47,5 @@ I am interested in ways in which technology could be leveraged in the context of
 Information on Wikimedia and Open Access is summarized in https://blog.wikimedia.org/2014/01/15/wikimedia-and-open-access/ , with monthly updates in https://outreach.wikimedia.org/wiki/Category:This_Month_in_GLAM_Open_Access_reports .
 
 I participated in past MozSprints. In 2016, I had suggested a project (cf. https://github.com/mozillascience/global-sprint-2016/issues/53 ) but did not find others who wanted to join in, so I contributed to a related project (cf. https://github.com/mozillascience/global-sprint-2016/issues/36 ).
+
+My application is also available via https://github.com/Daniel-Mietchen/talks/blob/master/MozOpenLeaders-2017.md .
