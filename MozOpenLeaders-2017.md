@@ -1,5 +1,5 @@
 #About
-This file hosts the free-text parts of my application for [MozOpenLeaders 2017](https://medium.com/read-write-participate/are-you-building-in-the-open-join-forces-with-mozilla-a791dbb5c74b) (the rest were basically multiple-choice questions or about personal information).
+This file hosts the free-text parts of my application for [MozOpenLeaders 2017](https://medium.com/read-write-participate/are-you-building-in-the-open-join-forces-with-mozilla-a791dbb5c74b) (the rest were basically multiple-choice questions or about personal information). It was [submitted](https://twitter.com/EvoMRI/status/817180729432018944) on January 6, 2017, to a January 20th deadline.
 
 # Your Project
 
