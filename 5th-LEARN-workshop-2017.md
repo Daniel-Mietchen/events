@@ -65,13 +65,14 @@ As the interest in research data management is growing in many parts of the rese
    * and, in particular, "lead efforts to promulgate and implement best practices in open source, open science, standards, and data harmonization, forming partnerships across communities, stakeholder organizations, agencies, and countries" as well as "be an active participant in the design and oversight of programs that incentivize and celebrate the open sharing of data and resources."
 
 ## Interactions of policies
-* additionally, consider, for every collaborator on a project
+* for every collaborator on a project
   - discipline-specific policies
   - journal-specific policies
   - policies regarding the sharing of data, databases, code, text, multimedia, patient inforation, sensitive information etc.
   - institution-specific policies
   - funder-specific policies
   - platform-specific policies
+  - ethics
 
 # Data management plans
 * Anyone here ever booked an organized travel? What did your travel agency provide you with?
@@ -83,6 +84,9 @@ As the interest in research data management is growing in many parts of the rese
 
 # Data sharing in public health emergencies
 * [separate talk](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md)
+
+# Making ethics data FAIR
+* [separate talk](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md)
 
 # Data integration
 * [PubChem CIDs of drugs known to interact with biological processes involved in diseases](https://query.wikidata.org/#%23cases%20where%20a%20drug%20physically%20interacts%20with%20the%20product%20of%20gene%20known%20to%20be%20genetically%20associated%20a%20disease%0A%23these%20cases%20may%20show%20opportunities%20to%20repurpose%20a%20drug%20for%20a%20new%20disease%0A%23See%20http%3A%2F%2Fdatabase.oxfordjournals.org%2Fcontent%2F2016%2Fbaw083.long%20%20and%0A%23http%3A%2F%2Fdrug-repurposing.nationwidechildrens.org%2Fsearch%0A%23an%20example%20that%20was%20recently%20validated%20involved%20a%20new%20link%20between%20Metformin%20wd%3AQ19484%20and%20cancer%20survival%20%0A%23https%3A%2F%2Fjamia.oxfordjournals.org%2Fcontent%2F22%2F1%2F179%0A%23currently%20set%20up%20to%20find%20drugs%20for%20cancers%20that%20target%20genes%20related%20to%20cell%20proliferation%0A%23adapt%20by%20changing%20constraints%20%28e.g.%20to%20%27heart%20disease%27%20Q190805%29%20or%20removing%20them%20%0ASELECT%20DISTINCT%20%3Fcid%20%3FdrugLabel%20%3FgeneLabel%20%3Fbiological_processLabel%20%3FdiseaseLabel%0AWHERE%20%7B%0A%20%20%3Fdrug%20wdt%3AP129%20%3Fgene_product%20%3B%20%20%09%23%20drug%20interacts%20with%20a%20gene_product%20%0A%20%20%20%20%20%20%20%20wdt%3AP662%20%3Fcid%20.%09%09%09%09%23PubChem%20CID%0A%20%20%3Fgene%20wdt%3AP688%20%3Fgene_product%20.%20%20%23%20gene_product%20%28usually%20a%20protein%29%20is%20a%20product%20of%20a%20gene%20%28a%20region%20of%20DNA%29%0A%20%20%3Fdisease%09wdt%3AP2293%20%3Fgene%20.%20%20%20%20%23%20genetic%20association%20between%20disease%20and%20gene%20%0A%20%20%3Fdisease%20wdt%3AP279%2a%20%20wd%3AQ12078%20.%20%20%23%20limit%20to%20cancers%20wd%3AQ12078%20%28the%20%2a%20operator%20runs%20up%20a%20transitive%20relation..%29%0A%20%20%3Fgene_product%20wdt%3AP682%20%3Fbiological_process%20.%20%23add%20information%20about%20the%20GO%20biological%20processes%20that%20the%20gene%20is%20related%20to%20%20%0A%20%20%23limit%20to%20genes%20related%20to%20certain%20biological%20processes%20%28and%20their%20sub-processes%29%3A%0A%20%20%09%09%23apoptosis%20wd%3AQ14599311%20%0A%20%20%09%09%23cell%20proliferation%20wd%3AQ14818032%0A%20%20%7B%3Fbiological_process%20wdt%3AP279%2a%20wd%3AQ14818032%20%7D%20%23%20chain%20down%20subclass%0A%20%20%20UNION%20%0A%20%20%7B%3Fbiological_process%20wdt%3AP361%2a%20wd%3AQ14818032%20%7D%20%23%20chain%20down%20part%20of%0A%20%20%20%20%23uncomment%20the%20next%20line%20to%20find%20a%20subset%20of%20the%20known%20true%20positives%20%28there%20are%20not%20a%20lot%20of%20them%20in%20here%20yet%29%0A%20%20%23%3Fdisease%20wdt%3AP2176%20%3Fdrug%20.%20%09%23%20disease%20is%20treated%20by%20a%20drug%20%0A%20%20%09SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%0A%09%7D%0A%7D%0ALIMIT%201000)
