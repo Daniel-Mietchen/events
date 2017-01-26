@@ -95,11 +95,12 @@ As the interest in research data management is growing in many parts of the rese
 * [intramural/ extramural](http://www.niaid.nih.gov/researchfunding/qa/pages/extraintra.aspx#difference)
 
 ## At [NIH Institutes and Centers](http://www.nih.gov/icd/)
-* 27 of them, e.g. the National Library of Medicine (NLM)
+* 27 of them, e.g. the National Library of Medicine (NLM), where I am an intramural researcher
 * The [report on the strategic vision for the National Library of Medicine](http://acd.od.nih.gov/reports/Report-NLM-06112015-ACD.pdf) recommends that NLM should
    * "be a leader and innovator in open science efforts worldwide"
    * "lead efforts to support and catalyze open science, data sharing, and research reproducibility, striving to promote the concept that biomedical information and its transparent analysis are public"
    * and, in particular, "lead efforts to promulgate and implement best practices in open source, open science, standards, and data harmonization, forming partnerships across communities, stakeholder organizations, agencies, and countries" as well as "be an active participant in the design and oversight of programs that incentivize and celebrate the open sharing of data and resources."
+* My [comments](https://github.com/Daniel-Mietchen/datascience/blob/master/nlm-strategic-plan.md) on how to do this in practice.
 
 ## Interactions of policies 
 * for every collaborator on a project
