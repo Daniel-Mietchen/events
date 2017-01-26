@@ -73,6 +73,8 @@ As the interest in research data management is growing in many parts of the rese
   - funder-specific policies
   - platform-specific policies
   - ethics
+* [Summary of Open Data Policy Harmonization Workshop](http://sparcopen.org/policy-harmonization-statement/summary/)
+  
 
 # Data management plans
 * Anyone here ever booked an organized travel? What did your travel agency provide you with?
