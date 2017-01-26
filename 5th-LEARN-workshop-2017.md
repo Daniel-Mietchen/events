@@ -35,13 +35,12 @@ As the interest in research data management is growing in many parts of the rese
 ### DMP framework
 * Framework was "submitted to several communities" but amongst the [search results for "DMP framework"](https://www.google.com/search?q=dmp+framework), none are obviously related to Science Europe?
 * 
-#### Using Data managements to enforce policies
-* Not practical at the moment
-* Need to move towards machine readable DMPs that are versioned and public
-* I'll [zoom in](https://github.com/Daniel-Mietchen/talks/blob/master/5th-LEARN-workshop-2017.md#data-management-plans) a bit here as well
-
-#### Domain Data Protocols?
-* only thing I found is slide 5 in [this presentation](http://ktu.edu/uploads/files/Bibliotekos/2016_12_6_Petrauskaite.pdf)
+* Using Data managements to enforce policies
+  - Not practical at the moment
+  - Need to move towards machine readable DMPs that are versioned and public
+  - I'll [zoom in](https://github.com/Daniel-Mietchen/talks/blob/master/5th-LEARN-workshop-2017.md#data-management-plans) a bit here as well
+* Domain Data Protocols?
+  - only thing I found is slide 5 in [this presentation](http://ktu.edu/uploads/files/Bibliotekos/2016_12_6_Petrauskaite.pdf)
 
 # Sharing policies relevant to NIH
 
