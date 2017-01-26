@@ -35,8 +35,7 @@ As the interest in research data management is growing in many parts of the rese
 
 ### DMP framework
 * Framework was "submitted to several communities" but amongst the [search results for "DMP framework"](https://www.google.com/search?q=dmp+framework), none are obviously related to Science Europe?
-* 
-* Using Data managements to enforce policies
+* Using Data management plans to enforce policies
   - Not practical at the moment
   - Need to move towards machine readable DMPs that are versioned and public
   - I'll [zoom in](https://github.com/Daniel-Mietchen/talks/blob/master/5th-LEARN-workshop-2017.md#data-management-plans) a bit here as well
@@ -106,7 +105,7 @@ As the interest in research data management is growing in many parts of the rese
 * for every collaborator on a project
   - discipline-specific policies
   - journal-specific policies
-  - policies regarding the sharing of data, databases, code, text, multimedia, patient inforation, sensitive information etc.
+  - policies regarding the sharing of data, databases, code, text, multimedia, patient information, sensitive information etc.
   - institution-specific policies
   - funder-specific policies
   - platform-specific policies
