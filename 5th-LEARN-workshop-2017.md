@@ -74,7 +74,7 @@ As the interest in research data management is growing in many parts of the rese
   - platform-specific policies
   - ethics
 * [Summary of Open Data Policy Harmonization Workshop](http://sparcopen.org/policy-harmonization-statement/summary/)
-  
+* [How to write a good open data policy](http://theodi.org/guides/writing-a-good-open-data-policy)
 
 # Data management plans
 * Anyone here ever booked an organized travel? What did your travel agency provide you with?
