@@ -64,7 +64,7 @@ As the interest in research data management is growing in many parts of the rese
    * "lead efforts to support and catalyze open science, data sharing, and research reproducibility, striving to promote the concept that biomedical information and its transparent analysis are public"
    * and, in particular, "lead efforts to promulgate and implement best practices in open source, open science, standards, and data harmonization, forming partnerships across communities, stakeholder organizations, agencies, and countries" as well as "be an active participant in the design and oversight of programs that incentivize and celebrate the open sharing of data and resources."
 
-## Interactions of policies
+## Interactions of policies (see slide 17 of Paul Ayris talk, which summarized Research funder policies relevant to University College London)
 * for every collaborator on a project
   - discipline-specific policies
   - journal-specific policies
@@ -100,4 +100,7 @@ As the interest in research data management is growing in many parts of the rese
 * see [this image](https://en.wikipedia.org/wiki/File:Open_Data_stickers.jpg) used by Paul Ayris in his talk
 
 ### Research cycle
-* It's problematic to automatically regard publication as a (and even *one*) step within the research cycle
+* We should go beyond regarding publication as a (and even *one*) step within the research cycle, but start thinking about [publishing the research process](https://doi.org/10.3897/rio.1.e7547)
+
+### Data availability
+* some funders now require that data be kept for *10 years after last consultation*
