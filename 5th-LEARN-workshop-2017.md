@@ -21,6 +21,7 @@ As the interest in research data management is growing in many parts of the rese
 
 ### Data availability
 * some funders now require that data be kept for *10 years after last consultation*
+* we should pay more attention to what should be deleted, and when (cf. CERN)
 
 ### Multitude of policies
 * see slide 17 of Paul Ayris talk, which summarized Research funder policies relevant to University College London
