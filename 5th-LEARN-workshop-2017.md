@@ -10,6 +10,39 @@ As the interest in research data management is growing in many parts of the rese
 # License
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/)/ [Public Domain](https://creativecommons.org/licenses/publicdomain/); all kinds of sharing and feedback welcome; attribution appreciated
 
+# Comments on previous talks
+## Paul Ayris
+### Slides available?
+### Discoverability
+* see [this image](https://en.wikipedia.org/wiki/File:Open_Data_stickers.jpg) used in his talk
+
+### Research cycle
+* We should go beyond regarding publication as a (and even *one*) step within the research cycle, but start thinking about [publishing the research process](https://doi.org/10.3897/rio.1.e7547)
+
+### Data availability
+* some funders now require that data be kept for *10 years after last consultation*
+
+### Multitude of policies
+* see slide 17 of Paul Ayris talk, which summarized Research funder policies relevant to University College London
+* I'll [zoom in on that](https://github.com/Daniel-Mietchen/talks/blob/master/5th-LEARN-workshop-2017.md#sharing-policies-relevant-to-nih)
+
+## Marie Timmermann
+### Slides?
+### Drivers of change
+* Science Europe argues for a bottom-up approach to open science
+* I think it's important that we encourage [all stakeholders to help advance open science](https://openscience.ub.uni-bielefeld.de/tag/stakeholders), be it bottom-up, top-down or otherwise
+
+### DMP framework
+* Framework was "submitted to several communities" but amongst the [search results for "DMP framework"](https://www.google.com/search?q=dmp+framework), none are obviously related to Science Europe?
+* 
+#### Using Data managements to enforce policies
+* Not practical at the moment
+* Need to move towards machine readable DMPs that are versioned and public
+* I'll [zoom in](https://github.com/Daniel-Mietchen/talks/blob/master/5th-LEARN-workshop-2017.md#data-management-plans) a bit here as well
+
+#### Domain Data Protocols?
+* only thing I found is slide 5 in [this presentation](http://ktu.edu/uploads/files/Bibliotekos/2016_12_6_Petrauskaite.pdf)
+
 # Sharing policies relevant to NIH
 
 ## At the international level
@@ -64,7 +97,7 @@ As the interest in research data management is growing in many parts of the rese
    * "lead efforts to support and catalyze open science, data sharing, and research reproducibility, striving to promote the concept that biomedical information and its transparent analysis are public"
    * and, in particular, "lead efforts to promulgate and implement best practices in open source, open science, standards, and data harmonization, forming partnerships across communities, stakeholder organizations, agencies, and countries" as well as "be an active participant in the design and oversight of programs that incentivize and celebrate the open sharing of data and resources."
 
-## Interactions of policies (see slide 17 of Paul Ayris talk, which summarized Research funder policies relevant to University College London)
+## Interactions of policies 
 * for every collaborator on a project
   - discipline-specific policies
   - journal-specific policies
@@ -73,6 +106,7 @@ As the interest in research data management is growing in many parts of the rese
   - funder-specific policies
   - platform-specific policies
   - ethics
+* special circumstances, e.g. [public health emergencies](https://wellcome.ac.uk/news/sharing-data-during-zika-and-other-global-health-emergencies)
 * [Summary of Open Data Policy Harmonization Workshop](http://sparcopen.org/policy-harmonization-statement/summary/)
 * [How to write a good open data policy](http://theodi.org/guides/writing-a-good-open-data-policy)
 
@@ -94,14 +128,3 @@ As the interest in research data management is growing in many parts of the rese
 * [PubChem CIDs of drugs known to interact with biological processes involved in diseases](https://query.wikidata.org/#%23cases%20where%20a%20drug%20physically%20interacts%20with%20the%20product%20of%20gene%20known%20to%20be%20genetically%20associated%20a%20disease%0A%23these%20cases%20may%20show%20opportunities%20to%20repurpose%20a%20drug%20for%20a%20new%20disease%0A%23See%20http%3A%2F%2Fdatabase.oxfordjournals.org%2Fcontent%2F2016%2Fbaw083.long%20%20and%0A%23http%3A%2F%2Fdrug-repurposing.nationwidechildrens.org%2Fsearch%0A%23an%20example%20that%20was%20recently%20validated%20involved%20a%20new%20link%20between%20Metformin%20wd%3AQ19484%20and%20cancer%20survival%20%0A%23https%3A%2F%2Fjamia.oxfordjournals.org%2Fcontent%2F22%2F1%2F179%0A%23currently%20set%20up%20to%20find%20drugs%20for%20cancers%20that%20target%20genes%20related%20to%20cell%20proliferation%0A%23adapt%20by%20changing%20constraints%20%28e.g.%20to%20%27heart%20disease%27%20Q190805%29%20or%20removing%20them%20%0ASELECT%20DISTINCT%20%3Fcid%20%3FdrugLabel%20%3FgeneLabel%20%3Fbiological_processLabel%20%3FdiseaseLabel%0AWHERE%20%7B%0A%20%20%3Fdrug%20wdt%3AP129%20%3Fgene_product%20%3B%20%20%09%23%20drug%20interacts%20with%20a%20gene_product%20%0A%20%20%20%20%20%20%20%20wdt%3AP662%20%3Fcid%20.%09%09%09%09%23PubChem%20CID%0A%20%20%3Fgene%20wdt%3AP688%20%3Fgene_product%20.%20%20%23%20gene_product%20%28usually%20a%20protein%29%20is%20a%20product%20of%20a%20gene%20%28a%20region%20of%20DNA%29%0A%20%20%3Fdisease%09wdt%3AP2293%20%3Fgene%20.%20%20%20%20%23%20genetic%20association%20between%20disease%20and%20gene%20%0A%20%20%3Fdisease%20wdt%3AP279%2a%20%20wd%3AQ12078%20.%20%20%23%20limit%20to%20cancers%20wd%3AQ12078%20%28the%20%2a%20operator%20runs%20up%20a%20transitive%20relation..%29%0A%20%20%3Fgene_product%20wdt%3AP682%20%3Fbiological_process%20.%20%23add%20information%20about%20the%20GO%20biological%20processes%20that%20the%20gene%20is%20related%20to%20%20%0A%20%20%23limit%20to%20genes%20related%20to%20certain%20biological%20processes%20%28and%20their%20sub-processes%29%3A%0A%20%20%09%09%23apoptosis%20wd%3AQ14599311%20%0A%20%20%09%09%23cell%20proliferation%20wd%3AQ14818032%0A%20%20%7B%3Fbiological_process%20wdt%3AP279%2a%20wd%3AQ14818032%20%7D%20%23%20chain%20down%20subclass%0A%20%20%20UNION%20%0A%20%20%7B%3Fbiological_process%20wdt%3AP361%2a%20wd%3AQ14818032%20%7D%20%23%20chain%20down%20part%20of%0A%20%20%20%20%23uncomment%20the%20next%20line%20to%20find%20a%20subset%20of%20the%20known%20true%20positives%20%28there%20are%20not%20a%20lot%20of%20them%20in%20here%20yet%29%0A%20%20%23%3Fdisease%20wdt%3AP2176%20%3Fdrug%20.%20%09%23%20disease%20is%20treated%20by%20a%20drug%20%0A%20%20%09SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%0A%09%7D%0A%7D%0ALIMIT%201000)
 * [Chemical compounds found in taxa](https://query.wikidata.org/#SELECT%20%3Fcid%20%3Fcompound%20%3FcompoundLabel%20%3FspeciesLabel%20%3FsourceLabel%20%3Fdoi%20%3Fwpid%20WHERE%20%7B%0A%20%20%3Fcompound%20wdt%3AP31%20wd%3AQ11173.%0A%20%20MINUS%20%7B%20%3Fcompound%20wdt%3AP31%20wd%3AQ8054.%20%7D%0A%20%20%3Fcompound%20p%3AP703%20%3Fstatement%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP662%20%3Fcid.%0A%20%20%3Fstatement%20rdf%3Atype%20wikibase%3ABestRank.%0A%20%20%3Fstatement%20ps%3AP703%20%3Fspecies.%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fstatement%20%28prov%3AwasDerivedFrom%2Fpr%3AP248%29%20%3Fsource.%0A%20%20%20%20OPTIONAL%20%7B%20%3Fstatement%20%28prov%3AwasDerivedFrom%2Fpr%3AP2410%29%20%3Fwpid.%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Fstatement%20%28prov%3AwasDerivedFrom%2Fpr%3AP356%29%20%3Fdoi.%20%7D%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%20%7D%0A%7D%0AORDER%20BY%20ASC%28%3Fcompound%29)
 
-# Comments on previous talks
-## Paul Ayris
-### Slides available?
-### Discoverability
-* see [this image](https://en.wikipedia.org/wiki/File:Open_Data_stickers.jpg) used in his talk
-
-### Research cycle
-* We should go beyond regarding publication as a (and even *one*) step within the research cycle, but start thinking about [publishing the research process](https://doi.org/10.3897/rio.1.e7547)
-
-### Data availability
-* some funders now require that data be kept for *10 years after last consultation*
