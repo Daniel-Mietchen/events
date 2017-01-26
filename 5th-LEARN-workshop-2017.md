@@ -42,6 +42,11 @@ As the interest in research data management is growing in many parts of the rese
   - I'll [zoom in](https://github.com/Daniel-Mietchen/talks/blob/master/5th-LEARN-workshop-2017.md#data-management-plans) a bit here as well
 * Domain Data Protocols?
   - only thing I found is slide 5 in [this presentation](http://ktu.edu/uploads/files/Bibliotekos/2016_12_6_Petrauskaite.pdf)
+  
+### Bureaucracy
+* Open science is often perceived as yet another layer of bureaucracy
+* Lots of bureaucratic procedures exist for reasons closely tied to the lack of transparency
+* Look for opportunities to *reduce* bureaucracy by increasing openness and transparency
 
 # Sharing policies relevant to NIH
 
