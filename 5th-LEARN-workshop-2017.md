@@ -137,3 +137,6 @@ As the interest in research data management is growing in many parts of the rese
 * [Chemical compounds found in taxa](https://query.wikidata.org/#SELECT%20%3Fcid%20%3Fcompound%20%3FcompoundLabel%20%3FspeciesLabel%20%3FsourceLabel%20%3Fdoi%20%3Fwpid%20WHERE%20%7B%0A%20%20%3Fcompound%20wdt%3AP31%20wd%3AQ11173.%0A%20%20MINUS%20%7B%20%3Fcompound%20wdt%3AP31%20wd%3AQ8054.%20%7D%0A%20%20%3Fcompound%20p%3AP703%20%3Fstatement%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP662%20%3Fcid.%0A%20%20%3Fstatement%20rdf%3Atype%20wikibase%3ABestRank.%0A%20%20%3Fstatement%20ps%3AP703%20%3Fspecies.%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fstatement%20%28prov%3AwasDerivedFrom%2Fpr%3AP248%29%20%3Fsource.%0A%20%20%20%20OPTIONAL%20%7B%20%3Fstatement%20%28prov%3AwasDerivedFrom%2Fpr%3AP2410%29%20%3Fwpid.%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Fstatement%20%28prov%3AwasDerivedFrom%2Fpr%3AP356%29%20%3Fdoi.%20%7D%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%20%7D%0A%7D%0AORDER%20BY%20ASC%28%3Fcompound%29)
 * [open data-based scientometrics](https://tools.wmflabs.org/scholia/)
 
+# See also
+
+* [Slides by Oriol Pujol](https://github.com/oriolpujol/slides/blob/master/learn2017_no_animations.pdf)
