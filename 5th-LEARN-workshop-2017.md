@@ -3,6 +3,7 @@ On January 26, 2017 in Barcelona, the [EU project LEARN (LEaders Activating Rese
 
 # Title
 Integrating policy and infrastructure in research data management: the perspective of researchers
+- [video recording](http://www.ub.edu/ubtv/es/video/developing-a-framework-for-research-data-management-protocols)
 
 # Abstract
 As the interest in research data management is growing in many parts of the research ecosystem, policies and infrastructures are being put in place in a growing number of contexts. I will comment on these developments from the perspective of researchers who are supposed to abide by the policies and to use the infrastructures for their research. Drawing on examples from the ongoing Zika virus outbreak, I will pay special attention to policy and infrastructure elements that are facilitating or complicating research data management and explore avenues for standardization.
