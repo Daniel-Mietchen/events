@@ -1,5 +1,5 @@
 # About
-On January 26, 2017 in Barcelona, the [EU project LEARN (LEaders Activating Research Networks: Implementing the LERU Research Data Roadmap and Toolkit)](http://learn-rdm.eu/) are organizing their 5th workshop on Research Data Management, entitled “[Shaping and aligning research data management policies](http://learn-rdm.eu/workshops/5th-learn-workshop/)”, to which this document is a contribution. The workshop is being live streamed and will be archived. There have also been tweets under the [#learnbcn](https://twitter.com/hashtag/learnbcn?src=hash) hashtag.
+On January 26, 2017 in Barcelona, the [EU project LEARN (LEaders Activating Research Networks: Implementing the LERU Research Data Roadmap and Toolkit)](http://learn-rdm.eu/) are organizing their 5th workshop on Research Data Management, entitled “[Shaping and aligning research data management policies](http://learn-rdm.eu/workshops/5th-learn-workshop/)”, to which this document is a contribution. The workshop has been live streamed, and the videos [archived](http://www.ub.edu/ubtv/es/colleccio/congressos-i-jornades/5th-learn-workshop-shaping-and-aligning-research-data-management-policies). There have also been tweets under the [#learnbcn](https://twitter.com/hashtag/learnbcn?src=hash) hashtag.
 
 # Title
 Integrating policy and infrastructure in research data management: the perspective of researchers
@@ -11,7 +11,7 @@ As the interest in research data management is growing in many parts of the rese
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/)/ [Public Domain](https://creativecommons.org/licenses/publicdomain/); all kinds of sharing and feedback welcome; attribution appreciated
 
 # Comments on previous talks
-## Paul Ayris
+## [Paul Ayris](http://www.ub.edu/ubtv/es/video/delivering-research-data-management-in-the-ydata-deluge)
 ### Slides available?
 ### Discoverability
 * see [this image](https://en.wikipedia.org/wiki/File:Open_Data_stickers.jpg) used in his talk
@@ -27,7 +27,7 @@ As the interest in research data management is growing in many parts of the rese
 * see slide 17 of Paul Ayris talk, which summarized Research funder policies relevant to University College London
 * I'll [zoom in on that](https://github.com/Daniel-Mietchen/talks/blob/master/5th-LEARN-workshop-2017.md#sharing-policies-relevant-to-nih)
 
-## Marie Timmermann
+## [Marie Timmermann](http://www.ub.edu/ubtv/es/video/developing-a-framework-for-research-data-management-protocols)
 ### Slides?
 ### Drivers of change
 * Science Europe argues for a bottom-up approach to open science
@@ -139,4 +139,7 @@ As the interest in research data management is growing in many parts of the rese
 
 # See also
 
-* [Slides by Oriol Pujol](https://github.com/oriolpujol/slides/blob/master/learn2017_no_animations.pdf)
+* [Talk by Eva Méndez](www.ub.edu/ubtv/es/video/opening-research-data-in-eu-universities-policies-motivators-and-challenges)
+  - [slides](http://linkis.com/com/aLOH0Et)
+* [Talk by Oriol Pujol](http://www.ub.edu/ubtv/es/video/about-data-from-a-machine-learning-perspective)
+  - [slides](https://github.com/oriolpujol/slides/blob/master/learn2017_no_animations.pdf)
