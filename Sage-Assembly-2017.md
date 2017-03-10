@@ -8,7 +8,8 @@ From the [homepage](http://sageassembly.wpengine.com/):
 # Some of my activities in this space
 
 * At work
-  - working on [data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md)
+  - helping to improve [data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md)
+  - working on [making data mangement plans machine actionable, versioned and public](https://www.slideshare.net/StephanieSimms/making-dmps-actionable-and-public)
   - helped shape the [Open Science Prize](http://openscienceprize.org/)
   - organising events like [this open research do-a-thon](https://github.com/sparcopen/Open-Research-doathon) to help bring people together around data-centric research workflows
   - helping to explore [technical aspects of preprint services in the life sciences](https://doi.org/10.3897/rio.3.e11825)
@@ -20,7 +21,7 @@ From the [homepage](http://sageassembly.wpengine.com/):
 
 # Demo
 
-The organizers also invited suggestions for demos of up to 15 min. I would like to demo Wikimedia-based open research workflows, i.e. how Wikimedia platforms can be used to cover a broad range of digital research workflows in a wide array of disciplines.
+The organizers also invited suggestions for demos of up to 15 min. I would like to demo Wikimedia-based open research workflows, i.e. how Wikimedia platforms can be used to cover a broad range of digital research workflows in a wide array of disciplines. See [here](https://en.m.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/UKSG_2015) for a talk covering part of this topic.
 
 # Contact
 
