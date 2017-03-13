@@ -1,6 +1,6 @@
 # About
 
-This file hosts the draft of a submission for [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny), to be held in New York on August 23-25, 2017. The deadline for submitting talks is March 14, 2017, 11:59pm Eastern Daylight Time.
+This file hosts the draft of a submission on [rerunning Jupyter notebooks from PMC](https://github.com/sparcopen/open-research-doathon/issues/25) for [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny), to be held in New York on August 23-25, 2017. The deadline for submitting talks is March 14, 2017, 11:59pm Eastern Daylight Time.
 
 * In order to facilitate real-time collaborative drafting of a submission, a [Google doc](https://docs.google.com/document/d/1J2BhQtAr646ZcIczup2251gRBKdaZixXiSBSbBse7rU/edit) has been set up.
 
