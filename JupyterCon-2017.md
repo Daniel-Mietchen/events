@@ -1,8 +1,10 @@
 # About
 
-This file hosts the draft of a contribution for [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny), to be held in New York on August 23-25, 2017. The deadline for submitting talks is March 14, 2017, 11:59pm Eastern Daylight Time.
+This file hosts the draft of a submission for [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny), to be held in New York on August 23-25, 2017. The deadline for submitting talks is March 14, 2017, 11:59pm Eastern Daylight Time.
 
-# Sumission form
+* In order to facilitate real-time collaborative drafting of a submission, a [Google doc](https://docs.google.com/document/d/1J2BhQtAr646ZcIczup2251gRBKdaZixXiSBSbBse7rU/edit) has been set up.
+
+# Submission form
 
 Submitting a proposal is a two stage process. First, enter the proposal details on this page. Because the first round will be a blind review, please do not include your name, affiliation, or any other identifying information in the title, description, or abstract of your proposal.
 
