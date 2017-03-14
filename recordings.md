@@ -1,6 +1,6 @@
 # About
 
-Sometimes, I am asked to provide links to recordings of talks that I have given previously. This page helps me keep an overview. It is likely incomplete &mdash; additions and corrections are welcome.
+Sometimes, I am asked to provide links to recordings of talks or interviews that I have given previously. This page helps me keep an overview. It is likely incomplete &mdash; additions and corrections are welcome.
 
 Most of my talks are in English, and for those that are not, the slides are usually in English. Slides for most of my talks are available in public &mdash; see the overview [here](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks). In the list below, I am just pointing to the URL of the slides, which should have a prominent mention of words like "recording"/"audio"/"video". 
 
@@ -12,7 +12,8 @@ Most of my talks are in English, and for those that are not, the slides are usua
 
 ## In English
 
-* 2017-01-26: Barcelona: [Integrating policy and infrastructure in research data management: the perspective of researchers]()
+* 2017-01-26, Barcelona: [Integrating policy and infrastructure in research data management: the perspective of researchers]()
+* 2012-07-14, Washington, DC: [Group authoring of web content - how to keep quality and accuracy high and resolve conflicts: the Wikipedia example](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikimania_2012/FESIN_North_American_Mycoflora_Workshop)
 
 ## In German
 
