@@ -15,6 +15,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2017-01-26, Barcelona: [Integrating policy and infrastructure in research data management: the perspective of researchers]()
 * 2013-09-14, Berlin: [Viusalizing Complex Science](https://www.youtube.com/watch?v=dS62HPURNWk) (interview)
 * 2012-07-14, Washington, DC: [Group authoring of web content - how to keep quality and accuracy high and resolve conflicts: the Wikipedia example](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikimania_2012/FESIN_North_American_Mycoflora_Workshop)
+* 2012-07-11, Washington, DC: [Wikimedia as a Platform for Biotechnology Information](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikimania_2012/National_Center_for_Biotechnology_Information)
 
 ## In German
 
