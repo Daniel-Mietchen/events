@@ -25,6 +25,8 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2012-07-11, Washington, DC: [Wikimedia as a Platform for Biotechnology Information](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikimania_2012/National_Center_for_Biotechnology_Information)
 * 2012-01-25, Berlin: [Transforming the way we publish research - Farewell to static articles](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Academic_Publishing_in_Europe_2012)
 * 2011-10-22, Mountain View: [Integrating wikis with scholarly workflows](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Open_Science_Summit_2011/Integrating_wikis_with_scholarly_workflows)
+* 2011-01-19, San Diego: [Integrating wikis with scientific workflows](https://www.youtube.com/watch?v=zI8p6Nvbv-g)
+* 2010-08-23, Prague: [Wikis as platforms for scholarly publishing](http://zeeba.tv/wikis-as-platforms-for-scholoarly-publishing/) ([slides](http://en.citizendium.org/wiki/User:Daniel_Mietchen/Talks/COASP_2010))
 
 ## In German
 
