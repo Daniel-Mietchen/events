@@ -16,6 +16,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2015-04-22, Bethesda: [Adapting JATS to support data citation](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/JATS-Con_2015)
 * 2015-04-01, Glasgow: [Wikimedia and scholarly publications](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/UKSG_2015)
 * 2014-09-19, Paris: [Open Access as part of the wider open ecosystem](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/COASP_2014)
+* 2014-09-17, Paris: [Open science](https://archive.org/details/HYPhD_Daniel-Mietchen_17-09-2014) (interview)
 * 2014-08-19, Rio de Janeiro: [Wikimedia projects as platforms for Open Science](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Ci%C3%AAncia_Aberta,_Quest%C3%B5es_Abertas)
 * 2014-04-01, Bethesda: [Inconsistent XML as a Barrier to Reuse of Open Access Content](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/JATS-Con_2014/Inconsistent_XML_as_a_Barrier_to_Reuse_of_Open_Access_Content)
 * 2013-09-14, Berlin: [Viusalizing Complex Science](https://www.youtube.com/watch?v=dS62HPURNWk) (interview)
