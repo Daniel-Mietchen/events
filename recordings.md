@@ -20,4 +20,4 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 * 2015-12-03, Vienna: [Open research, peer review and the role of funders](https://github.com/Daniel-Mietchen/events/blob/master/Open-Science-Jetzt-Vienna-2015.md)
 * 2014-09-15, Vienna: [An introduction to citizen science](https://www.youtube.com/watch?v=LDYEA00VwQs)
-* 2013-09-14, Berlin: [8x8 questions on Open Educational Resources](http://pb21.de/2013/10/8x8-fragen-zu-oer-daniel-mietchen/)
+* 2013-09-14, Berlin: [8x8 questions on Open Educational Resources](http://pb21.de/2013/10/8x8-fragen-zu-oer-daniel-mietchen/) (interview)
