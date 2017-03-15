@@ -60,7 +60,7 @@ read formatting help
 > 
 > Our aim was to understand and document the extent to which these publicly accessible Notebooks are reproducible, both individually and collectively. By identifying the existing barriers to reproducibility, our hope is to lower those barriers for Notebooks shared in the future. 
 > 
-> To find research articles with associated Jupyter Notebooks, we performed a search for “ipynb OR Jupyter” on PubMed Central, a full-text database of biomedical articles. This yielded approximately 100 articles, which were then screened for mentions of actual Notebooks. 
+> To find research articles with associated Jupyter Notebooks, we performed a search for "ipynb OR Jupyter" on PubMed Central, a full-text database of biomedical articles. This yielded approximately 100 articles, which were then screened for mentions of actual Notebooks. 
 > 
 > The association of articles with Notebooks took multiple forms, such as screenshots, supplementary files, links to nbviewer, GitHub repositories and individual Notebooks on GitHub. For those Notebooks that were available in an executable form, we executed them in a clean Jupyter environment.
 > 
@@ -70,7 +70,7 @@ read formatting help
 > 
 > Some Notebooks are provided along with a containerized version, usually through Docker. In such cases, we are taking an approach similar to analyzing the Notebooks themselves: attempting to build the container from scratch, run it and document problems encountered on the way, as well as attempts to solve them.
 > 
-> The project is a collaborative effort, still ongoing and documented in an open-science manner “on GitHub”:(https://github.com/sparcopen/open-research-doathon/issues/25), as is “this submission”:(https://github.com/Daniel-Mietchen/events/blob/master/JupyterCon-2017.md). I would like to thank everyone who has contributed so far.
+> The project is a collaborative effort, still ongoing and documented in an open-science manner "on GitHub":(https://github.com/sparcopen/open-research-doathon/issues/25), as is "this submission":(https://github.com/Daniel-Mietchen/events/blob/master/JupyterCon-2017.md). I would like to thank everyone who has contributed so far.
 
 Suggested secondary topic(s)
 
