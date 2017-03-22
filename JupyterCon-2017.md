@@ -35,16 +35,19 @@ Description* (brief overview for marketing purposes, max. length 400 charactersâ
 
 Characters remaining: 400
 
-Topic (Please choose the one topic most relevant to your proposal) *
-Core architecture
-Jupyter subprojects
-Usage and application
-JupyterHub deployments
+Topic (Please choose the one topic most relevant to your proposal) \*
+
+- Core architecture
+- Jupyter subprojects
+- Usage and application
+- JupyterHub deployments
+
 > Reproducible research and open science
-Development and community
-Documentation
-Kernels
-Extensions and customization
+
+- Development and community
+- Documentation
+- Kernels
+- Extensions and customization
 
 Session type*
 
