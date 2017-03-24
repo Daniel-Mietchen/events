@@ -35,6 +35,11 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2013-09-14, Berlin: [8x8 questions on Open Educational Resources](http://pb21.de/2013/10/8x8-fragen-zu-oer-daniel-mietchen/) (interview)
 
 
+# Recordings with remarks about me
+
+* 2017-20-03, Berlin: [Open Science Radio issue OSR068: Documenting Open Science Knowledge #oscibar](http://www.openscienceradio.de/2017/03/20/osr068-documenting-open-science-knowledge-oscibar-en/#t=11:00.000)
+* 2015-10-28, San Francisco: [Wikipedia and Open Access Panel](https://www.youtube.com/watch?v=t-cF7433aT4#t=7m20s)
+
 # See also
 
 * [Biosketch](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Biographical_sketch)
