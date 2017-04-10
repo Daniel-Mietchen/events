@@ -1,10 +1,10 @@
-#About
+# About
 This is a submission for [Wikimania 2016](https://wikimania2016.wikimedia.org/wiki/Submissions), co-authored with [@DarTar](https://github.com/dartar). It was rejected on February 1, 2016.
 
-#Title
+# Title
 Citations needed for the sum of all human knowledge
 
-#Abstract
+# Abstract
 The idea of a repository to store all citations and source metadata across Wikimedia projects has been proposed in different forms for the past 10 years. Wikipedia is one of the most popular entry points into the scientific literature and ranges among the top 5 referrers of scholarly citations. However, as of today, references and source metadata are still a second-class citizen in Wikimedia projects. 
 
 References are one of the most fundamental building blocks of every Wikipedia article, but: 
@@ -19,7 +19,7 @@ In this session, we will review the state of citations and source metadata in Wi
 
 The time is ripe for the Wikimedia movement and our partners to identify the necessary steps towards achieving this vision.
 
-#Keywords
+# Keywords
 references  
 sources  
 citations  
@@ -32,7 +32,7 @@ Wikicite
 Librarybase  
 GLAMwiki
 
-#Topics
+# Topics
 Technical  
 Projects  
 Research
