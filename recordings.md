@@ -13,7 +13,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 ## In English
 
 * 2017-01-26, Barcelona: [Integrating policy and infrastructure in research data management: the perspective of researchers](https://github.com/Daniel-Mietchen/events/blob/master/5th-LEARN-workshop-2017.md)
-* 2015-09-02, London: [Wikimedia and scholarly communication](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015)
+* 2015-09-02, London: [Wikimedia and scholarly communication](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015) and [Wikidata for research](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015#Wikidata_for_research)
 * 2015-04-22, Bethesda: [Adapting JATS to support data citation](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/JATS-Con_2015)
 * 2015-04-01, Glasgow: [Wikimedia and scholarly publications](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/UKSG_2015)
 * 2014-09-19, Paris: [Open Access as part of the wider open ecosystem](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/COASP_2014)
