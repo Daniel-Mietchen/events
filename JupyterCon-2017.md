@@ -1,6 +1,6 @@
 # About
 
-This file hosts a submission on [rerunning Jupyter notebooks from PMC](https://github.com/sparcopen/open-research-doathon/issues/25) for [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny), to be held in New York on August 23-25, 2017. The deadline for submitting talks was March 14, 2017, 11:59pm Eastern Daylight Time, and I received confirmation of my submission at 11:49pm EDT that day.
+This file hosts a submission on [rerunning Jupyter notebooks from PMC](https://github.com/sparcopen/open-research-doathon/issues/25) for [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny), to be held in New York on August 23-25, 2017. The deadline for submitting talks was March 14, 2017, 11:59pm Eastern Daylight Time, and I received confirmation of my submission at 11:49pm EDT that day. On April 13, I was informed that notifications of acceptance or rejection would be sent out "between now and next week (the week of April 17)."
 
 Like the rest of the project, this was a collaborative effort. Special thanks go to Tom Pollard for help with the submission.
 
