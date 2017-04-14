@@ -1,4 +1,4 @@
-*[About](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza#about)・[Making Ethics data FAIR](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#making-ethics-data-fair)・[Combined poster and demo](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#combined-poster-and-demo)*
+*[About](https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza.md#about)・[Making Ethics data FAIR](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#making-ethics-data-fair)・[Combined poster and demo](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#combined-poster-and-demo)*
 
 # Making ethics data FAIR
 ## Abstract
