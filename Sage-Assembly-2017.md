@@ -28,7 +28,7 @@ The organizers invited me to contribute to "a series of talks in a rapid-learnin
 
 # Demo
 
-The organizers also invited suggestions for demos of up to 15 min. I would like to demo Wikimedia-based open research workflows, i.e. how Wikimedia platforms can be used to cover a broad range of digital research workflows in a wide array of disciplines. See [here](https://en.m.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/UKSG_2015) for a talk covering part of this topic.
+The organizers also invited suggestions for demos of up to 15 min. I had suggested to demo Wikimedia-based open research workflows, i.e. how Wikimedia platforms can be used to cover a broad range of digital research workflows in a wide array of disciplines (see [here](https://en.m.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/UKSG_2015) for a talk covering part of this topic), but this suggestion was not taken.
 
 # Contact
 
