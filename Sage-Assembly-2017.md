@@ -19,6 +19,10 @@ From the [homepage](http://sageassembly.wpengine.com/):
   - editing the [Topic Pages](http://collections.plos.org/topic-pages) collection at PLOS Computational Biology
   - helped make the video embedded in the Wikipedia article on [open research](https://en.wikipedia.org/wiki/Open_research)
 
+# 3-min talks
+
+The organizers invited me to contribute to "a series of talks in a rapid-learning format with each speaker providing a three minute talk on their work and experience as they relate to the themes of the Assembly".
+
 # Demo
 
 The organizers also invited suggestions for demos of up to 15 min. I would like to demo Wikimedia-based open research workflows, i.e. how Wikimedia platforms can be used to cover a broad range of digital research workflows in a wide array of disciplines. See [here](https://en.m.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/UKSG_2015) for a talk covering part of this topic.
