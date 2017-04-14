@@ -8,16 +8,19 @@ From the [homepage](http://sageassembly.wpengine.com/):
 # Some of my activities in this space
 
 * At work
-  - helping to improve [data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md)
-  - working on [making data mangement plans machine actionable, versioned and public](https://www.slideshare.net/StephanieSimms/making-dmps-actionable-and-public)
+  - helping to improve [data sharing in public health emergencies](https://doi.org/10.2471/BLT.17.192096)
+  - working on [making data mangement plans machine actionable, versioned and public](https://doi.org/10.3897/rio.3.e13086)
   - helped shape the [Open Science Prize](http://openscienceprize.org/)
   - organising events like [this open research do-a-thon](https://github.com/sparcopen/Open-Research-doathon) to help bring people together around data-centric research workflows
   - helping to explore [technical aspects of preprint services in the life sciences](https://doi.org/10.3897/rio.3.e11825)
   - More complete documentation [here](https://github.com/Daniel-Mietchen/datascience/)
-* In my spare time
+* Elsewhere
+  - helping to [collect citations for the sum of human knowledge](https://meta.wikimedia.org/wiki/WikiCite_2017)
+  - contributing to [data science policy in the European Union](http://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetail&groupID=3464)
+  - helping to [organize events around modernizing scholarly communication](https://www.force11.org/group/force2017-organizing-committee/program-committee)
+  - editing an open-science [journal](http://riojournal.com/browse_articles) that aims to make entire research processes visible, not just the results
   - running a [bot](https://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) that feeds openly licensed multimedia from PubMed Central into Wikimedia Commons
   - editing the [Topic Pages](http://collections.plos.org/topic-pages) collection at PLOS Computational Biology
-  - helped make the video embedded in the Wikipedia article on [open research](https://en.wikipedia.org/wiki/Open_research)
 
 # 3-min talks
 
