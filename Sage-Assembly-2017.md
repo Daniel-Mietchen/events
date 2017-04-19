@@ -28,9 +28,9 @@ The organizers invited me to contribute to "a series of talks in a rapid-learnin
 
 I haven't decided yet how to use my 3-minute slot, but the following topics are good candidates:
 - machine actionable data (or project) management plans as a way to connect research projects with relevant individuals, communities and resources
-- making ethics data FAIR
-- Wikidata as a hub for biomedical knowledge
+- Wikidata as a hub for structured open knowledge, with biomedicine being one of the pilot areas
 - public health emergencies as a context in which "open by default" might actually work soon
+- making ethics data FAIR
 
 # Demo
 
