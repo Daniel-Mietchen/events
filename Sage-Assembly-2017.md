@@ -31,14 +31,15 @@ I haven't decided yet how precisely to use my 3-minute slot, but it will likely 
   - could serve as the basis for researchers, funders, public and others to engage with a given research topic
   - particularly relevant in the case of public health emergencies, which also provide a context where "open by default" is actually within reach
   - publicly versioned [machine actionable data (or project) management plans](https://doi.org/10.3897/rio.3.e13086) as a way to connect research projects (past, ongoing and future) with relevant individuals, communities, institutions and their respective resources and workflows
-- **Query engine**: How can data from different parts of the research ecosystems best be integrated in a way that allows to address issues that cut across research fields?
+- **Queriability**: How can data from different parts of the research ecosystems best be integrated in a way that allows to address issues that cut across research fields?
   - Wikidata as a hub for structured open knowledge across domains, with biomedicine being one of the pilot areas
 - **Ethics**: making ethics data FAIR
   - [talk on the topic](https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza.md)
   - [further notes](https://github.com/Daniel-Mietchen/datascience/blob/master/ethics.md)
 - **Sustainability**: How to better align the priorities within the research ecosystems (open or not) with the needs of humanity as a whole?
-- **Red tape**: How can openness be used to reduce bureaucracy?
-- **Policy landscape**: How can different policies and infrastructures be made better aware of each other?
+- **Lean administration**: How can openness be used to reduce bureaucracy?
+  - e.g. [self-organized fund allocation](https://doi.org/10.1007/s11192-016-2110-3)
+- **Effective policies**: How can different policies and infrastructures be made better aware of each other?
 
 # Demo
 
