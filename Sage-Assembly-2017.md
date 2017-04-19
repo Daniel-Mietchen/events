@@ -45,6 +45,10 @@ I haven't decided yet how precisely to use my 3-minute slot, but it will likely 
 
 The organizers also invited suggestions for demos of up to 15 min. I had suggested to demo Wikimedia-based open research workflows, i.e. how Wikimedia platforms can be used to cover a broad range of digital research workflows in a wide array of disciplines (see [here](https://en.m.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/UKSG_2015) for a talk covering part of this topic), but this suggestion was not taken.
 
+# ORCID
+
+I find it interesting that none of the participants has provided their ORCID as the "Link to your work that best fits the Assembly". In any case, mine is [0000-0001-9488-1870](http://orcid.org/0000-0001-9488-1870).
+
 # Contact
 
 [@EvoMRI](https://twitter.com/EvoMRI)
