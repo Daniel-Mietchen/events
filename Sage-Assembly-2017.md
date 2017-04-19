@@ -26,11 +26,19 @@ From the [homepage](http://sageassembly.wpengine.com/):
 
 The organizers invited me to contribute to "a series of talks in a rapid-learning format with each speaker providing a three minute talk on their work and experience as they relate to the themes of the Assembly".
 
-I haven't decided yet how to use my 3-minute slot, but the following topics are good candidates:
-- machine actionable data (or project) management plans as a way to connect research projects with relevant individuals, communities and resources
-- Wikidata as a hub for structured open knowledge, with biomedicine being one of the pilot areas
-- public health emergencies as a context in which "open by default" might actually work soon
-- making ethics data FAIR
+I haven't decided yet how precisely to use my 3-minute slot, but it will likely be on things that I am missing in current "Open Research Ecosystems", for which the following topics are good candidates:
+- **Map**: How to get an overview of research being *performed now* or *planned for the near future*?
+  - could serve as the basis for researchers, funders, public and others to engage with a given research topic
+  - particularly relevant in the case of public health emergencies, which also provide a context where "open by default" is actually within reach
+  - publicly versioned [machine actionable data (or project) management plans](https://doi.org/10.3897/rio.3.e13086) as a way to connect research projects (past, ongoing and future) with relevant individuals, communities, institutions and their respective resources and workflows
+- **Query engine**: How can data from different parts of the research ecosystems best be integrated in a way that allows to address issues that cut across research fields?
+  - Wikidata as a hub for structured open knowledge across domains, with biomedicine being one of the pilot areas
+- **Ethics**: making ethics data FAIR
+  - [talk on the topic](https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza.md)
+  - [further notes](https://github.com/Daniel-Mietchen/datascience/blob/master/ethics.md)
+- **Sustainability**: How to better align the priorities within the research ecosystems (open or not) with the needs of humanity as a whole?
+- **Red tape**: How can openness be used to reduce bureaucracy?
+- **Policy landscape**: How can different policies and infrastructures be made better aware of each other?
 
 # Demo
 
