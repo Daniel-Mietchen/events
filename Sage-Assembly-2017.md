@@ -26,6 +26,12 @@ From the [homepage](http://sageassembly.wpengine.com/):
 
 The organizers invited me to contribute to "a series of talks in a rapid-learning format with each speaker providing a three minute talk on their work and experience as they relate to the themes of the Assembly".
 
+I haven't decided yet how to use my 3-minute slot, but the following topics are good candidates:
+- machine actionable data (or project) management plans as a way to connect research projects with relevant individuals, communities and resources
+- making ethics data FAIR
+- Wikidata as a hub for biomedical knowledge
+- public health emergencies as a context in which "open by default" might actually work soon
+
 # Demo
 
 The organizers also invited suggestions for demos of up to 15 min. I had suggested to demo Wikimedia-based open research workflows, i.e. how Wikimedia platforms can be used to cover a broad range of digital research workflows in a wide array of disciplines (see [here](https://en.m.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/UKSG_2015) for a talk covering part of this topic), but this suggestion was not taken.
