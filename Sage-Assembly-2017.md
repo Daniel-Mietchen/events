@@ -26,10 +26,19 @@ From the [homepage](http://sageassembly.wpengine.com/):
 
 The organizers invited me to contribute to "a series of talks in a rapid-learning format with each speaker providing a three minute talk on their work and experience as they relate to the themes of the Assembly".
 
-I haven't decided yet how precisely to use my 3-minute slot, but it will likely be on things that I am missing in current "Open Research Ecosystems", for which the following topics are good candidates:
-- **Map**: How to get an overview of research being *performed now* or *planned for the near future*?
+I haven't decided yet how precisely to use my 3-minute slot, but it will likely be on a vision for Open Research Ecosystems, perhaps on the 2030 timescale, as per several ongoing strategy processes (e.g. [National Institute of Dental and Craniofacial Research (NIDCR)](https://nidcr2030.ideascale.com/), [Wikimedia](https://2030.wikimedia.org/)) and [What we know about the future](https://meta.wikimedia.org/wiki/Template:Strategy/Wikimedia_movement/2017/navbox).
+
+With that in mind, I'll likely be focusing on things that I am missing in current "Mapping Open Research Ecosystems", for which the following topics are good candidates:
+- **Map (1)**: How to map any research ecosystem?
+  - [map of science based on clickstream data from a decade ago](https://doi.org/10.1371/journal.pone.0004803.g005)
+    - neither data nor tools are open
+    - not updatable
+  - [map of topics co-occurring with "Zika virus" in the literature](https://query.wikidata.org/#%23defaultView%3AGraph%0A%23defaultView%3ATable%0Aselect%20distinct%20%3Ftopic1%20%3Ftopic1Label%20%3Ftopic2%20%3Ftopic2Label%20where%20{%0A%20%20{%20%3Fwork%20wdt%3AP921%2Fwdt%3AP31*%2Fwdt%3AP279*%20wd%3AQ202864%20.%20}%0A%20%20union%20{%20%3Fwork%20wdt%3AP921%2Fwdt%3AP361%2B%20wd%3AQ202864%20.%20}%0A%20%20union%20{%20%3Fwork%20wdt%3AP921%2Fwdt%3AP1269%2B%20wd%3AQ202864%20.%20}%0A%20%20%3Fwork%20wdt%3AP921%20%3Ftopic1%2C%20%3Ftopic2%20.%20%0A%20%20filter%20(wd%3AQ202864%20!%3D%20%3Ftopic1%20%26%26%20wd%3AQ202864%20!%3D%20%3Ftopic2%20%26%26%20%3Ftopic1%20!%3D%20%3Ftopic2)%0A%20%20SERVICE%20wikibase%3Alabel%20{%0A%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cfr%2Cde%2Cru%2Ces%2Czh%2Cjp%22.%0A%20%20}%0A}%0A%0A)
+    - from [Scholia profile for topic "Zika virus"](https://tools.wmflabs.org/scholia/topic/Q202864)
+- **Map (2)**: How to get an overview of research being *performed now* or *planned for the near future*?
   - could serve as the basis for researchers, funders, public and others to engage with a given research topic
   - particularly relevant in the case of public health emergencies, which also provide a context where "open by default" is actually within reach
+  - works best if data and metadata are [FAIR](https://doi.org/10.1038/sdata.2016.18) by default
   - publicly versioned [machine actionable data (or project) management plans](https://doi.org/10.3897/rio.3.e13086) as a way to connect research projects (past, ongoing and future) with relevant individuals, communities, institutions and their respective resources and workflows
 - **Queriability**: How can data from different parts of the research ecosystems best be integrated in a way that allows to address issues that cut across research fields?
   - Wikidata as a hub for structured open knowledge across domains, with biomedicine being one of the pilot areas
