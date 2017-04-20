@@ -29,8 +29,8 @@ The organizers invited me to contribute to "a series of talks in a rapid-learnin
 I haven't decided yet how precisely to use my 3-minute slot, but it will likely be on a vision for Open Research Ecosystems, perhaps on the 2030 timescale, as per several ongoing strategy processes (e.g. [National Institute of Dental and Craniofacial Research (NIDCR)](https://nidcr2030.ideascale.com/), [Wikimedia](https://2030.wikimedia.org/)) and [What we know about the future](https://meta.wikimedia.org/wiki/Template:Strategy/Wikimedia_movement/2017/navbox).
 
 With that in mind, I'll likely be focusing on things that I am missing in current "Mapping Open Research Ecosystems", for which the following topics are good candidates:
-- **Map (1)**: How to map any research ecosystem?
-  - [map of science based on clickstream data from a decade ago](https://doi.org/10.1371/journal.pone.0004803.g005)
+- **Map**: How to map any research ecosystem?
+  - [map of science based on paper clickstream data from a decade ago](https://doi.org/10.1371/journal.pone.0004803.g005)
     - neither data nor tools are open
     - not updatable
     - no zoom
@@ -38,7 +38,8 @@ With that in mind, I'll likely be focusing on things that I am missing in curren
     - from [Scholia profile for topic "Zika virus"](https://tools.wmflabs.org/scholia/topic/Q202864)
     - open data, open tools, open API, updatable
     - "zooming" possible by changing the topic
-- **Map (2)**: How to get an overview of research being *performed now* or *planned for the near future*?
+    - still mainly limited to "papers", since citation metadata to, from and between other research objects is scarce at best
+- **How to map research that is being *performed now* or *planned for the near future*?**
   - some inspiration: real-time [visualization](http://wikistream.wmflabs.org/#namespace=article&robot=true&user=true&wiki=all) and [sonification](http://listen.hatnote.com/#en,fa,ar,sa,es,de,ru,jp,zh,ko) of Wikimedia edits
   - What about [doing this for research](https://github.com/sparcopen/open-research-doathon/issues/34)?
   - with appropriate filtering, something like this could serve as the basis for researchers, funders, public and others to engage with a given research topic
