@@ -35,8 +35,11 @@ With that in mind, I'll likely be focusing on things that I am missing in curren
     - not updatable
   - [map of topics co-occurring with "Zika virus" in the literature](https://query.wikidata.org/#%23defaultView%3AGraph%0A%23defaultView%3ATable%0Aselect%20distinct%20%3Ftopic1%20%3Ftopic1Label%20%3Ftopic2%20%3Ftopic2Label%20where%20{%0A%20%20{%20%3Fwork%20wdt%3AP921%2Fwdt%3AP31*%2Fwdt%3AP279*%20wd%3AQ202864%20.%20}%0A%20%20union%20{%20%3Fwork%20wdt%3AP921%2Fwdt%3AP361%2B%20wd%3AQ202864%20.%20}%0A%20%20union%20{%20%3Fwork%20wdt%3AP921%2Fwdt%3AP1269%2B%20wd%3AQ202864%20.%20}%0A%20%20%3Fwork%20wdt%3AP921%20%3Ftopic1%2C%20%3Ftopic2%20.%20%0A%20%20filter%20(wd%3AQ202864%20!%3D%20%3Ftopic1%20%26%26%20wd%3AQ202864%20!%3D%20%3Ftopic2%20%26%26%20%3Ftopic1%20!%3D%20%3Ftopic2)%0A%20%20SERVICE%20wikibase%3Alabel%20{%0A%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cfr%2Cde%2Cru%2Ces%2Czh%2Cjp%22.%0A%20%20}%0A}%0A%0A)
     - from [Scholia profile for topic "Zika virus"](https://tools.wmflabs.org/scholia/topic/Q202864)
+    - open data, open tools, open API, updatable
 - **Map (2)**: How to get an overview of research being *performed now* or *planned for the near future*?
-  - could serve as the basis for researchers, funders, public and others to engage with a given research topic
+  - some inspiration: real-time [visualization](http://wikistream.wmflabs.org/#namespace=article&robot=true&user=true&wiki=all) and [sonification](http://listen.hatnote.com/#en,fa,ar,sa,es,de,ru,jp,zh,ko) of Wikimedia edits
+  - What about [doing this for research](https://github.com/sparcopen/open-research-doathon/issues/34)?
+  - with appropriate filtering, something like this could serve as the basis for researchers, funders, public and others to engage with a given research topic
   - particularly relevant in the case of public health emergencies, which also provide a context where "open by default" is actually within reach
   - works best if data and metadata are [FAIR](https://doi.org/10.1038/sdata.2016.18) by default
   - publicly versioned [machine actionable data (or project) management plans](https://doi.org/10.3897/rio.3.e13086) as a way to connect research projects (past, ongoing and future) with relevant individuals, communities, institutions and their respective resources and workflows
