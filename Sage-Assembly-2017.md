@@ -41,7 +41,9 @@ To get things started, I'll be pointing out some things that I am missing in cur
     - still mainly limited to "papers", since citation metadata to, from and between other research objects is scarce at best
 - **How to map research that is being *performed now* or *planned for the near future*?**
   - some inspiration: real-time [visualization](http://wikistream.wmflabs.org/#namespace=article&robot=true&user=true&wiki=all) and [sonification](http://listen.hatnote.com/#en,fa,ar,sa,es,de,ru,jp,zh,ko) of Wikimedia edits
-  - What about [doing this for research](https://github.com/sparcopen/open-research-doathon/issues/34)?
+  - What about [doing this for research](https://github.com/sparcopen/open-research-doathon/issues/34)? 
+    - [As it happens](https://www.youtube.com/watch?v=LwW1-X3glak)? 
+    - [All along the research cycle](https://doi.org/10.3897/rio.1.e7547)?
   - with appropriate filtering, something like this could serve as the basis for researchers, funders, public and others to engage with a given research topic
   - particularly relevant in the case of public health emergencies, which also provide a context where "open by default" is actually within reach
   - works best if data and metadata are [FAIR](https://doi.org/10.1038/sdata.2016.18) by default
