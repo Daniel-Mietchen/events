@@ -26,7 +26,7 @@ From the [homepage](http://sageassembly.wpengine.com/):
 
 The organizers invited me to contribute to "a series of talks in a rapid-learning format with each speaker providing a three minute talk on their work and experience as they relate to the themes of the Assembly".
 
-I decided to invite the audience to think about a long-term vision for Open Research Ecosystems, perhaps on the 2030 timescale, as per several ongoing strategy processes (e.g. [National Institute of Dental and Craniofacial Research (NIDCR)](https://nidcr2030.ideascale.com/), [Wikimedia](https://2030.wikimedia.org/), [Gathering for Open Source Hardware (GOSH)](https://openscience.ub.uni-bielefeld.de/1025/how-to-make-open-science-hardware-ubiquitous-by-2025)) and [What we know about the future](https://meta.wikimedia.org/wiki/Template:Strategy/Wikimedia_movement/2017/navbox).
+I [decided](https://twitter.com/EvoMRI/status/855207956899430400) to invite the audience to think about a long-term vision for Open Research Ecosystems, perhaps on the 2030 timescale, as per several ongoing strategy processes (e.g. [National Institute of Dental and Craniofacial Research (NIDCR)](https://nidcr2030.ideascale.com/), [Wikimedia](https://2030.wikimedia.org/), [Gathering for Open Source Hardware (GOSH)](https://openscience.ub.uni-bielefeld.de/1025/how-to-make-open-science-hardware-ubiquitous-by-2025)) and [What we know about the future](https://meta.wikimedia.org/wiki/Template:Strategy/Wikimedia_movement/2017/navbox).
 
 To get things started, I'll be pointing out some things that I am missing in current ways of "Mapping Open Research Ecosystems", for which the following topics are good candidates:
 - **Map**: How to map any research ecosystem?
@@ -65,6 +65,10 @@ The organizers also invited suggestions for demos of up to 15 min. I had suggest
 # ORCID
 
 I find it interesting that none of the participants has provided their ORCID as the "Link to your work that best fits the Assembly". In any case, mine is [0000-0001-9488-1870](http://orcid.org/0000-0001-9488-1870).
+
+# Notes on the individual sessions
+
+- Editing a file like this (i.e. larger than my screen) is a bit tedious, so my notes on the individual sessions are posted in the [ticket](https://github.com/Daniel-Mietchen/events/issues/8) I opened for this event.
 
 # Contact
 
