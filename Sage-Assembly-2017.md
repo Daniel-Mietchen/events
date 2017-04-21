@@ -26,9 +26,9 @@ From the [homepage](http://sageassembly.wpengine.com/):
 
 The organizers invited me to contribute to "a series of talks in a rapid-learning format with each speaker providing a three minute talk on their work and experience as they relate to the themes of the Assembly".
 
-Mine is on a long-term vision for Open Research Ecosystems, perhaps on the 2030 timescale, as per several ongoing strategy processes (e.g. [National Institute of Dental and Craniofacial Research (NIDCR)](https://nidcr2030.ideascale.com/), [Wikimedia](https://2030.wikimedia.org/)) and [What we know about the future](https://meta.wikimedia.org/wiki/Template:Strategy/Wikimedia_movement/2017/navbox).
+I decided to invite the audience to think about a long-term vision for Open Research Ecosystems, perhaps on the 2030 timescale, as per several ongoing strategy processes (e.g. [National Institute of Dental and Craniofacial Research (NIDCR)](https://nidcr2030.ideascale.com/), [Wikimedia](https://2030.wikimedia.org/)) and [What we know about the future](https://meta.wikimedia.org/wiki/Template:Strategy/Wikimedia_movement/2017/navbox).
 
-With that in mind, I'll be focusing on things that I am missing in current "Mapping Open Research Ecosystems", for which the following topics are good candidates:
+To get things started, I'll be pointing out some things that I am missing in current ways of "Mapping Open Research Ecosystems", for which the following topics are good candidates:
 - **Map**: How to map any research ecosystem?
   - [map of science based on paper clickstream data from a decade ago](https://doi.org/10.1371/journal.pone.0004803.g005)
     - neither data nor tools are open
