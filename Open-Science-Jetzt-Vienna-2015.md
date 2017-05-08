@@ -37,7 +37,7 @@ Open research, peer review and the role of funders
 	 * the research is novel/ exciting/ buzzword-compliant (often)
 	 * the research addresses problems relevant outside academia (rarely)
 
-#Peer review
+# Peer review
 * exists for both proposed research (e.g. research grants, or applications for measurement time at research facilities) and performed research (e.g. classical publications, database entries, project reports)
 * traditionally non-public, but with a good deal of experimentation lately, especially in the context of scholarly publications
 	 * point in time: 
