@@ -12,6 +12,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 ## In English
 
+* 2017-05-22, Vienna: [The Zika corpus on Wikidata](https://www.wikidata.org/wiki/User:Daniel_Mietchen/WikiCite_2017)
 * 2017-01-26, Barcelona: [Integrating policy and infrastructure in research data management: the perspective of researchers](https://github.com/Daniel-Mietchen/events/blob/master/5th-LEARN-workshop-2017.md)
 * 2015-09-02, London: [Wikimedia and scholarly communication](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015) and [Wikidata for research](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015#Wikidata_for_research)
 * 2015-04-22, Bethesda: [Adapting JATS to support data citation](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/JATS-Con_2015)
