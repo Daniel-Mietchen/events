@@ -29,6 +29,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2011-10-22, Mountain View: [Integrating wikis with scholarly workflows](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Open_Science_Summit_2011/Integrating_wikis_with_scholarly_workflows)
 * 2011-01-19, San Diego: [Integrating wikis with scientific workflows](https://www.youtube.com/watch?v=zI8p6Nvbv-g)
 * 2010-08-23, Prague: [Wikis as platforms for scholarly publishing](http://zeeba.tv/wikis-as-platforms-for-scholoarly-publishing/) ([slides](http://en.citizendium.org/wiki/User:Daniel_Mietchen/Talks/COASP_2010))
+* 2007-11-09, Budapest: [The scientist's perspective on evidence based policy making](http://mta.videotorium.hu/hu/recordings/1339/the-scientist-s-perspective-on-evidence-based-policy-making) ([discussion](http://mta.videotorium.hu/hu/recordings/1342/discussion))
 
 ## In German
 
