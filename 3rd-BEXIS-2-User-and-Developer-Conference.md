@@ -4,7 +4,7 @@ This file is a contribution to the [3rd BEXIS 2 User and Developer Conference](h
 
 # Title 
 
-Opening up the data life cycle
+Opening up the research data life cycle
 
 # Abstract
 
