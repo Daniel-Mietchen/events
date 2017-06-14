@@ -1,21 +1,18 @@
-# About
+*[About](#about)・[Abstract](#abstract)・[Contact](#contact)
 
-This page ( https://github.com/Daniel-Mietchen/events/blob/master/3rd-BEXIS-2-User-and-Developer-Conference.md ) hosts a presentation that will be given on 15 June 2017 at 7am UTC. It is a contribution to the [3rd BEXIS 2 User and Developer Conference](http://fusion.cs.uni-jena.de/bexis2userdevconf2017/) taking place on 16 June 2017 in Jena, with an associated workshop on June 15. BEXIS (also BExIS) stands for "[Biodiversity Exploratories Information System](https://www.bexis.uni-jena.de/)" and is a research environment for managing the entire data life cycle for biodiversity data.
 
-# Title 
 
-Opening up the research data life cycle
+# Opening up the research data life cycle
 
-# Abstract
+## Abstract
 
 More and more aspects of the research data life cycle involve some form of sharing - be it the protocols used to generate the data, the software to analyze it, metadata about the data, the data itself or other aspects of its life cycle, from ethical review to citizen science. This talk zooms in on some examples in different stages of different data life cycles and explores how the changing dynamics of data sharing interact with the dynamics of doing research more generally.
 
-# Some of my activities in this space
+## Some of my activities in this space
 
 - helping to improve [data sharing in public health emergencies](https://doi.org/10.2471/BLT.17.192096)
 - working on [making data mangement plans machine actionable, versioned and public](https://doi.org/10.3897/rio.3.e13086)
 - helped shape the [Open Science Prize](http://openscienceprize.org/)
-- organising events like [this open research do-a-thon](https://github.com/sparcopen/Open-Research-doathon) to help bring people together around data-centric research workflows
 - helping to explore [technical aspects of preprint services in the life sciences](https://doi.org/10.3897/rio.3.e11825)
 - helping to [collect citations for the sum of human knowledge](https://meta.wikimedia.org/wiki/WikiCite_2017)
 - contributing to [data science policy in the European Union](https://github.com/FAIR-EG/consultation)
@@ -24,11 +21,28 @@ More and more aspects of the research data life cycle involve some form of shari
 - running a [bot](https://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) that feeds openly licensed multimedia from PubMed Central into Wikimedia Commons
 - editing the [Topic Pages](http://collections.plos.org/topic-pages) collection at PLOS Computational Biology
 
-# A vision for Open Research Ecosystems
+## The research data life cycle
 
-In the following, I am trying to sketch out a vision for Open Research Ecosystems, perhaps on the 2030 timescale, as per the [UN's Sustainable Development Goals](https://sustainabledevelopment.un.org/sdgs) and several ongoing strategy processes (e.g. [National Institute of Dental and Craniofacial Research (NIDCR)](https://nidcr2030.ideascale.com/), [Wikimedia](https://2030.wikimedia.org/), [Gathering for Open Source Hardware (GOSH)](https://openscience.ub.uni-bielefeld.de/1025/how-to-make-open-science-hardware-ubiquitous-by-2025)) and [What we know about the future](https://meta.wikimedia.org/wiki/Template:Strategy/Wikimedia_movement/2017/navbox).
+- plan
+- get permissions
+- get funding
+- get infrastructure
+- collect metadata
+- collect data
+- process data
+- analyze data
+- share data
+- archive data
+- preserve data
+- delete data
 
-To get things started, I'll be pointing out some things that I am missing in current ways of "Mapping Open Research Ecosystems", for which the following topics are good candidates:
+- rinse, repeat
+
+## Opening up the research ecosystems
+
+In the following, I am trying to sketch out a vision for open research ecosystems, roughly on the 2030 timescale, as per the [UN's Sustainable Development Goals](https://sustainabledevelopment.un.org/sdgs) and several ongoing strategy processes (e.g. [National Institute of Dental and Craniofacial Research (NIDCR)](https://nidcr2030.ideascale.com/), [Wikimedia](https://2030.wikimedia.org/), [Gathering for Open Source Hardware (GOSH)](https://openscience.ub.uni-bielefeld.de/1025/how-to-make-open-science-hardware-ubiquitous-by-2025)) and [What we know about the future](https://meta.wikimedia.org/wiki/Template:Strategy/Wikimedia_movement/2017/navbox).
+
+Some things that I am missing in current research ecosystems:
 - **Map**: How to map any research ecosystem?
   - [map of science based on paper clickstream data from a decade ago](https://doi.org/10.1371/journal.pone.0004803.g005)
     - neither data nor tools are open
@@ -57,6 +71,10 @@ To get things started, I'll be pointing out some things that I am missing in cur
 - **Lean administration**: How can openness be used to reduce bureaucracy?
   - e.g. [self-organized fund allocation](https://doi.org/10.1007/s11192-016-2110-3)
 - **Effective policies**: How can different policies and infrastructures be made better aware of each other?
+
+# About
+
+This page ( https://github.com/Daniel-Mietchen/events/blob/master/3rd-BEXIS-2-User-and-Developer-Conference.md ) hosts a presentation that will be given on 15 June 2017 at 7am UTC. It is a contribution to the [3rd BEXIS 2 User and Developer Conference](http://fusion.cs.uni-jena.de/bexis2userdevconf2017/) taking place on 16 June 2017 in Jena, with an associated workshop on June 15. BEXIS (also BExIS) stands for "[Biodiversity Exploratories Information System](https://www.bexis.uni-jena.de/)" and is a research environment for managing the entire data life cycle for biodiversity data.
 
 # Contact
 
