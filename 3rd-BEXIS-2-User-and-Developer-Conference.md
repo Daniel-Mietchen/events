@@ -10,13 +10,6 @@ Opening up the research data life cycle
 
 More and more aspects of the research data life cycle involve some form of sharing - be it the protocols used to generate the data, the software to analyze it, metadata about the data, the data itself or other aspects of its life cycle, from ethical review to citizen science. This talk zooms in on some examples in different stages of different data life cycles and explores how the changing dynamics of data sharing interact with the dynamics of doing research more generally.
 
-# About
-
-On April 20-22, the [2017 Sage Assembly](http://sageassembly.org/?page_id=13) (hashtag: [#SageAssembly](https://twitter.com/search?vertical=default&q=sageassembly%20OR%20(sage%20AND%20(assembly%20OR%20congress%20PR%20bio))%20OR%20sagebio)) is taking place in Seattle. In preparation for the event, the organizers have asked for a "Link to your work that best fits the Assembly", which will be linked from the [list of participants](http://sageassembly.org/?page_id=48). I think the best way to address that is to set up a dedicated document here that I can update before, during and possibly after the Assembly, whose theme this year is "Mapping Open Research Ecosystems".
-
-From the [homepage](http://sageassembly.wpengine.com/):
-> In 2017, we will bring the Assembly to Seattle, Sage Bionetworks’ home base, and back to the themes closest to us: open innovation in science, and the acceleration of health research through open systems, incentives and  standards.  Together, we will explore how open ecosystems form, where they work, and what boundaries are necessary to operate them successfully. We will also address the consequences, intended or otherwise, of living in more open ways. As always you can expect the unexpected at a Sage Assembly – with a focus on participant interaction, engaging panels, lots of interaction, and an afternoon outside the venue where we will work in teams on projects that explore our themes in non-traditional ways.
-
 # Some of my activities in this space
 
 * At work
@@ -28,17 +21,15 @@ From the [homepage](http://sageassembly.wpengine.com/):
   - More complete documentation [here](https://github.com/Daniel-Mietchen/datascience/)
 * Elsewhere
   - helping to [collect citations for the sum of human knowledge](https://meta.wikimedia.org/wiki/WikiCite_2017)
-  - contributing to [data science policy in the European Union](http://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetail&groupID=3464)
+  - contributing to [data science policy in the European Union](https://github.com/FAIR-EG/consultation)
   - helping to [organize events around modernizing scholarly communication](https://www.force11.org/group/force2017-organizing-committee/program-committee)
   - editing an open-science [journal](http://riojournal.com/browse_articles) that aims to make entire research processes visible, not just the results
   - running a [bot](https://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) that feeds openly licensed multimedia from PubMed Central into Wikimedia Commons
   - editing the [Topic Pages](http://collections.plos.org/topic-pages) collection at PLOS Computational Biology
 
-# 3-min talks
+# A vision for Open Research Ecosystems
 
-The organizers invited me to contribute to "a series of talks in a rapid-learning format with each speaker providing a three minute talk on their work and experience as they relate to the themes of the Assembly".
-
-I [decided](https://twitter.com/EvoMRI/status/855207956899430400) to invite the audience to think about a long-term vision for Open Research Ecosystems, perhaps on the 2030 timescale, as per several ongoing strategy processes (e.g. [National Institute of Dental and Craniofacial Research (NIDCR)](https://nidcr2030.ideascale.com/), [Wikimedia](https://2030.wikimedia.org/), [Gathering for Open Source Hardware (GOSH)](https://openscience.ub.uni-bielefeld.de/1025/how-to-make-open-science-hardware-ubiquitous-by-2025)) and [What we know about the future](https://meta.wikimedia.org/wiki/Template:Strategy/Wikimedia_movement/2017/navbox).
+In the following, I am trying to sketch out a vision for Open Research Ecosystems, perhaps on the 2030 timescale, as per the [UN's Sustainable Development Goals](https://sustainabledevelopment.un.org/sdgs) and several ongoing strategy processes (e.g. [National Institute of Dental and Craniofacial Research (NIDCR)](https://nidcr2030.ideascale.com/), [Wikimedia](https://2030.wikimedia.org/), [Gathering for Open Source Hardware (GOSH)](https://openscience.ub.uni-bielefeld.de/1025/how-to-make-open-science-hardware-ubiquitous-by-2025)) and [What we know about the future](https://meta.wikimedia.org/wiki/Template:Strategy/Wikimedia_movement/2017/navbox).
 
 To get things started, I'll be pointing out some things that I am missing in current ways of "Mapping Open Research Ecosystems", for which the following topics are good candidates:
 - **Map**: How to map any research ecosystem?
@@ -70,18 +61,8 @@ To get things started, I'll be pointing out some things that I am missing in cur
   - e.g. [self-organized fund allocation](https://doi.org/10.1007/s11192-016-2110-3)
 - **Effective policies**: How can different policies and infrastructures be made better aware of each other?
 
-# Demo
-
-The organizers also invited suggestions for demos of up to 15 min. I had suggested to demo Wikimedia-based open research workflows, i.e. how Wikimedia platforms can be used to cover a broad range of digital research workflows in a wide array of disciplines (see [here](https://en.m.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/UKSG_2015) for a talk covering part of this topic), but this suggestion was not taken.
-
-# ORCID
-
-I find it interesting that none of the participants has provided their ORCID as the "Link to your work that best fits the Assembly". In any case, mine is [0000-0001-9488-1870](http://orcid.org/0000-0001-9488-1870).
-
-# Notes on the individual sessions
-
-- Editing a file like this (i.e. larger than my screen) is a bit tedious, so my notes on the individual sessions are posted in the [ticket](https://github.com/Daniel-Mietchen/events/issues/8) I opened for this event.
-
 # Contact
 
-[@EvoMRI](https://twitter.com/EvoMRI)
+- [@EvoMRI](https://twitter.com/EvoMRI)
+- email: daniel.mietchen[at]()virginia.edu
+- ORCID: [0000-0001-9488-1870](http://orcid.org/0000-0001-9488-1870)
