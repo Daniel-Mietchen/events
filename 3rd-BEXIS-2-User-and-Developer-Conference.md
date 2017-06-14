@@ -1,6 +1,4 @@
-*[About](#about)・[Abstract](#abstract)・[Contact](#contact)
-
-
+*[About](#about)・[Abstract](#abstract)・[Contact](#contact)*
 
 # Opening up the research data life cycle
 
@@ -8,35 +6,12 @@
 
 More and more aspects of the research data life cycle involve some form of sharing - be it the protocols used to generate the data, the software to analyze it, metadata about the data, the data itself or other aspects of its life cycle, from ethical review to citizen science. This talk zooms in on some examples in different stages of different data life cycles and explores how the changing dynamics of data sharing interact with the dynamics of doing research more generally.
 
-## Some of my activities in this space
-
-- helping to improve [data sharing in public health emergencies](https://doi.org/10.2471/BLT.17.192096)
-- working on [making data mangement plans machine actionable, versioned and public](https://doi.org/10.3897/rio.3.e13086)
-- helped shape the [Open Science Prize](http://openscienceprize.org/)
-- helping to explore [technical aspects of preprint services in the life sciences](https://doi.org/10.3897/rio.3.e11825)
-- helping to [collect citations for the sum of human knowledge](https://meta.wikimedia.org/wiki/WikiCite_2017)
-- contributing to [data science policy in the European Union](https://github.com/FAIR-EG/consultation)
-- helping to [organize events around modernizing scholarly communication](https://www.force11.org/group/force2017-organizing-committee/program-committee)
-- editing an open-science [journal](http://riojournal.com/browse_articles) that aims to make entire research processes visible, not just the results
-- running a [bot](https://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) that feeds openly licensed multimedia from PubMed Central into Wikimedia Commons
-- editing the [Topic Pages](http://collections.plos.org/topic-pages) collection at PLOS Computational Biology
-
 ## The research data life cycle
 
-- plan
-- get permissions
-- get funding
-- get infrastructure
-- collect metadata
-- collect data
-- process data
-- analyze data
-- share data
-- archive data
-- preserve data
-- delete data
-
-- rinse, repeat
+- exists in many versions
+- key components:
+  - plan・get permissions・get funding・get infrastructure・collect metadata・collect data・process data・analyze data・share data・archive data・preserve data・delete data
+  - every "・" is an opportunity to rinse, repeat, improve and share
 
 ## Opening up the research ecosystems
 
@@ -75,6 +50,19 @@ Some things that I am missing in current research ecosystems:
 # About
 
 This page ( https://github.com/Daniel-Mietchen/events/blob/master/3rd-BEXIS-2-User-and-Developer-Conference.md ) hosts a presentation that will be given on 15 June 2017 at 7am UTC. It is a contribution to the [3rd BEXIS 2 User and Developer Conference](http://fusion.cs.uni-jena.de/bexis2userdevconf2017/) taking place on 16 June 2017 in Jena, with an associated workshop on June 15. BEXIS (also BExIS) stands for "[Biodiversity Exploratories Information System](https://www.bexis.uni-jena.de/)" and is a research environment for managing the entire data life cycle for biodiversity data.
+
+# Some of my activities in this space
+
+- helping to improve [data sharing in public health emergencies](https://doi.org/10.2471/BLT.17.192096)
+- working on [making data mangement plans machine actionable, versioned and public](https://doi.org/10.3897/rio.3.e13086)
+- helped shape the [Open Science Prize](http://openscienceprize.org/)
+- helping to explore [technical aspects of preprint services in the life sciences](https://doi.org/10.3897/rio.3.e11825)
+- helping to [collect citations for the sum of human knowledge](https://meta.wikimedia.org/wiki/WikiCite_2017)
+- contributing to [data science policy in the European Union](https://github.com/FAIR-EG/consultation)
+- helping to [organize events around modernizing scholarly communication](https://www.force11.org/group/force2017-organizing-committee/program-committee)
+- editing an open-science [journal](http://riojournal.com/browse_articles) that aims to make entire research processes visible, not just the results
+- running a [bot](https://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) that feeds openly licensed multimedia from PubMed Central into Wikimedia Commons
+- editing the [Topic Pages](http://collections.plos.org/topic-pages) collection at PLOS Computational Biology
 
 # Contact
 
