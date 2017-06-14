@@ -1,6 +1,6 @@
 # About
 
-This file is a contribution to the [3rd BEXIS 2 User and Developer Conference](http://fusion.cs.uni-jena.de/bexis2userdevconf2017/) taking place on 16 June 2017 in Jena, with an associated workshop on June 15. BEXIS (also BExIS) stands for "[Biodiversity Exploratories Information System](https://www.bexis.uni-jena.de/)" and is a research environment for managing the entire data life cycle for biodiversity data. I was invited to give a talk there, which will be presented from this page.
+This file is a contribution to the [3rd BEXIS 2 User and Developer Conference](http://fusion.cs.uni-jena.de/bexis2userdevconf2017/) taking place on 16 June 2017 in Jena, with an associated workshop on June 15. BEXIS (also BExIS) stands for "[Biodiversity Exploratories Information System](https://www.bexis.uni-jena.de/)" and is a research environment for managing the entire data life cycle for biodiversity data. I was invited to give a talk there, which will be presented from this page on June 15 at 7am UTC.
 
 # Title 
 
