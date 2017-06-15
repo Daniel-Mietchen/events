@@ -60,11 +60,11 @@ More and more aspects of the research data life cycle involve some form of shari
   - e.g. [self-organized fund allocation](https://doi.org/10.1007/s11192-016-2110-3)
 - **Effective policies**: How can different policies and infrastructures be made better aware of each other?
   - make policies machine readable?
-  - start with machine readable licensing statements, e.g. Creative Commons licenses and CC0 waiver
+  - start with machine readable licensing statements, e.g. [CC0 waiver](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
 
 ## What does this mean for BEXIS?
 
-* Use open licenses and [not -NC restrictions](https://dx.doi.org/10.3897/zookeys.150.2189) to the extent possible, and CC0 for data ([WikiPathways example](http://wikipathways.org/index.php/WikiPathways:CC0_Announcement)
+* Use open licenses and [not -NC restrictions](https://dx.doi.org/10.3897/zookeys.150.2189) to the extent possible, and CC0 for data ([WikiPathways example](http://wikipathways.org/index.php/WikiPathways:CC0_Announcement))
 * Share early and often: let people (and machines) see more of what you are doing, closer to when you are doing it ([upcoming iDiv symposium on data mobilization](https://github.com/Daniel-Mietchen/events/issues/44))
 * Your ideas
 
