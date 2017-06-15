@@ -50,6 +50,10 @@ More and more aspects of the research data life cycle involve some form of shari
     - [sample queries](https://www.wikidata.org/wiki/User:ProteinBoxBot/SPARQL_Examples)
       - [map of topics co-occurring with "Zika virus" in the literature](https://query.wikidata.org/#%23defaultView%3AGraph%0A%23defaultView%3ATable%0Aselect%20distinct%20%3Ftopic1%20%3Ftopic1Label%20%3Ftopic2%20%3Ftopic2Label%20where%20{%0A%20%20{%20%3Fwork%20wdt%3AP921%2Fwdt%3AP31*%2Fwdt%3AP279*%20wd%3AQ202864%20.%20}%0A%20%20union%20{%20%3Fwork%20wdt%3AP921%2Fwdt%3AP361%2B%20wd%3AQ202864%20.%20}%0A%20%20union%20{%20%3Fwork%20wdt%3AP921%2Fwdt%3AP1269%2B%20wd%3AQ202864%20.%20}%0A%20%20%3Fwork%20wdt%3AP921%20%3Ftopic1%2C%20%3Ftopic2%20.%20%0A%20%20filter%20(wd%3AQ202864%20!%3D%20%3Ftopic1%20%26%26%20wd%3AQ202864%20!%3D%20%3Ftopic2%20%26%26%20%3Ftopic1%20!%3D%20%3Ftopic2)%0A%20%20SERVICE%20wikibase%3Alabel%20{%0A%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cfr%2Cde%2Cru%2Ces%2Czh%2Cjp%22.%0A%20%20}%0A}%0A%0A)
       - [scholarly profile pages](https://tools.wmflabs.org/scholia/topic/Q202864)
+- **Reproducibility**
+  - [Jupyter notebook from LIGO](https://twitter.com/KyleCranmer/status/698240530900193282)
+  - [analysis of reproducibility of Jupyter notebooks](https://github.com/sparcopen/open-research-doathon/issues/25)
+  - today's workshop [Fostering reproducible science – What data management tools can do and should do for you](http://fusion.cs.uni-jena.de/bexis2userdevconf2017/workshop/)
 - **Ethics**: making ethics data FAIR
   - [talk on the topic](https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza.md)
   - [further notes](https://github.com/Daniel-Mietchen/datascience/blob/master/ethics.md)
