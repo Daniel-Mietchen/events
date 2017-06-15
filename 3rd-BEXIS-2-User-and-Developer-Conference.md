@@ -20,7 +20,7 @@ More and more aspects of the research data life cycle involve some form of shari
 
 # Some of my activities in this space
 
-- helping to improve [data sharing in public health emergencies](https://doi.org/10.2471/BLT.17.192096)
+- helping to improve [data sharing in public health emergencies](http://www.who.int/bulletin/volumes/95/4/17-192096/en/)
 - working on [making data mangement plans machine actionable, versioned and public](https://doi.org/10.3897/rio.3.e13086)
 - helped shape the [Open Science Prize](http://openscienceprize.org/)
 - helping to explore [technical aspects of preprint services in the life sciences](https://doi.org/10.3897/rio.3.e11825)
