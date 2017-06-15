@@ -1,4 +1,4 @@
-*[About](#about)・[Abstract](#abstract)・[Contact](#contact)*
+*[About](#about)・[Abstract](#abstract)・[Dedication](#dedication)・[Contact](#contact)*
 
 # Opening up the research data life cycle
 
@@ -19,7 +19,7 @@ More and more aspects of the research data life cycle involve some form of shari
 - no single *publishing* step within the cycle, since every intermediate step is an opportunity to share
 - [video](https://www.youtube.com/watch?v=LwW1-X3glak)
 
-# Some of my activities in this space
+## Some of my activities in this space
 
 - helping to improve [data sharing in public health emergencies](http://www.who.int/bulletin/volumes/95/4/17-192096/en/)
 - working on [making data mangement plans machine actionable, versioned and public](https://doi.org/10.3897/rio.3.e13086)
@@ -81,15 +81,17 @@ More and more aspects of the research data life cycle involve some form of shari
 * Others includes people and machines
 * Your ideas
 
-# About
+# Dedication
 
-This page ( https://github.com/Daniel-Mietchen/events/blob/master/3rd-BEXIS-2-User-and-Developer-Conference.md ) hosts a presentation that will be given on 15 June 2017 at 7am UTC. It is a contribution to the [3rd BEXIS 2 User and Developer Conference](http://fusion.cs.uni-jena.de/bexis2userdevconf2017/) taking place on 16 June 2017 in Jena, with an associated workshop on June 15. BEXIS (also BExIS) stands for "[Biodiversity Exploratories Information System](https://www.bexis.uni-jena.de/)" and is a research environment for managing the entire data life cycle for biodiversity data.
-
-I dedicate this talk to the memory of my grandfather Werner Mietchen, whose funeral [takes place tomorrow](https://github.com/Daniel-Mietchen/events/issues/138).
+I dedicate this talk to the memory of my grandfather Werner Mietchen, whose funeral is [taking place the day after](https://github.com/Daniel-Mietchen/events/issues/138).
 
 # Contact
 
 - [@EvoMRI](https://twitter.com/EvoMRI)
 - email: daniel.mietchen[@](https://please-do-not-spam.me)virginia.edu
 - ORCID: [0000-0001-9488-1870](http://orcid.org/0000-0001-9488-1870)
+
+# About
+
+This page ( https://github.com/Daniel-Mietchen/events/blob/master/3rd-BEXIS-2-User-and-Developer-Conference.md ) hosts a presentation that will be given on 15 June 2017 at 7am UTC. It is a contribution to the [3rd BEXIS 2 User and Developer Conference](http://fusion.cs.uni-jena.de/bexis2userdevconf2017/) taking place on 16 June 2017 in Jena, with an associated workshop on June 15. BEXIS (also BExIS) stands for "[Biodiversity Exploratories Information System](https://www.bexis.uni-jena.de/)" and is a research environment for managing the entire data life cycle for biodiversity data.
 
