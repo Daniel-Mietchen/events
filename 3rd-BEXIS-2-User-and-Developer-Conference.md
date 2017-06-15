@@ -8,9 +8,10 @@ More and more aspects of the research data life cycle involve some form of shari
 
 ## The research data life cycle
 
-- can be framed in many ways ([UVA example](http://data.library.virginia.edu/data-management/lifecycle/))
+- can be framed in [many ways](https://www.google.de/search?q=%22data+life+cycle%22)
+  - ([UVA example](http://data.library.virginia.edu/data-management/lifecycle/))
 - key components: plan **・** get permissions **・** get funding **・** get infrastructure **・** collect metadata **・** collect data **・** process data **・** analyze data **・** *publish* **・** curate data **・** preserve data **・** reuse metadata **・** find data **・** access data **・** reuse data **・** reproduce data **・** delete data
-- exact arrangement does vary
+- exact arrangement can and does vary
 - frequent 'rinse and repeat'
 
 ## What does it mean to open it up?
@@ -65,16 +66,26 @@ More and more aspects of the research data life cycle involve some form of shari
 - **Effective policies**: How can different policies and infrastructures be made better aware of each other?
   - make policies machine readable?
   - start with machine readable licensing statements, e.g. [CC0 waiver](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+  - [dedicated talk](https://github.com/Daniel-Mietchen/events/blob/master/5th-LEARN-workshop-2017.md)
 
 ## What does this mean for BEXIS?
 
-* Use open licenses and [avoid -NC restrictions](https://dx.doi.org/10.3897/zookeys.150.2189) to the extent possible, and CC0 for data ([WikiPathways example](http://wikipathways.org/index.php/WikiPathways:CC0_Announcement))
-* Share early and often: let people (and machines) see more of what you are doing, closer to when you are doing it ([upcoming iDiv symposium on data mobilization](https://github.com/Daniel-Mietchen/events/issues/44))
+* Use persistent identifiers whenever possible
+  - [botanical collections example](https://doi.org/10.1038/546033d)
+* Use open licenses and [avoid -NC restrictions](https://dx.doi.org/10.3897/zookeys.150.2189) to the extent possible, and CC0 for data
+  - [WikiPathways example](http://wikipathways.org/index.php/WikiPathways:CC0_Announcement)
+* Share early and often 
+  - let others see more of what you are doing, closer to when you are doing it [upcoming iDiv symposium on data mobilization](https://github.com/Daniel-Mietchen/events/issues/44)
+* Share where others are looking to find things
+  - [Ernst Abbe example](https://twitter.com/EvoMRI/status/741461595608522752)
+* Others includes people and machines
 * Your ideas
 
 # About
 
 This page ( https://github.com/Daniel-Mietchen/events/blob/master/3rd-BEXIS-2-User-and-Developer-Conference.md ) hosts a presentation that will be given on 15 June 2017 at 7am UTC. It is a contribution to the [3rd BEXIS 2 User and Developer Conference](http://fusion.cs.uni-jena.de/bexis2userdevconf2017/) taking place on 16 June 2017 in Jena, with an associated workshop on June 15. BEXIS (also BExIS) stands for "[Biodiversity Exploratories Information System](https://www.bexis.uni-jena.de/)" and is a research environment for managing the entire data life cycle for biodiversity data.
+
+I dedicate this talk to the memory of my grandfather Werner Mietchen, whose funeral [takes place tomorrow](https://github.com/Daniel-Mietchen/events/issues/138).
 
 # Contact
 
