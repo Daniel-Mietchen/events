@@ -33,7 +33,10 @@ More and more aspects of the research data life cycle involve some form of shari
 
 ## How to discover research that is being *performed now* or *planned for the near future*?
 
-- some inspiration: 
+- **Actual need** 
+  - [Zika example](https://www.statnews.com/2016/02/16/zika-data-sharing/)
+  - [further notes on emergency response](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
+- **Some inspiration** 
   - real-time [visualization](http://wikistream.wmflabs.org/#namespace=article&robot=true&user=true&wiki=all) and [sonification](http://listen.hatnote.com/#en,fa,ar,sa,es,de,ru,jp,zh,ko) of Wikimedia edits
   - What about [doing this for research](https://github.com/sparcopen/open-research-doathon/issues/34)? 
     - As it happens (e.g. as per the video above)
