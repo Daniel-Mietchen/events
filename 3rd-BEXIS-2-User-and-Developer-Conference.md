@@ -75,6 +75,6 @@ This page ( https://github.com/Daniel-Mietchen/events/blob/master/3rd-BEXIS-2-Us
 # Contact
 
 - [@EvoMRI](https://twitter.com/EvoMRI)
-- email: daniel.mietchen[at]()virginia.edu
+- email: daniel.mietchen[@](please don't spam me)virginia.edu
 - ORCID: [0000-0001-9488-1870](http://orcid.org/0000-0001-9488-1870)
 
