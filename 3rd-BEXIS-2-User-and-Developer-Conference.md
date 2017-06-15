@@ -9,7 +9,7 @@ More and more aspects of the research data life cycle involve some form of shari
 ## The research data life cycle
 
 - can be framed in many ways ([UVA example](http://data.library.virginia.edu/data-management/lifecycle/))
-- key components: plan **・** get permissions **・** get funding **・** get infrastructure **・** collect metadata **・** collect data **・** process data **・** analyze data **・** *publish* **・** preserve data **・** reuse metadata **・** find data **・** access data **・** reuse data **・** reproduce data **・** delete data
+- key components: plan **・** get permissions **・** get funding **・** get infrastructure **・** collect metadata **・** collect data **・** process data **・** analyze data **・** *publish* **・** curate data **・** preserve data **・** reuse metadata **・** find data **・** access data **・** reuse data **・** reproduce data **・** delete data
 - exact arrangement does vary
 - frequent 'rinse and repeat'
 
