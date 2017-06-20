@@ -6,10 +6,6 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 # List
 
-## General
-
-* [YouTube](https://www.youtube.com/results?search_query=daniel+mietchen)
-
 ## In English
 
 * 2017-05-22, Vienna: [The Zika corpus on Wikidata](https://www.wikidata.org/wiki/User:Daniel_Mietchen/WikiCite_2017) (see also [this interview on the topic](http://www.openscienceradio.de/2017/05/30/osr084-wikicite-2017-interview-with-daniel-mietchen-en/))
@@ -46,3 +42,4 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 # See also
 
 * [Biosketch](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Biographical_sketch)
+* A [YouTube search](https://www.youtube.com/results?search_query=daniel+mietchen) brings about a few more examples, which will hopefully make their way onto this list eventually.
