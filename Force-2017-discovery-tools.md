@@ -1,4 +1,6 @@
-# A submission to the Force 2017 conference.
+# About
+
+This is a submission to the [Force 2017](https://www.force2017.org/) conference to be held on October 23-25 in Berlin.
 
 # Title
 
