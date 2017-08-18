@@ -2,10 +2,39 @@
 
 This file hosts a submission on [rerunning Jupyter notebooks from PMC](https://github.com/sparcopen/open-research-doathon/issues/25) for [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny), to be held in New York on August 23-25, 2017. The deadline for submitting talks was March 14, 2017, 11:59pm Eastern Daylight Time, and I received confirmation of my submission at 11:49pm EDT that day. On April 13, I was informed that notifications of acceptance or rejection would be sent out "between now and next week (the week of April 17)." On April 22, I received notification that the talk had been selected, and I accepted the offer to present. The talk is now scheduled for 4:10pm - 4:50pm EDT (40 minutes) on August 25 in Sutton South/Regent Parlor (see also [its entry in the program](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/60126)).
 
-Like the rest of the project, this was a collaborative effort. Special thanks go to Tom Pollard for help with the submission.
+Like the rest of the project, this was a collaborative effort. Special thanks go to Tom Pollard for help with the [submission](#submission).
 
+# Outline of the talk
 
-# Submission form
+## Premises
+
+- Jupyter notebooks
+  - can be used for learning and teaching
+  - have begun to be shared along with scholarly publications
+  - have begun to be shared on Wikimedia platforms
+
+## Observations
+
+- Jupyter notebooks 
+  - provide a great learning experiences when they actually run
+  - can trigger frustration or additional learning experiences when they do not run
+  
+## Recommendations
+
+- make all dependencies explicit
+- share in self-contained environment
+
+## Open questions
+
+- multiple
+
+## Outlook
+
+- research
+- Wikimedia
+- offline
+
+# Submission
 
 Below the horizontal line is a copy of the submission form, with my responses filled in as blockquotes. The form used a non-markdown way of markup, which is preserved in the way the hyperlinks are given.
 
