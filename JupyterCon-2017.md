@@ -21,6 +21,7 @@ The slot is 40 min, so aiming for something like 25-30 min of presentation and 1
 
 - [Analyze all Jupyter notebooks mentioned in PubMed Central](https://github.com/sparcopen/open-research-doathon/issues/25)
   - [initial write-up](https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html)
+  - zoom in on Python
 
 ## Observations
 
@@ -28,11 +29,15 @@ The slot is 40 min, so aiming for something like 25-30 min of presentation and 1
   - provide a great learning experiences when they actually run
   - can trigger frustration or additional learning experiences when they do not run
   - are growing in popularity on PMC
+- Validation approaches
+  - Python-focused
+    - pip-focused
 
 ## Discussion
 
 - terminology around rep\*bility
 - lots of similar initiatives
+- Zoom back out from Python
 
 ## Recommendations
 
