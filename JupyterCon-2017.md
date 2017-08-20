@@ -6,6 +6,10 @@ Like the rest of the project, this was a collaborative effort. Special thanks go
 
 # Outline of the talk
 
+## Timing
+
+The slot is 40 min, so aiming for something like 25-30 min of presentation and 15-10 min of Q & A would seem reasonable.
+
 ## Premises
 
 - Jupyter notebooks
@@ -13,16 +17,28 @@ Like the rest of the project, this was a collaborative effort. Special thanks go
   - have begun to be shared along with scholarly publications
   - have begun to be shared on Wikimedia platforms
 
+## Hackathon project
+
+- [Analyze all Jupyter notebooks mentioned in PubMed Central](https://github.com/sparcopen/open-research-doathon/issues/25)
+  - [initial write-up](https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html)
+
 ## Observations
 
 - Jupyter notebooks 
   - provide a great learning experiences when they actually run
   - can trigger frustration or additional learning experiences when they do not run
-  
+  - are growing in popularity on PMC
+
+## Discussion
+
+- terminology around rep\*bility
+- lots of similar initiatives
+
 ## Recommendations
 
 - make all dependencies explicit
 - share in self-contained environment
+- ...
 
 ## Open questions
 
@@ -33,6 +49,7 @@ Like the rest of the project, this was a collaborative effort. Special thanks go
 - research
 - Wikimedia
 - offline
+  - [Kolibri](https://learningequality.org/kolibri/)
 
 # Submission
 
