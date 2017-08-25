@@ -8,7 +8,7 @@ Like the rest of the project, this was a collaborative effort. Special thanks go
 
 ## Timing
 
-The slot is 40 min, so aiming for something like 25-30 min of presentation and 15-10 min of Q & A would seem reasonable.
+The slot is 40 min, so I'll be aiming for something like 25-30 min of presentation and 15-10 min of Q & A.
 
 ## Title
 
