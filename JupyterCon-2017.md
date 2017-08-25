@@ -30,7 +30,8 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
   - have begun to be shared along with scholarly publications
     - > ["Drawing a complete list of all mentions of Jupyter notebooks in the Astrophysics Data System, we identified 91 relevant publications."](https://doi.org/10.1109/JCDL.2017.7991618)
   - have begun to be shared on Wikimedia platforms
-    - [example](https://en.wikipedia.org/w/index.php?title=Lambert_series&oldid=744731728#cite_note-1)
+    - [Wikipedia](https://en.wikipedia.org/w/index.php?title=Lambert_series&oldid=744731728#cite_note-1)
+    - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parameter_estimation_process_infinite_Gaussian_mixture_model.webm)
 
 ## Hackathon project
 
