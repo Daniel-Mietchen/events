@@ -76,6 +76,7 @@ notebooks mentioned in a list of papers](https://github.com/sparcopen/open-resea
 
 ## Recommendations
 
+- see [original write-up](https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html)
 - cite/ mention notebooks in a standardized fashion
   - > ["We identified eight ways in which scientists mentioned the Jupyter notebooks and five ways in which they provided access, only some of which appeared to facilitate open science. Of the 91 papers, 37 linked to openly accessible Jupyter notebooks containing detailed research procedures, associated code, analytical methods, and results. Another 54 papers mentioned a Jupyter notebook in the text, but did not provide access to one. Practices for mentioning, storing, and providing access to the notebooks varied greatly across papers."](https://doi.org/10.1109/JCDL.2017.7991618)
     - some additional modes:
@@ -86,6 +87,7 @@ notebooks mentioned in a list of papers](https://github.com/sparcopen/open-resea
   - libraries in other languages
   - datasets required by the code
   - dependencies for all of the above
+  - [note of caution](https://github.com/sparcopen/open-research-doathon/issues/25#issuecomment-288946423)
 - share in self-contained environment
 - ...
 
