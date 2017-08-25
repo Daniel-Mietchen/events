@@ -49,6 +49,12 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
   - Python-focused
     - pip-focused
 
+## Early prototypes for notebook verification
+
+- [automated verification of a given Jupyter notebook](https://gitlab.com/mwoodbri/jupyter-ci/tree/master) by [Mark Woodbridge](https://github.com/mrw34)
+- [automated verification of the notebooks from our initial spreadsheet](http://paws-public.wmflabs.org/paws-public/995/WikiCite%20notebook%20validator.ipynb) by [Laurentius](https://it.wikipedia.org/wiki/Utente:Laurentius)
+- [web app to autorun notebooks mentioned in a list of papers](https://github.com/sparcopen/open-research-doathon/issues/25#issuecomment-324954665) by [Alexander Pashuk](https://github.com/alexanderpashuk) [Roman Gurinovich](https://github.com/RomanGurinovich)
+
 ## Discussion
 
 - terminology around rep\*bility
