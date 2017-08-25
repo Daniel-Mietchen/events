@@ -30,7 +30,7 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
   - also applies to things where we have legal permission but technical barriers
 - Jupyter notebooks
   - can be used to share analytical workflows
-    - in research (see [earlier presentation by Zach Seiler](https://github.com/Daniel-Mietchen/events/issues/19#issuecomment-324832640))
+    - ["Jupyter as a conversational medium in science enabling reproducibility"](https://twitter.com/jiffyclub/status/901078588090454016) (see also [earlier presentation by Zach Seiler](https://github.com/Daniel-Mietchen/events/issues/19#issuecomment-324832640) who [demoed it](https://github.com/Zsailer/jupytercon-reproducible-notebooks))
     - in data journalism (see [earlier presentation by Karlijn Willems](https://github.com/Daniel-Mietchen/events/issues/19#issuecomment-324845042))
   - can provide a great learning experiences (["killer app for education"](https://twitter.com/lee_stott/status/901074238400065536))
     - [when they actually run](https://twitter.com/mpbruchez/status/901078147545935873)
@@ -42,6 +42,9 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
     - [Wikipedia](https://en.wikipedia.org/w/index.php?title=Lambert_series&oldid=744731728#cite_note-1)
     - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parameter_estimation_process_infinite_Gaussian_mixture_model.webm)
     - ["Data science is a critical skill for today's engaged citizen."](https://twitter.com/rosiepongracz/status/900744763422494720) ([Fernando](https://twitter.com/rroumeliotis/status/900722216748417024))
+- ["reproducibility is not a one-click solution"](https://twitter.com/LorenaABarba/status/901081360235999232)
+  - computational reproducibility should be, and Lorena alluded to it in her [reference to Jon F. Claerbout](https://speakerdeck.com/labarba/design-for-reproducibility?slide=2)
+  - research reproducibility is a conversation indeed
 
 ## Hackathon project
 
