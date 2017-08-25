@@ -46,17 +46,25 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
   - computational reproducibility should be, and Lorena alluded to it in her [reference to Jon F. Claerbout](https://speakerdeck.com/labarba/design-for-reproducibility?slide=2)
   - research reproducibility is a conversation indeed
 
+## Inspiration
+
+- [try.jupyter.org/](https://try.jupyter.org/)
+  - works, but examples are not relevant to me
+- [notebooks shared with papers](https://www.ncbi.nlm.nih.gov/pmc/?term=ipynb+OR+jupyter+OR+ipython)
+  - relevant to me but they often don't work
+- [Schematron validation of XML trees](http://jats4r.org/tools)
+
 ## Hackathon project
 
 - [Analyze all Jupyter notebooks mentioned in PubMed Central](https://github.com/sparcopen/open-research-doathon/issues/25)
-  - [inspiration from Schematron validation of XML trees](http://jats4r.org/tools)
-  - [initial write-up](https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html)
   - initial focus on Python, with broader scope in mind
 
 ## Observations
 
+- [initial write-up](https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html)
 - Jupyter notebooks 
   - provide great learning experiences when they actually run
+  - need to be shared in a more standardized fashion to allow reuse
   - can trigger frustration or additional learning experiences when they do not run
   - are growing in popularity on PMC
 
