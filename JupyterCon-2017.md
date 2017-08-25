@@ -42,7 +42,7 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
 ## Observations
 
 - Jupyter notebooks 
-  - provide a great learning experiences when they actually run
+  - provide great learning experiences when they actually run
   - can trigger frustration or additional learning experiences when they do not run
   - are growing in popularity on PMC
 - Validation approaches
@@ -53,7 +53,8 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
 
 - [automated verification of a given Jupyter notebook](https://gitlab.com/mwoodbri/jupyter-ci/tree/master) by [Mark Woodbridge](https://github.com/mrw34)
 - [automated verification of the notebooks from our initial spreadsheet](http://paws-public.wmflabs.org/paws-public/995/WikiCite%20notebook%20validator.ipynb) by [Laurentius](https://it.wikipedia.org/wiki/Utente:Laurentius)
-- [web app to autorun notebooks mentioned in a list of papers](https://github.com/sparcopen/open-research-doathon/issues/25#issuecomment-324954665) by [Alexander Pashuk](https://github.com/alexanderpashuk) [Roman Gurinovich](https://github.com/RomanGurinovich)
+- [web app to auto
+notebooks mentioned in a list of papers](https://github.com/sparcopen/open-research-doathon/issues/25#issuecomment-324954665) by [Alexander Pashuk](https://github.com/alexanderpashuk) [Roman Gurinovich](https://github.com/RomanGurinovich)
 
 ## Discussion
 
@@ -63,6 +64,8 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
 
 ## Recommendations
 
+- cite/ mention notebooks in a standardized fashion
+  - > ["We identified eight ways in which scientists mentioned the Jupyter notebooks and five ways in which they provided access, only some of which appeared to facilitate open science. Of the 91 papers, 37 linked to openly accessible Jupyter notebooks containing detailed research procedures, associated code, analytical methods, and results. Another 54 papers mentioned a Jupyter notebook in the text, but did not provide access to one. Practices for mentioning, storing, and providing access to the notebooks varied greatly across papers."](https://doi.org/10.1109/JCDL.2017.7991618)
 - make all dependencies explicit
 - share in self-contained environment
 - ...
