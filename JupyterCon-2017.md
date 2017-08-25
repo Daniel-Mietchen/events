@@ -10,12 +10,27 @@ Like the rest of the project, this was a collaborative effort. Special thanks go
 
 The slot is 40 min, so aiming for something like 25-30 min of presentation and 15-10 min of Q & A would seem reasonable.
 
+## Title
+
+Post-publication peer review of Jupyter Notebooks referenced in articles on PubMed Central
+
+## Definitions
+
+- [post-publication peer review](https://en.wikipedia.org/w/index.php?title=Scholarly_peer_review&oldid=795877776#Pre-_and_post-publication): assessment of scholarly work once it is public
+  - is a major mode of research communication, but often not done in public
+- [Jupyter notebook](http://jupyter.org/): an interactive document with code, data and text embedded
+  - [“To a non-coder, a Jupyter notebook is an interactive data document that happens to have some code in it”](https://twitter.com/carlystrasser/status/900793446176366592)
+- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/): the largest public full-text repository of biomedical research (> 4 million articles)
+
 ## Premises
 
 - Jupyter notebooks
-  - can be used for learning and teaching
+  - can provide a great learning experiences (["killer app for education"](https://twitter.com/lee_stott/status/901074238400065536))
+    - [when they actually run](https://twitter.com/mpbruchez/status/901078147545935873)
   - have begun to be shared along with scholarly publications
+    - > ["Drawing a complete list of all mentions of Jupyter notebooks in the Astrophysics Data System, we identified 91 relevant publications."](https://doi.org/10.1109/JCDL.2017.7991618)
   - have begun to be shared on Wikimedia platforms
+    - [example](https://en.wikipedia.org/w/index.php?title=Lambert_series&oldid=744731728#cite_note-1)
 
 ## Hackathon project
 
