@@ -71,7 +71,7 @@ notebooks mentioned in a list of papers](https://github.com/sparcopen/open-resea
 ## Discussion
 
 - terminology around rep\*bility
-- lots of similar initiatives (see [comments in original thread](https://github.com/sparcopen/open-research-doathon/issues/25#issuecomment-285392746) but little coordination
+- lots of similar initiatives (see [comments in original thread](https://github.com/sparcopen/open-research-doathon/issues/25#issuecomment-285392746)) but little coordination
 
 
 ## Recommendations
