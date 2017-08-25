@@ -36,8 +36,9 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
 ## Hackathon project
 
 - [Analyze all Jupyter notebooks mentioned in PubMed Central](https://github.com/sparcopen/open-research-doathon/issues/25)
+  - [inspiration from Schematron validation of XML trees](http://jats4r.org/tools)
   - [initial write-up](https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html)
-  - zoom in on Python
+  - initial focus on Python, with broader scope in mind
 
 ## Observations
 
@@ -45,9 +46,6 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
   - provide great learning experiences when they actually run
   - can trigger frustration or additional learning experiences when they do not run
   - are growing in popularity on PMC
-- Validation approaches
-  - Python-focused
-    - pip-focused
 
 ## Early prototypes for notebook verification
 
@@ -60,7 +58,6 @@ notebooks mentioned in a list of papers](https://github.com/sparcopen/open-resea
 
 - terminology around rep\*bility
 - lots of similar initiatives
-- Zoom back out from Python
 
 ## Recommendations
 
