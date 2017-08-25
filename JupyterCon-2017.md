@@ -24,11 +24,15 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
 
 ## Premises
 
+- ["Data science is a critical skill for today's engaged citizen."](https://twitter.com/rosiepongracz/status/900744763422494720) ([Fernando](https://twitter.com/rroumeliotis/status/900722216748417024))
+- ["Science is about opening up the black box of nature; we shouldn't be doing that with things which themselves we are not legally allowed to understand"](https://www.youtube.com/watch?v=xuNj5paMuow#t=5m13s)
+  - also applies to things where we have legal permission but technical barriers
 - Jupyter notebooks
   - can provide a great learning experiences (["killer app for education"](https://twitter.com/lee_stott/status/901074238400065536))
     - [when they actually run](https://twitter.com/mpbruchez/status/901078147545935873)
   - have begun to be shared along with scholarly publications
     - > ["Drawing a complete list of all mentions of Jupyter notebooks in the Astrophysics Data System, we identified 91 relevant publications."](https://doi.org/10.1109/JCDL.2017.7991618)
+    - similar number in PubMed Central at the time
   - have begun to be shared on Wikimedia platforms
     - [Wikipedia](https://en.wikipedia.org/w/index.php?title=Lambert_series&oldid=744731728#cite_note-1)
     - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parameter_estimation_process_infinite_Gaussian_mixture_model.webm)
@@ -53,16 +57,24 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
 - [automated verification of the notebooks from our initial spreadsheet](http://paws-public.wmflabs.org/paws-public/995/WikiCite%20notebook%20validator.ipynb) (by [Laurentius](https://it.wikipedia.org/wiki/Utente:Laurentius))
 - [web app to auto
 notebooks mentioned in a list of papers](https://github.com/sparcopen/open-research-doathon/issues/25#issuecomment-324954665) (by [Alexander Pashuk](https://github.com/alexanderpashuk) and [Roman Gurinovich](https://github.com/RomanGurinovich))
+  - [sample report](http://exe.sci.ai/results/d121f868-e73c-44c7-8ea9-f6140125fa06) based on
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5322252/
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4965465/
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5395614/
 
 ## Discussion
 
 - terminology around rep\*bility
-- lots of similar initiatives
+- lots of similar initiatives (see [comments in original thread](https://github.com/sparcopen/open-research-doathon/issues/25#issuecomment-285392746) but little coordination
+
 
 ## Recommendations
 
 - cite/ mention notebooks in a standardized fashion
   - > ["We identified eight ways in which scientists mentioned the Jupyter notebooks and five ways in which they provided access, only some of which appeared to facilitate open science. Of the 91 papers, 37 linked to openly accessible Jupyter notebooks containing detailed research procedures, associated code, analytical methods, and results. Another 54 papers mentioned a Jupyter notebook in the text, but did not provide access to one. Practices for mentioning, storing, and providing access to the notebooks varied greatly across papers."](https://doi.org/10.1109/JCDL.2017.7991618)
+    - some additional modes:
+      - [Figure only](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5014984/figure/figure1/)
+      - [PDF in supplement](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5082134/#__ackidm140116235021904title)
 - make all dependencies explicit and machine actionable (starting with [requirements.txt](https://github.com/sciAI/exe/blob/master/requirements.txt))
   - libraries in the notebook's main language
   - libraries in other languages
@@ -96,6 +108,7 @@ notebooks mentioned in a list of papers](https://github.com/sparcopen/open-resea
   - [Kolibri](https://learningequality.org/kolibri/)
 - data journalism
   - [Buzzfeed example](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages)
+- looking for partners to pilot potential solutions
   
 ## Contact
 
