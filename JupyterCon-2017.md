@@ -49,10 +49,10 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
 
 ## Early prototypes for notebook verification
 
-- [automated verification of a given Jupyter notebook](https://gitlab.com/mwoodbri/jupyter-ci/tree/master) by [Mark Woodbridge](https://github.com/mrw34)
-- [automated verification of the notebooks from our initial spreadsheet](http://paws-public.wmflabs.org/paws-public/995/WikiCite%20notebook%20validator.ipynb) by [Laurentius](https://it.wikipedia.org/wiki/Utente:Laurentius)
+- [automated verification of a given Jupyter notebook](https://gitlab.com/mwoodbri/jupyter-ci/tree/master) (by [Mark Woodbridge](https://github.com/mrw34))
+- [automated verification of the notebooks from our initial spreadsheet](http://paws-public.wmflabs.org/paws-public/995/WikiCite%20notebook%20validator.ipynb) (by [Laurentius](https://it.wikipedia.org/wiki/Utente:Laurentius))
 - [web app to auto
-notebooks mentioned in a list of papers](https://github.com/sparcopen/open-research-doathon/issues/25#issuecomment-324954665) by [Alexander Pashuk](https://github.com/alexanderpashuk) [Roman Gurinovich](https://github.com/RomanGurinovich)
+notebooks mentioned in a list of papers](https://github.com/sparcopen/open-research-doathon/issues/25#issuecomment-324954665) (by [Alexander Pashuk](https://github.com/alexanderpashuk) and [Roman Gurinovich](https://github.com/RomanGurinovich))
 
 ## Discussion
 
@@ -63,13 +63,30 @@ notebooks mentioned in a list of papers](https://github.com/sparcopen/open-resea
 
 - cite/ mention notebooks in a standardized fashion
   - > ["We identified eight ways in which scientists mentioned the Jupyter notebooks and five ways in which they provided access, only some of which appeared to facilitate open science. Of the 91 papers, 37 linked to openly accessible Jupyter notebooks containing detailed research procedures, associated code, analytical methods, and results. Another 54 papers mentioned a Jupyter notebook in the text, but did not provide access to one. Practices for mentioning, storing, and providing access to the notebooks varied greatly across papers."](https://doi.org/10.1109/JCDL.2017.7991618)
-- make all dependencies explicit
+- make all dependencies explicit and machine actionable (starting with [requirements.txt](https://github.com/sciAI/exe/blob/master/requirements.txt))
+  - libraries in the notebook's main language
+  - libraries in other languages
+  - datasets required by the code
+  - dependencies for all of the above
 - share in self-contained environment
 - ...
 
 ## Open questions
 
 - multiple
+  - to what extent can we reuse existing infrastructure for the purpose of 
+    - validating a given notebook?
+      - its containerized version?
+  - what standards exist or are emerging in terms of best practices for 
+    - mentioning notebooks
+    - citing notebooks
+    - expressing dependencies
+    - documenting when a validation was run, and by whom
+      - e.g. 
+        - before submission of the paper (perhaps by author)
+        - during review (perhaps by reviewer)
+        - upon publication of the paper (perhaps by journal)
+      
 
 ## Outlook
 
@@ -77,6 +94,14 @@ notebooks mentioned in a list of papers](https://github.com/sparcopen/open-resea
 - Wikimedia
 - offline
   - [Kolibri](https://learningequality.org/kolibri/)
+- data journalism
+  - [Buzzfeed example](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages)
+  
+## Contact
+
+- comment in the [original thread](https://github.com/sparcopen/open-research-doathon/issues/25)
+- Twitter: [EvoMRI](https://twitter.com/EvoMRI)
+- email: daniel.mietchen AT virginia DOT edu
 
 # Submission
 
