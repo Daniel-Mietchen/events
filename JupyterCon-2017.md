@@ -22,20 +22,26 @@ Post-publication peer review of Jupyter Notebooks referenced in articles on PubM
   - [“To a non-coder, a Jupyter notebook is an interactive data document that happens to have some code in it”](https://twitter.com/carlystrasser/status/900793446176366592)
 - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/): the largest public full-text repository of biomedical research (> 4 million articles)
 
-## Premises
+## Premises & comments on previous talks
 
-- ["Data science is a critical skill for today's engaged citizen."](https://twitter.com/rosiepongracz/status/900744763422494720) ([Fernando](https://twitter.com/rroumeliotis/status/900722216748417024))
+- [Fernando: From interactive Python to open science](https://www.oreilly.com/ideas/project-jupyter-from-interactive-python-to-open-science)
+  - I'm coming from the other end
 - ["Science is about opening up the black box of nature; we shouldn't be doing that with things which themselves we are not legally allowed to understand"](https://www.youtube.com/watch?v=xuNj5paMuow#t=5m13s)
   - also applies to things where we have legal permission but technical barriers
 - Jupyter notebooks
+  - can be used to share analytical workflows
+    - in research (see [earlier presentation by Zach Seiler](https://github.com/Daniel-Mietchen/events/issues/19#issuecomment-324832640))
+    - in data journalism (see [earlier presentation by Karlijn Willems](https://github.com/Daniel-Mietchen/events/issues/19#issuecomment-324845042))
   - can provide a great learning experiences (["killer app for education"](https://twitter.com/lee_stott/status/901074238400065536))
     - [when they actually run](https://twitter.com/mpbruchez/status/901078147545935873)
   - have begun to be shared along with scholarly publications
     - > ["Drawing a complete list of all mentions of Jupyter notebooks in the Astrophysics Data System, we identified 91 relevant publications."](https://doi.org/10.1109/JCDL.2017.7991618)
+      - but the practices for citing them are still evolving (see [earlier presentation by Bernie Randles et al.](https://github.com/Daniel-Mietchen/events/issues/19#issuecomment-324956004))
     - similar number in PubMed Central at the time
   - have begun to be shared on Wikimedia platforms
     - [Wikipedia](https://en.wikipedia.org/w/index.php?title=Lambert_series&oldid=744731728#cite_note-1)
     - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parameter_estimation_process_infinite_Gaussian_mixture_model.webm)
+    - ["Data science is a critical skill for today's engaged citizen."](https://twitter.com/rosiepongracz/status/900744763422494720) ([Fernando](https://twitter.com/rroumeliotis/status/900722216748417024))
 
 ## Hackathon project
 
