@@ -14,4 +14,4 @@ Policies are a common way to structure interactions amongst humans as well as be
 
 - [P3P](https://en.wikipedia.org/wiki/P3P)
 - [A Pattern-Based Method for Identifying and Analyzing Laws](https://doi.org/10.1007/978-3-642-28714-5_23)
-
+- [SCAPE: creating machine understandable policy from human readable policy](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/)
