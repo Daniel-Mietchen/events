@@ -1,4 +1,4 @@
-*[About](https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza.md#about)・[Making Ethics data FAIR](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#making-ethics-data-fair)・[Combined poster and demo](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#combined-poster-and-demo)*
+*[About](https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza-2016.md#about)・[Making Ethics data FAIR](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza-2016.md#making-ethics-data-fair)・[Combined poster and demo](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza-2016.md#combined-poster-and-demo)*
 
 # Making ethics data FAIR
 ## Abstract
@@ -6,7 +6,7 @@ So far, most of the ecosystem of ethical review of past, present and future rese
 
 Assigning persistent identifiers (PIDs) to important components of the ethical review process (e.g. [IRB](https://en.wikipedia.org/wiki/Institutional_review_board) or other ethics committee, review requests, reviews, IRB decisions) and making that information accessible to humans and machines could pave the way for ethical aspects of research to be included more prominently in research communication. For research data, the [FAIR principles](http://dx.doi.org/10.1038/sdata.2016.18) have been established to ensure that data are Findable, Accessible, Interoperable and Reusable.
 
-The talk itself will be given on the basis of [https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md), which will be continuously expanded until the event takes place, and possibly thereafter.
+The talk itself will be given on the basis of [https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza-2016.md](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza-2016.md), which will be continuously expanded until the event takes place, and possibly thereafter.
 
 ## Examples from the literature
   - emphasis added to highlight opportunities for using persistent identifiers:
@@ -50,7 +50,7 @@ I would also like to add that we would be happy to offer you a poster slot as we
 
 It is thus the "An [API](https://en.wikipedia.org/wiki/Application_programming_interface) for ethics" topic that I will develop into a talk, which will be given on the basis of this GitHub repo. I have since changed the title a bit &mdash; the original one was just a shorthand for an ecosystem of ethics-related infrastructure, for which the singular phrase "an API" might be misleading.
 
-I will address the other submissions in the combined poster and demo (see [below](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md#combined-poster-and-demo)).
+I will address the other submissions in the combined poster and demo (see [below](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza-2016.md#combined-poster-and-demo)).
 
 # Combined poster and demo
 My original plan was to turn these four topics into a poster, on the basis of which I was planning to demo them to poster visitors. However, the poster session was later reshaped to something more freestyle, and the first of these topics has been directly addressed in another talk (Stephanie Simms: "PIDs in DMPs: spinning tracks with syntax"), whereas the second and third were partly covered by Arthur Smith's "Wikidata and Persistent Identifiers". This left the fourth, which I addressed in multiple conversations that ranged from integrating the Memento protocol with MediaWiki to updates of Crossref metadata records.
