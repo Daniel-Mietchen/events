@@ -1,6 +1,6 @@
 # About
 
-This file hosts my contribution to [PIDapalooza 2018](https://doi.org/10.5438/11.0002).
+This file hosts my contribution to [PIDapalooza 2018](https://doi.org/10.5438/11.0002). It was submitted on September 22, 2017, which was the extended [submission deadline](https://github.com/Daniel-Mietchen/events/issues/208).
 
 # Title
 
