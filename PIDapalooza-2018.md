@@ -35,6 +35,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 
 # See also
 
+- [Mine PMC for ethics statements](https://github.com/Daniel-Mietchen/ideas/issues/499)
 - [P3P](https://en.wikipedia.org/wiki/P3P)
 - [A Pattern-Based Method for Identifying and Analyzing Laws](https://doi.org/10.1007/978-3-642-28714-5_23)
 - [SCAPE: creating machine understandable policy from human readable policy](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/)
