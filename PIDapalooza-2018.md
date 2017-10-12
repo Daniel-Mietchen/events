@@ -46,7 +46,10 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [automated analysis legal texts](https://openknowledgemaps.org/map/7866f7063b59fe359bfea5a4bc5254eb)
 - [machine policy](https://openknowledgemaps.org/map/3c390d01b4ce35160163cd013e7d9147)
 - [machine-readable policy](https://openknowledgemaps.org/map/ba7612335623bbb6167896fe36cdf227)
-  - this yielded an interesting hit: [Towards a Similarity Metric for Comparing Machine-Readable Privacy Policies](https://brage.bibsys.no/xmlui/handle/11250/2430174), although it smells of P3P
+  - this yielded an interesting hit: [Towards a Similarity Metric for Comparing Machine-Readable Privacy Policies](https://brage.bibsys.no/xmlui/handle/11250/2430174), although it smells of [P3P](https://en.wikipedia.org/wiki/P3P)
+    - on P3P: 
+      - > We do not consider particular privacy policy languages (such as P3P [9], PPL [10] or XACML [11]), but focus on the high-level concepts that need to be solved rather than the particular language dependent problems.
+        - [Wikipedia article on XACML](https://en.wikipedia.org/wiki/XACML)
 - machine-actionable policy: failed
 - [policy comparison](https://openknowledgemaps.org/map/41675b55fbb2f2768a32ca445e584076)
 - ["policy comparison"](https://openknowledgemaps.org/map/417bfba6ac2911614e826c9384611154)
@@ -62,6 +65,5 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 
 # See also
 
-- [P3P](https://en.wikipedia.org/wiki/P3P)
 - [A Pattern-Based Method for Identifying and Analyzing Laws](https://doi.org/10.1007/978-3-642-28714-5_23)
 - [SCAPE: creating machine understandable policy from human readable policy](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/)
