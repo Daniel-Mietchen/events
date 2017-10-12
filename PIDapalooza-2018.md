@@ -47,10 +47,8 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [machine-readable policy](https://openknowledgemaps.org/map/ba7612335623bbb6167896fe36cdf227)
   - this yielded an interesting hit: [Towards a Similarity Metric for Comparing Machine-Readable Privacy Policies](https://brage.bibsys.no/xmlui/handle/11250/2430174), although it smells of P3P
 - machine-actionable policy: failed
-- policy comparison: failed
-- "policy comparison": failed
-
-
+- [policy comparison](https://openknowledgemaps.org/map/41675b55fbb2f2768a32ca445e584076)
+- ["policy comparison"](https://openknowledgemaps.org/map/417bfba6ac2911614e826c9384611154)
 
 # See also
 
