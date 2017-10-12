@@ -27,6 +27,7 @@ This session is not specific to any domain, so I'll try to structure it around e
   - at a single institution/ funder/ publisher
   - across multiple institutions/ funders/ publishers
 - [WMA Declaration of Helsinki – Ethical Principles for Medical Research Involving Human Subjects](https://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/)
+  - [related policy frameworks](https://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/)
 - subsidiary policies may be a better initial target for PID tagging than strategic policies (see "Thinking Strategically in Federal Policy: Defining the Attributes of High-level Policies" below)
 
 # Open Knowledge Maps
