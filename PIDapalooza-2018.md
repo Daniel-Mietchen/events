@@ -45,6 +45,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [automated analysis legal texts](https://openknowledgemaps.org/map/7866f7063b59fe359bfea5a4bc5254eb)
 - [machine policy](https://openknowledgemaps.org/map/3c390d01b4ce35160163cd013e7d9147)
 - [machine-readable policy](https://openknowledgemaps.org/map/ba7612335623bbb6167896fe36cdf227)
+  - this yielded an interesting hit: [Towards a Similarity Metric for Comparing Machine-Readable Privacy Policies](https://brage.bibsys.no/xmlui/handle/11250/2430174), although it smells of P3P
 - machine-actionable policy: fails
 
 
