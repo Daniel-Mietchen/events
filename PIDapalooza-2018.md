@@ -26,6 +26,7 @@ This session is not specific to any domain, so I'll try to structure it around e
   - in public health emergencies
   - at a single institution/ funder/ publisher
   - across multiple institutions/ funders/ publishers
+- subsidiary policies maybe a better target for PID tagging than strategic policies (see "Thinking Strategically in Federal Policy: Defining the Attributes of High-level Policies" below)
 
 # Open Knowledge Maps
 
@@ -55,7 +56,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
     - Focused on strategic policies as a subtype of policies. Five such policies are considered in detail (Table 1) and characterized in terms of 'attributes' like target audience, implementation incenteives or whether they are principles-based.
     - Proposes (Fig. 2)
       - > that those policies that had stronger stakeholder representation during policy formulation tend to deliver policies that are clearer in their objectives
-    - Not precisely what I was looking for, but maybe some of the language or references can be useful. For instance, according to his Fig. 1, I may be better off for this PID tagging of policy elements if I were to look for subsidiary rather than strategic policies. 
+    - Not precisely what I was looking for, but maybe some of the language or references can be useful. For instance, according to his Fig. 1, subsidiary policies maybe a better target for PID tagging than strategic policies.
 
 # See also
 
