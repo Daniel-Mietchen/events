@@ -47,6 +47,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [machine policy](https://openknowledgemaps.org/map/3c390d01b4ce35160163cd013e7d9147)
 - [machine-readable policy](https://openknowledgemaps.org/map/ba7612335623bbb6167896fe36cdf227)
   - this yielded an interesting hit: [Towards a Similarity Metric for Comparing Machine-Readable Privacy Policies](https://brage.bibsys.no/xmlui/handle/11250/2430174), although it smells of [P3P](https://en.wikipedia.org/wiki/P3P)
+    - [TO DO: Read the paper](https://github.com/Daniel-Mietchen/ideas/issues/510)
     - on P3P: 
       - > We do not consider particular privacy policy languages (such as P3P [9], PPL [10] or XACML [11]), but focus on the high-level concepts that need to be solved rather than the particular language dependent problems.
         - [Wikipedia article on XACML](https://en.wikipedia.org/wiki/XACML)
