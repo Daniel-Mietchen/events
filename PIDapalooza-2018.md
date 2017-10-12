@@ -51,6 +51,9 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - ["policy comparison"](https://openknowledgemaps.org/map/417bfba6ac2911614e826c9384611154)
   - hit: [Thinking Strategically in Federal Policy: Defining the Attributes of High-level Policies](hdl.handle.net/1885/108725)
     - I [requested a copy](https://openresearch-repository.anu.edu.au/request-item?handle=1885/108725&bitstream-id=593239)
+      - The copy came in with a friendly note by the author, and I went through it right away. Focused on strategic policies as a subtype of policies. Five such policies are considered in detail (Table 1) and characterized in terms of 'attributes' like target audience, implementation incenteives or whether they are principles-based. Proposes (Fig. 2)
+      - > that those policies that had stronger stakeholder representation during policy formulation tend to deliver policies that are clearer in their objectives
+      Not precisely what I was looking for, but maybe some of the language or references can be useful. For instance, according to his Fig. 1, I may be better off for this PID tagging of policy elements if I were to look for subsidiary rather than strategic policies. 
 
 # See also
 
