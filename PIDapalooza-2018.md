@@ -50,7 +50,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - machine-actionable policy: failed
 - [policy comparison](https://openknowledgemaps.org/map/41675b55fbb2f2768a32ca445e584076)
 - ["policy comparison"](https://openknowledgemaps.org/map/417bfba6ac2911614e826c9384611154)
-  - hit: [Thinking Strategically in Federal Policy: Defining the Attributes of High-level Policies](hdl.handle.net/1885/108725)
+  - hit: [Thinking Strategically in Federal Policy: Defining the Attributes of High-level Policies](https://hdl.handle.net/1885/108725)
     - I [requested a copy](https://openresearch-repository.anu.edu.au/request-item?handle=1885/108725&bitstream-id=593239)
       - The copy came in with a friendly note by the author, and I thanked him and went through it right away. 
     - Focused on strategic policies as a subtype of policies. Five such policies are considered in detail (Table 1) and characterized in terms of 'attributes' like target audience, implementation incentives or whether they are principles-based.
