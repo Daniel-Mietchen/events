@@ -15,6 +15,18 @@ Policies are a common way to structure interactions amongst humans as well as be
 - monitoring policy compliance, and 
 - standardizing policies across languages, jurisdictions and other use cases.
 
+# Target policies
+
+This session is not specific to any domain, so I'll try to structure it around examples from various areas. For the moment, though, I'll just list here some potential starting points:
+
+- [Mine PMC for ethics statements](https://github.com/Daniel-Mietchen/ideas/issues/499)
+- [Sharing policies relevant to NIH](https://github.com/Daniel-Mietchen/events/blob/6ca5731c5ccde9069c5a205e65de83519c8cee49/5th-LEARN-workshop-2017.md#sharing-policies-relevant-to-nih)
+- [Annotate some Wellcome policy pages](https://github.com/Daniel-Mietchen/ideas/issues/497)
+- Analyze policies for data sharing 
+  - in public health emergencies
+  - at a single institution/ funder/ publisher
+  - across multiple institutions/ funders/ publishers
+
 # Open Knowledge Maps
 
 Since I am new to the topic of analyzing legal language, I am trying to get an overview of how others are doing it, for which I am using [Open Knowledge Maps](https://openknowledgemaps.org/). In order to document my discovery process, I am listing below the queries that I ran, roughly in the order in which I ran them:
@@ -31,13 +43,13 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [legal language](https://openknowledgemaps.org/map/30774bcddfbc3190cc009f3bf729d9ec)
 - [automated legal texts](https://openknowledgemaps.org/map/ce741215f3c8c582edc81742aec63248)
 - [automated analysis legal texts](https://openknowledgemaps.org/map/7866f7063b59fe359bfea5a4bc5254eb)
+- [machine policy](https://openknowledgemaps.org/map/3c390d01b4ce35160163cd013e7d9147)
+- [machine-readable policy](https://openknowledgemaps.org/map/ba7612335623bbb6167896fe36cdf227)
+- machine-actionable policy: fails
 
 
 # See also
 
-- [Mine PMC for ethics statements](https://github.com/Daniel-Mietchen/ideas/issues/499)
-- [Sharing policies relevant to NIH](https://github.com/Daniel-Mietchen/events/blob/6ca5731c5ccde9069c5a205e65de83519c8cee49/5th-LEARN-workshop-2017.md#sharing-policies-relevant-to-nih)
-- [Annotate some Wellcome policy pages](https://github.com/Daniel-Mietchen/ideas/issues/497)
 - [P3P](https://en.wikipedia.org/wiki/P3P)
 - [A Pattern-Based Method for Identifying and Analyzing Laws](https://doi.org/10.1007/978-3-642-28714-5_23)
 - [SCAPE: creating machine understandable policy from human readable policy](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/)
