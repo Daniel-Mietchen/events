@@ -65,8 +65,16 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
         - author is conscious that 5 is a very small number to make such inferences
         - plausible in general (except when stakeholder representation is biased towards lobbyists whose interventions tend to make policies more vague) but information about 'stakeholder representation during policy formulation' is not necessarily easily available in or near a given policy text, so it's hard to include into workflows for identifying policies suitable for PID tagging of policy elements
     - Not precisely what I was looking for, but maybe some of the language or references can be useful. For instance, according to his Fig. 1, subsidiary policies may be a better initial target for PID tagging than strategic policies.
+- zooming in on ethics
+  - [ethics standards](https://openknowledgemaps.org/map/6a0cc6e9cb06d626cf1723873c38bf0e)
+    - hit: [A conceptual analysis of ethics codes](http://hdl.handle.net/10806/5300) (abstract only)
+  - [ethics forms](https://openknowledgemaps.org/map/f4654b277ceb612efa6f9c02e2169b99)
+  - [ethics policies](https://openknowledgemaps.org/map/5b8774e66c95bd6c137b4e2326027513)
+  - [ethical review](https://openknowledgemaps.org/map/31d8134696a409b5f6fb7a6697ae9b60)
 
 # See also
 
 - [A Pattern-Based Method for Identifying and Analyzing Laws](https://doi.org/10.1007/978-3-642-28714-5_23)
 - [SCAPE: creating machine understandable policy from human readable policy](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/)
+- [Law StackExchange](https://law.stackexchange.com/search?q=policies) (does not look promising so far; maybe ask)
+- [Academia StackExchange](https://academia.stackexchange.com/search?q=policies) (does not look promising so far; maybe ask)
