@@ -78,3 +78,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [SCAPE: creating machine understandable policy from human readable policy](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/)
 - [Law StackExchange](https://law.stackexchange.com/search?q=policies) (does not look promising so far; maybe ask)
 - [Academia StackExchange](https://academia.stackexchange.com/search?q=policies) (does not look promising so far; maybe ask)
+- [Challenges in Swedish hydropower – politics, economics and rights](https://doi.org/10.3897/rio.3.e21305)
+  - plans to analyze the effect of two different water management policies
+  - uses 
+    - > "the Policy Arrangements Approach (PAA) to map and analyse the arrangements in which hydropower permit processes take place, focusing on four dimensions: rules, actors, resources/power, and discourses (van Tatenhove et al. 2000)."
