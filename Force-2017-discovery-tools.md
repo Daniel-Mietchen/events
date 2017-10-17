@@ -11,6 +11,7 @@ Changing the way we discover research
 Session: 60 min time slot
 
 Thursday, 26 October 2017, 12:30-13:30
+
 Room 3, Kalkscheune, Johannisstraße 2, 10117 Berlin, Germany
 
 # Presenters
