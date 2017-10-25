@@ -52,8 +52,8 @@ Building new workflows
 #### 12:50 - 13:00 Discovery in an open science
 
 * **Presentation (Daniel):**
-  * Wikidata as a reference management platform
-  * Scholia: resource discovery via SPARQL
+  * [Wikidata as a reference management platform](https://meta.wikimedia.org/wiki/WikiCite)
+  * [Scholia](https://tools.wmflabs.org/scholia/): resource discovery via SPARQL
 
 #### 13:00 - 13:15 Discovery tools
 
