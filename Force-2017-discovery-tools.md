@@ -36,13 +36,15 @@ Building new workflows
 # Schedule
 
 #### 12:30 - 12:40 Welcome and warm-up
-**Exercise:** Get together in groups of two/three and discuss how you approach exploring an unknown research topic at the moment. What are your needs and requirements with respect to discovery? Are they met by the current tools and practices? Record your answers in [tool tbd].
+**Exercise:** Get together in groups of two/three and discuss the following questions: How do you get an overview of a unknown research field? What are the problems and challenges that you are facing?
+
+Record problems and challenges here: https://is.gd/force2017
 
 #### 12:40 - 12:50 Introduction to discovery 
 **Presentation (Peter):**
 * Publication Feeds and BuRST: a personal story about discoverability
 * Dark knowledge - hidden in plain sight
-* Discoverability left behind? Discovery in scholcomm charta
+* Insights from a survey on discovery
 * Open Knowledge Maps and collaborative discovery
 
 #### 12:50 - 13:00 Discovery in an open science
@@ -59,12 +61,19 @@ Building new workflows
 * shareability of the results of the discovery process
 * annotation/comments
 * collaborative features
+* other
 
-Record your answers in [tool tbd]
+Record your answers here: https://is.gd/force2017
 
 #### 13:15 - 13:30 Open discovery workflow
 
-**Voting and discussion:** What are the most important next steps to realize an open discovery workflow? Tools/details tbd
+**Exercise:** Describe an open discovery scenario (a model workflow) for a typical discovery task, e.g.:
+* Getting an overview of a field
+* Collecting a body of evidence for a certain question
+* Keeping an overview of a field
+* ...
+
+Record the scenario here: https://is.gd/force2017
 
 
 # URL to existing project 
