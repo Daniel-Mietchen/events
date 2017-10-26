@@ -1,6 +1,6 @@
 # About
 
-This is a session at the [Force 2017](https://www.force2017.org/) conference to be held on October 25-27 in Berlin.
+This is a session at the [Force 2017](https://www.force2017.org/) conference held on October 25-27 in Berlin. 
 
 # Title
 
@@ -16,8 +16,8 @@ Room 3, Kalkscheune, Johannisstraße 2, 10117 Berlin, Germany
 
 # Presenters
 
-* Daniel Mietchen, University of Virginia, http://orcid.org/0000-0001-9488-1870
-* Peter Kraker, Open Knowledge Maps, https://orcid.org/0000-0002-5238-4195
+* [Daniel Mietchen](https://twitter.com/PeterKraker/status/923509051044040704), University of Virginia, http://orcid.org/0000-0001-9488-1870 
+* [Peter Kraker](https://twitter.com/StephanJanosch/status/923505017314795520), Open Knowledge Maps, https://orcid.org/0000-0002-5238-4195 ([pic]())
 
 # Abstract
 
