@@ -44,3 +44,5 @@ Landscape mapping
 
 https://github.com/Daniel-Mietchen/events/blob/master/Force-2017-Wikimania-in-Africa.md
 
+* [session notes](https://docs.google.com/document/d/19F7ZbK6n2oYZfDMYFU8Fyf0GsG2tMULGDrp-i7fms1M/edit)
+
