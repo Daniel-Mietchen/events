@@ -82,3 +82,5 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
   - plans to analyze the effect of two different water management policies
   - uses 
     - > "the Policy Arrangements Approach (PAA) to map and analyse the arrangements in which hydropower permit processes take place, focusing on four dimensions: rules, actors, resources/power, and discourses (van Tatenhove et al. 2000)."
+- [Michael Bar-Sinai on Policy models](https://privacytools.seas.harvard.edu/blog/michael-bar-sinai-presents-policymodels-demo-force2017)
+- [Data Tags](https://datatags.org/)
