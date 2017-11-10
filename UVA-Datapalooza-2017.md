@@ -14,11 +14,11 @@
 
 # Image credits
 
-All images are linked to pages with metadata about them.
+All images are linked to pages with metadata about them, including licensing information. The licensing is always compatible with the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 # See also
 
-[The event app](http://goo.gl/qLkj9h). My number is 441.
+[The event app](http://goo.gl/qLkj9h). My number is 441. 
 
 # About
 
