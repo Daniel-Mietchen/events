@@ -1,5 +1,7 @@
 # Open data: central element of an open research ecosystem
 
+["Open data … can help create $3 trillion a year"](https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/open-data-unlocking-innovation-and-performance-with-liquid-information) ([underestimate](https://twitter.com/hudsonhollister/status/928996816640794628))
+
 [Listen to open data](http://listen.hatnote.com/#en,fa,ar,sa,es,de,ru,jp,zh,ko)
 
 [![Research in progress](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Discovery_in_process.jpg/1280px-Discovery_in_process.jpg)](https://commons.wikimedia.org/wiki/File:Discovery_in_process.jpg)
@@ -25,6 +27,9 @@ All images are linked to pages with metadata about them, including licensing inf
   - hashtag: [#Datapalooza2017](https://twitter.com/hashtag/datapalooza2017?f=tweets&vertical=default), not [#Datapalooza](https://twitter.com/hashtag/datapalooza?f=tweets&vertical=default), but [here are both](https://twitter.com/search?f=tweets&vertical=default&q=datapalooza2017%20OR%20datapalooza)
   - I'm [@EvoMRI](https://twitter.com/EvoMRI)
 - [Slides of the other Research Highlights talks](https://docs.google.com/presentation/d/1gWa2N8yjVetzDO6g6GQj8-Wbho4QZsjZHrcgsa2d4VU/edit) (except the report from the [Biomedical Data Science hackathon](https://github.com/databio/bds_hackathon)).
+- Two recent papers on Wikidata as an open data hub for research-related information
+  - [WikiPathways: a multifaceted pathway database bridging metabolomics to other omics research](https://doi.org/10.1093/nar/gkx1064)
+  - [Scholia, Scientometrics and Wikidata](https://doi.org/10.1007/978-3-319-70407-4_36)
 
 # About
 
