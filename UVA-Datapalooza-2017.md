@@ -21,13 +21,14 @@ All images are linked to pages with metadata about them, including licensing inf
 
 # See also
 
+- [Slides of the other Research Highlights talks](https://docs.google.com/presentation/d/1gWa2N8yjVetzDO6g6GQj8-Wbho4QZsjZHrcgsa2d4VU/edit) (except the report from the [Biomedical Data Science hackathon](https://github.com/databio/bds_hackathon)).
 - A [video introduction to open research](https://www.youtube.com/watch?v=LwW1-X3glak)
+- [Open Science Q & A](https://openscience.ub.uni-bielefeld.de/)
 - [The event app](http://goo.gl/qLkj9h).
   - My number is 441. 
 - Twitter:
   - hashtag: [#Datapalooza2017](https://twitter.com/hashtag/datapalooza2017?f=tweets&vertical=default), not [#Datapalooza](https://twitter.com/hashtag/datapalooza?f=tweets&vertical=default), but [here are both](https://twitter.com/search?f=tweets&vertical=default&q=datapalooza2017%20OR%20datapalooza)
   - I'm [@EvoMRI](https://twitter.com/EvoMRI)
-- [Slides of the other Research Highlights talks](https://docs.google.com/presentation/d/1gWa2N8yjVetzDO6g6GQj8-Wbho4QZsjZHrcgsa2d4VU/edit) (except the report from the [Biomedical Data Science hackathon](https://github.com/databio/bds_hackathon)).
 - Two recent papers on Wikidata as an open data hub for research-related information
   - [WikiPathways: a multifaceted pathway database bridging metabolomics to other omics research](https://doi.org/10.1093/nar/gkx1064)
   - [Scholia, Scientometrics and Wikidata](https://doi.org/10.1007/978-3-319-70407-4_36)
