@@ -1,4 +1,4 @@
-# Open data as a central element of an open research ecosystem
+# Open data: central element of an open research ecosystem
 
 [Listen to open data](http://listen.hatnote.com/#en,fa,ar,sa,es,de,ru,jp,zh,ko)
 
