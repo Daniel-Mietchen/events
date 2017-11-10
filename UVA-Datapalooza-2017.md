@@ -31,6 +31,7 @@ All images are linked to pages with metadata about them, including licensing inf
   - I'm [@EvoMRI](https://twitter.com/EvoMRI)
 - Two recent papers on Wikidata as an open data hub for research-related information
   - [WikiPathways: a multifaceted pathway database bridging metabolomics to other omics research](https://doi.org/10.1093/nar/gkx1064)
+    - [came out of a rejected proposal](https://twitter.com/egonwillighagen/status/929002491928301568)
   - [Scholia, Scientometrics and Wikidata](https://doi.org/10.1007/978-3-319-70407-4_36)
 
 # About
