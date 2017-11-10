@@ -12,9 +12,9 @@
 | [reproducibility](http://mybinder.org/repo/cranmer/ligo-binder) = f(data, metadata, code, …)| [reusability](http://tinyurl.com/ycpdwvmx) = g(data, metadata, code, …) | [open workflows are an invitation to collaborate, early and often](https://twitter.com/EvoMRI/status/928248498503417856)|
 | [remote Doathon](http://doathon.opencon2017.org/) | [November Data Science Meetup](https://www.meetup.com/CharlottesvilleDataScience/events/244483558/) | [on-site Doathon](https://github.com/UVA-DSI/2017-doathon/) |
 
-# Still to do
+# Image credits
 
-- add image credits
+All images are linked to pages with metadata about them.
 
 # About
 
