@@ -20,6 +20,9 @@ All images are linked to pages with metadata about them, including licensing inf
 
 - [The event app](http://goo.gl/qLkj9h).
   - My number is 441. 
+- Twitter:
+  - hashtag: [#Datapalooza](https://twitter.com/hashtag/datapalooza?f=tweets&vertical=default)
+  - I'm [@EvoMRI](https://twitter.com/EvoMRI)
 - [Slides of the other Research Highlights talks](https://docs.google.com/presentation/d/1gWa2N8yjVetzDO6g6GQj8-Wbho4QZsjZHrcgsa2d4VU/edit) (except the report from the [Biomedical Data Science hackathon](https://github.com/databio/bds_hackathon)).
 
 # About
