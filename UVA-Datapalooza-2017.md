@@ -21,7 +21,7 @@ All images are linked to pages with metadata about them, including licensing inf
 
 # See also
 
-- [Slides of the other Research Highlights talks](https://docs.google.com/presentation/d/1gWa2N8yjVetzDO6g6GQj8-Wbho4QZsjZHrcgsa2d4VU/edit) (except the report from the [Biomedical Data Science hackathon](https://github.com/databio/bds_hackathon)).
+- [Slides of the other Research Highlights talks](https://docs.google.com/presentation/d/1gWa2N8yjVetzDO6g6GQj8-Wbho4QZsjZHrcgsa2d4VU/edit), including the report from the [Biomedical Data Science hackathon](https://github.com/databio/bds_hackathon).
 - A [video introduction to open research](https://www.youtube.com/watch?v=LwW1-X3glak)
 - [Open Science Q & A](https://openscience.ub.uni-bielefeld.de/)
 - [The event app](http://goo.gl/qLkj9h).
