@@ -18,6 +18,7 @@ All images are linked to pages with metadata about them, including licensing inf
 
 # See also
 
+- A [video introduction to open research](https://www.youtube.com/watch?v=LwW1-X3glak)
 - [The event app](http://goo.gl/qLkj9h).
   - My number is 441. 
 - Twitter:
