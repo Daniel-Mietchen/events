@@ -1,6 +1,6 @@
 # Open data as a central element of an open research ecosystem
 
-[Listen to Wikipedia](http://listen.hatnote.com/#en,fa,ar,sa,es,de,ru,jp,zh,ko)
+[Listen to open data](http://listen.hatnote.com/#en,fa,ar,sa,es,de,ru,jp,zh,ko)
 
 [![Research in progress](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Discovery_in_process.jpg/1280px-Discovery_in_process.jpg)](https://commons.wikimedia.org/wiki/File:Discovery_in_process.jpg)
 
