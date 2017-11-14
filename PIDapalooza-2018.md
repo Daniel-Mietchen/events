@@ -26,6 +26,8 @@ This session is not specific to any domain, so I'll try to structure it around e
   - in public health emergencies
   - at a single institution/ funder/ publisher
   - across multiple institutions/ funders/ publishers
+- or go for laws directly?
+  - e.g. [safety belt laws in the US](http://www.iihs.org/iihs/topics/laws/safetybeltuse)
 - [WMA Declaration of Helsinki – Ethical Principles for Medical Research Involving Human Subjects](https://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/)
   - [related policy frameworks](https://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/)
 - subsidiary policies may be a better initial target for PID tagging than strategic policies (see "Thinking Strategically in Federal Policy: Defining the Attributes of High-level Policies" below)
