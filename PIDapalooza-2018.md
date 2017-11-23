@@ -1,3 +1,5 @@
+[![Hammurabi's code](https://upload.wikimedia.org/wikipedia/commons/1/18/CodeDeHammurabiLouvre3.jpg)](https://commons.wikimedia.org/wiki/File:CodeDeHammurabiLouvre3.jpg)
+
 # About
 
 This file hosts my session proposal for [PIDapalooza 2018](https://doi.org/10.5438/11.0002). It was submitted on September 22, 2017, which was the extended [submission deadline](https://github.com/Daniel-Mietchen/events/issues/208). On October 11, I was notified that the proposal had been accepted.
@@ -86,3 +88,5 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
     - > "the Policy Arrangements Approach (PAA) to map and analyse the arrangements in which hydropower permit processes take place, focusing on four dimensions: rules, actors, resources/power, and discourses (van Tatenhove et al. 2000)."
 - [Michael Bar-Sinai on Policy models](https://privacytools.seas.harvard.edu/blog/michael-bar-sinai-presents-policymodels-demo-force2017)
 - [Data Tags](https://datatags.org/)
+- [The Code of Hammurabi: The Best Rule To Manage Risk](https://www.farnamstreetblog.com/2017/11/hammurabis-code/)
+  - on aligning incentives, e.g. between builders and owners of houses
