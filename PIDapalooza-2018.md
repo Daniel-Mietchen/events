@@ -33,6 +33,7 @@ This session is not specific to any domain, so I'll try to structure it around e
 - [WMA Declaration of Helsinki – Ethical Principles for Medical Research Involving Human Subjects](https://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/)
   - [related policy frameworks](https://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/)
 - subsidiary policies may be a better initial target for PID tagging than strategic policies (see "Thinking Strategically in Federal Policy: Defining the Attributes of High-level Policies" below)
+- Hammurabi's code
 
 # Open Knowledge Maps
 
@@ -75,6 +76,12 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
   - [ethics forms](https://openknowledgemaps.org/map/f4654b277ceb612efa6f9c02e2169b99)
   - [ethics policies](https://openknowledgemaps.org/map/5b8774e66c95bd6c137b4e2326027513)
   - [ethical review](https://openknowledgemaps.org/map/31d8134696a409b5f6fb7a6697ae9b60)
+- [information retrieval legal documents](https://openknowledgemaps.org/map/946ea0e9ac2cee8677b13ce0b5b84822)
+- [legal information retrieval](https://openknowledgemaps.org/map/43bca81ffa28c72f3c4c631e3f6ea416)
+- [automated analysis legal documents](https://openknowledgemaps.org/map/5637dfea7a169dbce705adeb732bc45b)
+- "legal automated analysis" endlessly remains in "Creating your visualization takes longer than expected. Please stay tuned!" mode
+- [legal semantic reasoning](https://openknowledgemaps.org/map/1988116b632949e70493ecbaf670da8f)
+- [automated legal analysis](https://openknowledgemaps.org/map/d61028a8c11f63bb63a0fffa11a59fe9)
 
 # See also
 
