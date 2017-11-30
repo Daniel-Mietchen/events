@@ -17,6 +17,26 @@ Policies are a common way to structure interactions amongst humans as well as be
 - monitoring policy compliance, and 
 - standardizing policies across languages, jurisdictions and other use cases.
 
+# Example
+
+Let's consider data sharing policies, which are increasingly being drafted and implemented by a range of players in the research landscape, including research institutions, research funders, research publishers, learned societies and others.
+
+Some key elements of policies in this space could be, e.g. 
+- whether there is an embargo period, 
+  - and if so,
+    - what data it applies to,
+    - when it starts and 
+    - when it ends, or 
+- whether there are licensing requirements, 
+  - and if so, 
+    - whether they apply to data and/ or metadata
+    - which licenses fulfill them
+- whether there are any consequences for non-compliance,
+  - and if so,
+    - which ones.
+
+Now imagine these policy elements to be available and addressable in a format that machines can act on, i.e. using a consistent predefined structure and a controlled vocabulary linked to persistent identifiers.
+
 # Target policies
 
 This session is not specific to any domain, so I'll try to structure it around examples from various areas. For the moment, though, I'll just list here some potential starting points:
