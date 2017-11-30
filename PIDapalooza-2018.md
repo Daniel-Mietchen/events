@@ -22,8 +22,14 @@ Policies are a common way to structure interactions amongst humans as well as be
 Let's consider data sharing policies, which are increasingly being drafted and implemented by a range of players in the research landscape, including research institutions, research funders, research publishers, learned societies and others.
 
 Some key elements of policies in this space could be, e.g. 
-- whether there is an embargo period, 
+- whether there is an embargo period before data can be shared openly, 
   - and if so,
+    - whether it 
+      - is 
+        - optional
+        - required
+      - has
+        - conditions
     - what data it applies to,
     - when it starts and 
     - when it ends, or 
