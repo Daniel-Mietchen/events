@@ -114,6 +114,12 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [law similarity](https://openknowledgemaps.org/map/b7e3c9188622c6376ada1f90cf05203a)
 - [comparative international law](https://openknowledgemaps.org/map/8019614dd5a625c6a72ce80e4c85aaf7)
 
+# Scholia
+
+- [comparative law](https://tools.wmflabs.org/scholia/topic/Q741338)
+- [international law](https://tools.wmflabs.org/scholia/topic/Q4394526)
+
+
 # See also
 
 - Wikipedia: [Comparative law](https://en.wikipedia.org/wiki/Comparative_law)
