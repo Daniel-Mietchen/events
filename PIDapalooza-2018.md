@@ -114,7 +114,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [A Pattern-Based Method for Identifying and Analyzing Laws](https://doi.org/10.1007/978-3-642-28714-5_23)
 - [SCAPE: creating machine understandable policy from human readable policy](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/)
 - [Law StackExchange](https://law.stackexchange.com/search?q=policies) (does not look promising so far; maybe ask)
-- [Academia StackExchange](https://academia.stackexchange.com/search?q=policies) (does not look promising so far; maybe ask)
+- [Academia StackExchange](https://academia.stackexchange.com/search?q=policies) (does not look promising so far; maybe [ask](https://law.stackexchange.com/questions/ask))
 - [Challenges in Swedish hydropower – politics, economics and rights](https://doi.org/10.3897/rio.3.e21305)
   - plans to analyze the effect of two different water management policies
   - uses 
