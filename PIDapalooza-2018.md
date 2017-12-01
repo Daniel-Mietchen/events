@@ -108,12 +108,20 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - "legal automated analysis" endlessly remains in "Creating your visualization takes longer than expected. Please stay tuned!" mode
 - [legal semantic reasoning](https://openknowledgemaps.org/map/1988116b632949e70493ecbaf670da8f)
 - [automated legal analysis](https://openknowledgemaps.org/map/d61028a8c11f63bb63a0fffa11a59fe9)
+- [comparative law](https://openknowledgemaps.org/map/e7d256a5c54d8936023309554456f11e)
+- [comparative legal studies](https://openknowledgemaps.org/map/5db88a2425423fc06d33744ff316e1eb)
+- [automated comparative law](https://openknowledgemaps.org/map/0733501919bcf901fa35bb679e62aaa3)
+- [law similarity](https://openknowledgemaps.org/map/b7e3c9188622c6376ada1f90cf05203a)
+- [comparative international law](https://openknowledgemaps.org/map/8019614dd5a625c6a72ce80e4c85aaf7)
 
 # See also
 
+- Wikipedia: [Comparative law](https://en.wikipedia.org/wiki/Comparative_law)
 - [A Pattern-Based Method for Identifying and Analyzing Laws](https://doi.org/10.1007/978-3-642-28714-5_23)
 - [SCAPE: creating machine understandable policy from human readable policy](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/)
 - [Law StackExchange](https://law.stackexchange.com/search?q=policies) (does not look promising so far; maybe ask)
+  - [Practicing European Law in English language](https://law.stackexchange.com/questions/19835/practicing-european-law-in-english-language)
+    - > working on "legal automation software (question answering, automatic strategy inferrence, automatic argumentation, search of case law etc.)"
 - [Academia StackExchange](https://academia.stackexchange.com/search?q=policies) (does not look promising so far; maybe [ask](https://law.stackexchange.com/questions/ask))
 - [Challenges in Swedish hydropower – politics, economics and rights](https://doi.org/10.3897/rio.3.e21305)
   - plans to analyze the effect of two different water management policies
