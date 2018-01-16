@@ -1,4 +1,5 @@
 # Open data: central element of an open research ecosystem
+*You can watch the [video recording](https://www.youtube.com/watch?v=6qDEeRsMv7s#t=10m) of the presentation.*
 
 ["Open data … can help create $3 trillion a year"](https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/open-data-unlocking-innovation-and-performance-with-liquid-information)
 - "[underestimate](https://twitter.com/hudsonhollister/status/928996816640794628)"
