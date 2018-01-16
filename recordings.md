@@ -8,6 +8,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 ## In English
 
+* 2017-11-10, Charlottesville (Virginia): [Open data: central element of an open research ecosystem](https://www.youtube.com/watch?v=6qDEeRsMv7s#t=10m) ([slide](https://github.com/Daniel-Mietchen/events/blob/master/UVA-Datapalooza-2017.md))
 * 2017-08-17, Potsdam (New York): [Introduction(s) to Wikidata, with a focus on offline usage](https://www.wikidata.org/wiki/User:Daniel_Mietchen/FSCI_2017#Introductions_to_Wikidata)
 * 2017-08-10, Montreal: [Wikimedia response to emergenies](https://commons.wikimedia.org/wiki/File:Wikimania_2017_Daniel_Mietchen_crisis_response.webm) (more like an elevator pitch)
 * 2017-05-22, Vienna: [The Zika corpus on Wikidata](https://www.wikidata.org/wiki/User:Daniel_Mietchen/WikiCite_2017) (see also [this interview on the topic](http://www.openscienceradio.de/2017/05/30/osr084-wikicite-2017-interview-with-daniel-mietchen-en/))
