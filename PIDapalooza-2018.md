@@ -2,7 +2,7 @@
 
 # About
 
-This file hosts my session proposal for [PIDapalooza 2018](https://doi.org/10.5438/11.0002). It was submitted on September 22, 2017, which was the extended [submission deadline](https://github.com/Daniel-Mietchen/events/issues/208). On October 11, I was notified that the proposal had been accepted.
+This file hosts my session proposal for [PIDapalooza 2018](https://doi.org/10.5438/11.0002). It was submitted on September 22, 2017, which was the extended [submission deadline](https://github.com/Daniel-Mietchen/events/issues/208). On October 11, I was notified that the proposal had been accepted. It is now [scheduled for 2pm CET on January 24](https://pidapalooza18.sched.com/event/Cwn9/pids-for-policyyeah-like-putting-ids-on-individual-elements-within-policiescool-right?iframe=no&w=100%&sidebar=no&bg=no).
 
 # Title
 
