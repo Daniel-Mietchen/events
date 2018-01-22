@@ -84,6 +84,8 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
     - on P3P: 
       - > We do not consider particular privacy policy languages (such as P3P [9], PPL [10] or XACML [11]), but focus on the high-level concepts that need to be solved rather than the particular language dependent problems.
         - [Wikipedia article on XACML](https://en.wikipedia.org/wiki/XACML)
+  - similar machine-directed policy language: 
+    - [Routing Policy Specification Language](https://en.wikipedia.org/wiki/Routing_Policy_Specification_Language)
 - machine-actionable policy: failed
 - [policy comparison](https://openknowledgemaps.org/map/41675b55fbb2f2768a32ca445e584076)
 - ["policy comparison"](https://openknowledgemaps.org/map/417bfba6ac2911614e826c9384611154)
