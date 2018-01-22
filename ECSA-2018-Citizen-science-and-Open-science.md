@@ -1,6 +1,6 @@
 # About
 
-This file hosts a submission to the European Citizen Science Association (ECSA) [conference](https://www.ecsa-conference.eu/) on 3-5 June 2018 in Geneva. It was submitted by the deadline tonight under the "Does citizen science change science?" theme
+This file hosts a submission to the European Citizen Science Association (ECSA) [conference](https://www.ecsa-conference.eu/) on 3-5 June 2018 in Geneva. It was submitted by the 21 January 2018 deadline under the "Does citizen science change science?" theme
 and the sub-theme "Is Citizen Science just science by other means, or can it transform what counts as evidence?"
 
 # Title
