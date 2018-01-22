@@ -137,3 +137,4 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [Data Tags](https://datatags.org/)
 - [The Code of Hammurabi: The Best Rule To Manage Risk](https://www.farnamstreetblog.com/2017/11/hammurabis-code/)
   - on aligning incentives, e.g. between builders and owners of houses
+- [Key Elements of an Information Security Policy](http://resources.infosecinstitute.com/key-elements-information-security-policy/)
