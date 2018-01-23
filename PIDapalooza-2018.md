@@ -141,4 +141,4 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
   - on aligning incentives, e.g. between builders and owners of houses
 - [Key Elements of an Information Security Policy](http://resources.infosecinstitute.com/key-elements-information-security-policy/)
 - [Open Contracting Data Standard](http://standard.open-contracting.org/latest/en/)
-  - see also the [correspondng PIDapalooza talk](https://pidapalooza18.sched.com/event/Cwmc/uniquely-identifying-organisations-and-people-in-anti-corruption-contexts)
+  - see also the [corresponding PIDapalooza talk](https://pidapalooza18.sched.com/event/Cwmc/uniquely-identifying-organisations-and-people-in-anti-corruption-contexts)
