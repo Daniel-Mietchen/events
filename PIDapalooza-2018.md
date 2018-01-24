@@ -1,6 +1,7 @@
-# About
+*[PIDs for policy elements](PIDapalooza-2018.md#title)・[Abstract](PIDapalooza-2018.md#abstract)・[Examples](PIDapalooza-2018.md#examples)・[Notes](PIDapalooza-2018.md#notes-in-drafting)・[See also](PIDapalooza-2018.md#see-also)・[About](PIDapalooza-2018.md#about)*
 
-This file hosts my session proposal for [PIDapalooza 2018](https://doi.org/10.5438/11.0002). It was submitted on September 22, 2017, which was the extended [submission deadline](https://github.com/Daniel-Mietchen/events/issues/208). On October 11, I was notified that the proposal had been accepted. It is now [scheduled for 2pm CET on January 24](https://pidapalooza18.sched.com/event/Cwn9/pids-for-policyyeah-like-putting-ids-on-individual-elements-within-policiescool-righto) on [Stage 2](https://pidapalooza18.sched.com/venue/Stage+2).
+[![Hammurabi's code](https://upload.wikimedia.org/wikipedia/commons/1/18/CodeDeHammurabiLouvre3.jpg)](https://commons.wikimedia.org/wiki/File:CodeDeHammurabiLouvre3.jpg) Detail of [Hammurabi's code](https://www.wikidata.org/wiki/Q93304). Image: [Claude Valette](https://commons.wikimedia.org/w/index.php?title=File:CodeDeHammurabiLouvre3.jpg&oldid=173500581), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
+
 
 # Title
 
@@ -19,7 +20,9 @@ Policies are a common way to structure interactions amongst humans as well as be
 
 ## Hammurabi's Code
 
-[![Hammurabi's code](https://upload.wikimedia.org/wikipedia/commons/1/18/CodeDeHammurabiLouvre3.jpg)](https://commons.wikimedia.org/wiki/File:CodeDeHammurabiLouvre3.jpg) Detail of [Hammurabi's code](https://www.wikidata.org/wiki/Q93304) ([translation](https://en.wikisource.org/wiki/The_Code_of_Hammurabi_(Harper_translation)); [commentary](https://www.farnamstreetblog.com/2017/11/hammurabis-code/)). Image: [Claude Valette](https://commons.wikimedia.org/w/index.php?title=File:CodeDeHammurabiLouvre3.jpg&oldid=173500581), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
+* [Wikidata entry with lots of PIDs](https://www.wikidata.org/wiki/Q93304)
+* [Translation](https://en.wikisource.org/wiki/The_Code_of_Hammurabi_(Harper_translation))
+* [commentary](https://www.farnamstreetblog.com/2017/11/hammurabis-code/)
 
 ## Data sharing policies
 
@@ -155,3 +158,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [Key Elements of an Information Security Policy](http://resources.infosecinstitute.com/key-elements-information-security-policy/)
 - [Open Contracting Data Standard](http://standard.open-contracting.org/latest/en/)
   - see also the [corresponding PIDapalooza talk](https://pidapalooza18.sched.com/event/Cwmc/uniquely-identifying-organisations-and-people-in-anti-corruption-contexts)
+
+# About
+
+This file hosts my session proposal for [PIDapalooza 2018](https://doi.org/10.5438/11.0002). It was submitted on September 22, 2017, which was the extended [submission deadline](https://github.com/Daniel-Mietchen/events/issues/208). On October 11, I was notified that the proposal had been accepted. It is now [scheduled for 2pm CET on January 24](https://pidapalooza18.sched.com/event/Cwn9/pids-for-policyyeah-like-putting-ids-on-individual-elements-within-policiescool-righto) on [Stage 2](https://pidapalooza18.sched.com/venue/Stage+2).
