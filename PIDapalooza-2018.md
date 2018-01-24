@@ -1,4 +1,6 @@
-[![Hammurabi's code](https://upload.wikimedia.org/wikipedia/commons/1/18/CodeDeHammurabiLouvre3.jpg)](https://commons.wikimedia.org/wiki/File:CodeDeHammurabiLouvre3.jpg) Detail of [Hammurabi's code](https://www.wikidata.org/wiki/Q93304). Image: [Claude Valette](https://commons.wikimedia.org/w/index.php?title=File:CodeDeHammurabiLouvre3.jpg&oldid=173500581), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
+# About
+
+This file hosts my session proposal for [PIDapalooza 2018](https://doi.org/10.5438/11.0002). It was submitted on September 22, 2017, which was the extended [submission deadline](https://github.com/Daniel-Mietchen/events/issues/208). On October 11, I was notified that the proposal had been accepted. It is now [scheduled for 2pm CET on January 24](https://pidapalooza18.sched.com/event/Cwn9/pids-for-policyyeah-like-putting-ids-on-individual-elements-within-policiescool-righto) on [Stage 2](https://pidapalooza18.sched.com/venue/Stage+2).
 
 # Title
 
@@ -13,7 +15,13 @@ Policies are a common way to structure interactions amongst humans as well as be
 - monitoring policy compliance, and 
 - [standardizing policies](https://sparcopen.org/policy-harmonization-statement/) across languages, jurisdictions and other use cases.
 
-# Example
+# Examples
+
+## Hammurabi's Code
+
+[![Hammurabi's code](https://upload.wikimedia.org/wikipedia/commons/1/18/CodeDeHammurabiLouvre3.jpg)](https://commons.wikimedia.org/wiki/File:CodeDeHammurabiLouvre3.jpg) Detail of [Hammurabi's code](https://www.wikidata.org/wiki/Q93304). Image: [Claude Valette](https://commons.wikimedia.org/w/index.php?title=File:CodeDeHammurabiLouvre3.jpg&oldid=173500581), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
+
+## Data sharing policies
 
 Let's consider data sharing policies, which are increasingly being drafted and implemented by a range of players in the research landscape, including research institutions, research funders, research publishers, learned societies and others.
 
@@ -118,10 +126,6 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 
 - [comparative law](https://tools.wmflabs.org/scholia/topic/Q741338)
 - [international law](https://tools.wmflabs.org/scholia/topic/Q4394526)
-
-# About
-
-This file hosts my session proposal for [PIDapalooza 2018](https://doi.org/10.5438/11.0002). It was submitted on September 22, 2017, which was the extended [submission deadline](https://github.com/Daniel-Mietchen/events/issues/208). On October 11, I was notified that the proposal had been accepted. It is now [scheduled for 2pm CET on January 24](https://pidapalooza18.sched.com/event/Cwn9/pids-for-policyyeah-like-putting-ids-on-individual-elements-within-policiescool-right?iframe=no&w=100%&sidebar=no&bg=no).
 
 
 # See also
