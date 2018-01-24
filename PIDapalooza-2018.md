@@ -1,4 +1,4 @@
-[![Hammurabi's code](https://upload.wikimedia.org/wikipedia/commons/1/18/CodeDeHammurabiLouvre3.jpg)](https://commons.wikimedia.org/wiki/File:CodeDeHammurabiLouvre3.jpg) Detail of [Hammurabi's code](https://www.wikidata.org/wiki/Q93304). Image: [Claude Valette](https://commons.wikimedia.org/w/index.php?title=File:CodeDeHammurabiLouvre3.jpg&oldid=173500581), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Hammurabi's code](https://upload.wikimedia.org/wikipedia/commons/1/18/CodeDeHammurabiLouvre3.jpg)](https://commons.wikimedia.org/wiki/File:CodeDeHammurabiLouvre3.jpg) Detail of [Hammurabi's code](https://www.wikidata.org/wiki/Q93304). Image: [Claude Valette](https://commons.wikimedia.org/w/index.php?title=File:CodeDeHammurabiLouvre3.jpg&oldid=173500581), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
 
 # About
 
@@ -15,7 +15,7 @@ Policies are a common way to structure interactions amongst humans as well as be
 - flagging contradictions between policies, 
 - building policy-aware workflows, 
 - monitoring policy compliance, and 
-- standardizing policies across languages, jurisdictions and other use cases.
+- [standardizing policies](https://sparcopen.org/policy-harmonization-statement/) across languages, jurisdictions and other use cases.
 
 # Example
 
