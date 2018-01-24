@@ -8,10 +8,10 @@ PIDs for policy elements
 
 # Abstract
 
-Policies are a common way to structure interactions amongst humans as well as between humans and human-made systems. In turn, they have a structure to themselves, which may vary considerably across use cases but can generally be broken down into individual policy elements. In this session - which will be presented from https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza-2018.md - we will entertain the idea of assigning PIDs to such policy elements and explore the effects that might have on 
+Policies are a common way to structure interactions amongst humans as well as between humans and human-made systems. In turn, they have a structure to themselves, which may vary considerably across use cases but can generally be broken down into individual policy elements, similar to [ingredients within a recipe](http://tinyurl.com/gqbmzlp). In this session - which will be presented from https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza-2018.md - we will entertain the idea of assigning PIDs to such policy elements and explore the effects that might have on 
 - exposing policies relevant to a given context, 
 - flagging contradictions between policies, 
-- building policy-aware workflows, 
+- building policy-aware automated workflows, e.g. around [machine-actionable Data Management Plans](https://doi.org/10.3897/rio.3.e13086)
 - monitoring policy compliance, and 
 - [standardizing policies](https://sparcopen.org/policy-harmonization-statement/) across languages, jurisdictions and other use cases.
 
@@ -19,7 +19,7 @@ Policies are a common way to structure interactions amongst humans as well as be
 
 ## Hammurabi's Code
 
-[![Hammurabi's code](https://upload.wikimedia.org/wikipedia/commons/1/18/CodeDeHammurabiLouvre3.jpg)](https://commons.wikimedia.org/wiki/File:CodeDeHammurabiLouvre3.jpg) Detail of [Hammurabi's code](https://www.wikidata.org/wiki/Q93304). Image: [Claude Valette](https://commons.wikimedia.org/w/index.php?title=File:CodeDeHammurabiLouvre3.jpg&oldid=173500581), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
+[![Hammurabi's code](https://upload.wikimedia.org/wikipedia/commons/1/18/CodeDeHammurabiLouvre3.jpg)](https://commons.wikimedia.org/wiki/File:CodeDeHammurabiLouvre3.jpg) Detail of [Hammurabi's code](https://www.wikidata.org/wiki/Q93304) ([translation](https://en.wikisource.org/wiki/The_Code_of_Hammurabi_(Harper_translation)); [commentary](ttps://www.farnamstreetblog.com/2017/11/hammurabis-code/)). Image: [Claude Valette](https://commons.wikimedia.org/w/index.php?title=File:CodeDeHammurabiLouvre3.jpg&oldid=173500581), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
 
 ## Data sharing policies
 
@@ -49,7 +49,17 @@ Now imagine these policy elements to be available and addressable in a format th
 
 If we can do this [for cocktails](http://tinyurl.com/gqbmzlp), why not for policies?
 
-# Target policies
+## Technical approaches
+
+* policy languages
+  - [P3P](https://en.wikipedia.org/wiki/P3P)
+  - [XACML](https://en.wikipedia.org/wiki/XACML)
+  - [Routing Policy Specification Language](https://en.wikipedia.org/wiki/Routing_Policy_Specification_Language)
+
+
+# Notes in drafting
+
+## Target policies
 
 This session is not specific to any domain, so I'll try to structure it around examples from various areas. For the moment, though, I'll just list here some potential starting points:
 
@@ -67,7 +77,7 @@ This session is not specific to any domain, so I'll try to structure it around e
 - subsidiary policies may be a better initial target for PID tagging than strategic policies (see "Thinking Strategically in Federal Policy: Defining the Attributes of High-level Policies" below)
 - Hammurabi's code
 
-# Open Knowledge Maps
+## Open Knowledge Maps
 
 Since I am new to the topic of analyzing legal language, I am trying to get an overview of how others are doing it, for which I am using [Open Knowledge Maps](https://openknowledgemaps.org/). In order to document my discovery process, I am listing below the queries that I ran, roughly in the order in which I ran them:
 
@@ -86,7 +96,6 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [machine policy](https://openknowledgemaps.org/map/3c390d01b4ce35160163cd013e7d9147)
 - [machine-readable policy](https://openknowledgemaps.org/map/ba7612335623bbb6167896fe36cdf227)
   - this yielded an interesting hit: [Towards a Similarity Metric for Comparing Machine-Readable Privacy Policies](https://brage.bibsys.no/xmlui/handle/11250/2430174), although it smells of [P3P](https://en.wikipedia.org/wiki/P3P)
-    - [TO DO: Read the paper](https://github.com/Daniel-Mietchen/ideas/issues/510)
     - on P3P: 
       - > We do not consider particular privacy policy languages (such as P3P [9], PPL [10] or XACML [11]), but focus on the high-level concepts that need to be solved rather than the particular language dependent problems.
         - [Wikipedia article on XACML](https://en.wikipedia.org/wiki/XACML)
@@ -122,7 +131,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [law similarity](https://openknowledgemaps.org/map/b7e3c9188622c6376ada1f90cf05203a)
 - [comparative international law](https://openknowledgemaps.org/map/8019614dd5a625c6a72ce80e4c85aaf7)
 
-# Scholia
+## Scholia
 
 - [comparative law](https://tools.wmflabs.org/scholia/topic/Q741338)
 - [international law](https://tools.wmflabs.org/scholia/topic/Q4394526)
@@ -143,8 +152,6 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
     - > "the Policy Arrangements Approach (PAA) to map and analyse the arrangements in which hydropower permit processes take place, focusing on four dimensions: rules, actors, resources/power, and discourses (van Tatenhove et al. 2000)."
 - [Michael Bar-Sinai on Policy models](https://privacytools.seas.harvard.edu/blog/michael-bar-sinai-presents-policymodels-demo-force2017)
 - [Data Tags](https://datatags.org/)
-- [The Code of Hammurabi: The Best Rule To Manage Risk](https://www.farnamstreetblog.com/2017/11/hammurabis-code/)
-  - on aligning incentives, e.g. between builders and owners of houses
 - [Key Elements of an Information Security Policy](http://resources.infosecinstitute.com/key-elements-information-security-policy/)
 - [Open Contracting Data Standard](http://standard.open-contracting.org/latest/en/)
   - see also the [corresponding PIDapalooza talk](https://pidapalooza18.sched.com/event/Cwmc/uniquely-identifying-organisations-and-people-in-anti-corruption-contexts)
