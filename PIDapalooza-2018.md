@@ -59,6 +59,7 @@ If we can do this [for cocktails](http://tinyurl.com/gqbmzlp), why not for polic
 * [Routing Policy Specification Language (RPSL)](https://en.wikipedia.org/wiki/Routing_Policy_Specification_Language)
 * [InSpec](https://inspec.io/)
 * [Policy Models](http://datatagginglibrary.readthedocs.io/en/latest/)
+* [Shape Expressions (ShEx)](https://www.w3.org/2001/sw/wiki/ShEx)
 
 # Notes in drafting
 
