@@ -39,6 +39,8 @@ Some key elements of policies in this space could be, e.g.
 
 Now imagine these policy elements to be available and addressable in a format that machines can act on, i.e. using a consistent predefined structure and a controlled vocabulary linked to persistent identifiers.
 
+If we can do this [for cocktails](http://tinyurl.com/gqbmzlp), why not for policies?
+
 # Target policies
 
 This session is not specific to any domain, so I'll try to structure it around examples from various areas. For the moment, though, I'll just list here some potential starting points:
