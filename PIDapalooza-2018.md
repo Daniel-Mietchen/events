@@ -12,7 +12,7 @@ PIDs for policy elements
 Policies are a common way to structure interactions amongst humans as well as between humans and human-made systems. In turn, they have a structure to themselves, which may vary considerably across use cases but can generally be broken down into individual policy elements, similar to [ingredients within a recipe](http://tinyurl.com/gqbmzlp). In this session - which will be presented from https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza-2018.md - we will entertain the idea of assigning PIDs to such policy elements and explore the effects that might have on 
 - exposing policies relevant to a given context, 
 - flagging contradictions between policies, 
-- building policy-aware automated workflows, e.g. around [machine-actionable Data Management Plans](https://doi.org/10.3897/rio.3.e13086)
+- building [policy-aware automated workflows](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/), e.g. around [machine-actionable Data Management Plans](https://doi.org/10.3897/rio.3.e13086)
 - monitoring policy compliance, and 
 - [standardizing policies](https://sparcopen.org/policy-harmonization-statement/) across languages, jurisdictions and other use cases.
 
