@@ -52,12 +52,11 @@ Now imagine these policy elements to be available and addressable in a format th
 
 If we can do this [for cocktails](http://tinyurl.com/gqbmzlp), why not for policies?
 
-## Technical approaches
+## Technical approaches to automated handling of policy elements
 
-* policy languages
-  - [Platform for Privacy Preferences Project (P3P)](https://en.wikipedia.org/wiki/P3P)
-  - [eXtensible Access Control Markup Language (XACML)](https://en.wikipedia.org/wiki/XACML)
-  - [Routing Policy Specification Language (RPSL)](https://en.wikipedia.org/wiki/Routing_Policy_Specification_Language)
+* [Platform for Privacy Preferences Project (P3P)](https://en.wikipedia.org/wiki/P3P)
+* [eXtensible Access Control Markup Language (XACML)](https://en.wikipedia.org/wiki/XACML)
+* [Routing Policy Specification Language (RPSL)](https://en.wikipedia.org/wiki/Routing_Policy_Specification_Language)
 
 
 # Notes in drafting
