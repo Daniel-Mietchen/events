@@ -55,9 +55,9 @@ If we can do this [for cocktails](http://tinyurl.com/gqbmzlp), why not for polic
 ## Technical approaches
 
 * policy languages
-  - [P3P](https://en.wikipedia.org/wiki/P3P)
-  - [XACML](https://en.wikipedia.org/wiki/XACML)
-  - [Routing Policy Specification Language](https://en.wikipedia.org/wiki/Routing_Policy_Specification_Language)
+  - [Platform for Privacy Preferences Project (P3P)](https://en.wikipedia.org/wiki/P3P)
+  - [eXtensible Access Control Markup Language (XACML)](https://en.wikipedia.org/wiki/XACML)
+  - [Routing Policy Specification Language (RPSL)](https://en.wikipedia.org/wiki/Routing_Policy_Specification_Language)
 
 
 # Notes in drafting
