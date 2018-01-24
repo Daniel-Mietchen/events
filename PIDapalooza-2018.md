@@ -19,7 +19,7 @@ Policies are a common way to structure interactions amongst humans as well as be
 
 ## Hammurabi's Code
 
-[![Hammurabi's code](https://upload.wikimedia.org/wikipedia/commons/1/18/CodeDeHammurabiLouvre3.jpg)](https://commons.wikimedia.org/wiki/File:CodeDeHammurabiLouvre3.jpg) Detail of [Hammurabi's code](https://www.wikidata.org/wiki/Q93304) ([translation](https://en.wikisource.org/wiki/The_Code_of_Hammurabi_(Harper_translation)); [commentary](ttps://www.farnamstreetblog.com/2017/11/hammurabis-code/)). Image: [Claude Valette](https://commons.wikimedia.org/w/index.php?title=File:CodeDeHammurabiLouvre3.jpg&oldid=173500581), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
+[![Hammurabi's code](https://upload.wikimedia.org/wikipedia/commons/1/18/CodeDeHammurabiLouvre3.jpg)](https://commons.wikimedia.org/wiki/File:CodeDeHammurabiLouvre3.jpg) Detail of [Hammurabi's code](https://www.wikidata.org/wiki/Q93304) ([translation](https://en.wikisource.org/wiki/The_Code_of_Hammurabi_(Harper_translation)); [commentary](https://www.farnamstreetblog.com/2017/11/hammurabis-code/)). Image: [Claude Valette](https://commons.wikimedia.org/w/index.php?title=File:CodeDeHammurabiLouvre3.jpg&oldid=173500581), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
 
 ## Data sharing policies
 
