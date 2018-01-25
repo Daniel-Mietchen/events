@@ -162,6 +162,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [Research Funders' Open Access Policies](http://v2.sherpa.ac.uk/juliet/)
 - [RDA: Practical Policy WG](https://rd-alliance.org/groups/practical-policy-wg.html)
 - [Scalable Preservation Environments (SCAPE)](http://scape-project.eu/)
+  - [Data policy as activity network](https://epubs.stfc.ac.uk/work/35227831)
 
 # About
 
