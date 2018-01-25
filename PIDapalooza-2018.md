@@ -145,7 +145,9 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 
 - Wikipedia: [Comparative law](https://en.wikipedia.org/wiki/Comparative_law)
 - [A Pattern-Based Method for Identifying and Analyzing Laws](https://doi.org/10.1007/978-3-642-28714-5_23)
-- [SCAPE: creating machine understandable policy from human readable policy](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/)
+- [Scalable Preservation Environments (SCAPE)](http://scape-project.eu/)
+  - [Data policy as activity network](https://epubs.stfc.ac.uk/work/35227831)
+  - [SCAPE: creating machine understandable policy from human readable policy](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/)
 - [Law StackExchange](https://law.stackexchange.com/search?q=policies) (does not look promising so far; maybe ask)
   - [Practicing European Law in English language](https://law.stackexchange.com/questions/19835/practicing-european-law-in-english-language)
     - > working on "legal automation software (question answering, automatic strategy inferrence, automatic argumentation, search of case law etc.)"
@@ -161,8 +163,6 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
   - see also the [corresponding PIDapalooza talk](https://pidapalooza18.sched.com/event/Cwmc/uniquely-identifying-organisations-and-people-in-anti-corruption-contexts)
 - [Research Funders' Open Access Policies](http://v2.sherpa.ac.uk/juliet/)
 - [RDA: Practical Policy WG](https://rd-alliance.org/groups/practical-policy-wg.html)
-- [Scalable Preservation Environments (SCAPE)](http://scape-project.eu/)
-  - [Data policy as activity network](https://epubs.stfc.ac.uk/work/35227831)
 
 # About
 
