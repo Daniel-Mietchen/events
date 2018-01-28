@@ -161,6 +161,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [Key Elements of an Information Security Policy](http://resources.infosecinstitute.com/key-elements-information-security-policy/)
 - [Open Contracting Data Standard](http://standard.open-contracting.org/latest/en/)
   - see also the [corresponding PIDapalooza talk](https://pidapalooza18.sched.com/event/Cwmc/uniquely-identifying-organisations-and-people-in-anti-corruption-contexts)
+- In [omegataupodcast.net/264](http://omegataupodcast.net/264-blockchains-und-smart-contracts/) the [two](https://wwwmatthes.in.tum.de/pages/b6w19wt08gen/Ulrich-Gallersdoerfer) [interviewees](https://wwwmatthes.in.tum.de/pages/88bkmvw6y7gx/Prof.-Dr.-Florian-Matthes) mention a co-op between law & IT faculty (at TU Munich?). They might be interesting people to talk to or ask for more specialised contacts.
 - [Research Funders' Open Access Policies](http://v2.sherpa.ac.uk/juliet/)
 - [RDA: Practical Policy WG](https://rd-alliance.org/groups/practical-policy-wg.html)
 
