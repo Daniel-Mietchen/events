@@ -9,9 +9,14 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 ## In English
 
 * 2017-11-10, Charlottesville (Virginia): [Open data: central element of an open research ecosystem](https://www.youtube.com/watch?v=6qDEeRsMv7s#t=10m) ([slide](https://github.com/Daniel-Mietchen/events/blob/master/UVA-Datapalooza-2017.md))
+* 2017-10-29, Berlin: [Using Wikidata to make research data FAIR](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/Using_Wikidata_to_make_research_data_FAIR)
+* 2017-10-28, Berlin: 
+  - [The role of Wikidata in emergency response](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/The_role_of_Wikidata_in_emergency_response)
+  - [WikiCite: Wikidata as a structured repository of bibliographic data](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/WikiCite:_Wikidata_as_a_structured_repository_of_bibliographic_data)
+  - [Expanding classical Wikimedia outreach efforts to include Wikidata](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/Expanding_classical_Wikimedia_outreach_efforts_to_include_Wikidata)
 * 2017-08-17, Potsdam (New York): [Introduction(s) to Wikidata, with a focus on offline usage](https://www.wikidata.org/wiki/User:Daniel_Mietchen/FSCI_2017#Introductions_to_Wikidata)
 * 2017-08-10, Montreal: [Wikimedia response to emergenies](https://commons.wikimedia.org/wiki/File:Wikimania_2017_Daniel_Mietchen_crisis_response.webm) (more like an elevator pitch)
-* 2017-05-22, Vienna: [The Zika corpus on Wikidata](https://www.wikidata.org/wiki/User:Daniel_Mietchen/WikiCite_2017) (see also [this interview on the topic](http://www.openscienceradio.de/2017/05/30/osr084-wikicite-2017-interview-with-daniel-mietchen-en/))
+* 2017-05-23, Vienna: [The Zika corpus on Wikidata](https://www.wikidata.org/wiki/User:Daniel_Mietchen/WikiCite_2017) (see also [this interview on the topic](http://www.openscienceradio.de/2017/05/30/osr084-wikicite-2017-interview-with-daniel-mietchen-en/))
 * 2017-01-26, Barcelona: [Integrating policy and infrastructure in research data management: the perspective of researchers](https://github.com/Daniel-Mietchen/events/blob/master/5th-LEARN-workshop-2017.md)
 * 2015-09-02, London: [Wikimedia and scholarly communication](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015) and [Wikidata for research](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015#Wikidata_for_research)
 * 2015-04-22, Bethesda: [Adapting JATS to support data citation](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/JATS-Con_2015)
@@ -20,7 +25,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2014-09-17, Paris: [Open science](https://archive.org/details/HYPhD_Daniel-Mietchen_17-09-2014) (interview)
 * 2014-08-19, Rio de Janeiro: [Wikimedia projects as platforms for Open Science](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Ci%C3%AAncia_Aberta,_Quest%C3%B5es_Abertas)
 * 2014-04-01, Bethesda: [Inconsistent XML as a Barrier to Reuse of Open Access Content](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/JATS-Con_2014/Inconsistent_XML_as_a_Barrier_to_Reuse_of_Open_Access_Content)
-* 2013-09-14, Berlin: [Viusalizing Complex Science](https://www.youtube.com/watch?v=dS62HPURNWk) (interview)
+* 2013-09-14, Berlin: [Visualizing Complex Science](https://www.youtube.com/watch?v=dS62HPURNWk) (interview)
 * 2012-09-05, Geneva: [Wikimedia as a Platform for Scientific Information](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/CERN_2012/Wikimedia_as_a_platform_for_science_communication)
 * 2012-07-14, Washington, DC: [Group authoring of web content - how to keep quality and accuracy high and resolve conflicts: the Wikipedia example](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikimania_2012/FESIN_North_American_Mycoflora_Workshop)
 * 2012-07-11, Washington, DC: [Wikimedia as a Platform for Biotechnology Information](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikimania_2012/National_Center_for_Biotechnology_Information)

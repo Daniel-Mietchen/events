@@ -145,7 +145,9 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 
 - Wikipedia: [Comparative law](https://en.wikipedia.org/wiki/Comparative_law)
 - [A Pattern-Based Method for Identifying and Analyzing Laws](https://doi.org/10.1007/978-3-642-28714-5_23)
-- [SCAPE: creating machine understandable policy from human readable policy](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/)
+- [Scalable Preservation Environments (SCAPE)](http://scape-project.eu/)
+  - [Data policy as activity network](https://epubs.stfc.ac.uk/work/35227831)
+  - [SCAPE: creating machine understandable policy from human readable policy](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/)
 - [Law StackExchange](https://law.stackexchange.com/search?q=policies) (does not look promising so far; maybe ask)
   - [Practicing European Law in English language](https://law.stackexchange.com/questions/19835/practicing-european-law-in-english-language)
     - > working on "legal automation software (question answering, automatic strategy inferrence, automatic argumentation, search of case law etc.)"
@@ -160,7 +162,9 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [Open Contracting Data Standard](http://standard.open-contracting.org/latest/en/)
   - see also the [corresponding PIDapalooza talk](https://pidapalooza18.sched.com/event/Cwmc/uniquely-identifying-organisations-and-people-in-anti-corruption-contexts)
 - In [omegataupodcast.net/264](http://omegataupodcast.net/264-blockchains-und-smart-contracts/) the [two](https://wwwmatthes.in.tum.de/pages/b6w19wt08gen/Ulrich-Gallersdoerfer) [interviewees](https://wwwmatthes.in.tum.de/pages/88bkmvw6y7gx/Prof.-Dr.-Florian-Matthes) mention a co-op between law & IT faculty (at TU Munich?). They might be interesting people to talk to or ask for more specialised contacts.
+- [Research Funders' Open Access Policies](http://v2.sherpa.ac.uk/juliet/)
+- [RDA: Practical Policy WG](https://rd-alliance.org/groups/practical-policy-wg.html)
 
 # About
 
-This file hosts my session proposal for [PIDapalooza 2018](https://doi.org/10.5438/11.0002). It was submitted on September 22, 2017, which was the extended [submission deadline](https://github.com/Daniel-Mietchen/events/issues/208). On October 11, I was notified that the proposal had been accepted. It is now [scheduled for 2pm CET on January 24](https://pidapalooza18.sched.com/event/Cwn9/pids-for-policyyeah-like-putting-ids-on-individual-elements-within-policiescool-righto) on [Stage 2](https://pidapalooza18.sched.com/venue/Stage+2).
+This file hosts my session proposal for [PIDapalooza 2018](https://doi.org/10.5438/11.0002). It was submitted on September 22, 2017, which was the extended [submission deadline](https://github.com/Daniel-Mietchen/events/issues/208). On October 11, I was notified that the proposal had been accepted. The session took place [at 2pm CET on January 24](https://pidapalooza18.sched.com/event/Cwn9/pids-for-policyyeah-like-putting-ids-on-individual-elements-within-policiescool-righto) on [Stage 2](https://pidapalooza18.sched.com/venue/Stage+2).
