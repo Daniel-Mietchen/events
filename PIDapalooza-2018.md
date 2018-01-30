@@ -148,6 +148,8 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - [Scalable Preservation Environments (SCAPE)](http://scape-project.eu/)
   - [Data policy as activity network](https://epubs.stfc.ac.uk/work/35227831)
   - [SCAPE: creating machine understandable policy from human readable policy](http://openpreservation.org/blog/2013/07/29/scape-creating-machine-understandable-policy-human-readable-policy/)
+- [The Constitute Project](http://library.law.virginia.edu/ajm-blog/2015/02/26/the-constitute-project/)
+  - comparative database of constitutions around the world, with SPARQL endpoint
 - [Law StackExchange](https://law.stackexchange.com/search?q=policies) (does not look promising so far; maybe ask)
   - [Practicing European Law in English language](https://law.stackexchange.com/questions/19835/practicing-european-law-in-english-language)
     - > working on "legal automation software (question answering, automatic strategy inferrence, automatic argumentation, search of case law etc.)"
@@ -164,6 +166,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 - In [omegataupodcast.net/264](http://omegataupodcast.net/264-blockchains-und-smart-contracts/) the [two](https://wwwmatthes.in.tum.de/pages/b6w19wt08gen/Ulrich-Gallersdoerfer) [interviewees](https://wwwmatthes.in.tum.de/pages/88bkmvw6y7gx/Prof.-Dr.-Florian-Matthes) mention a co-op between law & IT faculty (at TU Munich?). They might be interesting people to talk to or ask for more specialised contacts.
 - [Research Funders' Open Access Policies](http://v2.sherpa.ac.uk/juliet/)
 - [RDA: Practical Policy WG](https://rd-alliance.org/groups/practical-policy-wg.html)
+- [ISA^2 &mdash; Interoperability solutions for public administrations, businesses and citizens](https://ec.europa.eu/isa2/home_en)
 
 # About
 
