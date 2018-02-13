@@ -40,7 +40,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2017-09-12, Brussels: [WikiStammtisch Episode 0070 Wikimania 2017 Review](http://wikistammtisch.org/wikistammtisch-episode-0070-wikimania-2017-review/) (group interview as part of a podcast series; more details [here](https://wikimania2017.wikimedia.org/wiki/User:Daniel_Mietchen))
 * 2015-12-03, Vienna: [Open research, peer review and the role of funders](https://github.com/Daniel-Mietchen/events/blob/master/Open-Science-Jetzt-Vienna-2015.md)
 * 2014-09-15, Vienna: [An introduction to citizen science](https://www.youtube.com/watch?v=LDYEA00VwQs)
-* 2013-09-14, Berlin: [8x8 questions on Open Educational Resources](http://pb21.de/2013/10/8x8-fragen-zu-oer-daniel-mietchen/) (interview)
+* 2013-09-14, Berlin: [8x8 questions on Open Educational Resources](http://pb21.de/2013/10/8x8-fragen-zu-oer-daniel-mietchen/) (interview) &mdash; see [here](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/World_Open_Educational_Resources_Congress_2012/How_Open_Access_and_Open_Science_can_mutually_fertilize_with_Open_Educational_Resources) for English slides from an OER-focused talk
 
 
 # Recordings with remarks about me
