@@ -1,6 +1,6 @@
 # About
 
-This file hosts a contribution to an [Endangered Data Week](http://endangereddataweek.org/) event at the University of Virginia, to be held on February 26, 2018. 
+This file hosts the basis for a talk to be given on February 26, 2018. It is a contribution to a [series of events](http://data.library.virginia.edu/endangered-data-week-2018/) organized at the University of Virginia in the framework of [Endangered Data Week](http://endangereddataweek.org/) 2018. 
 
 # Title
 
