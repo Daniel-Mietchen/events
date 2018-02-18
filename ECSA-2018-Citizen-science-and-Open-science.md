@@ -20,3 +20,4 @@ In this talk - which is to be given from https://github.com/Daniel-Mietchen/even
 # See also
 
 * [ECSA2018.md](ECSA2018.md)
+* [Policy brief on Citizen science & Open science](https://ecsa.citizen-science.net/blog/citizen-science-open-science-policy-brief-out)
