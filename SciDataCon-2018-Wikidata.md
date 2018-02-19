@@ -22,4 +22,10 @@ The workshop is arranged in two main parts:
 
 Throughout the workshop, active participation by attendees will be encouraged through a discursive presentation style, quizzes and group work. At the end of the session, all participants are expected to have added some specific bits of knowledge to Wikidata, and to have reviewed contributions made by others.
 
+This submission addresses all four of the [high-level themes of SciDataCon 2018](https://www.scidatacon.org/conference/IDW2018/conference_themes_and_scope/):
+- The digital frontiers of global science;
+- a global and inclusive data revolution;
+- applications, progress and challenges of data intensive research;
+- data infrastructure and enabling practices for international and collaborative research.
+
 A version of this abstract can be found at https://github.com/Daniel-Mietchen/events/blob/master/SciDataCon-2018-Wikidata.md .
