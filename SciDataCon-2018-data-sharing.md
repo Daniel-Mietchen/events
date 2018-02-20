@@ -1,6 +1,6 @@
 # About
 
-This file hosts a submission to [SciDataCon 2018](https://www.scidatacon.org/conference/IDW2018).
+This file hosts a submission to [SciDataCon 2018](https://www.scidatacon.org/IDW2018/).
 
 # Title
 
