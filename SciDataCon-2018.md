@@ -12,6 +12,8 @@ This file collects links to my submissions for [SciDataCon 2018](https://www.sci
 
 - Citizen science and open science
 - WikiCite
+- Scholia
+- Wikidata as a FAIR data platform
 - Making ethics data FAIR
 - machine-actionable policies
 - a data management plan for a disease outbreak
