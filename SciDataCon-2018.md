@@ -6,7 +6,7 @@ This file collects links to my submissions for [SciDataCon 2018](https://www.sci
 
 - [Data sharing in public health emergencies](SciDataCon-2018-data-sharing.md)
 - [Workshop: Integrating Wikidata with research and curation workflows](SciDataCon-2018-Wikidata.md)
-- Session Proposal: FAIR Data Action Plan: discussion, critique and implementation (not public yet; submitted with others)
+- FAIR Data Action Plan: discussion, critique and implementation (not public yet; submitted with others)
 
 # Contributions to other sessions (putative)
 
