@@ -121,6 +121,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Make Data Sharing Routine to Prepare for Public Health Emergencies](http://dx.doi.org/10.1371/journal.pmed.1002109)
 * [Quantifying the global attention to public health threats through Wikipedia pageview data](https://meta.wikimedia.org/wiki/Research:Quantifying_the_global_attention_to_public_health_threats_through_Wikipedia_pageview_data)
   * [Forecasting the 2013–2014 Influenza Season Using Wikipedia](http://dx.doi.org/10.1371/journal.pcbi.1004239.g001)
+* [Nextstrain.org](http://www.nextstrain.org/zika)
 
 
 # Questions
@@ -129,17 +130,25 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 
 *In this section, I am collecting materials that may become useful for the talk. It is likely to be significantly rearranged until the time of the talk.*
 
-* [Cholera Epidemics of the Past Offer New Insights Into an Old Enemy](https://doi.org/10.1093/infdis/jix602)
+* Danish data: [Cholera Epidemics of the Past Offer New Insights Into an Old Enemy](https://doi.org/10.1093/infdis/jix602)
 * [The Data Refuge Stories project](http://lovedataweek.org/2018/02/12/the-data-refuge-stories-project/)
 * [Tips and Tools for Reaching Limited English Proficient Communities in Emergency Preparedness, Response, and Recovery](https://www.justice.gov/crt/file/885391/download)
-* [Ontological issues](https://www.wikidata.org/wiki/Property_talk:P1060#Ontology )
+* [Ontological issues](https://www.wikidata.org/wiki/Property_talk:P1060#Ontology)
+* [Internet In a Box](https://en.wikipedia.org/wiki/Internet-in-a-Box)
+* Link rot: 
+  - [Computational Biology Resources Lack Persistence and Usability](https://doi.org/10.1371/journal.pcbi.1000136)
+  - [Digital preservation of epidemic resources](http://web.archive.org/web/20131115124842/https://www.epimarketplace.net/)
+* [Zika_Data2LinkedData](https://github.com/andrawaag/Zika_Data2LinkedData)
+* [Scholia on Zika virus](https://tools.wmflabs.org/scholia/topic/Q202864)
+* studentship: ["working with non-literate forest communities in central Africa and seek to enable these vulnerable communities to conduct their own environmental monitoring or mapping"](https://web.archive.org/web/20180225081725/https://www.findaphd.com/search/ProjectDetails.aspx?PJID=87961)
+* Zika forest visit
 
 # Images
 
 *In this section, I am collecting potential illustrations for the talk. Click through for licensing information.*
 
 [![Pool on an abandoned property](https://upload.wikimedia.org/wikipedia/commons/2/2f/Penn_Hills_Resort_Pool.JPG)](https://commons.wikimedia.org/wiki/File:Penn_Hills_Resort_Pool.JPG)
-Pool on an abandoned property
+Pool on an abandoned property ([background](https://github.com/Daniel-Mietchen/ideas/issues/439))
 [![Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh](https://upload.wikimedia.org/wikipedia/commons/d/d8/US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra%2C_Indonesia.jpg)](https://commons.wikimedia.org/wiki/File:US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra,_Indonesia.jpg)
 Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh
 
