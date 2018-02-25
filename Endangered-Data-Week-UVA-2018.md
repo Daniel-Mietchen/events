@@ -1,6 +1,6 @@
 # Data sharing and public health emergencies
 
-*[About](Endangered-Data-Week-UVA-2018.md#about)・[Abstract](Endangered-Data-Week-UVA-2018.md#abstract)・[Historic overview](Endangered-Data-Week-UVA-2018.md#historic-overview)・[Questions](Endangered-Data-Week-UVA-2018.md#questions)・[See also](Endangered-Data-Week-UVA-2018.md#see-also)*
+*[About](Endangered-Data-Week-UVA-2018.md#about)・[Abstract](Endangered-Data-Week-UVA-2018.md#abstract)・[Historic overview](Endangered-Data-Week-UVA-2018.md#historic-overview)・[See also](Endangered-Data-Week-UVA-2018.md#see-also)*
 
 [![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) (NuclearVacuum and kahusi, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
@@ -13,7 +13,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 
 # Historic overview
 
-[1854: Cholera](Endangered-Data-Week-UVA-2018.md#1854-cholera-london)・[2005: H5N1](Endangered-Data-Week-UVA-2018.md#global-spread-of-h5n1-in-2005)・[2005: Hurricane Katrina](Endangered-Data-Week-UVA-2018.md#hurricane-katrina-2005)・[2009: H1N1](Endangered-Data-Week-UVA-2018.md#2009-h1n1-pandemic)・[2010: Haiti earthquake](Endangered-Data-Week-UVA-2018.md#2010-haiti-earthquake)・[2011: Tōhoku earthquake](Endangered-Data-Week-UVA-2018.md#2011-t%C5%8Dhoku-earthquake-and-tsunami)・[2011: E. coli O104:H4](Endangered-Data-Week-UVA-2018.md#2011-e-coli-o104h4-outbreak)・[2013: Typhoon Hiyan](Endangered-Data-Week-UVA-2018.md#typhoon-haiyan-2013)・[2015: Ebola](Endangered-Data-Week-UVA-2018.md#ebola-virus-epidemic-in-west-africa)・[2016: Zika](Endangered-Data-Week-UVA-2018.md#zika-virus-outbreak)・[Future?](Endangered-Data-Week-UVA-2018.md#future)
+[1854: Cholera](Endangered-Data-Week-UVA-2018.md#1854-cholera-london)・[2005: H5N1](Endangered-Data-Week-UVA-2018.md#global-spread-of-h5n1-in-2005)・[2005: Hurricane Katrina](Endangered-Data-Week-UVA-2018.md#hurricane-katrina-2005)・[2009: H1N1](Endangered-Data-Week-UVA-2018.md#2009-h1n1-pandemic)・[2010: Haiti earthquake](Endangered-Data-Week-UVA-2018.md#2010-haiti-earthquake)・[2011: Tōhoku earthquake](Endangered-Data-Week-UVA-2018.md#2011-t%C5%8Dhoku-earthquake-and-tsunami)・[2011: E. coli O104:H4](Endangered-Data-Week-UVA-2018.md#2011-e-coli-o104h4-outbreak)・[2013: Typhoon Haiyan](Endangered-Data-Week-UVA-2018.md#typhoon-haiyan-2013)・[2015: Ebola](Endangered-Data-Week-UVA-2018.md#ebola-virus-epidemic-in-west-africa)・[2016: Zika](Endangered-Data-Week-UVA-2018.md#zika-virus-outbreak)・[Future?](Endangered-Data-Week-UVA-2018.md#future)
 
 
 ## [1854: Cholera, London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak)
@@ -21,13 +21,21 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 
 [John Snow](https://en.wikipedia.org/wiki/John_Snow)'s [original map](https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg) of the [1854 Broad Street cholera outbreak in London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak). Cholera cases are highlighted in black, as are water pumps (data available [here](https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map#data)). The [pump on Broad Street](https://en.wikipedia.org/wiki/Soho#Broad_Street_pump) was identified as the one through which the contaiminated water was distributed. Removing its handle then essentially stopped the outbreak, and when the next Cholera outbreak hit London in 1866, sanitary measures had been improved.
 
-## [Global spread of H5N1 in 2005](https://en.wikipedia.org/wiki/Global_spread_of_H5N1_in_2005)
+## [Global spread of H5N1](https://en.wikipedia.org/wiki/Global_spread_of_H5N1)
+
+[![Global spread of H5N1](https://upload.wikimedia.org/wikipedia/commons/f/f2/H5N1_Global_Spread.png)](https://commons.wikimedia.org/wiki/File:H5N1_Global_Spread.png)
+
 * Global Initiative on Sharing Avian Influenza Data (GISAID)
   * [paper](http://doi.org/10.1038/442981a)
   * [website](http://gisaid.org/)
 
 ## [Hurricane Katrina (2005)](https://en.wikipedia.org/wiki/Hurricane_Katrina)
+
+[![New Orleans flooded by Hurricane Katrina](https://upload.wikimedia.org/wikipedia/commons/3/31/FEMA_-_17774_-_Photograph_by_Jocelyn_Augustino_taken_on_09-07-2005_in_Louisiana.jpg)](https://commons.wikimedia.org/wiki/File:FEMA_-_17774_-_Photograph_by_Jocelyn_Augustino_taken_on_09-07-2005_in_Louisiana.jpg)
+New Orleans flooded by Hurricane Katrina
+
  * ["Open data matters most when the stakes are high"](https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9#.6fhghgjqe)
+ * [Map of deaths](https://commons.wikimedia.org/wiki/File:New-Orleans-deaths.jpg)
  
 ## [2009 H1N1 pandemic](https://en.wikipedia.org/wiki/2009_flu_pandemic)
 * [PLOS Currents: Influenza was started](https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
@@ -55,6 +63,10 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 * [crowdsourced genome analysis via GitHub](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
 
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
+
+[![Typhoon Haiyan as seen from the International Space Station](https://upload.wikimedia.org/wikipedia/commons/e/e4/Typhoon_Haiyan_viewed_from_International_Space_Station.jpg)](https://commons.wikimedia.org/wiki/File:Typhoon_Haiyan_viewed_from_International_Space_Station.jpg)
+Typhoon Haiyan as seen from the International Space Station
+
 * [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
 * A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap
 
@@ -124,9 +136,6 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * [Forecasting the 2013–2014 Influenza Season Using Wikipedia](http://dx.doi.org/10.1371/journal.pcbi.1004239.g001)
 * [Nextstrain.org](http://www.nextstrain.org/zika)
 
-
-# Questions
-
 # Notes
 
 *In this section, I am collecting materials that may become useful for the talk. It is likely to be significantly rearranged until the time of the talk.*
@@ -179,6 +188,9 @@ Aedes aegypti female feeding on human blood
 
 [![Pool on an abandoned property](https://upload.wikimedia.org/wikipedia/commons/2/2f/Penn_Hills_Resort_Pool.JPG)](https://commons.wikimedia.org/wiki/File:Penn_Hills_Resort_Pool.JPG)
 Pool on an abandoned property ([background](https://github.com/Daniel-Mietchen/ideas/issues/439))
+
+[![Abandoned tyres](https://upload.wikimedia.org/wikipedia/commons/7/72/Autoreifen_Deponie.jpg)](https://commons.wikimedia.org/wiki/File:Autoreifen_Deponie.jpg)
+Abandoned tyres
 
 [![Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh](https://upload.wikimedia.org/wikipedia/commons/d/d8/US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra%2C_Indonesia.jpg)](https://commons.wikimedia.org/wiki/File:US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra,_Indonesia.jpg)
 Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh ([similar story from Tohoku tsunami](https://www.dawn.com/news/617265))
