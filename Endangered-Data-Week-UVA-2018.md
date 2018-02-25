@@ -34,8 +34,8 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 [![New Orleans flooded by Hurricane Katrina](https://upload.wikimedia.org/wikipedia/commons/3/31/FEMA_-_17774_-_Photograph_by_Jocelyn_Augustino_taken_on_09-07-2005_in_Louisiana.jpg)](https://commons.wikimedia.org/wiki/File:FEMA_-_17774_-_Photograph_by_Jocelyn_Augustino_taken_on_09-07-2005_in_Louisiana.jpg)
 New Orleans flooded by Hurricane Katrina
 
- * ["Open data matters most when the stakes are high"](https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9#.6fhghgjqe)
  * [Map of deaths](https://commons.wikimedia.org/wiki/File:New-Orleans-deaths.jpg)
+ * ["Open data matters most when the stakes are high"](https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9#.6fhghgjqe)
  
 ## [2009 H1N1 pandemic](https://en.wikipedia.org/wiki/2009_flu_pandemic)
 * [PLOS Currents: Influenza was started](https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
