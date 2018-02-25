@@ -1,3 +1,5 @@
+[![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg)
+
 # About
 
 This file hosts the basis for a talk to be given on February 26, 2018 at 3pm ET in the Alderman Library, Room 421, University of Virginia. It is a [contribution](http://endangereddataweek.org/events/2018-02-26-data-sharing-in-public-health-energencies/) to a [series of events](http://data.library.virginia.edu/endangered-data-week-2018/) organized at the University of Virginia in the framework of [Endangered Data Week](http://endangereddataweek.org/) 2018. 
