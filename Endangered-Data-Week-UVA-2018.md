@@ -149,7 +149,8 @@ A fire truck being unloaded as part of humanitarian assistance after the 2009 Sa
 
 # See also
 
-* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
+* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) &mdash; a presentation for [SciDataCon 2016](http://www.scidatacon.org/2016/)
+* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
 * [More details on sharing in response to public health emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
 
 # About
