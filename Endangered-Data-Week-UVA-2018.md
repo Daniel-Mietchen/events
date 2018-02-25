@@ -23,6 +23,11 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 * [Tips and Tools for Reaching Limited English Proficient Communities in Emergency Preparedness, Response, and Recovery](https://www.justice.gov/crt/file/885391/download)
 * [Ontological issues](https://www.wikidata.org/wiki/Property_talk:P1060#Ontology )
 
+# See also
+
+* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
+* [More details on sharing in response to public health emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
+
 # About
 
 This file hosts the basis for a talk to be given on February 26, 2018 at 3pm ET in the Alderman Library, Room 421, University of Virginia. It is a [contribution](http://endangereddataweek.org/events/2018-02-26-data-sharing-in-public-health-energencies/) to a [series of events](http://data.library.virginia.edu/endangered-data-week-2018/) organized at the University of Virginia in the framework of [Endangered Data Week](http://endangereddataweek.org/) 2018. 
