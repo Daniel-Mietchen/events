@@ -161,7 +161,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 [![Zika virus cryo-EM structure](https://upload.wikimedia.org/wikipedia/commons/0/05/Zika_virus_cryo-EM_structure.png)](https://commons.wikimedia.org/wiki/File:Zika_virus_cryo-EM_structure.png)
 Zika virus cryo-EM structure
 
-[![Aedes aegypti female feeding on human blood](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aedes_aegypti_CDC08.tif/lossy-page1-2761px-Aedes_aegypti_CDC08.tif.jpg)
+[![Aedes aegypti female feeding on human blood](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aedes_aegypti_CDC08.tif/lossy-page1-2761px-Aedes_aegypti_CDC08.tif.jpg)](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif)
 Aedes aegypti female feeding on human blood
 
 [![Pool on an abandoned property](https://upload.wikimedia.org/wikipedia/commons/2/2f/Penn_Hills_Resort_Pool.JPG)](https://commons.wikimedia.org/wiki/File:Penn_Hills_Resort_Pool.JPG)
