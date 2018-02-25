@@ -38,14 +38,26 @@ New Orleans flooded by Hurricane Katrina
  * ["Open data matters most when the stakes are high"](https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9#.6fhghgjqe)
  
 ## [2009 H1N1 pandemic](https://en.wikipedia.org/wiki/2009_flu_pandemic)
+
+[![Map of H1N1 cases](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/H1N1_map_by_confirmed_cases.svg/2000px-H1N1_map_by_confirmed_cases.svg.png)](https://commons.wikimedia.org/wiki/File:H1N1_map_by_confirmed_cases.svg)
+Map of H1N1 cases
+
 * [PLOS Currents: Influenza was started](https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
 
 ## [2010 Haiti earthquake](https://en.wikipedia.org/wiki/2010_Haiti_earthquake)
+
+[![](https://upload.wikimedia.org/wikipedia/commons/3/37/Port-Au-Prince_and_Carrefour_map.png)](https://commons.wikimedia.org/wiki/File:Port-Au-Prince_and_Carrefour_map.png)
+OpenStreetMap of Port-Au-Prince and Carrefour
+
 * [OpenStreetMap response](http://blog.okfn.org/2010/01/15/open-street-map-community-responds-to-haiti-crisis/)
 * [Crisis camp](https://en.wikipedia.org/wiki/Crisis_camp)
 * [Random Hacks of Kindness](https://en.wikipedia.org/wiki/Random_Hacks_of_Kindness)
 
 ## [2011 Tōhoku earthquake and tsunami](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami)
+
+[![Deaths and missing persons by prefecture from 2011 Tohoku Earthquake](https://upload.wikimedia.org/wikipedia/commons/0/00/Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png)](https://commons.wikimedia.org/wiki/File:Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png)
+Deaths and missing persons by prefecture from 2011 Tohoku Earthquake
+
 * OpenStreetMap
    * [coordination page](http://wiki.openstreetmap.org/wiki/2011_Sendai_earthquake_and_tsunami)
    * [sinsai.info](http://www.sinsai.info/)
@@ -71,6 +83,9 @@ Typhoon Haiyan as seen from the International Space Station
 * A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap
 
 ## [Ebola virus epidemic in West Africa](https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa)
+
+[![Ebola Virus particles](https://upload.wikimedia.org/wikipedia/commons/0/0b/Ebola_Virus_Particles_%288%29.jpg)](https://commons.wikimedia.org/wiki/File:Ebola_Virus_Particles_(8).jpg)
+
 * [Ebola teaches tough lessons about rapid research](http://doi.org/10.1038/521405a)
 * [Data sharing: Make outbreak research open access](http://doi.org/10.1038/518477a)
 * [Special issue of Journal of Empirical Research on Human Research Ethics: Ethics and sharing individual-level health research data from low and middle income settings](http://jre.sagepub.com/content/10/3.toc) (13 papers, 2015)
@@ -87,7 +102,12 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 - [Ebola tracking](http://ebolatracking.org/)
 - [HealthMap](http://www.healthmap.org/ebola/#timeline)
 
-## [Zika virus outbreak](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
+## [Zika virus outbreak](https://en.wikipedia.org/wiki/2015%E2%80%9316_Zika_virus_epidemic)
+
+[![Zika virus cryo-EM structure](https://upload.wikimedia.org/wikipedia/commons/0/05/Zika_virus_cryo-EM_structure.png)](https://commons.wikimedia.org/wiki/File:Zika_virus_cryo-EM_structure.png)
+Zika virus cryo-EM structure
+
+
 * Well covered in [IMED session "Data Sharing and Ethics of Big Data"](http://imed.isid.org/downloads/FinalProgram.pdf)
 * [Statement on data sharing in public health emergencies](https://wellcome.ac.uk/what-we-do/our-work/statement-data-sharing-public-health-emergencies)
 * [Policy Statement on Data Sharing by the World Health Organization in the Context of Public Health Emergencies](http://www.who.int/ihr/procedures/SPG_data_sharing.pdf)
@@ -113,6 +133,16 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * from the Zibra blog (comparing Ebola versus Zika project): ["there we were limited by upload speed and here throughput"](http://www.zibraproject.org/blog/a-new-method-for-whole-zika-virus-sequencing/)
 * [Final Rule for FDAAA 801 and NIH Policy on Clinical Trial Reporting](https://www.nih.gov/news-events/news-releases/hhs-take-steps-provide-more-information-about-clinical-trials-public)
 * [PCORI consultation on their data sharing policy](https://via.hypothes.is/http://www.pcori.org/sites/default/files/PCORI-Data-Access-Data-Sharing-DRAFT-for-Public-Comment-October-2016.pdf)
+
+[![Aedes aegypti female feeding on human blood](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aedes_aegypti_CDC08.tif/lossy-page1-2761px-Aedes_aegypti_CDC08.tif.jpg)](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif)
+Aedes aegypti female feeding on human blood
+
+[![Pool on an abandoned property](https://upload.wikimedia.org/wikipedia/commons/2/2f/Penn_Hills_Resort_Pool.JPG)](https://commons.wikimedia.org/wiki/File:Penn_Hills_Resort_Pool.JPG)
+Pool on an abandoned property ([background](https://github.com/Daniel-Mietchen/ideas/issues/439))
+
+[![Abandoned tyres](https://upload.wikimedia.org/wikipedia/commons/7/72/Autoreifen_Deponie.jpg)](https://commons.wikimedia.org/wiki/File:Autoreifen_Deponie.jpg)
+Abandoned tyres
+
 
 ### Using and reusing data
 * [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](http://dx.doi.org/10.12688/f1000research.9110.1)
@@ -149,6 +179,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   - [MRI findings of microcephaly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3565221/figure/F1/)
   - [A Possible Link Between Pyriproxyfen and Microcephaly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017074/)
 * [The Data Refuge Stories project](http://lovedataweek.org/2018/02/12/the-data-refuge-stories-project/)
+* [Ten simple rules for machine-actionable data management plans](https://doi.org/10.5281/zenodo.1172672)
 * [Tips and Tools for Reaching Limited English Proficient Communities in Emergency Preparedness, Response, and Recovery](https://www.justice.gov/crt/file/885391/download)
 * [Emergency Data Exchange Language (EDXL)](https://en.wikipedia.org/wiki/EDXL)
 * [Ontological issues](https://www.wikidata.org/wiki/Property_talk:P1060#Ontology)
@@ -179,18 +210,6 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 # Images
 
 *In this section, I am collecting potential illustrations for the talk. Click through for licensing information.*
-
-[![Zika virus cryo-EM structure](https://upload.wikimedia.org/wikipedia/commons/0/05/Zika_virus_cryo-EM_structure.png)](https://commons.wikimedia.org/wiki/File:Zika_virus_cryo-EM_structure.png)
-Zika virus cryo-EM structure
-
-[![Aedes aegypti female feeding on human blood](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aedes_aegypti_CDC08.tif/lossy-page1-2761px-Aedes_aegypti_CDC08.tif.jpg)](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif)
-Aedes aegypti female feeding on human blood
-
-[![Pool on an abandoned property](https://upload.wikimedia.org/wikipedia/commons/2/2f/Penn_Hills_Resort_Pool.JPG)](https://commons.wikimedia.org/wiki/File:Penn_Hills_Resort_Pool.JPG)
-Pool on an abandoned property ([background](https://github.com/Daniel-Mietchen/ideas/issues/439))
-
-[![Abandoned tyres](https://upload.wikimedia.org/wikipedia/commons/7/72/Autoreifen_Deponie.jpg)](https://commons.wikimedia.org/wiki/File:Autoreifen_Deponie.jpg)
-Abandoned tyres
 
 [![Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh](https://upload.wikimedia.org/wikipedia/commons/d/d8/US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra%2C_Indonesia.jpg)](https://commons.wikimedia.org/wiki/File:US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra,_Indonesia.jpg)
 Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh ([similar story from Tohoku tsunami](https://www.dawn.com/news/617265))
