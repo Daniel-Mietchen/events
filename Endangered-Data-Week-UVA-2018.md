@@ -73,6 +73,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 - [Wikipedia became the most used internet site in Liberia, Sierra Leone and Guinea for Ebola during 2014 outbreak (greater than CNN, CDC and WHO)](http://www.slideshare.net/dartar/wikidata-verifiable-linked-open-knowledge-that-anyone-can-edit/14)
 - [WHO: Developing Global Norms for Sharing Data and Results during Public Health Emergencies](http://www.who.int/medicines/ebola-treatment/data-sharing_phe/en/)
 - [Ebola tracking](http://ebolatracking.org/)
+- [HealthMap](http://www.healthmap.org/ebola/#timeline)
 
 ## [Zika virus outbreak](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
 * Well covered in [IMED session "Data Sharing and Ethics of Big Data"](http://imed.isid.org/downloads/FinalProgram.pdf)
@@ -140,6 +141,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * Link rot: 
   - [Computational Biology Resources Lack Persistence and Usability](https://doi.org/10.1371/journal.pcbi.1000136)
   - [Digital preservation of epidemic resources](http://web.archive.org/web/20131115124842/https://www.epimarketplace.net/)
+  - governmental documents
+    - ["report from the National Science and Technology Council of the Executive Office of the President"](https://www.huffingtonpost.com/entry/computing-and-the-fight-against-epidemics_us_587fd401e4b0aa1c47ac27d6)
+    - [search](https://search.archives.gov/search?query=https%3A%2F%2Fwww.whitehouse.gov%2Fsites%2Fdefault%2Ffiles%2Fmicrosites%2Fostp%2FNSTC%2Ftowards_epidemic_prediction-federal_efforts_and_opportunitie&op=Search&affiliate=obamawhitehouse)
 * [Scholia on Zika virus](https://tools.wmflabs.org/scholia/topic/Q202864)
 * studentship: ["working with non-literate forest communities in central Africa and seek to enable these vulnerable communities to conduct their own environmental monitoring or mapping"](https://web.archive.org/web/20180225081725/https://www.findaphd.com/search/ProjectDetails.aspx?PJID=87961)
 * Zika forest visit
@@ -152,7 +156,10 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
  - [Country-level surveillance data aggregated by CDC](https://github.com/cdcepi/zika)
    - [Corresponding dashboard](https://github.com/cdcepi/zika)
      - [Zika_Data2LinkedData](https://github.com/andrawaag/Zika_Data2LinkedData)
-
+* Satellite imagery to help disease surveillance 
+  - [literature search](https://scholar.google.ch/scholar?as_ylo=2014&q=satellite+surveillance+epidemic)
+  - [Fighting Ebola with Data, Satellites and Drones](http://www.defenseone.com/technology/2014/09/fighting-ebola-data-satellites-and-drones/95171/)
+  - e.g. [tracking hospital parking lot usage](http://people.cs.vt.edu/naren/papers/06798554-parkinglots.pdf)
 
 # Images
 
