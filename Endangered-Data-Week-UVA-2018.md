@@ -131,29 +131,49 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 *In this section, I am collecting materials that may become useful for the talk. It is likely to be significantly rearranged until the time of the talk.*
 
 * Danish data: [Cholera Epidemics of the Past Offer New Insights Into an Old Enemy](https://doi.org/10.1093/infdis/jix602)
+* [Big Data for Infectious Disease Surveillance and Modeling](https://doi.org/10.1093/infdis/jiw400)
 * [The Data Refuge Stories project](http://lovedataweek.org/2018/02/12/the-data-refuge-stories-project/)
 * [Tips and Tools for Reaching Limited English Proficient Communities in Emergency Preparedness, Response, and Recovery](https://www.justice.gov/crt/file/885391/download)
+* [Emergency Data Exchange Language (EDXL)](https://en.wikipedia.org/wiki/EDXL)
 * [Ontological issues](https://www.wikidata.org/wiki/Property_talk:P1060#Ontology)
 * [Internet In a Box](https://en.wikipedia.org/wiki/Internet-in-a-Box)
 * Link rot: 
   - [Computational Biology Resources Lack Persistence and Usability](https://doi.org/10.1371/journal.pcbi.1000136)
   - [Digital preservation of epidemic resources](http://web.archive.org/web/20131115124842/https://www.epimarketplace.net/)
-* [Zika_Data2LinkedData](https://github.com/andrawaag/Zika_Data2LinkedData)
 * [Scholia on Zika virus](https://tools.wmflabs.org/scholia/topic/Q202864)
 * studentship: ["working with non-literate forest communities in central Africa and seek to enable these vulnerable communities to conduct their own environmental monitoring or mapping"](https://web.archive.org/web/20180225081725/https://www.findaphd.com/search/ProjectDetails.aspx?PJID=87961)
 * Zika forest visit
+* [Wikipedia Emerges as Trusted Internet Source for Ebola Information](https://web.archive.org/web/20141031211802/https://www.nytimes.com/2014/10/27/business/media/wikipedia-is-emerging-as-trusted-internet-source-for-information-on-ebola-.html)
+* [Ebola outbreak maps](https://commons.wikimedia.org/wiki/Category:2014_Ebola_outbreak_maps)
+  - [putting names to numbers](https://commons.wikimedia.org/wiki/File:Monument_to_the_victims_of_tsunami_at_Laupahoehoe,_the_Big_Island_of_Hawaii_on_April_1,_1946.JPG)
+* [Ebola travel restrictions](https://commons.wikimedia.org/wiki/File:Ebola_travel_restrictions.png)
+* [Ebola phylogeny](https://commons.wikimedia.org/wiki/File:Filovirus_phylogenetic_tree.svg)
+* Zika data reuse
+ - [Country-level surveillance data aggregated by CDC](https://github.com/cdcepi/zika)
+   - [Corresponding dashboard](https://github.com/cdcepi/zika)
+     - [Zika_Data2LinkedData](https://github.com/andrawaag/Zika_Data2LinkedData)
+
 
 # Images
 
 *In this section, I am collecting potential illustrations for the talk. Click through for licensing information.*
 
+[![Zika virus cryo-EM structure](https://upload.wikimedia.org/wikipedia/commons/0/05/Zika_virus_cryo-EM_structure.png)](https://commons.wikimedia.org/wiki/File:Zika_virus_cryo-EM_structure.png)
+Zika virus cryo-EM structure
+
+[![Aedes aegypti female feeding on human blood](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aedes_aegypti_CDC08.tif/lossy-page1-2761px-Aedes_aegypti_CDC08.tif.jpg)
+Aedes aegypti female feeding on human blood
+
 [![Pool on an abandoned property](https://upload.wikimedia.org/wikipedia/commons/2/2f/Penn_Hills_Resort_Pool.JPG)](https://commons.wikimedia.org/wiki/File:Penn_Hills_Resort_Pool.JPG)
 Pool on an abandoned property ([background](https://github.com/Daniel-Mietchen/ideas/issues/439))
+
 [![Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh](https://upload.wikimedia.org/wikipedia/commons/d/d8/US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra%2C_Indonesia.jpg)](https://commons.wikimedia.org/wiki/File:US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra,_Indonesia.jpg)
-Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh
+Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh ([similar story from Tohoku tsunami](https://www.dawn.com/news/617265))
 
 [![A fire truck being unloaded as part of humanitarian assistance after the 2009 Samoa earthquake and tsunami](https://upload.wikimedia.org/wikipedia/commons/c/c8/Samoa5_%2810718914923%29.jpg)](https://commons.wikimedia.org/wiki/File:Samoa5_(10718914923).jpg)
 A fire truck being unloaded as part of humanitarian assistance after the 2009 Samoa earthquake and tsunami
+
+* [Safe burial](https://www.flickr.com/photos/cdcglobal/15573264517/sizes/l)
 
 
 # See also
