@@ -75,7 +75,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 - [Ebola tracking](http://ebolatracking.org/)
 
 ## [Zika virus outbreak](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
-* Well covered in [IMED session "Data Sharing and Ethics of Big Data" (yesterday)](http://imed.isid.org/downloads/FinalProgram.pdf)
+* Well covered in [IMED session "Data Sharing and Ethics of Big Data"](http://imed.isid.org/downloads/FinalProgram.pdf)
 * [Statement on data sharing in public health emergencies](https://wellcome.ac.uk/what-we-do/our-work/statement-data-sharing-public-health-emergencies)
 * [Policy Statement on Data Sharing by the World Health Organization in the Context of Public Health Emergencies](http://www.who.int/ihr/procedures/SPG_data_sharing.pdf)
 * [Public Health Surveillance: A Call to Share Data](http://ianphi.org/news/2016/datasharing.html)
