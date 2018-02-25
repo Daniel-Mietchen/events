@@ -143,7 +143,6 @@ Pool on an abandoned property ([background](https://github.com/Daniel-Mietchen/i
 [![Abandoned tyres](https://upload.wikimedia.org/wikipedia/commons/7/72/Autoreifen_Deponie.jpg)](https://commons.wikimedia.org/wiki/File:Autoreifen_Deponie.jpg)
 Abandoned tyres
 
-
 ### Using and reusing data
 * [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](http://dx.doi.org/10.12688/f1000research.9110.1)
   * [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
