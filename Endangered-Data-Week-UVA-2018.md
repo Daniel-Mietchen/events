@@ -133,6 +133,12 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 
 * Danish data: [Cholera Epidemics of the Past Offer New Insights Into an Old Enemy](https://doi.org/10.1093/infdis/jix602)
 * [Big Data for Infectious Disease Surveillance and Modeling](https://doi.org/10.1093/infdis/jiw400)
+* [Zika virus: Epidemiology, current phobia and preparedness for upcoming mass gatherings, with examples from World Olympics and Pilgrimage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017074/)
+* [Template:Zika](https://www.wikidata.org/wiki/Template:Zika)
+* Microcephaly
+  - [Fetal ultrasound](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4767410/figure/pntd.0004517.g001/)
+  - [MRI findings of microcephaly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3565221/figure/F1/)
+  - [A Possible Link Between Pyriproxyfen and Microcephaly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017074/)
 * [The Data Refuge Stories project](http://lovedataweek.org/2018/02/12/the-data-refuge-stories-project/)
 * [Tips and Tools for Reaching Limited English Proficient Communities in Emergency Preparedness, Response, and Recovery](https://www.justice.gov/crt/file/885391/download)
 * [Emergency Data Exchange Language (EDXL)](https://en.wikipedia.org/wiki/EDXL)
