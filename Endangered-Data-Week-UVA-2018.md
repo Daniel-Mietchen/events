@@ -22,8 +22,6 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 
 [John Snow](https://en.wikipedia.org/wiki/John_Snow)'s [original map](https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg) of the [1854 Broad Street cholera outbreak in London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak). Cholera cases are highlighted in black, as are water pumps (data available [here](https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map#data)). The [pump on Broad Street](https://en.wikipedia.org/wiki/Soho#Cholera_outbreak) was identified as the one through which the contaiminated water was distributed. Removing its handle then essentially stopped the outbreak, and when the next Cholera outbreak hit London in 1866, sanitary measures had been improved.
 
-* Danish data: [Cholera Epidemics of the Past Offer New Insights Into an Old Enemy](https://doi.org/10.1093/infdis/jix602)
-
 ## [2004 Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
 
 [![Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh](https://upload.wikimedia.org/wikipedia/commons/d/d8/US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra%2C_Indonesia.jpg)](https://commons.wikimedia.org/wiki/File:US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra,_Indonesia.jpg)
@@ -68,6 +66,14 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 * [OpenStreetMap response](http://blog.okfn.org/2010/01/15/open-street-map-community-responds-to-haiti-crisis/)
 * [Crisis camp](https://en.wikipedia.org/wiki/Crisis_camp)
 * [Random Hacks of Kindness](https://en.wikipedia.org/wiki/Random_Hacks_of_Kindness)
+
+* [Cholera Epidemics of the Past Offer New Insights Into an Old Enemy](https://doi.org/10.1093/infdis/jix602)
+  - > Mathematical modeling of the spread and health impact of cholera is a key effort to guide policy makers and intervention planners about the projected impact of interventions, such as vaccinations, in contemporary outbreaks [5–7].
+  - > Despite this public health importance, key aspects of cholera disease dynamics [..] contain a large amount of uncertainty or remain unresolved [8]. The high-quality epidemiological data needed to address these uncertainties are often lacking, especially in outbreak situations [6].
+  - > To fill this data void, we investigated data from an underutilized source: 19th-century cholera epidemics in Europe. Denmark provides an excellent source as its population was not exposed to cholera, likely due to a quarantine at the Danish coast [9]. Finally, in 1853, a year after the quarantine was lifted, a single and catastrophic outbreak hit the nation, including Copenhagen. 
+  - > Time series of daily cholera morbidity and mortality counts by age and sex were obtained from datasets compiled by contemporary physicians in 3 towns and cities in Denmark: Copenhagen and Aalborg in 1853 and Korsør in 1857.
+  - > To provide epidemiological context to the outbreaks, we acquired cause-specific mortality data for the surrounding years for Copenhagen. We also obtained age-specific population data for Copenhagen, Aalborg, and Korsør.
+
 
 ## [2011 Tōhoku earthquake and tsunami](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami)
 
