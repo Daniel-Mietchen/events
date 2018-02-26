@@ -283,6 +283,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * [Forecasting the 2013–2014 Influenza Season Using Wikipedia](http://dx.doi.org/10.1371/journal.pcbi.1004239.g001)
 * Data Management Plans for entire disease outbreaks and similar public health emergency scenarios
   - [Ten simple rules for machine-actionable data management plans](https://doi.org/10.5281/zenodo.1172672)
+    - [some public examples of data management plans](https://riojournal.com/browse_journal_articles.php?form_name=filter_articles&sortby=0&journal_id=17&search_in_=0&section_type%5B%5D=231)
   - take inspiration from infrastructure like the [National Hurricane Center](https://www.nhc.noaa.gov/data/) and expand internationally and beyond hurricanes
 * Zika forest visit
   - studentship: ["working with non-literate forest communities in central Africa and seek to enable these vulnerable communities to conduct their own environmental monitoring or mapping"](https://web.archive.org/web/20180225081725/https://www.findaphd.com/search/ProjectDetails.aspx?PJID=87961)
