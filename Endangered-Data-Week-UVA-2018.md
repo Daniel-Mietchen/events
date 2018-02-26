@@ -88,7 +88,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
     - [early version](https://web.archive.org/web/20110331222304/http://www.sinsai.info/ushahidi/)
       - [rough translation](https://translate.google.com/translate?hl=en&sl=ja&tl=en&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110331222304%2Fhttp%3A%2F%2Fwww.sinsai.info%2Fushahidi%2F)
       - [explanation](https://web.archive.org/web/20180226065430/https://dailycrowdsource.com/content/crowdsourcing/425-crowdsourcing-japans-earthquake-and-tsunami-survivors)
-      - > The dedicated site sinsai.info/ushahidi was established within two hours of the earthquake, to help search for survivors and provide vital information of safe spots and danger zones.
+      - > The dedicated site sinsai.info/ushahidi was [established within two hours of the earthquake](http://whois.domaintools.com/sinsai.info), to help search for survivors and provide vital information of safe spots and danger zones.
       - > The site established by Japanese volunteers working with the Fletcher School at Tufts University, was already under construction in anticipation of an earthquake hitting Japan. The site enables anyone with a mobile phone or smartphone to post details of any survivors in difficult to reach areas and of any unsafe areas which is then relayed to rescue operations. In turn the site also posts easily accessible information on the nearest emergency services stations as well as locations of clean water supplies and food stores.
 * [saveMLAK](https://en.wikipedia.org/wiki/SaveMLAK)
   - [website](http://www.savemlak.jp/)
@@ -106,19 +106,21 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 ![EHEC outbreak stats](https://upload.wikimedia.org/wikipedia/en/f/f8/Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png)
 * [EHEC outbreak stats](https://en.wikipedia.org/wiki/File:Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png) (by [Pozos](https://commons.wikimedia.org/wiki/User:Pozos), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/))
 * [crowdsourced genome analysis via GitHub](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
- - [version history](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki/Home/_history?page=6)
+  - [version history](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki/Home/_history?page=6)
 
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
 
 [![Typhoon Haiyan as seen from the International Space Station](https://upload.wikimedia.org/wikipedia/commons/e/e4/Typhoon_Haiyan_viewed_from_International_Space_Station.jpg)](https://commons.wikimedia.org/wiki/File:Typhoon_Haiyan_viewed_from_International_Space_Station.jpg)
-Typhoon Haiyan as seen from the International Space Station
+[Typhoon Haiyan as seen from the International Space Station](https://commons.wikimedia.org/wiki/File:Typhoon_Haiyan_viewed_from_International_Space_Station.jpg) (by NASA/Karen Nyberg, [public domain](https://en.wikipedia.org/wiki/Public_domain))
 
 * [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
-* A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap
+  * A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap
+    - widely used by on-the ground responders
 
 ## [Ebola virus epidemic in West Africa](https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa)
 
 [![Ebola Virus particles](https://upload.wikimedia.org/wikipedia/commons/0/0b/Ebola_Virus_Particles_%288%29.jpg)](https://commons.wikimedia.org/wiki/File:Ebola_Virus_Particles_(8).jpg)
+[Ebola Virus particles](https://commons.wikimedia.org/wiki/File:Ebola_Virus_Particles_(8).jpg) (NIAID, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en))
 
 * [Ebola teaches tough lessons about rapid research](http://doi.org/10.1038/521405a)
 * [Data sharing: Make outbreak research open access](http://doi.org/10.1038/518477a)
@@ -141,39 +143,51 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 [![Zika virus cryo-EM structure](https://upload.wikimedia.org/wikipedia/commons/0/05/Zika_virus_cryo-EM_structure.png)](https://commons.wikimedia.org/wiki/File:Zika_virus_cryo-EM_structure.png)
 [Zika virus cryo-EM structure](https://commons.wikimedia.org/wiki/File:Zika_virus_cryo-EM_structure.png) (Starless, [public domain](https://en.wikipedia.org/wiki/Public_domain), based on [open data](https://www.rcsb.org/structure/5IRE))
 
-* [Statement on data sharing in public health emergencies](https://wellcome.ac.uk/what-we-do/our-work/statement-data-sharing-public-health-emergencies)
-* [Policy Statement on Data Sharing by the World Health Organization in the Context of Public Health Emergencies](http://www.who.int/ihr/procedures/SPG_data_sharing.pdf)
-* [Public Health Surveillance: A Call to Share Data](http://ianphi.org/news/2016/datasharing.html)
-* [Science, get over yourself: Zika data-sharing should be the norm, not the exception](https://www.statnews.com/2016/02/16/zika-data-sharing/)
-* ["Several participants noted that it is critical to study ZIKV in humans in the countries most affected and highlighted the importance of establishing a coordinated and well-resourced research approach to ZIKV, which would include the efficient sharing of biospecimens across international borders, availability of rapid funding announcements, better communication among scientists about the types of research being conducted, and the availability of datasets."](http://www.ncbi.nlm.nih.gov/books/NBK349626/)
-* [Partnerships, Not Parachutists, for Zika Research](http://doi.org/10.1056/NEJMp1602278):
-  * "But we believe the experience with recent outbreaks makes clear that if open sharing of data and specimens becomes the norm among scientists and epidemiologists around the world, we will be far more likely to succeed in improving international public health capacity and strengthening our collective health — and human — security. 
-  * To avoid having to make this argument again every time we face an outbreak with the potential for becoming a global crisis, we believe the global health community should develop and agree on a framework of principles for sharing data and biologic samples during any such public health emergency. It would be best if the researchers themselves developed such a framework, as the genomics community did in the Human Genome Project."
-* [Zika Open research Portal](https://zika.labkey.com/)
-  * [Zika Data From the Lab, and Right to the Web](http://www.nytimes.com/2016/07/19/health/zika-data-monkey-studies.html)
-  * [Zika researchers release real-time data on viral infection study in monkeys](http://dx.doi.org/10.1038/nature.2016.19438)
-* [other open datasets](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#Zika-related_data_sets)
-* [Open Zika](https://via.hypothes.is/http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005023)
-* [Zika tracking](http://zikatracking.org/)
-* [ContentMine: mining PubMed Central for data](http://contentmine.org/)
-  * [Workflow for Zika](https://www.youtube.com/watch?v=5lYzOZ2Cv_I)
-  * [Results for Zika](https://larsgw.github.io/contentmine-fellowship/html/card_c05.html)
-* preprints
-  * [Zika Virus Spurs Preprint Revolution](http://read.hipporeads.com/zika-virus-spurs-preprint-revolution/)
-  * [Zika virus initiative reveals deeper malady in scientific publishing ](https://www.theguardian.com/science/occams-corner/2016/feb/16/zika-virus-scientific-publishing-malady)
-  * [Zika Virus and Preprint Servers](https://www.asm.org/index.php/zika-diaries/item/45-zika-virus-and-preprint-servers)
-* from the Zibra blog (comparing Ebola versus Zika project): ["there we were limited by upload speed and here throughput"](http://www.zibraproject.org/blog/a-new-method-for-whole-zika-virus-sequencing/)
-* [Final Rule for FDAAA 801 and NIH Policy on Clinical Trial Reporting](https://www.nih.gov/news-events/news-releases/hhs-take-steps-provide-more-information-about-clinical-trials-public)
-* [PCORI consultation on their data sharing policy](https://via.hypothes.is/http://www.pcori.org/sites/default/files/PCORI-Data-Access-Data-Sharing-DRAFT-for-Public-Comment-October-2016.pdf)
+* [Complex interactions between the Zika virus, humans and intermediates](https://www.wikidata.org/wiki/Template:Zika)
 
+  
 [![Aedes aegypti female feeding on human blood](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aedes_aegypti_CDC08.tif/lossy-page1-2761px-Aedes_aegypti_CDC08.tif.jpg)](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif)
-Aedes aegypti female feeding on human blood
+[*Aedes aegypti* female feeding on human blood](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif) (CDC, [public domain](https://en.wikipedia.org/wiki/Public_domain))
 
 [![Pool on an abandoned property](https://upload.wikimedia.org/wikipedia/commons/2/2f/Penn_Hills_Resort_Pool.JPG)](https://commons.wikimedia.org/wiki/File:Penn_Hills_Resort_Pool.JPG)
-Pool on an abandoned property ([background](https://github.com/Daniel-Mietchen/ideas/issues/439))
+[Pool on an abandoned property](https://commons.wikimedia.org/wiki/File:Penn_Hills_Resort_Pool.JPG) (Idamantium, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
+
+* Vacant properties have been suggested to be breeding grounds for disease vectors, e.g. for the *Aedes aegypti* mosquitos that can transmit multiple viruses, including the Zika virus.
+  * [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak) ([follow-up post](http://scholar.harvard.edu/jonjay/blog/latest-miami-zika-outbreak-hits-another-high-vacancy-neighborhood))
+    - uses "data collected by the U.S. Postal Service" to assess vacant properties.
+* Such data correlates with poverty and [housing prices](https://moqri.carto.com/builder/8da35c55-33e4-4f7e-a844-e62ab3b3fe85/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B29.660534828853223%2C-82.40758895874025%5D%2C%22sw%22%3A%5B29.710568586884975%2C-82.32999801635744%5D%2C%22center%22%3A%5B29.685554821241087%2C-82.36879348754884%5D%2C%22zoom%22%3A14%7D%2C%22widgets%22%3A%7B%221c26edd5-7145-4747-a7a6-8df4893a201b%22%3A%7B%22normalized%22%3Atrue%2C%22max%22%3A331200%2C%22zoomed%22%3Atrue%7D%2C%22e85d9e05-cad3-41e4-9393-7d6150b17743%22%3A%7B%22normalized%22%3Atrue%7D%7D%7D), which could thus be another source information.
 
 [![Abandoned tyres](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Autoreifen_Deponie.jpg/1280px-Autoreifen_Deponie.jpg)](https://commons.wikimedia.org/wiki/File:Autoreifen_Deponie.jpg)
 [Abandoned tyres](https://commons.wikimedia.org/wiki/File:Autoreifen_Deponie.jpg) (Gerd Danigel, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))
+* another breeding ground for mosquitos 
+
+
+* Lots of discussion around data sharing
+  * [Statement on data sharing in public health emergencies](https://wellcome.ac.uk/what-we-do/our-work/statement-data-sharing-public-health-emergencies)
+  * [Policy Statement on Data Sharing by the World Health Organization in the Context of Public Health Emergencies](http://www.who.int/ihr/procedures/SPG_data_sharing.pdf)
+  * [Public Health Surveillance: A Call to Share Data](http://ianphi.org/news/2016/datasharing.html)
+  * [Science, get over yourself: Zika data-sharing should be the norm, not the exception](https://www.statnews.com/2016/02/16/zika-data-sharing/)
+  * ["Several participants noted that it is critical to study ZIKV in humans in the countries most affected and highlighted the importance of establishing a coordinated and well-resourced research approach to ZIKV, which would include the efficient sharing of biospecimens across international borders, availability of rapid funding announcements, better communication among scientists about the types of research being conducted, and the availability of datasets."](http://www.ncbi.nlm.nih.gov/books/NBK349626/)
+  * [Partnerships, Not Parachutists, for Zika Research](http://doi.org/10.1056/NEJMp1602278):
+    - > But we believe the experience with recent outbreaks makes clear that if open sharing of data and specimens becomes the norm among scientists and epidemiologists around the world, we will be far more likely to succeed in improving international public health capacity and strengthening our collective health — and human — security. 
+    - > To avoid having to make this argument again every time we face an outbreak with the potential for becoming a global crisis, we believe the global health community should develop and agree on a framework of principles for sharing data and biologic samples during any such public health emergency. It would be best if the researchers themselves developed such a framework, as the genomics community did in the Human Genome Project.
+  * [Zika Open research Portal](https://zika.labkey.com/)
+    * [Zika Data From the Lab, and Right to the Web](http://www.nytimes.com/2016/07/19/health/zika-data-monkey-studies.html)
+    * [Zika researchers release real-time data on viral infection study in monkeys](http://dx.doi.org/10.1038/nature.2016.19438)
+  * [Nextstrain.org](http://www.nextstrain.org/zika)
+  * [Open Zika](https://via.hypothes.is/http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005023)
+  * [Zika tracking](http://zikatracking.org/)
+  * [other open datasets](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#Zika-related_data_sets)
+  * [ContentMine: mining PubMed Central for data](http://contentmine.org/)
+    * [Workflow for Zika](https://www.youtube.com/watch?v=5lYzOZ2Cv_I)
+    * [Results for Zika](https://larsgw.github.io/contentmine-fellowship/html/card_c05.html)
+  * preprints
+    * [Zika Virus Spurs Preprint Revolution](http://read.hipporeads.com/zika-virus-spurs-preprint-revolution/)
+    * [Zika virus initiative reveals deeper malady in scientific publishing ](https://www.theguardian.com/science/occams-corner/2016/feb/16/zika-virus-scientific-publishing-malady)
+    * [Zika Virus and Preprint Servers](https://www.asm.org/index.php/zika-diaries/item/45-zika-virus-and-preprint-servers)
+  * from the Zibra blog (comparing Ebola versus Zika project): ["there we were limited by upload speed and here throughput"](http://www.zibraproject.org/blog/a-new-method-for-whole-zika-virus-sequencing/)
+  * [Final Rule for FDAAA 801 and NIH Policy on Clinical Trial Reporting](https://www.nih.gov/news-events/news-releases/hhs-take-steps-provide-more-information-about-clinical-trials-public)
+  * [PCORI consultation on their data sharing policy](https://via.hypothes.is/http://www.pcori.org/sites/default/files/PCORI-Data-Access-Data-Sharing-DRAFT-for-Public-Comment-October-2016.pdf)
 
 ### Using and reusing data
 * [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](http://dx.doi.org/10.12688/f1000research.9110.1)
@@ -181,8 +195,6 @@ Pool on an abandoned property ([background](https://github.com/Daniel-Mietchen/i
   * [Docker image](https://hub.docker.com/r/maayanlab/zika/)
     * could in principle be [run on a mobile phone](https://twitter.com/KyleCranmer/status/698240530900193282)
 * [Data-driven identification of potential Zika virus vectors](http://dx.doi.org/10.1101/077966)
-* [Visualization of selected information mined from the Zika literature](https://larsgw.github.io/contentmine-fellowship/html/card_c05.html)
-* [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak) ([follow-up post](http://scholar.harvard.edu/jonjay/blog/latest-miami-zika-outbreak-hits-another-high-vacancy-neighborhood))
 * [How mobile data visualization helped reduce malaria cases by 93% — Zika could be next](http://venturebeat.com/2016/08/31/mobile-data-visualization-reduce-malaria-93-zika/)
 * [Mapping the global geographic potential of Zika virus spread](http://dx.doi.org/10.1590/0074-02760160149)
 * [Dynamic forecasting of Zika epidemics using Google Trends](http://dx.doi.org/10.1101/076521)
@@ -190,10 +202,11 @@ Pool on an abandoned property ([background](https://github.com/Daniel-Mietchen/i
   * e.g. [University of Texas at Austin](https://github.com/cloudera-cares-austin/zika-hackathon) 
 
 ## Future?
+
 * [Make Data Sharing Routine to Prepare for Public Health Emergencies](http://dx.doi.org/10.1371/journal.pmed.1002109)
 * [Quantifying the global attention to public health threats through Wikipedia pageview data](https://meta.wikimedia.org/wiki/Research:Quantifying_the_global_attention_to_public_health_threats_through_Wikipedia_pageview_data)
   * [Forecasting the 2013–2014 Influenza Season Using Wikipedia](http://dx.doi.org/10.1371/journal.pcbi.1004239.g001)
-* [Nextstrain.org](http://www.nextstrain.org/zika)
+* Your ideas here.
 
 # Notes
 
@@ -201,7 +214,6 @@ Pool on an abandoned property ([background](https://github.com/Daniel-Mietchen/i
 
 * [Big Data for Infectious Disease Surveillance and Modeling](https://doi.org/10.1093/infdis/jiw400)
 * [Zika virus: Epidemiology, current phobia and preparedness for upcoming mass gatherings, with examples from World Olympics and Pilgrimage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017074/)
-* [Template:Zika](https://www.wikidata.org/wiki/Template:Zika)
 * Microcephaly
   - [Fetal ultrasound](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4767410/figure/pntd.0004517.g001/)
   - [MRI findings of microcephaly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3565221/figure/F1/)
