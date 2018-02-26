@@ -292,6 +292,11 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   - [Fighting Ebola with Data, Satellites and Drones](http://www.defenseone.com/technology/2014/09/fighting-ebola-data-satellites-and-drones/95171/)
   - e.g. [tracking hospital parking lot usage](http://people.cs.vt.edu/naren/papers/06798554-parkinglots.pdf)
 * [Internet In a Box](https://en.wikipedia.org/wiki/Internet-in-a-Box)
+  - [Instructions](https://meta.wikimedia.org/wiki/Internet-in-a-Box/Work)
+* Livestream of data related to public health emergencies
+  - demos
+    - [International Space Station](http://www.ustream.tv/channel/live-iss-stream)
+    - [Wikidata](http://listen.hatnote.com/#wikidata)
 * Your ideas here.
 
 
