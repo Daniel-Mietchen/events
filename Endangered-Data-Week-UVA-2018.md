@@ -193,7 +193,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 
 * [Complex interactions between the Zika virus, humans and intermediates](https://www.wikidata.org/wiki/Template:Zika)
 
-* Microcephaly
+* [Microcephaly](https://en.wikipedia.org/wiki/Microcephaly)
   - [WHO Director-General declares Public Health Emergency of International Concern](http://www.who.int/mediacentre/news/statements/2016/emergency-committee-zika-microcephaly/en/)
     - > I convened an Emergency Committee, under the International Health Regulations, to gather advice on the severity of the health threat associated with the continuing spread of Zika virus disease in Latin America and the Caribbean. The Committee met today by teleconference.
     - > The experts agreed that a causal relationship between Zika infection during pregnancy and microcephaly is strongly suspected, though not yet scientifically proven. All agreed on the urgent need to coordinate international efforts to investigate and understand this relationship better.  
