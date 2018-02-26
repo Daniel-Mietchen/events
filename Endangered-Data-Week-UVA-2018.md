@@ -329,10 +329,12 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 # Epilog
 
 [![A fire truck being unloaded as part of humanitarian assistance after the 2009 Samoa earthquake and tsunami](https://upload.wikimedia.org/wikipedia/commons/c/c8/Samoa5_%2810718914923%29.jpg)](https://commons.wikimedia.org/wiki/File:Samoa5_(10718914923).jpg)
-[Humanity should continue the great tradition of sharing physical goods and logistics in the case of public health emergencies ...](https://commons.wikimedia.org/wiki/File:Samoa5_(10718914923).jpg) (Photo by [Australian Department of Foreign Affairs and Trade](https://www.flickr.com/people/106853342@N04), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en))
+[Humanity should continue the great tradition of sharing physical goods and logistics in the case of public health emergencies ...](https://commons.wikimedia.org/wiki/File:Samoa5_(10718914923).jpg) 
 
 [![The sharing of data and metadata relating to public health emergencies should be routine, not the exception.](https://upload.wikimedia.org/wikipedia/commons/6/65/To_deposit_or_not_to_deposit%2C_that_is_the_question_-_journal.pbio.1001779.g001.png)](https://commons.wikimedia.org/wiki/File:To_deposit_or_not_to_deposit,_that_is_the_question_-_journal.pbio.1001779.g001.png)
-[... and the routine sharing of data and metadata relating to public health emergencies should become part of this tradition.](https://commons.wikimedia.org/wiki/File:To_deposit_or_not_to_deposit,_that_is_the_question_-_journal.pbio.1001779.g001.png) (Illustration by Ainsley Seago, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en))
+[... and the routine sharing of data and metadata relating to public health emergencies should become part of this tradition.](https://commons.wikimedia.org/wiki/File:To_deposit_or_not_to_deposit,_that_is_the_question_-_journal.pbio.1001779.g001.png) 
+
+(Fire truck photo by [Australian Department of Foreign Affairs and Trade](https://www.flickr.com/people/106853342@N04), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en); data sharing illustration by Ainsley Seago, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en))
 
 
 # See also
