@@ -24,7 +24,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 ## [Global spread of H5N1](https://en.wikipedia.org/wiki/Global_spread_of_H5N1)
 
 [![Global spread of H5N1](https://upload.wikimedia.org/wikipedia/commons/f/f2/H5N1_Global_Spread.png)](https://commons.wikimedia.org/wiki/File:H5N1_Global_Spread.png)
-[Global spread of H5N1](https://commons.wikimedia.org/wiki/File:H5N1_Global_Spread.png) (Zuanzuanfuwa, [public domain](https://en.wikipedia.org/wiki/Public_domain)) 
+[Map of the global spread of H5N1](https://commons.wikimedia.org/wiki/File:H5N1_Global_Spread.png) (Zuanzuanfuwa, [public domain](https://en.wikipedia.org/wiki/Public_domain)) 
 
 * Global Initiative on Sharing Avian Influenza Data (GISAID)
   * [paper](http://doi.org/10.1038/442981a)
@@ -49,8 +49,8 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 
 ## [2010 Haiti earthquake](https://en.wikipedia.org/wiki/2010_Haiti_earthquake)
 
-[![](https://upload.wikimedia.org/wikipedia/commons/3/37/Port-Au-Prince_and_Carrefour_map.png)](https://commons.wikimedia.org/wiki/File:Port-Au-Prince_and_Carrefour_map.png)
-OpenStreetMap of Port-Au-Prince and Carrefour
+[![OpenStreetMap of Port-Au-Prince and Carrefour](https://upload.wikimedia.org/wikipedia/commons/3/37/Port-Au-Prince_and_Carrefour_map.png)](https://commons.wikimedia.org/wiki/File:Port-Au-Prince_and_Carrefour_map.png)
+[OpenStreetMap of Port-Au-Prince and Carrefour](https://commons.wikimedia.org/wiki/File:Port-Au-Prince_and_Carrefour_map.png) ([OpenStreetMap](https://www.openstreetmap.org/#map=13/18.5456/-72.3526), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en))
 
 * [OpenStreetMap response](http://blog.okfn.org/2010/01/15/open-street-map-community-responds-to-haiti-crisis/)
 * [Crisis camp](https://en.wikipedia.org/wiki/Crisis_camp)
@@ -59,7 +59,7 @@ OpenStreetMap of Port-Au-Prince and Carrefour
 ## [2011 Tōhoku earthquake and tsunami](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami)
 
 [![Deaths and missing persons by prefecture from 2011 Tohoku Earthquake](https://upload.wikimedia.org/wikipedia/commons/0/00/Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png)](https://commons.wikimedia.org/wiki/File:Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png)
-Deaths and missing persons by prefecture from 2011 Tohoku Earthquake
+[Deaths and missing persons by prefecture from 2011 Tohoku Earthquake](https://commons.wikimedia.org/wiki/File:Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png) (mti,InoueKeisuke,CES1596, [public domain](https://creativecommons.org/publicdomain/zero/1.0/deed.en))
 
 * OpenStreetMap
    * [coordination page](http://wiki.openstreetmap.org/wiki/2011_Sendai_earthquake_and_tsunami)
@@ -67,6 +67,7 @@ Deaths and missing persons by prefecture from 2011 Tohoku Earthquake
     * run by OpenStreetMap Japan using [Ushahidi](https://www.ushahidi.com/)
 * [saveMLAK](https://en.wikipedia.org/wiki/SaveMLAK)
 * [Geigermap](http://japan.failedrobot.com/)
+  - [new address](http://gmcmap.com/)
 * [Japan’s Nuclear Woes Give Rise to Crowd-Sourced Radiation Maps In Asia and US](http://singularityhub.com/2011/03/24/japans-nuclear-woes-give-rise-to-crowd-sourced-radiation-maps-in-asia-and-us/)
 * [Japan’s Radiation Levels: Real-Time Crowd Sourcing](http://scienceblogs.com/deanscorner/2011/03/21/japans-radiation-levels-real-t/)
 * [Crowdsourcing Japan’s Nuclear Crisis](http://blogs.law.harvard.edu/herdict/2011/03/26/crowdsourcing-japans-nuclear-crisis/)
