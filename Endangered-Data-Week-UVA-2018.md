@@ -24,7 +24,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 ## [Global spread of H5N1](https://en.wikipedia.org/wiki/Global_spread_of_H5N1)
 
 [![Global spread of H5N1](https://upload.wikimedia.org/wikipedia/commons/f/f2/H5N1_Global_Spread.png)](https://commons.wikimedia.org/wiki/File:H5N1_Global_Spread.png)
-Global spread of H5N1](https://commons.wikimedia.org/wiki/File:H5N1_Global_Spread.png) (Zuanzuanfuwa, [public domain](https://en.wikipedia.org/wiki/Public_domain)) 
+[Global spread of H5N1](https://commons.wikimedia.org/wiki/File:H5N1_Global_Spread.png) (Zuanzuanfuwa, [public domain](https://en.wikipedia.org/wiki/Public_domain)) 
 
 * Global Initiative on Sharing Avian Influenza Data (GISAID)
   * [paper](http://doi.org/10.1038/442981a)
