@@ -195,7 +195,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Zika virus: Epidemiology, current phobia and preparedness for upcoming mass gatherings, with examples from World Olympics and Pilgrimage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017074/)
   
 [![Aedes aegypti female feeding on human blood](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aedes_aegypti_CDC08.tif/lossy-page1-2761px-Aedes_aegypti_CDC08.tif.jpg)](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif)
-[*Aedes aegypti* female feeding on human blood](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif) (CDC, [public domain](https://en.wikipedia.org/wiki/Public_domain)) These mosquitos can transmit multiple viruses, including the Zika virus.
+[*Aedes aegypti* female feeding on human blood](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif) (CDC, [public domain](https://en.wikipedia.org/wiki/Public_domain)). These mosquitos can transmit multiple viruses, including the Zika virus.
 
 [![Pool on an abandoned property](https://upload.wikimedia.org/wikipedia/commons/2/2f/Penn_Hills_Resort_Pool.JPG)](https://commons.wikimedia.org/wiki/File:Penn_Hills_Resort_Pool.JPG)
 [Pool on an abandoned property](https://commons.wikimedia.org/wiki/File:Penn_Hills_Resort_Pool.JPG) (Idamantium, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
@@ -238,9 +238,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 
 ## Reusing data
 * Zika data reuse
- - [Country-level surveillance data aggregated by CDC](https://github.com/cdcepi/zika)
-   - [Corresponding dashboard](https://github.com/cdcepi/zika)
-     - [Zika_Data2LinkedData](https://github.com/andrawaag/Zika_Data2LinkedData)
+  - [Country-level surveillance data aggregated by CDC](https://github.com/cdcepi/zika)
+    - [Corresponding dashboard](https://github.com/cdcepi/zika)
+      - [Zika_Data2LinkedData](https://github.com/andrawaag/Zika_Data2LinkedData)
 * [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](http://dx.doi.org/10.12688/f1000research.9110.1)
   * [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
   * [Docker image](https://hub.docker.com/r/maayanlab/zika/)
