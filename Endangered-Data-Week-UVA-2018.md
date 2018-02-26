@@ -2,7 +2,7 @@
 
 *[About](Endangered-Data-Week-UVA-2018.md#about)・[Abstract](Endangered-Data-Week-UVA-2018.md#abstract)・[Timeline](Endangered-Data-Week-UVA-2018.md#timeline)・[See also](Endangered-Data-Week-UVA-2018.md#see-also)*
 
-[![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) ([NuclearVacuum](https://commons.wikimedia.org/wiki/User:NuclearVacuum) and [Kahusi](https://commons.wikimedia.org/wiki/User:Kahusi), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
+[![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) (by [NuclearVacuum](https://commons.wikimedia.org/wiki/User:NuclearVacuum) and [Kahusi](https://commons.wikimedia.org/wiki/User:Kahusi), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
 
 # Abstract
@@ -25,7 +25,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 ## [2004 Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
 
 [![Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh](https://upload.wikimedia.org/wikipedia/commons/d/d8/US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra%2C_Indonesia.jpg)](https://commons.wikimedia.org/wiki/File:US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra,_Indonesia.jpg)
-[Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh](https://commons.wikimedia.org/wiki/File:US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra,_Indonesia.jpg) (Rebecca J. Moat, [public domain](https://en.wikipedia.org/wiki/Public_domain))
+[Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh](https://commons.wikimedia.org/wiki/File:US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra,_Indonesia.jpg) (by Rebecca J. Moat, [public domain](https://en.wikipedia.org/wiki/Public_domain))
 
 * [paper on mass fatality management](https://doi.org/10.1371/journal.pmed.0030195)
   - from the editor's summary:
@@ -35,7 +35,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 ## [Global spread of H5N1](https://en.wikipedia.org/wiki/Global_spread_of_H5N1)
 
 [![Global spread of H5N1](https://upload.wikimedia.org/wikipedia/commons/f/f2/H5N1_Global_Spread.png)](https://commons.wikimedia.org/wiki/File:H5N1_Global_Spread.png)
-[Map of the global spread of H5N1 in 2005](https://commons.wikimedia.org/wiki/File:H5N1_Global_Spread.png) (Zuanzuanfuwa, [public domain](https://en.wikipedia.org/wiki/Public_domain)) 
+[Map of the global spread of H5N1 in 2005](https://commons.wikimedia.org/wiki/File:H5N1_Global_Spread.png) (by Zuanzuanfuwa, [public domain](https://en.wikipedia.org/wiki/Public_domain)) 
 
 * Global Initiative on Sharing Avian Influenza Data (GISAID)
   * [paper](http://doi.org/10.1038/442981a)
@@ -46,7 +46,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 ## [Hurricane Katrina (2005)](https://en.wikipedia.org/wiki/Hurricane_Katrina)
 
 [![New Orleans flooded by Hurricane Katrina](https://upload.wikimedia.org/wikipedia/commons/3/31/FEMA_-_17774_-_Photograph_by_Jocelyn_Augustino_taken_on_09-07-2005_in_Louisiana.jpg)](https://commons.wikimedia.org/wiki/File:FEMA_-_17774_-_Photograph_by_Jocelyn_Augustino_taken_on_09-07-2005_in_Louisiana.jpg)
-[New Orleans flooded by Hurricane Katrina](https://commons.wikimedia.org/wiki/File:FEMA_-_17774_-_Photograph_by_Jocelyn_Augustino_taken_on_09-07-2005_in_Louisiana.jpg) (Jocelyn Augustino, [public domain](https://en.wikipedia.org/wiki/Public_domain))
+[New Orleans flooded by Hurricane Katrina](https://commons.wikimedia.org/wiki/File:FEMA_-_17774_-_Photograph_by_Jocelyn_Augustino_taken_on_09-07-2005_in_Louisiana.jpg) (by Jocelyn Augustino, [public domain](https://en.wikipedia.org/wiki/Public_domain))
 
  * [Map of deaths](https://commons.wikimedia.org/wiki/File:New-Orleans-deaths.jpg)
  * ["Open data matters most when the stakes are high"](https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9#.6fhghgjqe)
@@ -54,14 +54,14 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 ## [2009 H1N1 pandemic](https://en.wikipedia.org/wiki/2009_flu_pandemic)
 
 [![Map of H1N1 cases](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/H1N1_map_by_confirmed_cases.svg/2000px-H1N1_map_by_confirmed_cases.svg.png)](https://commons.wikimedia.org/wiki/File:H1N1_map_by_confirmed_cases.svg)
-[Map of H1N1 cases](https://commons.wikimedia.org/wiki/File:H1N1_map_by_confirmed_cases.svg) ([HotWikiBR](https://commons.wikimedia.org/wiki/User:HotWikiBR), [public domain](https://en.wikipedia.org/wiki/Public_domain))
+[Map of H1N1 cases](https://commons.wikimedia.org/wiki/File:H1N1_map_by_confirmed_cases.svg) (by [HotWikiBR](https://commons.wikimedia.org/wiki/User:HotWikiBR), [public domain](https://en.wikipedia.org/wiki/Public_domain))
 
 * [PLOS Currents: Influenza was started](https://web.archive.org/web/20101119091951/https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
 
 ## [2010 Haiti earthquake](https://en.wikipedia.org/wiki/2010_Haiti_earthquake)
 
 [![OpenStreetMap of Port-Au-Prince and Carrefour](https://upload.wikimedia.org/wikipedia/commons/3/37/Port-Au-Prince_and_Carrefour_map.png)](https://commons.wikimedia.org/wiki/File:Port-Au-Prince_and_Carrefour_map.png)
-[OpenStreetMap of Port-Au-Prince and Carrefour](https://commons.wikimedia.org/wiki/File:Port-Au-Prince_and_Carrefour_map.png) ([OpenStreetMap](https://www.openstreetmap.org/#map=13/18.5456/-72.3526), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en))
+[OpenStreetMap of Port-Au-Prince and Carrefour](https://commons.wikimedia.org/wiki/File:Port-Au-Prince_and_Carrefour_map.png) (by [OpenStreetMap](https://www.openstreetmap.org/#map=13/18.5456/-72.3526), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en))
 
 * [OpenStreetMap response](http://blog.okfn.org/2010/01/15/open-street-map-community-responds-to-haiti-crisis/)
 * [Crisis camp](https://en.wikipedia.org/wiki/Crisis_camp)
@@ -80,14 +80,19 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 
 [![Deaths and missing persons by prefecture from 2011 Tohoku Earthquake](https://upload.wikimedia.org/wikipedia/commons/0/00/Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png)](https://commons.wikimedia.org/wiki/File:Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png)
 
-[Deaths and missing persons by prefecture from 2011 Tohoku Earthquake](https://commons.wikimedia.org/wiki/File:Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png) (mti,InoueKeisuke,CES1596, [public domain](https://creativecommons.org/publicdomain/zero/1.0/deed.en))
+[Deaths and missing persons by prefecture from 2011 Tohoku Earthquake](https://commons.wikimedia.org/wiki/File:Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png) (by mti,InoueKeisuke,CES1596, [public domain](https://creativecommons.org/publicdomain/zero/1.0/deed.en))
 
 * [OpenStreetMap coordination page](http://wiki.openstreetmap.org/wiki/2011_Sendai_earthquake_and_tsunami)
 * [Lots of people missing](https://www.dawn.com/news/617265)
-  - dedicated site [sinsai.info](http://www.sinsai.info/) set up by OpenStreetMap Japan using [Ushahidi](https://www.ushahidi.com/)
+  - website [sinsai.info](http://www.sinsai.info/) set up by OpenStreetMap Japan using [Ushahidi](https://www.ushahidi.com/)
     - [early version](https://web.archive.org/web/20110331222304/http://www.sinsai.info/ushahidi/)
       - [rough translation](https://translate.google.com/translate?hl=en&sl=ja&tl=en&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110331222304%2Fhttp%3A%2F%2Fwww.sinsai.info%2Fushahidi%2F)
+      - [explanation](https://web.archive.org/web/20180226065430/https://dailycrowdsource.com/content/crowdsourcing/425-crowdsourcing-japans-earthquake-and-tsunami-survivors)
+      - > The dedicated site sinsai.info/ushahidi was established within two hours of the earthquake, to help search for survivors and provide vital information of safe spots and danger zones.
+      - > The site established by Japanese volunteers working with the Fletcher School at Tufts University, was already under construction in anticipation of an earthquake hitting Japan. The site enables anyone with a mobile phone or smartphone to post details of any survivors in difficult to reach areas and of any unsafe areas which is then relayed to rescue operations. In turn the site also posts easily accessible information on the nearest emergency services stations as well as locations of clean water supplies and food stores.
 * [saveMLAK](https://en.wikipedia.org/wiki/SaveMLAK)
+  - [website](http://www.savemlak.jp/)
+    - [rough translation](http://translate.google.com/translate?sl=ja&tl=en&twu=1&u=//savemlak.jp/wiki/saveMLAK)
 * [Geigermap](http://japan.failedrobot.com/)
   - [new address](http://gmcmap.com/)
   - press coverage
@@ -99,8 +104,9 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 ## [2011 E. coli O104:H4 outbreak](https://en.wikipedia.org/wiki/2011_Germany_E._coli_O104:H4_outbreak)
 
 ![EHEC outbreak stats](https://upload.wikimedia.org/wikipedia/en/f/f8/Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png)
-* [EHEC outbreak stats](https://en.wikipedia.org/wiki/File:Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png) by [Pozos](https://commons.wikimedia.org/wiki/User:Pozos), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+* [EHEC outbreak stats](https://en.wikipedia.org/wiki/File:Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png) (by [Pozos](https://commons.wikimedia.org/wiki/User:Pozos), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/))
 * [crowdsourced genome analysis via GitHub](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
+ - [version history](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki/Home/_history?page=6)
 
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
 
