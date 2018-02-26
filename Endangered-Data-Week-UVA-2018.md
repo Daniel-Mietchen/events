@@ -195,12 +195,12 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Zika virus: Epidemiology, current phobia and preparedness for upcoming mass gatherings, with examples from World Olympics and Pilgrimage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017074/)
   
 [![Aedes aegypti female feeding on human blood](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aedes_aegypti_CDC08.tif/lossy-page1-2761px-Aedes_aegypti_CDC08.tif.jpg)](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif)
-[*Aedes aegypti* female feeding on human blood](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif) (CDC, [public domain](https://en.wikipedia.org/wiki/Public_domain))
+[*Aedes aegypti* female feeding on human blood](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif) (CDC, [public domain](https://en.wikipedia.org/wiki/Public_domain)) These mosquitos that can transmit multiple viruses, including the Zika virus.
 
 [![Pool on an abandoned property](https://upload.wikimedia.org/wikipedia/commons/2/2f/Penn_Hills_Resort_Pool.JPG)](https://commons.wikimedia.org/wiki/File:Penn_Hills_Resort_Pool.JPG)
 [Pool on an abandoned property](https://commons.wikimedia.org/wiki/File:Penn_Hills_Resort_Pool.JPG) (Idamantium, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
-* Vacant properties have been suggested to be breeding grounds for disease vectors, e.g. for the *Aedes aegypti* mosquitos that can transmit multiple viruses, including the Zika virus.
+* Vacant properties have been suggested to be breeding grounds for disease vectors, e.g. for *Aedes aegypti* 
   * [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak) ([follow-up post](http://scholar.harvard.edu/jonjay/blog/latest-miami-zika-outbreak-hits-another-high-vacancy-neighborhood))
     - uses "data collected by the U.S. Postal Service" to assess vacant properties.
 * Such data correlates with poverty and [housing prices](https://moqri.carto.com/builder/8da35c55-33e4-4f7e-a844-e62ab3b3fe85/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B29.660534828853223%2C-82.40758895874025%5D%2C%22sw%22%3A%5B29.710568586884975%2C-82.32999801635744%5D%2C%22center%22%3A%5B29.685554821241087%2C-82.36879348754884%5D%2C%22zoom%22%3A14%7D%2C%22widgets%22%3A%7B%221c26edd5-7145-4747-a7a6-8df4893a201b%22%3A%7B%22normalized%22%3Atrue%2C%22max%22%3A331200%2C%22zoomed%22%3Atrue%7D%2C%22e85d9e05-cad3-41e4-9393-7d6150b17743%22%3A%7B%22normalized%22%3Atrue%7D%7D%7D), which could thus be another source information.
