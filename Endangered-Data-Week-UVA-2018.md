@@ -56,7 +56,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 [![Map of H1N1 cases](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/H1N1_map_by_confirmed_cases.svg/2000px-H1N1_map_by_confirmed_cases.svg.png)](https://commons.wikimedia.org/wiki/File:H1N1_map_by_confirmed_cases.svg)
 [Map of H1N1 cases](https://commons.wikimedia.org/wiki/File:H1N1_map_by_confirmed_cases.svg) ([HotWikiBR](https://commons.wikimedia.org/wiki/User:HotWikiBR), [public domain](https://en.wikipedia.org/wiki/Public_domain))
 
-* [PLOS Currents: Influenza was started](https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
+* [PLOS Currents: Influenza was started](https://web.archive.org/web/20101119091951/https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
 
 ## [2010 Haiti earthquake](https://en.wikipedia.org/wiki/2010_Haiti_earthquake)
 
@@ -66,6 +66,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 * [OpenStreetMap response](http://blog.okfn.org/2010/01/15/open-street-map-community-responds-to-haiti-crisis/)
 * [Crisis camp](https://en.wikipedia.org/wiki/Crisis_camp)
 * [Random Hacks of Kindness](https://en.wikipedia.org/wiki/Random_Hacks_of_Kindness)
+  - [website](https://web.archive.org/web/20140925072410/http://www.rhok.org:80/)
 
 * [Cholera Epidemics of the Past Offer New Insights Into an Old Enemy](https://doi.org/10.1093/infdis/jix602)
   - > Mathematical modeling of the spread and health impact of cholera is a key effort to guide policy makers and intervention planners about the projected impact of interventions, such as vaccinations, in contemporary outbreaks [5–7].
@@ -81,20 +82,22 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 
 [Deaths and missing persons by prefecture from 2011 Tohoku Earthquake](https://commons.wikimedia.org/wiki/File:Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png) (mti,InoueKeisuke,CES1596, [public domain](https://creativecommons.org/publicdomain/zero/1.0/deed.en))
 
-* OpenStreetMap
-   * [coordination page](http://wiki.openstreetmap.org/wiki/2011_Sendai_earthquake_and_tsunami)
-   * [sinsai.info](http://www.sinsai.info/)
-    * run by OpenStreetMap Japan using [Ushahidi](https://www.ushahidi.com/)
-    [similar story from Tohoku tsunami](https://www.dawn.com/news/617265))
+* [OpenStreetMap coordination page](http://wiki.openstreetmap.org/wiki/2011_Sendai_earthquake_and_tsunami)
+* [Lots of people missing](https://www.dawn.com/news/617265)
+  - dedicated site [sinsai.info](http://www.sinsai.info/) set up by OpenStreetMap Japan using [Ushahidi](https://www.ushahidi.com/)
+    - [early version](https://web.archive.org/web/20110331222304/http://www.sinsai.info/ushahidi/)
+      - [rough translation](https://translate.google.com/translate?hl=en&sl=ja&tl=en&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110331222304%2Fhttp%3A%2F%2Fwww.sinsai.info%2Fushahidi%2F)
 * [saveMLAK](https://en.wikipedia.org/wiki/SaveMLAK)
 * [Geigermap](http://japan.failedrobot.com/)
   - [new address](http://gmcmap.com/)
-* [Japan’s Nuclear Woes Give Rise to Crowd-Sourced Radiation Maps In Asia and US](http://singularityhub.com/2011/03/24/japans-nuclear-woes-give-rise-to-crowd-sourced-radiation-maps-in-asia-and-us/)
-* [Japan’s Radiation Levels: Real-Time Crowd Sourcing](http://scienceblogs.com/deanscorner/2011/03/21/japans-radiation-levels-real-t/)
-* [Crowdsourcing Japan’s Nuclear Crisis](http://blogs.law.harvard.edu/herdict/2011/03/26/crowdsourcing-japans-nuclear-crisis/)
-* [How Citizen Science Changed the Way Fukushima Radiation is Reported](http://voices.nationalgeographic.com/2016/02/13/how-citizen-science-changed-the-way-fukushima-radiation-is-reported/)
+  - press coverage
+    - [Japan’s Nuclear Woes Give Rise to Crowd-Sourced Radiation Maps In Asia and US](http://singularityhub.com/2011/03/24/japans-nuclear-woes-give-rise-to-crowd-sourced-radiation-maps-in-asia-and-us/)
+    - [Japan’s Radiation Levels: Real-Time Crowd Sourcing](http://scienceblogs.com/deanscorner/2011/03/21/japans-radiation-levels-real-t/)
+    - [Crowdsourcing Japan’s Nuclear Crisis](http://blogs.law.harvard.edu/herdict/2011/03/26/crowdsourcing-japans-nuclear-crisis/)
+    - [How Citizen Science Changed the Way Fukushima Radiation is Reported](http://voices.nationalgeographic.com/2016/02/13/how-citizen-science-changed-the-way-fukushima-radiation-is-reported/)
 
 ## [2011 E. coli O104:H4 outbreak](https://en.wikipedia.org/wiki/2011_Germany_E._coli_O104:H4_outbreak)
+
 ![EHEC outbreak stats](https://upload.wikimedia.org/wikipedia/en/f/f8/Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png)
 * [EHEC outbreak stats](https://en.wikipedia.org/wiki/File:Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png) by [Pozos](https://commons.wikimedia.org/wiki/User:Pozos), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 * [crowdsourced genome analysis via GitHub](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
@@ -130,10 +133,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 ## [Zika virus outbreak](https://en.wikipedia.org/wiki/2015%E2%80%9316_Zika_virus_epidemic)
 
 [![Zika virus cryo-EM structure](https://upload.wikimedia.org/wikipedia/commons/0/05/Zika_virus_cryo-EM_structure.png)](https://commons.wikimedia.org/wiki/File:Zika_virus_cryo-EM_structure.png)
-Zika virus cryo-EM structure
+[Zika virus cryo-EM structure](https://commons.wikimedia.org/wiki/File:Zika_virus_cryo-EM_structure.png) (Starless, [public domain](https://en.wikipedia.org/wiki/Public_domain), based on [open data](https://www.rcsb.org/structure/5IRE))
 
-
-* Well covered in [IMED session "Data Sharing and Ethics of Big Data"](http://imed.isid.org/downloads/FinalProgram.pdf)
 * [Statement on data sharing in public health emergencies](https://wellcome.ac.uk/what-we-do/our-work/statement-data-sharing-public-health-emergencies)
 * [Policy Statement on Data Sharing by the World Health Organization in the Context of Public Health Emergencies](http://www.who.int/ihr/procedures/SPG_data_sharing.pdf)
 * [Public Health Surveillance: A Call to Share Data](http://ianphi.org/news/2016/datasharing.html)
@@ -165,8 +166,8 @@ Aedes aegypti female feeding on human blood
 [![Pool on an abandoned property](https://upload.wikimedia.org/wikipedia/commons/2/2f/Penn_Hills_Resort_Pool.JPG)](https://commons.wikimedia.org/wiki/File:Penn_Hills_Resort_Pool.JPG)
 Pool on an abandoned property ([background](https://github.com/Daniel-Mietchen/ideas/issues/439))
 
-[![Abandoned tyres](https://upload.wikimedia.org/wikipedia/commons/7/72/Autoreifen_Deponie.jpg)](https://commons.wikimedia.org/wiki/File:Autoreifen_Deponie.jpg)
-Abandoned tyres
+[![Abandoned tyres](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Autoreifen_Deponie.jpg/1280px-Autoreifen_Deponie.jpg)](https://commons.wikimedia.org/wiki/File:Autoreifen_Deponie.jpg)
+[Abandoned tyres](https://commons.wikimedia.org/wiki/File:Autoreifen_Deponie.jpg) (Gerd Danigel, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))
 
 ### Using and reusing data
 * [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](http://dx.doi.org/10.12688/f1000research.9110.1)
