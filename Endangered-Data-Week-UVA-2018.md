@@ -149,8 +149,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 [Typhoon Haiyan as seen from the International Space Station](https://commons.wikimedia.org/wiki/File:Typhoon_Haiyan_viewed_from_International_Space_Station.jpg) (by NASA/Karen Nyberg, [public domain](https://en.wikipedia.org/wiki/Public_domain))
 
 * [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
-  * A set of three [poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap
-    - widely used by on-the ground responders
+  * OpenStreetMap-based [poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the typhoon were widely used by on-the ground responders
 
 
 ## [Ebola virus epidemic in West Africa](https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa)
