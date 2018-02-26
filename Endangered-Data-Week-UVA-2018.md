@@ -312,6 +312,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   - [low-quality metadata](https://orcid.org/orcid-search/quick-search/?searchQuery=%20Shweta%20Bansal%20)
   - [global applicability is not a given](http://dx.doi.org/10.12688/wellcomeopenres.12259.1)
   - some potential data (e.g. on physiological adaptations, ecological interactions or chemical compounds) cannot be gathered because of biodiversity loss
+  - [intentional removal](https://www.reuters.com/article/us-usa-trump-epa-climatechange/trump-administration-tells-epa-to-cut-climate-page-from-website-sources-idUSKBN15906G) by those who have control over the data
   - ...
 * Initiatives
   - Technical
