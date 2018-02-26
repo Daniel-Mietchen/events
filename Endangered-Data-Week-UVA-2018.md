@@ -155,9 +155,7 @@ Abandoned tyres
 * [Mapping the global geographic potential of Zika virus spread](http://dx.doi.org/10.1590/0074-02760160149)
 * [Dynamic forecasting of Zika epidemics using Google Trends](http://dx.doi.org/10.1101/076521)
 * many [Zika-themed hackathons](https://twitter.com/search?vertical=default&q=zikahackathon%20OR%20zikahack%20OR%20hackzika%20OR%20%28zika%20AND%20hackathon%29)
-  * [University of Texas at Austin](https://github.com/cloudera-cares-austin/zika-hackathon) 
-  * [IMED 2016 hackathon](https://github.com/Daniel-Mietchen/IMED2016-hackathon)
-    * [Wikidata Q808](https://docs.google.com/presentation/d/1bw34ye3IlD5oVq7rVg3aZ9353bL1ytc5s28rSQ4yn4k/pub)
+  * e.g. [University of Texas at Austin](https://github.com/cloudera-cares-austin/zika-hackathon) 
 
 ## Future?
 * [Make Data Sharing Routine to Prepare for Public Health Emergencies](http://dx.doi.org/10.1371/journal.pmed.1002109)
@@ -181,7 +179,9 @@ Abandoned tyres
 * [Ten simple rules for machine-actionable data management plans](https://doi.org/10.5281/zenodo.1172672)
 * [Tips and Tools for Reaching Limited English Proficient Communities in Emergency Preparedness, Response, and Recovery](https://www.justice.gov/crt/file/885391/download)
 * [Emergency Data Exchange Language (EDXL)](https://en.wikipedia.org/wiki/EDXL)
-* [Ontological issues](https://www.wikidata.org/wiki/Property_talk:P1060#Ontology)
+* Ontological issues
+  - [Pathogen transmission ontology](https://www.wikidata.org/wiki/Property_talk:P1060#Ontology)
+  - compare to [Wikipedia article](https://en.wikipedia.org/wiki/Transmission_(medicine))
 * [Internet In a Box](https://en.wikipedia.org/wiki/Internet-in-a-Box)
 * Link rot: 
   - [Computational Biology Resources Lack Persistence and Usability](https://doi.org/10.1371/journal.pcbi.1000136)
