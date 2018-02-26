@@ -59,6 +59,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 ## [2011 Tōhoku earthquake and tsunami](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami)
 
 [![Deaths and missing persons by prefecture from 2011 Tohoku Earthquake](https://upload.wikimedia.org/wikipedia/commons/0/00/Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png)](https://commons.wikimedia.org/wiki/File:Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png)
+
 [Deaths and missing persons by prefecture from 2011 Tohoku Earthquake](https://commons.wikimedia.org/wiki/File:Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png) (mti,InoueKeisuke,CES1596, [public domain](https://creativecommons.org/publicdomain/zero/1.0/deed.en))
 
 * OpenStreetMap
