@@ -1,6 +1,7 @@
 # Data sharing and public health emergencies
 
-*[About](Endangered-Data-Week-UVA-2018.md#about)・[Abstract](Endangered-Data-Week-UVA-2018.md#abstract)・[Timeline](Endangered-Data-Week-UVA-2018.md#timeline)・[See also](Endangered-Data-Week-UVA-2018.md#see-also)*
+*[About](Endangered-Data-Week-UVA-2018.md#about)・[Abstract](Endangered-Data-Week-UVA-2018.md#abstract)・[Timeline](Endangered-Data-Week-UVA-2018.md#historic-timeline)・[Reusing data](Endangered-Data-Week-UVA-2018.md#reusing-data)・
+[Future?](Endangered-Data-Week-UVA-2018.md#future)・[Endangered Data Week](Endangered-Data-Week-UVA-2018.md#endangered-data-week)・[Epilog](Endangered-Data-Week-UVA-2018.md#epilog)・[See also](Endangered-Data-Week-UVA-2018.md#see-also)*
 
 [![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) (by [NuclearVacuum](https://commons.wikimedia.org/wiki/User:NuclearVacuum) and [Kahusi](https://commons.wikimedia.org/wiki/User:Kahusi), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
@@ -11,16 +12,17 @@ Public health emergencies require profound and swift action at scale with limite
 
 The talk will be given on the basis of [https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md), which will be continuously expanded until the event takes place, and possibly thereafter.
 
-# Timeline
 
+# Historic timeline
 
-[1854: Cholera](Endangered-Data-Week-UVA-2018.md#1854-cholera-london)・[2002: SARS](Endangered-Data-Week-UVA-2018.md#2002-sars-outbreak)・[2004: Indian Ocean earthquake](Endangered-Data-Week-UVA-2018.md#2004-indian-ocean-earthquake-and-tsunami)・[2005: H5N1](Endangered-Data-Week-UVA-2018.md#global-spread-of-h5n1)・[2005: Hurricane Katrina](Endangered-Data-Week-UVA-2018.md#hurricane-katrina-2005)・[2009: H1N1](Endangered-Data-Week-UVA-2018.md#2009-h1n1-pandemic)・[2010: Haiti earthquake](Endangered-Data-Week-UVA-2018.md#2010-haiti-earthquake)・[2011: Tōhoku earthquake](Endangered-Data-Week-UVA-2018.md#2011-t%C5%8Dhoku-earthquake-and-tsunami)・[2011: E. coli O104:H4](Endangered-Data-Week-UVA-2018.md#2011-e-coli-o104h4-outbreak)・[2013: Typhoon Haiyan](Endangered-Data-Week-UVA-2018.md#typhoon-haiyan-2013)・[2015: Ebola](Endangered-Data-Week-UVA-2018.md#ebola-virus-epidemic-in-west-africa)・[2016: Zika](Endangered-Data-Week-UVA-2018.md#zika-virus-outbreak)・[Future?](Endangered-Data-Week-UVA-2018.md#future)
+[1854: Cholera](Endangered-Data-Week-UVA-2018.md#1854-cholera-london)・[2002: SARS](Endangered-Data-Week-UVA-2018.md#2002-sars-outbreak)・[2004: Indian Ocean earthquake](Endangered-Data-Week-UVA-2018.md#2004-indian-ocean-earthquake-and-tsunami)・[2005: H5N1](Endangered-Data-Week-UVA-2018.md#global-spread-of-h5n1)・[2005: Hurricane Katrina](Endangered-Data-Week-UVA-2018.md#hurricane-katrina-2005)・[2009: H1N1](Endangered-Data-Week-UVA-2018.md#2009-h1n1-pandemic)・[2010: Haiti earthquake](Endangered-Data-Week-UVA-2018.md#2010-haiti-earthquake)・[2011: Tōhoku earthquake](Endangered-Data-Week-UVA-2018.md#2011-t%C5%8Dhoku-earthquake-and-tsunami)・[2011: E. coli O104:H4](Endangered-Data-Week-UVA-2018.md#2011-e-coli-o104h4-outbreak)・[2013: Typhoon Haiyan](Endangered-Data-Week-UVA-2018.md#typhoon-haiyan-2013)・[2015: Ebola](Endangered-Data-Week-UVA-2018.md#ebola-virus-epidemic-in-west-africa)・[2016: Zika](Endangered-Data-Week-UVA-2018.md#zika-virus-outbreak)
 
 
 ## [1854: Cholera, London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak)
 ![Map of 1854 Broad Street cholera outbreak](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)
 
 [John Snow](https://en.wikipedia.org/wiki/John_Snow)'s [original map](https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg) of the [1854 Broad Street cholera outbreak in London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak). Cholera cases are highlighted in black, as are water pumps (data available [here](https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map#data)). The [pump on Broad Street](https://en.wikipedia.org/wiki/Soho#Cholera_outbreak) was identified as the one through which the contaiminated water was distributed. Removing its handle then essentially stopped the outbreak, and when the next Cholera outbreak hit London in 1866, sanitary measures had been improved.
+
 
 ## [2002 SARS outbreak](https://en.wikipedia.org/wiki/Timeline_of_the_SARS_outbreak)
 
@@ -34,6 +36,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
     - > Based on their findings, it would be hard to conclude that journal publication was a successful mechanism for rapidly sharing information. 
     - > Whatever the answers may be, it seems clear that before the next public health emergency strikes, the scientific publishing establishment needs to ask itself how it can respond in the way the world needs.
 
+
 ## [2004 Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
 
 [![Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh](https://upload.wikimedia.org/wikipedia/commons/d/d8/US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra%2C_Indonesia.jpg)](https://commons.wikimedia.org/wiki/File:US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra,_Indonesia.jpg)
@@ -43,6 +46,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
   - from the editor's summary:
     - > None of the countries had sufficient refrigerated storage available to store bodies until they could be identified. 
     - > Methods and efficiency of identification varied between and within countries. One hospital in Sri Lanka excelled by systematically photographing all bodies brought in and recording sex, height, and personal effects: 87% of the bodies brought here were identified. But in most areas rates of identification were much lower. It seemed that simple methods of identification were the most useful: photographs taken quickly before the bodies started to decompose, dental records, and personal effects found on the bodies. DNA analysis was only useful for a small number of bodies.
+
 
 ## [Global spread of H5N1](https://en.wikipedia.org/wiki/Global_spread_of_H5N1)
 
@@ -55,6 +59,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
     - > The current level of collection and sharing of data is inadequate, however, given the magnitude of the threat. 
     - > We propose to expand and complement existing efforts with the creation of a global consortium — the Global Initiative on Sharing Avian Influenza Data (GISAID; http://gisaid.org) — that would foster international sharing of avian influenza isolates and data.
 
+
 ## [Hurricane Katrina (2005)](https://en.wikipedia.org/wiki/Hurricane_Katrina)
 
 [![New Orleans flooded by Hurricane Katrina](https://upload.wikimedia.org/wikipedia/commons/3/31/FEMA_-_17774_-_Photograph_by_Jocelyn_Augustino_taken_on_09-07-2005_in_Louisiana.jpg)](https://commons.wikimedia.org/wiki/File:FEMA_-_17774_-_Photograph_by_Jocelyn_Augustino_taken_on_09-07-2005_in_Louisiana.jpg)
@@ -64,6 +69,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
  * [Map of deaths](https://commons.wikimedia.org/wiki/File:New-Orleans-deaths.jpg)
  * ["Open data matters most when the stakes are high"](https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9#.6fhghgjqe)
  
+ 
 ## [2009 H1N1 pandemic](https://en.wikipedia.org/wiki/2009_flu_pandemic)
 
 [![Map of H1N1 cases](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/H1N1_map_by_confirmed_cases.svg/2000px-H1N1_map_by_confirmed_cases.svg.png)](https://commons.wikimedia.org/wiki/File:H1N1_map_by_confirmed_cases.svg)
@@ -71,6 +77,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 
 * [PLOS Currents: Influenza was started](https://web.archive.org/web/20101119091951/https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
 * [The ethics of sharing preliminary research findings during public health emergencies: a case study from the 2009 influenza pandemic](https://doi.org/10.2807/1560-7917.ES2014.19.24.20831)
+
 
 ## [2010 Haiti earthquake](https://en.wikipedia.org/wiki/2010_Haiti_earthquake)
 
@@ -101,6 +108,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
     - (iv) funders and employers of researchers will consider publication of well managed data sets as an important indicator of success in research, and will reward researchers professionally for sharing data; and 
     - (v) all planned research will budget and be funded to manage data professionally to a quality adequate for archiving and sharing.
 
+
 ## [2011 Tōhoku earthquake and tsunami](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami)
 
 [![Deaths and missing persons by prefecture from 2011 Tohoku Earthquake](https://upload.wikimedia.org/wikipedia/commons/0/00/Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png)](https://commons.wikimedia.org/wiki/File:Deaths_and_missing_persons_by_prefecture_from_2011_Tohoku_Earthquake.png)
@@ -126,12 +134,14 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
     - [Crowdsourcing Japan’s Nuclear Crisis](http://blogs.law.harvard.edu/herdict/2011/03/26/crowdsourcing-japans-nuclear-crisis/)
     - [How Citizen Science Changed the Way Fukushima Radiation is Reported](http://voices.nationalgeographic.com/2016/02/13/how-citizen-science-changed-the-way-fukushima-radiation-is-reported/)
 
+
 ## [2011 E. coli O104:H4 outbreak](https://en.wikipedia.org/wiki/2011_Germany_E._coli_O104:H4_outbreak)
 
 ![EHEC outbreak stats](https://upload.wikimedia.org/wikipedia/en/f/f8/Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png)
 * [EHEC outbreak stats](https://en.wikipedia.org/wiki/File:Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png) (by [Pozos](https://commons.wikimedia.org/wiki/User:Pozos), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/))
 * [crowdsourced genome analysis via GitHub](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
   - [version history](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki/Home/_history?page=6)
+
 
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
 
@@ -141,6 +151,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 * [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
   * A set of three [poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap
     - widely used by on-the ground responders
+
 
 ## [Ebola virus epidemic in West Africa](https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa)
 
@@ -174,6 +185,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   - [WHO: Developing Global Norms for Sharing Data and Results during Public Health Emergencies](http://www.who.int/medicines/ebola-treatment/data-sharing_phe/en/)
   - [Ebola tracking](http://ebolatracking.org/)
   - [HealthMap](http://www.healthmap.org/ebola/#timeline)
+
 
 ## [Zika virus outbreak](https://en.wikipedia.org/wiki/2015%E2%80%9316_Zika_virus_epidemic)
 
@@ -236,6 +248,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * [Final Rule for FDAAA 801 and NIH Policy on Clinical Trial Reporting](https://www.nih.gov/news-events/news-releases/hhs-take-steps-provide-more-information-about-clinical-trials-public)
   * [PCORI consultation on their data sharing policy](https://via.hypothes.is/http://www.pcori.org/sites/default/files/PCORI-Data-Access-Data-Sharing-DRAFT-for-Public-Comment-October-2016.pdf)
 
+
 ## Reusing data
 * Zika data reuse
   - [Country-level surveillance data aggregated by CDC](https://github.com/cdcepi/zika)
@@ -252,13 +265,15 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * many [Zika-themed hackathons](https://twitter.com/search?vertical=default&q=zikahackathon%20OR%20zikahack%20OR%20hackzika%20OR%20%28zika%20AND%20hackathon%29)
   * e.g. [University of Texas at Austin](https://github.com/cloudera-cares-austin/zika-hackathon) 
 
-## Data modeling
+
+### Data modeling
 
 * [Emergency Data Exchange Language (EDXL)](https://en.wikipedia.org/wiki/EDXL)
 * Ontological issues
   - [Pathogen transmission ontology](https://www.wikidata.org/wiki/Property_talk:P1060#Ontology)
   - compare to [Wikipedia article](https://en.wikipedia.org/wiki/Transmission_(medicine))
 * [How does Friday 13th compare to other days in terms of probabiity of disaster?](https://twitter.com/generalising/status/942424468525387778)
+
 
 ## Future?
 
@@ -279,7 +294,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Internet In a Box](https://en.wikipedia.org/wiki/Internet-in-a-Box)
 * Your ideas here.
 
-## Connection to Endangered Data Week
+
+## Endangered Data Week
 
 * Problems
   - Link rot 
@@ -305,11 +321,13 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - [Increasing the interaction between Citizen Science and Open Science](https://ecsa.citizen-science.net/blog/citizen-science-open-science-policy-brief-out)
     - [The Global Virome Project](http://www.globalviromeproject.org/)
 
+# Epilog
+
 [![A fire truck being unloaded as part of humanitarian assistance after the 2009 Samoa earthquake and tsunami](https://upload.wikimedia.org/wikipedia/commons/c/c8/Samoa5_%2810718914923%29.jpg)](https://commons.wikimedia.org/wiki/File:Samoa5_(10718914923).jpg)
-[A fire truck being unloaded as part of humanitarian assistance after the 2009 Samoa earthquake and tsunami](https://commons.wikimedia.org/wiki/File:Samoa5_(10718914923).jpg) (Photo by [Australian Department of Foreign Affairs and Trade](https://www.flickr.com/people/106853342@N04), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en))
+[Humanity should continue the great tradition of sharing physical goods and logistics in the case of public health emergencies ...](https://commons.wikimedia.org/wiki/File:Samoa5_(10718914923).jpg) (Photo by [Australian Department of Foreign Affairs and Trade](https://www.flickr.com/people/106853342@N04), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en))
 
 [![The sharing of data and metadata relating to public health emergencies should be routine, not the exception.](https://upload.wikimedia.org/wikipedia/commons/6/65/To_deposit_or_not_to_deposit%2C_that_is_the_question_-_journal.pbio.1001779.g001.png)](https://commons.wikimedia.org/wiki/File:To_deposit_or_not_to_deposit,_that_is_the_question_-_journal.pbio.1001779.g001.png)
-[The sharing of data and metadata relating to public health emergencies should be routine, not the exception.](https://commons.wikimedia.org/wiki/File:To_deposit_or_not_to_deposit,_that_is_the_question_-_journal.pbio.1001779.g001.png)(Illustration by Ainsley Seago, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en))
+[... and the routine sharing of data and metadata relating to public health emergencies should become part of this tradition.](https://commons.wikimedia.org/wiki/File:To_deposit_or_not_to_deposit,_that_is_the_question_-_journal.pbio.1001779.g001.png) (Illustration by Ainsley Seago, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en))
 
 
 # See also
