@@ -1,6 +1,6 @@
 # Data sharing and public health emergencies
 
-*[About](Endangered-Data-Week-UVA-2018.md#about)・[Abstract](Endangered-Data-Week-UVA-2018.md#abstract)・[Historic overview](Endangered-Data-Week-UVA-2018.md#historic-overview)・[See also](Endangered-Data-Week-UVA-2018.md#see-also)*
+*[About](Endangered-Data-Week-UVA-2018.md#about)・[Abstract](Endangered-Data-Week-UVA-2018.md#abstract)・[Timeline](Endangered-Data-Week-UVA-2018.md#timeline)・[See also](Endangered-Data-Week-UVA-2018.md#see-also)*
 
 [![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) (NuclearVacuum and kahusi, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
@@ -11,7 +11,7 @@ Public health emergencies require profound and swift action at scale with limite
 
 The talk will be given on the basis of [https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md), which will be continuously expanded until the event takes place, and possibly thereafter.
 
-# Historic overview
+# Timeline
 
 [1854: Cholera](Endangered-Data-Week-UVA-2018.md#1854-cholera-london)・[2005: H5N1](Endangered-Data-Week-UVA-2018.md#global-spread-of-h5n1-in-2005)・[2005: Hurricane Katrina](Endangered-Data-Week-UVA-2018.md#hurricane-katrina-2005)・[2009: H1N1](Endangered-Data-Week-UVA-2018.md#2009-h1n1-pandemic)・[2010: Haiti earthquake](Endangered-Data-Week-UVA-2018.md#2010-haiti-earthquake)・[2011: Tōhoku earthquake](Endangered-Data-Week-UVA-2018.md#2011-t%C5%8Dhoku-earthquake-and-tsunami)・[2011: E. coli O104:H4](Endangered-Data-Week-UVA-2018.md#2011-e-coli-o104h4-outbreak)・[2013: Typhoon Haiyan](Endangered-Data-Week-UVA-2018.md#typhoon-haiyan-2013)・[2015: Ebola](Endangered-Data-Week-UVA-2018.md#ebola-virus-epidemic-in-west-africa)・[2016: Zika](Endangered-Data-Week-UVA-2018.md#zika-virus-outbreak)・[Future?](Endangered-Data-Week-UVA-2018.md#future)
 
