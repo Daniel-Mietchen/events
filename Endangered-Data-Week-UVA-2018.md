@@ -157,8 +157,8 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 [![Ebola Virus particles](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ebola_Virus_Particles_%288%29.jpg/1023px-Ebola_Virus_Particles_%288%29.jpg)](https://commons.wikimedia.org/wiki/File:Ebola_Virus_Particles_(8).jpg)
 [Ebola Virus particles](https://commons.wikimedia.org/wiki/File:Ebola_Virus_Particles_(8).jpg) (NIAID, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en))
 
-[![Ebola: safe burial](https://c2.staticflickr.com/8/7575/15573264517_4e40ff4b16_b.jpg)](https://www.flickr.com/photos/89075068@N07/15573264517)
-[Ebola: safe burial](https://www.flickr.com/photos/89075068@N07/15573264517) (CDC, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en))
+[![Ebola: safe burial](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ebola_illustration-_safe_burial_%2815573264517%29.jpg/1280px-Ebola_illustration-_safe_burial_%2815573264517%29.jpg)](https://commons.wikimedia.org/wiki/File:Ebola_illustration-_safe_burial_(15573264517).jpg)
+[Ebola: safe burial](https://commons.wikimedia.org/wiki/File:Ebola_illustration-_safe_burial_(15573264517).jpg) (CDC, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en))
 
 * Epidemiology
   * [Ebola outbreak maps](https://commons.wikimedia.org/wiki/Category:2014_Ebola_outbreak_maps)
