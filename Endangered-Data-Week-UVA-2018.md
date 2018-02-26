@@ -288,7 +288,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - governmental documents
       - ["report from the National Science and Technology Council of the Executive Office of the President"](https://www.huffingtonpost.com/entry/computing-and-the-fight-against-epidemics_us_587fd401e4b0aa1c47ac27d6)
       - [search](https://search.archives.gov/search?query=https%3A%2F%2Fwww.whitehouse.gov%2Fsites%2Fdefault%2Ffiles%2Fmicrosites%2Fostp%2FNSTC%2Ftowards_epidemic_prediction-federal_efforts_and_opportunitie&op=Search&affiliate=obamawhitehouse)
-  - [Data Centers affected by disaster](https://www.geekwire.com/2017/cloud-data-center-providers-dealing-hurricane-harvey/)]
+  - [Data Centers affected by disaster](https://www.geekwire.com/2017/cloud-data-center-providers-dealing-hurricane-harvey/)
   - [low-quality metadata](https://orcid.org/orcid-search/quick-search/?searchQuery=%20Shweta%20Bansal%20)
   - [global applicability is not a given](http://dx.doi.org/10.12688/wellcomeopenres.12259.1)
   - some potential data (e.g. on physiological adaptations, ecological interactions or chemical compounds) cannot be gathered because of biodiversity loss
