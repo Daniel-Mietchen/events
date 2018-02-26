@@ -13,7 +13,8 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 
 # Timeline
 
-[1854: Cholera](Endangered-Data-Week-UVA-2018.md#1854-cholera-london)・[2005: H5N1](Endangered-Data-Week-UVA-2018.md#global-spread-of-h5n1)・[2005: Hurricane Katrina](Endangered-Data-Week-UVA-2018.md#hurricane-katrina-2005)・[2009: H1N1](Endangered-Data-Week-UVA-2018.md#2009-h1n1-pandemic)・[2010: Haiti earthquake](Endangered-Data-Week-UVA-2018.md#2010-haiti-earthquake)・[2011: Tōhoku earthquake](Endangered-Data-Week-UVA-2018.md#2011-t%C5%8Dhoku-earthquake-and-tsunami)・[2011: E. coli O104:H4](Endangered-Data-Week-UVA-2018.md#2011-e-coli-o104h4-outbreak)・[2013: Typhoon Haiyan](Endangered-Data-Week-UVA-2018.md#typhoon-haiyan-2013)・[2015: Ebola](Endangered-Data-Week-UVA-2018.md#ebola-virus-epidemic-in-west-africa)・[2016: Zika](Endangered-Data-Week-UVA-2018.md#zika-virus-outbreak)・[Future?](Endangered-Data-Week-UVA-2018.md#future)
+
+[1854: Cholera](Endangered-Data-Week-UVA-2018.md#1854-cholera-london)・[2004: Indian Ocean earthquake and tsunami](Endangered-Data-Week-UVA-2018.md#2004-indian-ocean-earthquake-and-tsunami)・[2005: H5N1](Endangered-Data-Week-UVA-2018.md#global-spread-of-h5n1)・[2005: Hurricane Katrina](Endangered-Data-Week-UVA-2018.md#hurricane-katrina-2005)・[2009: H1N1](Endangered-Data-Week-UVA-2018.md#2009-h1n1-pandemic)・[2010: Haiti earthquake](Endangered-Data-Week-UVA-2018.md#2010-haiti-earthquake)・[2011: Tōhoku earthquake](Endangered-Data-Week-UVA-2018.md#2011-t%C5%8Dhoku-earthquake-and-tsunami)・[2011: E. coli O104:H4](Endangered-Data-Week-UVA-2018.md#2011-e-coli-o104h4-outbreak)・[2013: Typhoon Haiyan](Endangered-Data-Week-UVA-2018.md#typhoon-haiyan-2013)・[2015: Ebola](Endangered-Data-Week-UVA-2018.md#ebola-virus-epidemic-in-west-africa)・[2016: Zika](Endangered-Data-Week-UVA-2018.md#zika-virus-outbreak)・[Future?](Endangered-Data-Week-UVA-2018.md#future)
 
 
 ## [1854: Cholera, London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak)
@@ -21,10 +22,22 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 
 [John Snow](https://en.wikipedia.org/wiki/John_Snow)'s [original map](https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg) of the [1854 Broad Street cholera outbreak in London](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak). Cholera cases are highlighted in black, as are water pumps (data available [here](https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map#data)). The [pump on Broad Street](https://en.wikipedia.org/wiki/Soho#Cholera_outbreak) was identified as the one through which the contaiminated water was distributed. Removing its handle then essentially stopped the outbreak, and when the next Cholera outbreak hit London in 1866, sanitary measures had been improved.
 
+* Danish data: [Cholera Epidemics of the Past Offer New Insights Into an Old Enemy](https://doi.org/10.1093/infdis/jix602)
+
+## [2004 Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
+
+[![Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh](https://upload.wikimedia.org/wikipedia/commons/d/d8/US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra%2C_Indonesia.jpg)](https://commons.wikimedia.org/wiki/File:US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra,_Indonesia.jpg)
+[Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh](https://commons.wikimedia.org/wiki/File:US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra,_Indonesia.jpg) (Rebecca J. Moat, [public domain](https://en.wikipedia.org/wiki/Public_domain))
+
+* [paper on mass fatality management](https://doi.org/10.1371/journal.pmed.0030195)
+  - from the editor's summary:
+    - > None of the countries had sufficient refrigerated storage available to store bodies until they could be identified. 
+    - > Methods and efficiency of identification varied between and within countries. One hospital in Sri Lanka excelled by systematically photographing all bodies brought in and recording sex, height, and personal effects: 87% of the bodies brought here were identified. But in most areas rates of identification were much lower. It seemed that simple methods of identification were the most useful: photographs taken quickly before the bodies started to decompose, dental records, and personal effects found on the bodies. DNA analysis was only useful for a small number of bodies.
+
 ## [Global spread of H5N1](https://en.wikipedia.org/wiki/Global_spread_of_H5N1)
 
 [![Global spread of H5N1](https://upload.wikimedia.org/wikipedia/commons/f/f2/H5N1_Global_Spread.png)](https://commons.wikimedia.org/wiki/File:H5N1_Global_Spread.png)
-[Map of the global spread of H5N1](https://commons.wikimedia.org/wiki/File:H5N1_Global_Spread.png) (Zuanzuanfuwa, [public domain](https://en.wikipedia.org/wiki/Public_domain)) 
+[Map of the global spread of H5N1 in 2005](https://commons.wikimedia.org/wiki/File:H5N1_Global_Spread.png) (Zuanzuanfuwa, [public domain](https://en.wikipedia.org/wiki/Public_domain)) 
 
 * Global Initiative on Sharing Avian Influenza Data (GISAID)
   * [paper](http://doi.org/10.1038/442981a)
@@ -66,6 +79,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
    * [coordination page](http://wiki.openstreetmap.org/wiki/2011_Sendai_earthquake_and_tsunami)
    * [sinsai.info](http://www.sinsai.info/)
     * run by OpenStreetMap Japan using [Ushahidi](https://www.ushahidi.com/)
+    [similar story from Tohoku tsunami](https://www.dawn.com/news/617265))
 * [saveMLAK](https://en.wikipedia.org/wiki/SaveMLAK)
 * [Geigermap](http://japan.failedrobot.com/)
   - [new address](http://gmcmap.com/)
@@ -172,7 +186,6 @@ Abandoned tyres
 
 *In this section, I am collecting materials that may become useful for the talk. It is likely to be significantly rearranged until the time of the talk.*
 
-* Danish data: [Cholera Epidemics of the Past Offer New Insights Into an Old Enemy](https://doi.org/10.1093/infdis/jix602)
 * [Big Data for Infectious Disease Surveillance and Modeling](https://doi.org/10.1093/infdis/jiw400)
 * [Zika virus: Epidemiology, current phobia and preparedness for upcoming mass gatherings, with examples from World Olympics and Pilgrimage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017074/)
 * [Template:Zika](https://www.wikidata.org/wiki/Template:Zika)
@@ -214,9 +227,6 @@ Abandoned tyres
 # Images
 
 *In this section, I am collecting potential illustrations for the talk. Click through for licensing information.*
-
-[![Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh](https://upload.wikimedia.org/wikipedia/commons/d/d8/US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra%2C_Indonesia.jpg)](https://commons.wikimedia.org/wiki/File:US_Navy_050301-N-8629M-498_Flyers_with_information_about_missing_persons_line_the_walls_outside_Tentera_Nasional_Indonesia_Military_Hospital_in_Banda_Aceh_on_the_island_of_Sumatra,_Indonesia.jpg)
-Flyers with information about missing persons line the walls outside Tentera Nasional Indonesia Military Hospital in Banda Aceh ([similar story from Tohoku tsunami](https://www.dawn.com/news/617265))
 
 [![A fire truck being unloaded as part of humanitarian assistance after the 2009 Samoa earthquake and tsunami](https://upload.wikimedia.org/wikipedia/commons/c/c8/Samoa5_%2810718914923%29.jpg)](https://commons.wikimedia.org/wiki/File:Samoa5_(10718914923).jpg)
 A fire truck being unloaded as part of humanitarian assistance after the 2009 Samoa earthquake and tsunami
