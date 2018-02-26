@@ -340,6 +340,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 
 # See also
 
+* [Data sharing in public health emergencies: A study of current policies, practices and infrastructure supporting the sharing of data to prevent and respond to epidemic and pandemic threats](https://doi.org/10.6084/m9.figshare.5897608.v1) &mdash; a paper that I was [notified](https://twitter.com/ElizabethPisani/status/968259461608562690) of in response to a tweet about this talk. 
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) &mdash; a presentation for [SciDataCon 2016](http://www.scidatacon.org/2016/)
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
 * [More details on sharing in response to public health emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
