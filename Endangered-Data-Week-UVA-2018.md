@@ -2,7 +2,7 @@
 
 *[About](Endangered-Data-Week-UVA-2018.md#about)・[Abstract](Endangered-Data-Week-UVA-2018.md#abstract)・[Timeline](Endangered-Data-Week-UVA-2018.md#timeline)・[See also](Endangered-Data-Week-UVA-2018.md#see-also)*
 
-[![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) (NuclearVacuum and kahusi, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
+[![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) ([NuclearVacuum](https://commons.wikimedia.org/wiki/User:NuclearVacuum) and [Kahusi](https://commons.wikimedia.org/wiki/User:Kahusi), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
 
 # Abstract
@@ -34,7 +34,7 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 ## [Hurricane Katrina (2005)](https://en.wikipedia.org/wiki/Hurricane_Katrina)
 
 [![New Orleans flooded by Hurricane Katrina](https://upload.wikimedia.org/wikipedia/commons/3/31/FEMA_-_17774_-_Photograph_by_Jocelyn_Augustino_taken_on_09-07-2005_in_Louisiana.jpg)](https://commons.wikimedia.org/wiki/File:FEMA_-_17774_-_Photograph_by_Jocelyn_Augustino_taken_on_09-07-2005_in_Louisiana.jpg)
-New Orleans flooded by Hurricane Katrina
+[New Orleans flooded by Hurricane Katrina](https://commons.wikimedia.org/wiki/File:FEMA_-_17774_-_Photograph_by_Jocelyn_Augustino_taken_on_09-07-2005_in_Louisiana.jpg) (Jocelyn Augustino, [public domain](https://en.wikipedia.org/wiki/Public_domain))
 
  * [Map of deaths](https://commons.wikimedia.org/wiki/File:New-Orleans-deaths.jpg)
  * ["Open data matters most when the stakes are high"](https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9#.6fhghgjqe)
@@ -42,7 +42,7 @@ New Orleans flooded by Hurricane Katrina
 ## [2009 H1N1 pandemic](https://en.wikipedia.org/wiki/2009_flu_pandemic)
 
 [![Map of H1N1 cases](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/H1N1_map_by_confirmed_cases.svg/2000px-H1N1_map_by_confirmed_cases.svg.png)](https://commons.wikimedia.org/wiki/File:H1N1_map_by_confirmed_cases.svg)
-Map of H1N1 cases
+[Map of H1N1 cases](https://commons.wikimedia.org/wiki/File:H1N1_map_by_confirmed_cases.svg) ([HotWikiBR](https://commons.wikimedia.org/wiki/User:HotWikiBR), [public domain](https://en.wikipedia.org/wiki/Public_domain))
 
 * [PLOS Currents: Influenza was started](https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
 
