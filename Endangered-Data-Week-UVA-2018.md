@@ -343,4 +343,4 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 
 # About
 
-This file hosts the basis for a talk to be given on February 26, 2018 at 3pm ET in the Alderman Library, Room 421, University of Virginia. It is a [contribution](http://endangereddataweek.org/events/2018-02-26-data-sharing-in-public-health-energencies/) to a [series of events](http://data.library.virginia.edu/endangered-data-week-2018/) organized at the University of Virginia in the framework of [Endangered Data Week](http://endangereddataweek.org/) 2018. 
+This file hosts the basis for a talk to be given on February 26, 2018 at 3pm ET in the [Alderman Library, Room 421](http://scholarslab.org/locations/alderman-library-room-421/), University of Virginia. It is a [contribution](http://endangereddataweek.org/events/2018-02-26-data-sharing-in-public-health-energencies/) to a [series of events](http://data.library.virginia.edu/endangered-data-week-2018/) organized at the University of Virginia in the framework of [Endangered Data Week](http://endangereddataweek.org/) 2018. 
