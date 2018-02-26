@@ -119,8 +119,13 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 
 ## [Ebola virus epidemic in West Africa](https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa)
 
-[![Ebola Virus particles](https://upload.wikimedia.org/wikipedia/commons/0/0b/Ebola_Virus_Particles_%288%29.jpg)](https://commons.wikimedia.org/wiki/File:Ebola_Virus_Particles_(8).jpg)
+[![Ebola Virus particles](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ebola_Virus_Particles_%288%29.jpg/1023px-Ebola_Virus_Particles_%288%29.jpg)](https://commons.wikimedia.org/wiki/File:Ebola_Virus_Particles_(8).jpg)
 [Ebola Virus particles](https://commons.wikimedia.org/wiki/File:Ebola_Virus_Particles_(8).jpg) (NIAID, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en))
+
+* [Ebola outbreak maps](https://commons.wikimedia.org/wiki/Category:2014_Ebola_outbreak_maps)
+  - [putting names to numbers](https://commons.wikimedia.org/wiki/File:Monument_to_the_victims_of_tsunami_at_Laupahoehoe,_the_Big_Island_of_Hawaii_on_April_1,_1946.JPG)
+* [Ebola phylogeny](https://commons.wikimedia.org/wiki/File:Filovirus_phylogenetic_tree.svg)
+* [Ebola travel restrictions](https://commons.wikimedia.org/wiki/File:Ebola_travel_restrictions.png)
 
 * [Ebola teaches tough lessons about rapid research](http://doi.org/10.1038/521405a)
 * [Data sharing: Make outbreak research open access](http://doi.org/10.1038/518477a)
@@ -145,6 +150,17 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 
 * [Complex interactions between the Zika virus, humans and intermediates](https://www.wikidata.org/wiki/Template:Zika)
 
+* Microcephaly
+  - [WHO Director-General declares Public Health Emergency of International Concern]
+    - > I convened an Emergency Committee, under the International Health Regulations, to gather advice on the severity of the health threat associated with the continuing spread of Zika virus disease in Latin America and the Caribbean. The Committee met today by teleconference.
+    - > The experts agreed that a causal relationship between Zika infection during pregnancy and microcephaly is strongly suspected, though not yet scientifically proven. All agreed on the urgent need to coordinate international efforts to investigate and understand this relationship better.  
+    - > The experts also considered patterns of recent spread and the broad geographical distribution of mosquito species that can transmit the virus. 
+    - > I am now declaring that the recent cluster of microcephaly cases and other neurological disorders reported in Brazil, following a similar cluster in French Polynesia in 2014, constitutes a Public Health Emergency of International Concern.
+    - > The Committee found no public health justification for restrictions on travel or trade to prevent the spread of Zika virus.
+  - [Fetal ultrasound](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4767410/figure/pntd.0004517.g001/)
+  - [MRI findings of microcephaly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3565221/figure/F1/)
+  - [A Possible Link Between Pyriproxyfen and Microcephaly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017074/)
+* [Zika virus: Epidemiology, current phobia and preparedness for upcoming mass gatherings, with examples from World Olympics and Pilgrimage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017074/)
   
 [![Aedes aegypti female feeding on human blood](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aedes_aegypti_CDC08.tif/lossy-page1-2761px-Aedes_aegypti_CDC08.tif.jpg)](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif)
 [*Aedes aegypti* female feeding on human blood](https://commons.wikimedia.org/wiki/File:Aedes_aegypti_CDC08.tif) (CDC, [public domain](https://en.wikipedia.org/wiki/Public_domain))
@@ -158,9 +174,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * Such data correlates with poverty and [housing prices](https://moqri.carto.com/builder/8da35c55-33e4-4f7e-a844-e62ab3b3fe85/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B29.660534828853223%2C-82.40758895874025%5D%2C%22sw%22%3A%5B29.710568586884975%2C-82.32999801635744%5D%2C%22center%22%3A%5B29.685554821241087%2C-82.36879348754884%5D%2C%22zoom%22%3A14%7D%2C%22widgets%22%3A%7B%221c26edd5-7145-4747-a7a6-8df4893a201b%22%3A%7B%22normalized%22%3Atrue%2C%22max%22%3A331200%2C%22zoomed%22%3Atrue%7D%2C%22e85d9e05-cad3-41e4-9393-7d6150b17743%22%3A%7B%22normalized%22%3Atrue%7D%7D%7D), which could thus be another source information.
 
 [![Abandoned tyres](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Autoreifen_Deponie.jpg/1280px-Autoreifen_Deponie.jpg)](https://commons.wikimedia.org/wiki/File:Autoreifen_Deponie.jpg)
-[Abandoned tyres](https://commons.wikimedia.org/wiki/File:Autoreifen_Deponie.jpg) (Gerd Danigel, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))
-* another breeding ground for mosquitos 
-
+[Abandoned tyres &mdash; another breeding ground for mosquitos](https://commons.wikimedia.org/wiki/File:Autoreifen_Deponie.jpg) (Gerd Danigel, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))
 
 * Lots of discussion around data sharing
   * [Statement on data sharing in public health emergencies](https://wellcome.ac.uk/what-we-do/our-work/statement-data-sharing-public-health-emergencies)
@@ -177,6 +191,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * [Nextstrain.org](http://www.nextstrain.org/zika)
   * [Open Zika](https://via.hypothes.is/http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005023)
   * [Zika tracking](http://zikatracking.org/)
+  * [Scholia on Zika virus](https://tools.wmflabs.org/scholia/topic/Q202864)
   * [other open datasets](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Zika#Zika-related_data_sets)
   * [ContentMine: mining PubMed Central for data](http://contentmine.org/)
     * [Workflow for Zika](https://www.youtube.com/watch?v=5lYzOZ2Cv_I)
@@ -190,6 +205,10 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * [PCORI consultation on their data sharing policy](https://via.hypothes.is/http://www.pcori.org/sites/default/files/PCORI-Data-Access-Data-Sharing-DRAFT-for-Public-Comment-October-2016.pdf)
 
 ### Using and reusing data
+* Zika data reuse
+ - [Country-level surveillance data aggregated by CDC](https://github.com/cdcepi/zika)
+   - [Corresponding dashboard](https://github.com/cdcepi/zika)
+     - [Zika_Data2LinkedData](https://github.com/andrawaag/Zika_Data2LinkedData)
 * [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](http://dx.doi.org/10.12688/f1000research.9110.1)
   * [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
   * [Docker image](https://hub.docker.com/r/maayanlab/zika/)
@@ -200,54 +219,41 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Dynamic forecasting of Zika epidemics using Google Trends](http://dx.doi.org/10.1101/076521)
 * many [Zika-themed hackathons](https://twitter.com/search?vertical=default&q=zikahackathon%20OR%20zikahack%20OR%20hackzika%20OR%20%28zika%20AND%20hackathon%29)
   * e.g. [University of Texas at Austin](https://github.com/cloudera-cares-austin/zika-hackathon) 
-
-## Future?
-
-* [Make Data Sharing Routine to Prepare for Public Health Emergencies](http://dx.doi.org/10.1371/journal.pmed.1002109)
-* [Quantifying the global attention to public health threats through Wikipedia pageview data](https://meta.wikimedia.org/wiki/Research:Quantifying_the_global_attention_to_public_health_threats_through_Wikipedia_pageview_data)
-  * [Forecasting the 2013–2014 Influenza Season Using Wikipedia](http://dx.doi.org/10.1371/journal.pcbi.1004239.g001)
-* Your ideas here.
-
-# Notes
-
-*In this section, I am collecting materials that may become useful for the talk. It is likely to be significantly rearranged until the time of the talk.*
-
-* [Big Data for Infectious Disease Surveillance and Modeling](https://doi.org/10.1093/infdis/jiw400)
-* [Zika virus: Epidemiology, current phobia and preparedness for upcoming mass gatherings, with examples from World Olympics and Pilgrimage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017074/)
-* Microcephaly
-  - [Fetal ultrasound](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4767410/figure/pntd.0004517.g001/)
-  - [MRI findings of microcephaly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3565221/figure/F1/)
-  - [A Possible Link Between Pyriproxyfen and Microcephaly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017074/)
-* [The Data Refuge Stories project](http://lovedataweek.org/2018/02/12/the-data-refuge-stories-project/)
-* [Ten simple rules for machine-actionable data management plans](https://doi.org/10.5281/zenodo.1172672)
-* [Tips and Tools for Reaching Limited English Proficient Communities in Emergency Preparedness, Response, and Recovery](https://www.justice.gov/crt/file/885391/download)
-* [Emergency Data Exchange Language (EDXL)](https://en.wikipedia.org/wiki/EDXL)
-* Ontological issues
-  - [Pathogen transmission ontology](https://www.wikidata.org/wiki/Property_talk:P1060#Ontology)
-  - compare to [Wikipedia article](https://en.wikipedia.org/wiki/Transmission_(medicine))
-* [Internet In a Box](https://en.wikipedia.org/wiki/Internet-in-a-Box)
 * Link rot: 
   - [Computational Biology Resources Lack Persistence and Usability](https://doi.org/10.1371/journal.pcbi.1000136)
   - [Digital preservation of epidemic resources](http://web.archive.org/web/20131115124842/https://www.epimarketplace.net/)
   - governmental documents
     - ["report from the National Science and Technology Council of the Executive Office of the President"](https://www.huffingtonpost.com/entry/computing-and-the-fight-against-epidemics_us_587fd401e4b0aa1c47ac27d6)
     - [search](https://search.archives.gov/search?query=https%3A%2F%2Fwww.whitehouse.gov%2Fsites%2Fdefault%2Ffiles%2Fmicrosites%2Fostp%2FNSTC%2Ftowards_epidemic_prediction-federal_efforts_and_opportunitie&op=Search&affiliate=obamawhitehouse)
-* [Scholia on Zika virus](https://tools.wmflabs.org/scholia/topic/Q202864)
-* studentship: ["working with non-literate forest communities in central Africa and seek to enable these vulnerable communities to conduct their own environmental monitoring or mapping"](https://web.archive.org/web/20180225081725/https://www.findaphd.com/search/ProjectDetails.aspx?PJID=87961)
+
+## Future?
+
+* [Make Data Sharing Routine to Prepare for Public Health Emergencies](http://dx.doi.org/10.1371/journal.pmed.1002109)
+* [Big Data for Infectious Disease Surveillance and Modeling](https://doi.org/10.1093/infdis/jiw400)
+* [Quantifying the global attention to public health threats through Wikipedia pageview data](https://meta.wikimedia.org/wiki/Research:Quantifying_the_global_attention_to_public_health_threats_through_Wikipedia_pageview_data)
+  * [Forecasting the 2013–2014 Influenza Season Using Wikipedia](http://dx.doi.org/10.1371/journal.pcbi.1004239.g001)
+* Data Management Plans for entire disease outbreaks and similar public health emergency scenarios
+  - [Ten simple rules for machine-actionable data management plans](https://doi.org/10.5281/zenodo.1172672)
 * Zika forest visit
-* [Wikipedia Emerges as Trusted Internet Source for Ebola Information](https://web.archive.org/web/20141031211802/https://www.nytimes.com/2014/10/27/business/media/wikipedia-is-emerging-as-trusted-internet-source-for-information-on-ebola-.html)
-* [Ebola outbreak maps](https://commons.wikimedia.org/wiki/Category:2014_Ebola_outbreak_maps)
-  - [putting names to numbers](https://commons.wikimedia.org/wiki/File:Monument_to_the_victims_of_tsunami_at_Laupahoehoe,_the_Big_Island_of_Hawaii_on_April_1,_1946.JPG)
-* [Ebola travel restrictions](https://commons.wikimedia.org/wiki/File:Ebola_travel_restrictions.png)
-* [Ebola phylogeny](https://commons.wikimedia.org/wiki/File:Filovirus_phylogenetic_tree.svg)
-* Zika data reuse
- - [Country-level surveillance data aggregated by CDC](https://github.com/cdcepi/zika)
-   - [Corresponding dashboard](https://github.com/cdcepi/zika)
-     - [Zika_Data2LinkedData](https://github.com/andrawaag/Zika_Data2LinkedData)
-* Satellite imagery to help disease surveillance 
+  - studentship: ["working with non-literate forest communities in central Africa and seek to enable these vulnerable communities to conduct their own environmental monitoring or mapping"](https://web.archive.org/web/20180225081725/https://www.findaphd.com/search/ProjectDetails.aspx?PJID=87961)
+* Satellite imagery to help disease surveillance
   - [literature search](https://scholar.google.ch/scholar?as_ylo=2014&q=satellite+surveillance+epidemic)
   - [Fighting Ebola with Data, Satellites and Drones](http://www.defenseone.com/technology/2014/09/fighting-ebola-data-satellites-and-drones/95171/)
   - e.g. [tracking hospital parking lot usage](http://people.cs.vt.edu/naren/papers/06798554-parkinglots.pdf)
+* Your ideas here.
+
+# Notes
+
+*In this section, I am collecting materials that may become useful for the talk. It is likely to be significantly rearranged until the time of the talk.*
+
+* [The Data Refuge Stories project](http://lovedataweek.org/2018/02/12/the-data-refuge-stories-project/)
+* [Tips and Tools for Reaching Limited English Proficient Communities in Emergency Preparedness, Response, and Recovery](https://www.justice.gov/crt/file/885391/download)
+* [Emergency Data Exchange Language (EDXL)](https://en.wikipedia.org/wiki/EDXL)
+* Ontological issues
+  - [Pathogen transmission ontology](https://www.wikidata.org/wiki/Property_talk:P1060#Ontology)
+  - compare to [Wikipedia article](https://en.wikipedia.org/wiki/Transmission_(medicine))
+* [Internet In a Box](https://en.wikipedia.org/wiki/Internet-in-a-Box)
+* [Wikipedia Emerges as Trusted Internet Source for Ebola Information](https://web.archive.org/web/20141031211802/https://www.nytimes.com/2014/10/27/business/media/wikipedia-is-emerging-as-trusted-internet-source-for-information-on-ebola-.html)
 
 # Images
 
