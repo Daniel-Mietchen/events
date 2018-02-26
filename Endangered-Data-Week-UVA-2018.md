@@ -27,7 +27,9 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
 
 * Global Initiative on Sharing Avian Influenza Data (GISAID)
   * [paper](http://doi.org/10.1038/442981a)
-  * [website](http://gisaid.org/)
+   - > to understand better the spread and evolution of the virus, and the determinants of its transmissibility and pathogenicity in humans [..] demands that scientists with different fields of expertise have full access to comprehensive genetic-sequence, clinical and epidemiological data from both animal and human virus isolates.
+   - > The current level of collection and sharing of data is inadequate, however, given the magnitude of the threat. 
+   - > We propose to expand and complement existing efforts with the creation of a global consortium — the Global Initiative on Sharing Avian Influenza Data (GISAID; http://gisaid.org) — that would foster international sharing of avian influenza isolates and data.
 
 ## [Hurricane Katrina (2005)](https://en.wikipedia.org/wiki/Hurricane_Katrina)
 
