@@ -89,6 +89,17 @@ The talk will be given on the basis of [https://github.com/Daniel-Mietchen/event
   - > Time series of daily cholera morbidity and mortality counts by age and sex were obtained from datasets compiled by contemporary physicians in 3 towns and cities in Denmark: Copenhagen and Aalborg in 1853 and Korsør in 1857.
   - > To provide epidemiological context to the outbreaks, we acquired cause-specific mortality data for the surrounding years for Copenhagen. We also obtained age-specific population data for Copenhagen, Aalborg, and Korsør.
 
+* Also in 2010: [Sharing health data: good intentions are not enough](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2878150/)
+  - > As they prepare for careers in science, today’s students doubtless hear the same clichés as we did a generation ago: science advances collaboratively; we reproduce and extend the work of others; we stand on the shoulders of giants. In some fields, such as genomics, these axioms are becoming true. In epidemiology and public health, however, data sharing and collaboration remain more aspirational than real.
+  - > Students embark on a career in health research in the spirit of sharing; they want to help improve the well-being of others. For all the talk of collaboration, they will enter a world in which another axiom dominates: “publish or perish”. That system puts the interests of public health researchers in direct conflict with the interests of public health.
+  - > Genomics has taught us that sharing data with other scientists is a way to add value without costing a lot. It allows the same data to be used to answer new questions that may be relevant far beyond the original study. And it allows for meta-analyses that are free from the distortions introduced when only summary results are available.3,4 We could get far more out of public health research if we followed a similar path, if we squeezed more scientific and policy insights out of data that have already been collected.
+  - > Sailors keeping log books on whaling boats in the 1600s could not have predicted that, centuries later, the data would be an important source of information for climate change scientists.25
+  - > Here we propose several goals to which funders and researchers can jointly aspire and towards which progress can be measured: 
+    - (i) all data of potential public health importance funded by taxpayers or foundations will be appropriately documented and archived in formats accessible to the wider scientific community; 
+    - (ii) all data provided by governments to databases developed by publicly-funded organizations will be freely available to any user, at the level of detail at which it was provided; 
+    - (iii) the publication of a research article in a biomedical journal will be accompanied by the publication of the data set upon which the analysis is based; 
+    - (iv) funders and employers of researchers will consider publication of well managed data sets as an important indicator of success in research, and will reward researchers professionally for sharing data; and 
+    - (v) all planned research will budget and be funded to manage data professionally to a quality adequate for archiving and sharing.
 
 ## [2011 Tōhoku earthquake and tsunami](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami)
 
@@ -172,7 +183,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Complex interactions between the Zika virus, humans and intermediates](https://www.wikidata.org/wiki/Template:Zika)
 
 * Microcephaly
-  - [WHO Director-General declares Public Health Emergency of International Concern]
+  - [WHO Director-General declares Public Health Emergency of International Concern](http://www.who.int/mediacentre/news/statements/2016/emergency-committee-zika-microcephaly/en/)
     - > I convened an Emergency Committee, under the International Health Regulations, to gather advice on the severity of the health threat associated with the continuing spread of Zika virus disease in Latin America and the Caribbean. The Committee met today by teleconference.
     - > The experts agreed that a causal relationship between Zika infection during pregnancy and microcephaly is strongly suspected, though not yet scientifically proven. All agreed on the urgent need to coordinate international efforts to investigate and understand this relationship better.  
     - > The experts also considered patterns of recent spread and the broad geographical distribution of mosquito species that can transmit the virus. 
