@@ -309,7 +309,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - governmental documents
       - ["report from the National Science and Technology Council of the Executive Office of the President"](https://www.huffingtonpost.com/entry/computing-and-the-fight-against-epidemics_us_587fd401e4b0aa1c47ac27d6)
       - [search](https://search.archives.gov/search?query=https%3A%2F%2Fwww.whitehouse.gov%2Fsites%2Fdefault%2Ffiles%2Fmicrosites%2Fostp%2FNSTC%2Ftowards_epidemic_prediction-federal_efforts_and_opportunitie&op=Search&affiliate=obamawhitehouse)
-      - multiple examples highlighted throughout this talk (e.g. i the [Tōhoku earthquake](Endangered-Data-Week-UVA-2018.md#2011-t%C5%8Dhoku-earthquake-and-tsunami) section)
+      - multiple examples highlighted throughout this talk (e.g. in the [Tōhoku earthquake](Endangered-Data-Week-UVA-2018.md#2011-t%C5%8Dhoku-earthquake-and-tsunami) section)
+      - conclusion
+        - > [If you are working on disaster relief in a digital capacity, submit your page(s) for archiving through @internetarchive OFTEN. Link rot is a major issue for disaster-related data projects and archive mitigates the losses.](https://twitter.com/TheAmbericanWay/status/968219717214367744)
   - [Data Centers affected by disaster](https://www.geekwire.com/2017/cloud-data-center-providers-dealing-hurricane-harvey/)
   - [low-quality metadata](https://orcid.org/orcid-search/quick-search/?searchQuery=%20Shweta%20Bansal%20)
   - [global applicability is not a given](http://dx.doi.org/10.12688/wellcomeopenres.12259.1)
@@ -346,7 +348,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
 * [More details on sharing in response to public health emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
 * [Tweets about Endangered Data Week](https://twitter.com/search?vertical=default&q=EndangeredData%20OR%20(endangered%20AND%20data))
-  - > [If you are working on disaster relief in a digital capacity, submit your page(s) for archiving through @internetarchive OFTEN. Link rot is a major issue for disaster-related data projects and archive mitigates the losses.](https://twitter.com/TheAmbericanWay/status/968219717214367744)
+
 
 # About
 
