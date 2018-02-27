@@ -344,6 +344,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) &mdash; a presentation for [SciDataCon 2016](http://www.scidatacon.org/2016/)
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
 * [More details on sharing in response to public health emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
+* [Tweets about Endangered Data Week](https://twitter.com/search?vertical=default&q=EndangeredData%20OR%20(endangered%20AND%20data))
+  - > [If you are working on disaster relief in a digital capacity, submit your page(s) for archiving through @internetarchive Q461 OFTEN. Link rot is a major issue for disaster-related data projects and archive mitigates the losses.](https://twitter.com/TheAmbericanWay/status/968219717214367744)
 
 # About
 
