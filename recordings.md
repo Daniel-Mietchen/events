@@ -8,14 +8,17 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 ## In English
 
-* 2017-11-10, Charlottesville (Virginia): [Open data: central element of an open research ecosystem](https://www.youtube.com/watch?v=6qDEeRsMv7s#t=10m) ([slide](https://github.com/Daniel-Mietchen/events/blob/master/UVA-Datapalooza-2017.md))
-* 2017-10-29, Berlin: [Using Wikidata to make research data FAIR](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/Using_Wikidata_to_make_research_data_FAIR)
-* 2017-10-28, Berlin: 
+* 2018-0312, Berlin, Open Science Barcamp: 
+  - [Scholia - scholarly profiles based on Wikidata](http://www.openscienceradio.org/2018/03/12/osr103-scholia-profiles-based-on-wikidata-oscibar-en/)
+  - [Valid reasons for opting out of sharing openly](http://www.openscienceradio.org/2018/03/13/osr110-opting-out-oscibar-en/)
+* 2017-11-10, Charlottesville (Virginia), Data Palooza: [Open data: central element of an open research ecosystem](https://www.youtube.com/watch?v=6qDEeRsMv7s#t=10m) ([slide](https://github.com/Daniel-Mietchen/events/blob/master/UVA-Datapalooza-2017.md))
+* 2017-10-29, Berlin, WikidataCon: [Using Wikidata to make research data FAIR](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/Using_Wikidata_to_make_research_data_FAIR)
+* 2017-10-28, Berlin, WikidataCon:
   - [The role of Wikidata in emergency response](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/The_role_of_Wikidata_in_emergency_response)
   - [WikiCite: Wikidata as a structured repository of bibliographic data](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/WikiCite:_Wikidata_as_a_structured_repository_of_bibliographic_data)
   - [Expanding classical Wikimedia outreach efforts to include Wikidata](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/Expanding_classical_Wikimedia_outreach_efforts_to_include_Wikidata)
-* 2017-08-17, Potsdam (New York): [Introduction(s) to Wikidata, with a focus on offline usage](https://www.wikidata.org/wiki/User:Daniel_Mietchen/FSCI_2017#Introductions_to_Wikidata)
-* 2017-08-10, Montreal: [Wikimedia response to emergenies](https://commons.wikimedia.org/wiki/File:Wikimania_2017_Daniel_Mietchen_crisis_response.webm) (more like an elevator pitch)
+* 2017-08-17, Potsdam (New York), Offline Wikipedia Hackathon: [Introduction(s) to Wikidata, with a focus on offline usage](https://www.wikidata.org/wiki/User:Daniel_Mietchen/FSCI_2017#Introductions_to_Wikidata)
+* 2017-08-10, Montreal, Wikimania: [Wikimedia response to emergenies](https://commons.wikimedia.org/wiki/File:Wikimania_2017_Daniel_Mietchen_crisis_response.webm) (more like an elevator pitch)
 * 2017-05-23, Vienna: [The Zika corpus on Wikidata](https://www.wikidata.org/wiki/User:Daniel_Mietchen/WikiCite_2017) (see also [this interview on the topic](http://www.openscienceradio.de/2017/05/30/osr084-wikicite-2017-interview-with-daniel-mietchen-en/))
 * 2017-01-26, Barcelona: [Integrating policy and infrastructure in research data management: the perspective of researchers](https://github.com/Daniel-Mietchen/events/blob/master/5th-LEARN-workshop-2017.md)
 * 2015-09-02, London: [Wikimedia and scholarly communication](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015) and [Wikidata for research](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015#Wikidata_for_research)
