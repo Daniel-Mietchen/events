@@ -34,6 +34,8 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2012-07-11, Washington, DC: [Wikimedia as a Platform for Biotechnology Information](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikimania_2012/National_Center_for_Biotechnology_Information)
 * 2012-01-25, Berlin: [Transforming the way we publish research - Farewell to static articles](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Academic_Publishing_in_Europe_2012)
 * 2011-10-22, Mountain View: [Integrating wikis with scholarly workflows](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Open_Science_Summit_2011/Integrating_wikis_with_scholarly_workflows)
+* 2011-08-06, Haifa: [An open-access and open-data policy for projects of the Wikimedia Foundation](https://www.youtube.com/watch?v=ataPi7xmpeE#t=44m15s) ([slides](https://wikimania2011.wikimedia.org/wiki/Submissions/An_open-access_and_open-data_policy_for_projects_of_the_Wikimedia_Foundation))
+* 2011-08-05, Haifa: [Barriers and opportunities for expert participation in Wikipedia: Results from a survey](https://wikimania2011.wikimedia.org/wiki/Submissions/Barriers_and_opportunities_for_expert_participation_in_Wikipedia:_Results_from_a_survey)
 * 2011-01-19, San Diego: [Integrating wikis with scientific workflows](https://www.youtube.com/watch?v=zI8p6Nvbv-g)
 * 2010-08-23, Prague: [Wikis as platforms for scholarly publishing](http://zeeba.tv/wikis-as-platforms-for-scholoarly-publishing/) ([slides](http://en.citizendium.org/wiki/User:Daniel_Mietchen/Talks/COASP_2010))
 * 2007-11-09, Budapest: [The scientist's perspective on evidence based policy making](http://mta.videotorium.hu/hu/recordings/1339/the-scientist-s-perspective-on-evidence-based-policy-making) ([discussion](http://mta.videotorium.hu/hu/recordings/1342/discussion))
@@ -44,7 +46,6 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2015-12-03, Vienna: [Open research, peer review and the role of funders](https://github.com/Daniel-Mietchen/events/blob/master/Open-Science-Jetzt-Vienna-2015.md)
 * 2014-09-15, Vienna: [An introduction to citizen science](https://www.youtube.com/watch?v=LDYEA00VwQs)
 * 2013-09-14, Berlin: [8x8 questions on Open Educational Resources](http://pb21.de/2013/10/8x8-fragen-zu-oer-daniel-mietchen/) (interview) &mdash; see [here](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/World_Open_Educational_Resources_Congress_2012/How_Open_Access_and_Open_Science_can_mutually_fertilize_with_Open_Educational_Resources) for English slides from an OER-focused talk
-
 
 # Recordings with remarks about me
 
