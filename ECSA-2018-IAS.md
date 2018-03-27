@@ -1,6 +1,7 @@
 # About
 
-This file hosts a submission to the European Citizen Science Association (ECSA) [conference](https://www.ecsa-conference.eu/) on 3-5 June 2018 in Geneva. It was submitted by the 21 January 2018 deadline under the "Scientific literacy" theme.
+This file hosts a submission to the European Citizen Science Association (ECSA) [conference](https://www.ecsa-conference.eu/) on 3-5 June 2018 in Geneva. It was submitted by the 21 January 2018 deadline under the "Scientific literacy" theme. On March 27, I was notified by the organizers that the session had been put on a waitlist:
+> For now, we cannot include your contribution with the Title “A framework for co-creating citizen science projects with school students” (ID285) in our programme. However, if any of the slots should become available within the next few weeks we would be happy to contact you again.
 
 # Title
 
