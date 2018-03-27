@@ -2,6 +2,8 @@
 
 This file hosts a submission to the European Citizen Science Association (ECSA) [conference](https://www.ecsa-conference.eu/) on 3-5 June 2018 in Geneva. It was submitted by the 21 January 2018 deadline under the "Empowering (individual) citizens" theme and the subtheme "Contributory, collaborative, co-created and collegiate – How to understand and conceptualize the role of participants in the spectrum of Citizen Science – from bottom-up to top-down? What are the specific challenges for citizens?"
 
+On March 27, I was notified that this session was not to be included in the final program.
+
 # Title
 
 Usability of citizen science projects
