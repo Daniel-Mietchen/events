@@ -14,11 +14,11 @@ Daniel Mietchen
 
 # e-mail-address (please mark corresponding author)
 
-daniel.mietchen[at]virginia.edu
+daniel.mietchen[at]virginia.edu*
 
 # Affiliations
 
-Data Science Institute, University of Virginia
+Data Science Institute, University of Virginia, Charlottesville, VA, USA
 
 # Keywords (max. 5)
 
@@ -37,7 +37,7 @@ Wikidata is a community-curated open knowledgebase in which concepts covered in 
 
 A range of open-source tools is available to interact with Wikidata &mdash; to enter information, curate and query it. One of them is Scholia, a frontend to Wikidata's SPARQL endpoint. Available via https://tools.wmflabs.org/scholia/ , it can be used to explore research publications and how they relate to authors, institutions, funders and other parts of the research ecosystem, as well as to taxa, metabolic networks, or geolocations. Similar Wikidata frontends can be used to browse genomes, software and file formats, or natural heritage sites.
 
-
+# Notes from drafting
 Points to consider including
 - link to session
 - link to biodiversity and ecosystem research
