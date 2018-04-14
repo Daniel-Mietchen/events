@@ -24,6 +24,7 @@ Data Science Institute, University of Virginia, Charlottesville, VA, USA
 
 - Wikidata
 - SPARQL
+- research system
 - visualization
 - bibliometrics
 
