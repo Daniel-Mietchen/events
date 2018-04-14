@@ -54,3 +54,8 @@ Points to consider including
 - SDGs
 - Each of these items has a persistent unique identifier, e.g. Q52105 for 'habitat'. The items are annotated and linked via about 5000 'properties' (likewise with persistent identifiers) that describe relationships between items &mdash; e.g. P171, 'parent taxon' &mdash; or between items and external entities &mdash; e.g. Mount Kilimanjaro (Q7296) has the Smithsonian volcano ID (P1886) of '222150' &mdash; or that express specific values, e.g. that *Antilope cervicapra* (Q183339) has an average gestation period (P3063) of 5-6 months.
 
+# See also 
+
+* [ICEI2018.md](ICEI2018.md)
+* [ICEI2018-citizen-science.md](ICEI2018-citizen-science.md)
+* [Wikimedia projects and citizen science](https://www.wikidata.org/wiki/User:Daniel_Mietchen/ECSA_2018)
