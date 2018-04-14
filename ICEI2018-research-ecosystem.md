@@ -11,14 +11,20 @@ Visualizing the research ecosystem of ecosystem research via Wikidata
 # Name of the authors
 
 Daniel Mietchen
+Finn Årup Nielsen
+Egon Willighagen
 
 # e-mail-address (please mark corresponding author)
 
 daniel.mietchen[at]virginia.edu*
+faan[at]dtu.dk
+egon.willighagen[at]maastrichtuniversity.nl
 
 # Affiliations
 
 Data Science Institute, University of Virginia, Charlottesville, VA, USA
+Cognitive Systems, DTU Compute, Technical University of Denmark, Copenhagen, Denmark
+Department of Bioinformatics - BiGCaT, Maastricht University, Maastricht, The Netherlands
 
 # Keywords (max. 5)
 
