@@ -25,6 +25,8 @@ Data Science Institute, University of Virginia, Charlottesville, VA, USA
 - Wikidata
 - Wikibase
 - multilinguality
+- Linked Open Data
+- SPARQL
 
 # Submission abstract
 
