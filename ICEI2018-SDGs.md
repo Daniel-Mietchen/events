@@ -30,7 +30,7 @@ Data Science Institute, University of Virginia, Charlottesville, VA, USA
 
 The targets and indicators associated with the Sustainable Development Goals form a complex network of relationships between policy and practice, aspirations and achievements across domains and around the globe. This poses challenges for monitoring, evaluating and communicating progress towards these goals.
 
-Focusing on examples related to biodiversity and ecosystems, this presentation &mdash; which will be given on the basis of https://github.com/Daniel-Mietchen/events/blob/master/ICEI2018-SDGs.md &mdash; will explore how Wikidata, its semantic core Wikibase and its global multilingual community can be leveraged to represent the Goals as well as the associated targets and indicators in a way that allows people to make use of that information in the language of their choice, for a given country or on a global level.
+Focusing on examples related to biodiversity and ecosystems, this presentation will explore how Wikidata, its semantic core Wikibase and its global multilingual community can be leveraged to represent and contextualize the Sustainable Development Goals as well as the associated targets and indicators in a way that allows people to make use of that information in the language of their choice, for a given country or on a global level. It will be given on the basis of https://github.com/Daniel-Mietchen/events/blob/master/ICEI2018-SDGs.md , which will be updated on a regular basis until the event.
 
 
 # Notes from drafting
