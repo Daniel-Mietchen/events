@@ -67,3 +67,4 @@ Points to consider including
 * [ICEI2018-citizen-science.md](ICEI2018-citizen-science.md)
 * [Wikimedia projects and citizen science](https://www.wikidata.org/wiki/User:Daniel_Mietchen/ECSA_2018)
 * [EPA CompTox and Wikidata](http://chem-bla-ics.blogspot.bg/2017/01/epa-comptox-dashboard-ids-in-wikidata.html)
+* [Global map of national parks, per Wikidata](https://twitter.com/SciHiBlog/status/987984942050217984)
