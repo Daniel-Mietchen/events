@@ -27,4 +27,4 @@ Many who might have something valuable to contribute to the conference will not 
 
 ## Scholia
 
-## DoesItFart? A case study in research communication 
+## DoesItFart? A case study in communicating research
