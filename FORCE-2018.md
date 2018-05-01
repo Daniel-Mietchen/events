@@ -9,6 +9,6 @@ This file is auxiliary to my submissions to the [Force 2018 Conference](https://
 
 # Other potential ideas
 
-* Wikidata as a FAIR data platform
 * An ecosystem of FAIR data platforms running on Wikibase
 * Open Questions
+* JROST
