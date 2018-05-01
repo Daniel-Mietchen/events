@@ -20,7 +20,7 @@ This is a submission to the [Force 2018 Conference](https://www.force11.org/meet
 
 *Please supply one paragraph describing your talk and how it relates to the theme of Engagement. (Please also declare any conflicts of interest. )*
 
-Many who might have something valuable to contribute to the conference will not be able to make it in person. For this session, they will be invited to submit a 1-minute video or audio file that will be presented on site along with up to 24 others in a video medley. It will be given on the basis of https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-1-minute-madness-remote.md .
+Many who might have something valuable to contribute to the conference will not be able to make it in person. For this session, they will be invited to submit a 1-minute video or audio file that will be presented on site along with up to 24 others in a video medley linked from https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-1-minute-madness-remote.md .
 
 # Anything else we should know? 
 
