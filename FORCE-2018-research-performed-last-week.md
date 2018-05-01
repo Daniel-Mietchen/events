@@ -4,13 +4,13 @@ This is a submission to the [Force 2018 Conference](https://www.force11.org/meet
 
 # What areas does your talk cover?
 
-- [ ] Research Techniques
+- [X] Research Techniques
 - [X] Publishing
-- [ ] Data Publishing
+- [X] Data Publishing
 - [X] Global Perspectives
-- [ ] Research and Schol Comms Policy
+- [X] Research and Schol Comms Policy
 - [X] General - Scholarly Communication
-- [ ] Other:
+- [X] Other: Open notebook science, open education, annotation, research funding, social media
 
 # What is the title of your talk?
 
@@ -25,3 +25,7 @@ Research is performed every day, but much of it is hidden from public view. I wi
 # Anything else we should know? 
 
 This talk is closely related with the one at https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-research-published-last-week.md , and I would strongly prefer the two to be scheduled back to back in the same room, either before a session covering scholarly communication more broadly, or before a break.
+
+# See also
+
+* [https://twitter.com/NastyCSA_/status/991046895018668039 "If you got something good going, don't tell anybody"]
