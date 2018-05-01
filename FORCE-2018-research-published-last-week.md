@@ -24,4 +24,4 @@ With thousands of research publications coming out each day, it is hard to keep 
 
 # Anything else we should know? 
 
-This talk is closely related with the one at https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-research-performed-last-week.md , and I would strongly prefer the two to be scheduled back to back in the same room, either before a session covering scholarly communication more broadly, or before a break.
+This talk is closely related to the one at https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-research-performed-last-week.md , and I would strongly prefer the two to be scheduled back to back in the same room, either before a session covering scholarly communication more broadly, or before a break.
