@@ -26,6 +26,7 @@ Research is performed every day, but much of it is hidden from public view. I wi
 
 This talk is closely related to the one at https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-research-published-last-week.md , and I would strongly prefer the two to be scheduled back to back in the same room, either before a session covering scholarly communication more broadly, or before a break.
 
-# See also
+# See also 
 
+* [FORCE-2018.md](FORCE-2018.md)
 * ["If you got something good going, don't tell anybody"](https://twitter.com/NastyCSA_/status/991046895018668039)
