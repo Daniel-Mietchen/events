@@ -13,4 +13,7 @@ This file is auxiliary to my submissions to the [Force 2018 Conference](https://
 * Open Questions
 * JROST
 * 1-Minute madness
+* 1-Minute madness (remote)
+* Collaborative author disambiguation
+* Scholia
 * DoesItFart?
