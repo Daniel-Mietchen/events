@@ -12,3 +12,4 @@ This file is auxiliary to my submissions to the [Force 2018 Conference](https://
 * An ecosystem of FAIR data platforms running on Wikibase
 * Open Questions
 * JROST
+* 1-Minute madness
