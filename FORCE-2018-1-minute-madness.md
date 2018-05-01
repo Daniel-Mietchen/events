@@ -20,7 +20,7 @@ This is a submission to the [Force 2018 Conference](https://www.force11.org/meet
 
 *Please supply one paragraph describing your talk and how it relates to the theme of Engagement. (Please also declare any conflicts of interest. )*
 
-This session will consist of up to 25 lightning talks in which presenters can bring up any topic relevant to scholarly communication in just 1 min, with the discussion taking place in an accompanying etherpad. The talk will be given on the basis of https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-1-minute-madness.md .
+This session will consist of up to 25 lightning talks in which presenters can bring up any topic relevant to scholarly communication in just 1 min, with the discussion taking place in an accompanying etherpad linked from https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-1-minute-madness.md .
 
 # Anything else we should know? 
 
