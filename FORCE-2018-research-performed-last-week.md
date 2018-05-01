@@ -28,4 +28,4 @@ This talk is closely related with the one at https://github.com/Daniel-Mietchen/
 
 # See also
 
-* [https://twitter.com/NastyCSA_/status/991046895018668039 "If you got something good going, don't tell anybody"]
+* ["If you got something good going, don't tell anybody"](https://twitter.com/NastyCSA_/status/991046895018668039)
