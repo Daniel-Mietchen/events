@@ -24,6 +24,7 @@ Just like the open science ecosystem itself, the underlying infrastructure is ex
 
 # Anything else we should know? 
 
+The initiative is rather fresh, as can be gleaned from the timeline at http://jrost.org/meetings . We are expecting significant momentum to develop until October, though, starting with our MozSprint project at https://github.com/OpenScienceRoadmap/mozilla-sprint-2018 .
 
 # See also 
 
