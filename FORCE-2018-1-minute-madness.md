@@ -10,7 +10,7 @@ This is a submission to the [Force 2018 Conference](https://www.force11.org/meet
 - [X] Global Perspectives
 - [X] Research and Schol Comms Policy
 - [X] General - Scholarly Communication
-- [X] Other: Open notebook science, open education, annotation, research funding, social media
+- [X] Other: any other aspect of scholarly communication that submitters bring up
 
 # What is the title of your talk?
 
