@@ -24,6 +24,8 @@ Many who might have something valuable to contribute to the conference will not 
 
 # Anything else we should know? 
 
+This should be coordinated with the in-person version of this session, as per https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-1-minute-madness.md . Ideally, the remote session would come first, and there would be a larger break after the in-person session.
+
 # See also 
 
 * [FORCE-2018.md](FORCE-2018.md)
