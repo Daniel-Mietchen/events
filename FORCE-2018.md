@@ -13,7 +13,8 @@ This file is auxiliary to my submissions to the [Force 2018 Conference](https://
 
 # Other potential ideas
 
-* Open Questions
-* Author disambiguation: a collaborative approach
-* Scholia
-* DoesItFart? A case study in communicating research
+* [Open Questions](https://ask-open-science.org/1113/which-research-fields-keep-public-lists-of-open-questions)
+* [Collaborative FAQ](https://ask-open-science.org/)
+* [Author disambiguation: a collaborative approach](https://tools.wmflabs.org/sourcemd/new_resolve_authors.php?name=Jane+Smith&doit=Look+for+author)
+* [Scholia](https://tools.wmflabs.org/scholia/)
+* [DoesItFart? A case study in communicating research](https://github.com/Daniel-Mietchen/ideas/issues/199)
