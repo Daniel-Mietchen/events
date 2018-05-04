@@ -13,10 +13,7 @@ This file is auxiliary to my submissions to the [Force 2018 Conference](https://
 
 # Other potential ideas
 
-## Open Questions
-
-## Author disambiguation: a collaborative approach
-
-## Scholia
-
-## DoesItFart? A case study in communicating research
+* Open Questions
+* Author disambiguation: a collaborative approach
+* Scholia
+* DoesItFart? A case study in communicating research
