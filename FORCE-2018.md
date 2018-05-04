@@ -9,10 +9,9 @@ This file is auxiliary to my submissions to the [Force 2018 Conference](https://
 * [FORCE-2018-jrost.md](FORCE-2018-jrost.md)
 * [FORCE-2018-1-minute-madness.md](FORCE-2018-1-minute-madness.md)
 * [FORCE-2018-1-minute-madness-remote.md](FORCE-2018-1-minute-madness-remote.md)
+* [FORCE-2018-wikidata-wikibase.md](FORCE-2018-wikidata-wikibase.md)
 
 # Other potential ideas
-
-## Wikibase: building an ecosystem of FAIR data platforms
 
 ## Open Questions
 
