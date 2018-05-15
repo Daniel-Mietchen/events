@@ -2,7 +2,7 @@
 
 The [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) is taking place on 24-28 September 2018 in Jena.
 
-The call for proposals had an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which I submitted the following abstract to the Session S3.6 "Efficient data and workflow management for reaching Sustainable Development Goals (SDGs) targets associated to biodiversity and ecosystems". It received submissoin number 147.
+The call for proposals had an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which I submitted the following abstract to the Session S3.6 "Efficient data and workflow management for reaching Sustainable Development Goals (SDGs) targets associated to biodiversity and ecosystems". It received submission number 147. On May 15, I was notified of its acceptance.
 
 # Title of the abstract/talk
 
