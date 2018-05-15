@@ -37,6 +37,7 @@ Focusing on examples related to biodiversity and ecosystems, this presentation w
 
 # Notes from drafting
 
+- [WikiProject Sustainable Development](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sustainable_Development)
 
 # See also 
 
