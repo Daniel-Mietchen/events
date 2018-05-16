@@ -2,7 +2,7 @@
 
 The [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) is taking place on 24-28 September 2018 in Jena.
 
-The call for proposals had an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which I submitted the following abstract to the Session S3.2 "Citizen science meets informatics: Data science challenges in ecological research with public participation". It received the submission number 144.
+The call for proposals had an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which I submitted the following abstract to the Session S3.2 "Citizen science meets informatics: Data science challenges in ecological research with public participation". It received the submission number 144. It was accepted on May 9, though that message reached me only on May 16.
 
 # Title of the abstract/talk
 
