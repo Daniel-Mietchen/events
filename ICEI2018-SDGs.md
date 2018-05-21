@@ -32,11 +32,9 @@ Data Science Institute, University of Virginia, Charlottesville, VA, USA
 
 The targets and indicators associated with the Sustainable Development Goals form a complex network of relationships between policy and practice, aspirations and achievements across domains and around the globe. This poses challenges for monitoring, evaluating and communicating progress towards these goals.
 
-Wikidata is a Linked Open Data platform that is developed and curated collaboratively by the Wikimedia community, as a sister project to Wikipedia. Extending across disciplinary boundaries, it contains information about many of the concepts related to the  Sustainable Development Goals, and the community has begun to map the network of relationships between these concepts 
+Wikidata is a Linked Open Data platform that is developed and curated collaboratively by the Wikimedia community as a sister project to Wikipedia. Extending across disciplinary boundaries, it contains information about many of the concepts related to the  Sustainable Development Goals, and the community has begun to map the network of relationships between these concepts 
 
-Focusing on examples related to biodiversity and ecosystems, this presentation will explore how Wikidata, its semantic core Wikibase and its global multilingual community can be leveraged to represent and contextualize the Sustainable Development Goals as well as the associated targets and indicators in a way that allows people to make use of that information in the language of their choice, for a given country or on a global level. It will be given on the basis of https://github.com/Daniel-Mietchen/events/blob/master/ICEI2018-SDGs.md , which will be updated on a regular basis until the event.
-
-Special emphasis will be given to how Wikidata and Wikibase can help integrate information about efforts addressing different components of the SDG, or in different contets.
+Focusing on examples related to biodiversity and ecosystems, this presentation will explore how Wikidata, its semantic core Wikibase and its global multilingual community can be leveraged to represent and contextualize the Sustainable Development Goals as well as the associated targets and indicators in a way that allows people to make use of that information in the language of their choice, for a given country or on a global level. It will be given on the basis of https://github.com/Daniel-Mietchen/events/blob/master/ICEI2018-SDGs.md , which will be updated on a regular basis until the event. Special emphasis will be given to practical examples for how Wikidata and Wikibase can help integrate information about efforts addressing different components of the SDGs, or in different contexts.
 
 
 # Notes from drafting
