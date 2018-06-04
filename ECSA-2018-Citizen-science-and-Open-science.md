@@ -3,6 +3,11 @@
 
 Citizen science and open science would benefit from closer interaction
 
+# Final version
+
+[![Citizen science and open science would benefit from closer interaction](https://upload.wikimedia.org/wikipedia/commons/6/67/Citizen_Science_and_Open_Science_would_benefit_from_closer_interaction_-_20180604_100410.jpg)](https://commons.wikimedia.org/wiki/File:Citizen_Science_and_Open_Science_would_benefit_from_closer_interaction_-_20180604_100410.jpg)
+A photograph of the poster. On the top right is the [Policy brief on Citizen science & Open science](https://ecsa.citizen-science.net/blog/citizen-science-open-science-policy-brief-out).
+
 # Abstract
 
 Even though their primary goals and motivations differ, both citizen science and open science have the potential to challenge and change the predominant ways in which research is done today. That potential is considerably enhanced when the two come together.
@@ -25,4 +30,3 @@ All posters have been scheduled to be on display from 8:30 until 14:00 on Monday
 # See also
 
 * [ECSA2018.md](ECSA2018.md)
-* [Policy brief on Citizen science & Open science](https://ecsa.citizen-science.net/blog/citizen-science-open-science-policy-brief-out)
