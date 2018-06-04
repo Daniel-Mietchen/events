@@ -6,7 +6,7 @@ Citizen science and open science would benefit from closer interaction
 # Final version
 
 [![Citizen science and open science would benefit from closer interaction](https://upload.wikimedia.org/wikipedia/commons/6/67/Citizen_Science_and_Open_Science_would_benefit_from_closer_interaction_-_20180604_100410.jpg)](https://commons.wikimedia.org/wiki/File:Citizen_Science_and_Open_Science_would_benefit_from_closer_interaction_-_20180604_100410.jpg)
-A photograph of the poster. On the top right is the [Policy brief on Citizen science & Open science](https://ecsa.citizen-science.net/blog/citizen-science-open-science-policy-brief-out).
+A photograph of the poster. On the top right is the [Policy brief on Citizen science & Open science](https://ecsa.citizen-science.net/blog/citizen-science-open-science-policy-brief-out) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 # Abstract
 
