@@ -8,7 +8,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 ## In English
 
-* 2018-06-27, Washington DC: [Towards a FAIR Data ecosystem](https://youtu.be/L2tTHaH0ZsQ) (pre-recorded version; life version was recorded as well but is not yet available) &mdash; [slides](https://doi.org/10.5281/zenodo.1299251)
+* 2018-06-27, Washington DC: [Towards a FAIR Data ecosystem](https://youtu.be/L2tTHaH0ZsQ) (pre-recorded version; life version was [recorded as well](https://www.youtube.com/watch?v=-9lVolRMhGY#t=8m), albeit with some technical difficulties) &mdash; [slides](https://doi.org/10.5281/zenodo.1299251)
 * 2018-03-12, Berlin, Open Science Barcamp: 
   - [Scholia - scholarly profiles based on Wikidata](http://www.openscienceradio.org/2018/03/12/osr103-scholia-profiles-based-on-wikidata-oscibar-en/)
   - [Valid reasons for opting out of sharing openly](http://www.openscienceradio.org/2018/03/13/osr110-opting-out-oscibar-en/)
