@@ -58,3 +58,4 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 * [Biosketch](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Biographical_sketch)
 * A [YouTube search](https://www.youtube.com/results?search_query=daniel+mietchen) brings about a few more examples, which will hopefully make their way onto this list eventually.
+* Some [tweets about me that do not mention my Twitter handle](https://twitter.com/search?f=tweets&vertical=default&q=%22Daniel%20Mietchen%22%20-evomri)
