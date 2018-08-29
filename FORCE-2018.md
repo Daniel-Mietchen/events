@@ -10,6 +10,7 @@ This file is auxiliary to my submissions to the [Force 2018 Conference](https://
 * [FORCE-2018-1-minute-madness.md](FORCE-2018-1-minute-madness.md) (accepted as a poster)
 * [FORCE-2018-1-minute-madness-remote.md](FORCE-2018-1-minute-madness-remote.md) (accepted as a poster)
 * [FORCE-2018-wikidata-wikibase.md](FORCE-2018-wikidata-wikibase.md) (accepted as a talk)
+* [How Europe can make FAIR data a reality: An Action Plan](https://force2018.sched.com/event/F7uD) (accepted as a talk)
 
 # Other potential ideas
 
