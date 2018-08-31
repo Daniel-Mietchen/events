@@ -29,3 +29,4 @@ This talk is closely related to the one at https://github.com/Daniel-Mietchen/ev
 # See also 
 
 * [FORCE-2018.md](FORCE-2018.md)
+* [Bims: Biomed news](http://biomed.news/)
