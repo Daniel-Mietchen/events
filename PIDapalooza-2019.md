@@ -18,4 +18,4 @@ Here, we will look at examples taken from a range of ethics processes from vario
 
 # Your bio 
 
-# https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Biographical_sketch
+https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Biographical_sketch
