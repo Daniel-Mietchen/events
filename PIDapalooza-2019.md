@@ -1,6 +1,6 @@
 # About
 
-This file hosts a contribution to PIDapalooza 2019.
+This file hosts a contribution to [PIDapalooza 2019](https://pidapalooza.org). It was submitted on 21 September 2018.
 
 # Title
 
