@@ -1,8 +1,7 @@
 # About
 
-The [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) is taking place on 24-28 September 2018 in Jena.
 
-The call for proposals had an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which I submitted the following abstract to the Session S3.2 "Citizen science meets informatics: Data science challenges in ecological research with public participation". It received the submission number 144. It was accepted on May 9, though that message reached me only on May 16.
+This file hosts a contribution to the [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) taking place on 24-28 September 2018 in Jena and specifically the Session S3.2 ["Citizen science meets informatics: Data science challenges in ecological research with public participation"](https://icei2018.uni-jena.de/session/s3-2/) at 14:00 - 16:15 on Monday 24 September 2018 in Lecture Hall 5.
 
 # Title of the abstract/talk
 
@@ -50,3 +49,7 @@ This contribution is intended as a guided tour around such citizen science activ
 * [ICEI2018.md](ICEI2018.md)
 * [ICEI2018-research-ecosystem.md](ICEI2018-research-ecosystem.md)
 * [Wikimedia projects and citizen science](https://www.wikidata.org/wiki/User:Daniel_Mietchen/ECSA_2018)
+
+# History
+
+The call for proposals had an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which I submitted the abstract, which received the submission number 144. It was accepted on May 9, though that message reached me only on May 16.
