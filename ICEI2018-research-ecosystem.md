@@ -72,4 +72,4 @@ Points to consider including
 
 # History
 
-The conference had a call for proposals with an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which the abstract was submitted. It received the submission number 143. On May 15, I was [notified of its acceptance](https://github.com/Daniel-Mietchen/events/issues/339#issuecomment-389138931).
+The conference had a call for proposals with an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which I submitted the abstract, which received the submission number 143. On May 15, I was [notified of its acceptance](https://github.com/Daniel-Mietchen/events/issues/339#issuecomment-389138931).
