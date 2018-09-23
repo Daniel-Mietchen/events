@@ -1,8 +1,7 @@
 # About
 
-The [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) is taking place on 24-28 September 2018 in Jena.
+This file hosts a contribution to the Session S1.6 ["Semantics for biodiversity and ecosystem research"](https://icei2018.uni-jena.de/session/s1-6-semantics/) taking place at 10:30 - 12:15 on 27 Sep 2018 in Lecture Hall 4 as part of the [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) taking place on 24-28 September 2018 in Jena.
 
-The call for proposals had an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which I submitted the following abstract to the Session S1.6 "Semantics for biodiversity and ecosystem research". It received the submission number 143. On May 15, I was [notified of its acceptance](https://github.com/Daniel-Mietchen/events/issues/339#issuecomment-389138931).
 
 # Title of the abstract/talk
 
@@ -71,3 +70,7 @@ Points to consider including
 * [Map of geolocated topics co-occurring with taxa as the main subject of scholarly publications](https://query.wikidata.org/#%23defaultView%3AMap%0ASELECT%0A%20%20%3Flocation%20%3FlocationLabel%0A%20%20%3Fgeo%0A%20%20%3Fexample_work%20%3Fexample_workLabel%0AWITH%20%7B%0A%20%20SELECT%0A%20%20%20%20%3Flocation%20%3Fgeo%0A%20%20%20%20%28SAMPLE%28%3Fwork%29%20AS%20%3Fexample_work%29%0A%20%20WHERE%20%7B%0A%20%20%20%20%23%20Find%20works%20that%20are%20marked%20with%20main%20subject%20of%20the%20topic.%0A%20%20%20%20%3Fwork%20wdt%3AP921%20%3Ftopic%20.%0A%20%20%20%20%3Ftopic%20wdt%3AP31%20wd%3AQ16521%20.%0A%20%20%20%20%0A%20%20%20%20%23%20Identify%20co-occuring%20topic%20that%20is%20geo-locatable.%20%0A%20%20%20%20%3Fwork%20wdt%3AP921%20%3Flocation%20.%0A%20%20%20%20%3Flocation%20wdt%3AP625%20%3Fgeo%20.%0A%20%20%7D%0A%20%20GROUP%20BY%20%3Flocation%20%3Fgeo%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20%20%0A%20%20%23%20Label%20the%20results%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cda%2Cde%2Ces%2Cfr%2Cjp%2Cnl%2Cno%2Cru%2Csv%2Czh%22.%0A%20%20%7D%0A%7D%0A)
 * [Ozymandias](http://iphylo.blogspot.com/2018/08/gbif-challenge-entry-ozymandias.html)
   - [vimeo video](https://vimeo.com/285864743)
+
+# History
+
+The conference had a call for proposals with an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which the abstract was submitted. It received the submission number 143. On May 15, I was [notified of its acceptance](https://github.com/Daniel-Mietchen/events/issues/339#issuecomment-389138931).
