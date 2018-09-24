@@ -7,25 +7,9 @@ This file hosts a contribution to the [10th International Conference on Ecologic
 
 * Wikimedia projects as citizen science platforms 
 
-# Name of the authors
+# Slide(s)
 
-Daniel Mietchen
-
-# e-mail-address (please mark corresponding author)
-
-daniel.mietchen[at]virginia.edu*
-
-# Affiliations
-
-Data Science Institute, University of Virginia, Charlottesville, VA, USA
-
-# Keywords (max. 5)
-
-- Wikipedia
-- Wikimedia Commons
-- Wikidata
-- collaboration
-- open knowledge
+* https://www.wikidata.org/wiki/User:Daniel_Mietchen/Talks/ECEI_2018
 
 # Submission abstract
 
@@ -53,3 +37,23 @@ This contribution is intended as a guided tour around such citizen science activ
 # History
 
 The call for proposals had an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which I submitted the abstract, which received the submission number 144. It was accepted on May 9, though that message reached me only on May 16.
+
+# Name of the authors
+
+Daniel Mietchen
+
+# e-mail-address (please mark corresponding author)
+
+daniel.mietchen[at]virginia.edu*
+
+# Affiliations
+
+Data Science Institute, University of Virginia, Charlottesville, VA, USA
+
+# Keywords (max. 5)
+
+- Wikipedia
+- Wikimedia Commons
+- Wikidata
+- collaboration
+- open knowledge
