@@ -9,8 +9,8 @@ This file hosts a contribution to the [10th International Conference on Ecologic
 
 # Slide(s)
 
-* https://www.wikidata.org/wiki/User:Daniel_Mietchen/Talks/ECEI_2018
-  - A simple way to get there is to just type <code>WD:ECEI2018</code> into the search box at [https://www.wikidata.org/](https://www.wikidata.org/).
+* https://www.wikidata.org/wiki/User:Daniel_Mietchen/Talks/ICEI_2018
+  - A simple way to get there is to just type <code>WD:ICEI2018</code> into the search box at [https://www.wikidata.org/](https://www.wikidata.org/).
 
 # Submission abstract
 
