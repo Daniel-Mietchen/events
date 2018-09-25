@@ -1,5 +1,8 @@
+# About
 
-# Title of the abstract/talk
+This file hosts a contribution to the [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) taking place on 24-28 September 2018 in Jena and specifically the Session S3.6 ["Efficient data and workflow management for reaching Sustainable Development Goals (SDGs) targets associated to biodiversity and ecosystems"](https://icei2018.uni-jena.de/session/s3-6-sustain-development-goals-sdg/) at 10:30 - 12:30 on Tuesday 25 September 2018 in Lecture Hall 5.
+
+# Title
 
 * Community-curated Linked Open Data about the Sustainable Development Goals, their targets and indicators
 
@@ -89,9 +92,9 @@ Multiple SDG-relevant community initiatives (also known as "WikiProjects") have 
 * [ICEI2018.md](ICEI2018.md)
 * [ICEI2018-research-ecosystem.md](ICEI2018-research-ecosystem.md)
 
-# About
+# History
 
-This file hosts a contribution to the [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) taking place on 24-28 September 2018 in Jena and specifically the Session S3.6 ["Efficient data and workflow management for reaching Sustainable Development Goals (SDGs) targets associated to biodiversity and ecosystems"](https://icei2018.uni-jena.de/session/s3-6-sustain-development-goals-sdg/) at 10:30 - 12:30 on Tuesday 25 September 2018 in Lecture Hall 5.
+The call for proposals had an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which I submitted the abstract, which received submission number 147. On May 15, I was notified of its acceptance.
 
 # Name of the authors
 
@@ -112,7 +115,3 @@ Data Science Institute, University of Virginia, Charlottesville, VA, USA
 - multilinguality
 - Linked Open Data
 - SPARQL
-
-# History
-
-The call for proposals had an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which I submitted the abstract, which received submission number 147. On May 15, I was notified of its acceptance.
