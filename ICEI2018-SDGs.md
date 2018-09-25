@@ -73,7 +73,7 @@ Multiple SDG-relevant community initiatives (also known as "WikiProjects") have 
     - [child mortality](https://tools.wmflabs.org/scholia/topic/Q61559)
     - [maternal mortality](https://tools.wmflabs.org/scholia/topic/Q1339474)
     - [waster water](https://tools.wmflabs.org/scholia/topic/Q336191)
-  - see also talk tomorrow: 
+  - see also talk on Thursday 27 September 2018: 
     - [Visualizing the research ecosystem of ecosystem research via Wikidata](ICEI2018-research-ecosystem.md)
       - Lecture Hall 4, ca. 13:15.
       - Session S1.6 [Semantics for biodiversity and ecosystem research](https://icei2018.uni-jena.de/session/s1-6-semantics/), 10:30-14:15
