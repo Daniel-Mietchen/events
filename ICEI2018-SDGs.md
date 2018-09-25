@@ -40,7 +40,8 @@ Focusing on examples related to biodiversity and ecosystems, this presentation w
 - [Ontology Plays a Part in United Nations Sustainable Development Goals Project](http://www.dataversity.net/ontology-has-big-part-to-play-in-united-nations-sustainable-development-goals-project/)
 - [Sustainable Development Goals Interface Ontology (SDGIO)](https://github.com/SDG-InterfaceOntology/sdgio)
   - imports several existing ontologies (overview on slide 14  of [this presentation](http://ncgia.buffalo.edu/OntologyConference/PPT/Jensen.pdf))
-    - e.g. Environmental Ontology (ENVO)
+    - e.g. [Environmental Ontology (ENVO)](http://bioportal.bioontology.org/ontologies/ENVO)
+    - some of these are in Wikidata, but not all
   - [has no license](https://github.com/SDG-InterfaceOntology/sdgio/issues/112)
     - [part of a bigger problem](https://github.com/OBOFoundry/OBOFoundry.github.io/issues/285)
 
