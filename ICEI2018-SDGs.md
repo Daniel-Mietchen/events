@@ -11,7 +11,15 @@ Focusing on examples related to biodiversity and ecosystems, this presentation w
 
 # Outline
 
-## Part 1: Unstructured representation of information related to the SDGs
+
+
+1. [Unstructured representation of information related to the SDGs](#Unstructured representation of information related to the SDGs)
+2. Structured representation of information related to the SDGs
+3. Making SDG-related data FAIR
+4. First steps
+5. Outlook 
+
+# Unstructured representation of information related to the SDGs
 
 - SDG-related pages at the United nations, e.g. https://www.un.org/sustainabledevelopment/sustainable-development-goals/
 
