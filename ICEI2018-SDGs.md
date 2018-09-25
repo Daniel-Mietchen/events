@@ -13,7 +13,7 @@ Focusing on examples related to biodiversity and ecosystems, this presentation w
 
 1. [Unstructured representation of information related to the SDGs](ICEI2018-SDGs.md#unstructured-representation-of-information-related-to-the-sdgs)
 2. [Structured representation of information related to the SDGs](ICEI2018-SDGs.md#structured-representation-of-information-related-to-the-sdgs)
-3. [Making SDG-related data FAIR](ICEI2018-SDGs.md#making-sdg-related-data-fair
+3. [Making SDG-related data FAIR](ICEI2018-SDGs.md#making-sdg-related-data-fair)
 4. [First steps](https://github.com/Daniel-Mietchen/events/blob/master/ICEI2018-SDGs.md#first-steps)
 5. [Outlook](ICEI2018-SDGs.md#outlook)
 
