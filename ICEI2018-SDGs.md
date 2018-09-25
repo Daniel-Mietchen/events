@@ -20,8 +20,13 @@ Focusing on examples related to biodiversity and ecosystems, this presentation w
 # Unstructured representation of information related to the SDGs
 
 - SDG-related pages at the United nations, e.g. https://www.un.org/sustainabledevelopment/sustainable-development-goals/
+- Wikimedia sites
+  - e.g. 
+    - https://en.wikipedia.org/wiki/Sustainable_Development_Goals
+    - https://meta.wikimedia.org/wiki/WikiProject_UNESCO/Global_Goals_Discussion
+- many other places
 
-## Structured representation of information related to the SDGs
+# Structured representation of information related to the SDGs
 
 - some sites about the SDGs as a group, e.g. http://www.sdgindex.org/
 - sites specialized in individual SDGs, targets or indicators, e.g. 
@@ -29,8 +34,14 @@ Focusing on examples related to biodiversity and ecosystems, this presentation w
   - https://hi-knowledge.org/invasion-biology/ for Target 15.8 (reducing the impact of invasive species)
     - set of ca. 40 key hypotheses in invasion biology
     - set of ca. 1000 papers that have been annotated as to the degree to which they support or question any of these hypotheses
+- [Ontology Plays a Part in United Nations Sustainable Development Goals Project](http://www.dataversity.net/ontology-has-big-part-to-play-in-united-nations-sustainable-development-goals-project/)
+- [Sustainable Development Goals Interface Ontology (SDGIO)](https://github.com/SDG-InterfaceOntology/sdgio)
+  - imports several existing ontologies (overview on slide 14  of [this presentation](http://ncgia.buffalo.edu/OntologyConference/PPT/Jensen.pdf))
+    - e.g. Environmental Ontology (ENVO)
+  - [has no license](https://github.com/SDG-InterfaceOntology/sdgio/issues/112)
+    - [part of a bigger problem](https://github.com/OBOFoundry/OBOFoundry.github.io/issues/285)
 
-## Making SDG-related data FAIR
+# Making SDG-related data FAIR
 
 - FAIR Data Principles: [Findable, Accessible, Interoperable, Reusable](https://doi.org/10.1038/sdata.2016.18)
 - [Wikidata is a FAIR platform](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/Using_Wikidata_to_make_research_data_FAIR)
@@ -42,13 +53,15 @@ Focusing on examples related to biodiversity and ecosystems, this presentation w
     - has substantial content about most of the topics covered by SDGs, targets and indicators
       - e.g. [recent disasters](https://www.wikidata.org/wiki/Wikidata:WikiProject_Humanitarian_Wikidata/Recent_disasters)
 
-## First steps
+# First steps
 
 Multiple SDG-relevant community initiatives (also known as "WikiProjects") have been created, e.g.:
 - [WikiProject Sustainable Development](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sustainable_Development)
 - [WikiProject Humanitarian Wikidata](https://www.wikidata.org/wiki/Wikidata:WikiProject_Humanitarian_Wikidata)
 - [WikiProject Invasive Species](https://www.wikidata.org/wiki/Wikidata:WikiProject_Invasive_Species)
 - [WikiProject Ontology](https://www.wikidata.org/wiki/Wikidata:WikiProject_Ontology)
+  - includes mapping to existing ontologies, e.g. 
+    - [Environment Ontology ID (P3859)](https://www.wikidata.org/wiki/Property:P3859)
 - [WikiProject Medicine](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine)
 - [WikiCite](https://meta.wikimedia.org/wiki/WikiCite)
   - allows Wikidata-based literature overviews, e.g. for
@@ -62,8 +75,14 @@ Multiple SDG-relevant community initiatives (also known as "WikiProjects") have 
       - Lecture Hall 4, ca. 13:15.
       - Session S1.6 [Semantics for biodiversity and ecosystem research](https://icei2018.uni-jena.de/session/s1-6-semantics/), 10:30-14:15
 
-## Outlook 
+# Outlook 
 
+- Automatically updated maps that are interactive and editable and come with full provenance
+  - [demo](https://commons.wikimedia.org/wiki/File:Map_of_disasters_color-coded_by_disaster_type_-_Wikidata_Query_Service_as_of_2018-07-14.png)
+- Addressing bias in the data
+  - [demo](https://commons.wikimedia.org/wiki/File:Wikidata_Map_July_2018_Big.png)
+- Collaborative inquiries into the data
+  - [demo](https://www.wikidata.org/wiki/Wikidata:Request_a_query)
 
 # See also 
 
