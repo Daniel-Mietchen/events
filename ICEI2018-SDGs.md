@@ -11,19 +11,17 @@ Focusing on examples related to biodiversity and ecosystems, this presentation w
 
 # Outline
 
-
-
-1. [Unstructured representation of information related to the SDGs](#Unstructured representation of information related to the SDGs)
-2. Structured representation of information related to the SDGs
-3. Making SDG-related data FAIR
-4. First steps
-5. Outlook 
+1. [Unstructured representation of information related to the SDGs](ICEI2018-SDGs.md#unstructured-representation-of-information-related-to-the-sdgs)
+2. [Structured representation of information related to the SDGs](ICEI2018-SDGs.md#structured-representation-of-information-related-to-the-sdgs)
+3. [Making SDG-related data FAIR](ICEI2018-SDGs.md#making-sdg-related-data-fair
+4. [First steps](https://github.com/Daniel-Mietchen/events/blob/master/ICEI2018-SDGs.md#first-steps)
+5. [Outlook](ICEI2018-SDGs.md#outlook)
 
 # Unstructured representation of information related to the SDGs
 
 - SDG-related pages at the United nations, e.g. https://www.un.org/sustainabledevelopment/sustainable-development-goals/
 
-## Part 2: Structured representation of information related to the SDGs
+## Structured representation of information related to the SDGs
 
 - some sites about the SDGs as a group, e.g. http://www.sdgindex.org/
 - sites specialized in individual SDGs, targets or indicators, e.g. 
@@ -32,7 +30,7 @@ Focusing on examples related to biodiversity and ecosystems, this presentation w
     - set of ca. 40 key hypotheses in invasion biology
     - set of ca. 1000 papers that have been annotated as to the degree to which they support or question any of these hypotheses
 
-## Part 3: Making SDG-related data FAIR
+## Making SDG-related data FAIR
 
 - FAIR Data Principles: [Findable, Accessible, Interoperable, Reusable](https://doi.org/10.1038/sdata.2016.18)
 - [Wikidata is a FAIR platform](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/Using_Wikidata_to_make_research_data_FAIR)
@@ -44,7 +42,7 @@ Focusing on examples related to biodiversity and ecosystems, this presentation w
     - has substantial content about most of the topics covered by SDGs, targets and indicators
       - e.g. [recent disasters](https://www.wikidata.org/wiki/Wikidata:WikiProject_Humanitarian_Wikidata/Recent_disasters)
 
-## Part 4: First steps
+## First steps
 
 Multiple SDG-relevant community initiatives (also known as "WikiProjects") have been created, e.g.:
 - [WikiProject Sustainable Development](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sustainable_Development)
@@ -64,7 +62,7 @@ Multiple SDG-relevant community initiatives (also known as "WikiProjects") have 
       - Lecture Hall 4, ca. 13:15.
       - Session S1.6 [Semantics for biodiversity and ecosystem research](https://icei2018.uni-jena.de/session/s1-6-semantics/), 10:30-14:15
 
-## Part 5: Outlook 
+## Outlook 
 
 
 # See also 
