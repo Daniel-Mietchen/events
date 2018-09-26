@@ -6,32 +6,6 @@ This file hosts a contribution to the [10th International Conference on Ecologic
 
 Visualizing the research ecosystem of ecosystem research via Wikidata
 
-# Name of the authors
-
-* Daniel Mietchen
-* Finn Årup Nielsen
-* Egon Willighagen
-
-# e-mail-address (please mark corresponding author)
-
-* daniel.mietchen[at]virginia.edu*
-* faan[at]dtu.dk
-* egon.willighagen[at]maastrichtuniversity.nl
-
-# Affiliations
-
-* Data Science Institute, University of Virginia, Charlottesville, VA, USA
-* Cognitive Systems, DTU Compute, Technical University of Denmark, Copenhagen, Denmark
-* Department of Bioinformatics - BiGCaT, Maastricht University, Maastricht, The Netherlands
-
-# Keywords (max. 5)
-
-- Wikidata
-- SPARQL
-- research system
-- visualization
-- bibliometrics
-
 # Submission abstract
 
 Like research in general, biodiversity and ecosystem research takes place in a sociotechnical ecosystem that connects researchers, institutions, funders, databases, locations, publications, methodologies and related concepts with the objects of study and the world around them. Schemas for describing such concepts are growing in breadth and depth, number and popularity, as are mechanisms to persistently and uniquely identify the concepts, the schemas, their relationships or any of their components. In parallel, more and more data &mdash; and particularly metadata &mdash; are being made available under open licenses, which facilitates discoverability, reproducibility and reuse, as well as data integration.
@@ -73,3 +47,30 @@ Points to consider including
 # History
 
 The conference had a call for proposals with an [April 15 deadline](http://icei2018.uni-jena.de/calls/), by which I submitted the abstract, which received the submission number 143. On May 15, I was [notified of its acceptance](https://github.com/Daniel-Mietchen/events/issues/339#issuecomment-389138931).
+
+
+# Name of the authors
+
+* Daniel Mietchen
+* Finn Årup Nielsen
+* Egon Willighagen
+
+# e-mail-address (please mark corresponding author)
+
+* daniel.mietchen[at]virginia.edu*
+* faan[at]dtu.dk
+* egon.willighagen[at]maastrichtuniversity.nl
+
+# Affiliations
+
+* Data Science Institute, University of Virginia, Charlottesville, VA, USA
+* Cognitive Systems, DTU Compute, Technical University of Denmark, Copenhagen, Denmark
+* Department of Bioinformatics - BiGCaT, Maastricht University, Maastricht, The Netherlands
+
+# Keywords (max. 5)
+
+- Wikidata
+- SPARQL
+- research system
+- visualization
+- bibliometrics
