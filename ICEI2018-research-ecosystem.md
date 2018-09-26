@@ -31,6 +31,7 @@ Points to consider including
     - invasive species https://tools.wmflabs.org/scholia/topic/Q183368
     - biodiversity https://tools.wmflabs.org/scholia/topic/Q47041
     - ecosystem https://tools.wmflabs.org/scholia/topic/Q37813
+    - zoonosis https://tools.wmflabs.org/scholia/topic/Q182672
   - work: https://tools.wmflabs.org/scholia/work/Q27973671
   - authors: 
     - https://tools.wmflabs.org/scholia/author/Q55099872
