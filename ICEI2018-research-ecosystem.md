@@ -18,7 +18,25 @@ In this presentation &mdash; which will be given on the basis of https://github.
 
 # Notes from drafting
 Points to consider including
-- link to session
+- link to relevant WikiProjects
+  - Taxonomy
+  - Invasive species
+  - Informatics
+  - WikiCite
+- link to previous talks
+  - citizen science
+  - SDGs
+- examples
+  - topics: 
+    - invasive species https://tools.wmflabs.org/scholia/topic/Q183368
+    - biodiversity https://tools.wmflabs.org/scholia/topic/Q47041
+    - ecosystem https://tools.wmflabs.org/scholia/topic/Q37813
+  - work: https://tools.wmflabs.org/scholia/work/Q27973671
+  - author: https://tools.wmflabs.org/scholia/author/Q55099872
+  - [institutions](https://query.wikidata.org/#%23%20%23defaultView%3AGraph%0ASELECT%20%3Fciting_organization%20%3Fciting_organizationLabel%20%3Fcited_organization%20%3Fcited_organizationLabel%0AWITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Fciting_organization%20%3Fcited_organization%20WHERE%20%7B%0A%20%20%20%20%3Fciting_author%20%28wdt%3AP108%7Cwdt%3AP1416%29%20%3Fciting_organization%20.%20%0A%20%20%20%20%3Fcited_author%20%28wdt%3AP108%7Cwdt%3AP1416%29%20%3Fcited_organization%20.%20%0A%0A%20%20%20%20%3Fciting_work%20wdt%3AP50%20%3Fciting_author%20.%20%0A%20%20%20%20%7B%20%3Fciting_work%20wdt%3AP921%20wd%3AQ183368%20.%7D%20UNION%20%20%20%20%20%7B%20%3Fciting_work%20wdt%3AP921%20wd%3AQ42985020%20.%7D%20%0A%20%20%20%20%7B%20%3Fcited_work%20wdt%3AP921%20wd%3AQ183368%20.%7D%20UNION%20%20%20%20%20%7B%20%3Fcited_work%20wdt%3AP921%20wd%3AQ42985020%20.%7D%20%0A%20%20%20%20%3Fciting_work%20wdt%3AP2860%20%3Fcited_work%20.%20%0A%20%20%20%20%3Fcited_work%20wdt%3AP50%20%3Fcited_author%20.%20%20%0A%20%20%20%20FILTER%20%28%3Fciting_work%20%21%3D%20%3Fcited_work%29%0A%20%20%20%20FILTER%20NOT%20EXISTS%20%7B%0A%20%20%20%20%20%20%3Fciting_work%20wdt%3AP50%20%3Fauthor%20.%0A%20%20%20%20%20%20%3Fciting_work%20wdt%3AP2860%20%3Fcited_work%20.%0A%20%20%20%20%20%20%3Fcited_work%20%20wdt%3AP50%20%3Fauthor%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%20%20%20%20%20%20%20%20%0A%20%7D%0A) 
+  - journal: https://tools.wmflabs.org/scholia/venue/Q15763359
+  - taxon aspect example &mdash; Caenorhabditis elegans?
+- basic Scholia stats
 - link to biodiversity and ecosystem research
 - open data
 - data integration
