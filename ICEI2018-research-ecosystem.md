@@ -2,7 +2,7 @@
 
 This file hosts a contribution to the [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) taking place on 24-28 September 2018 in Jena and specifically the Session S1.6 ["Semantics for biodiversity and ecosystem research"](https://icei2018.uni-jena.de/session/s1-6-semantics/) at 10:30 - 14:15 on Thursday 27 September 2018 in Lecture Hall 4. This talk is scheduled for around 13:15.
 
-# Title of the abstract/talk
+# Title
 
 Visualizing the research ecosystem of ecosystem research via Wikidata
 
