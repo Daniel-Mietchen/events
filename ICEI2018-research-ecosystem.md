@@ -17,6 +17,8 @@ Visualizing the research ecosystem of ecosystem research via Wikidata
     - zoonosis https://tools.wmflabs.org/scholia/topic/Q182672
     - Zika virus https://tools.wmflabs.org/scholia/topic/Q202864
     - Scholia https://tools.wmflabs.org/scholia/topic/Q45340488
+    - FAIR data https://tools.wmflabs.org/scholia/topic/Q29032648
+    - open data https://tools.wmflabs.org/scholia/topic/Q309901
   - work: https://tools.wmflabs.org/scholia/work/Q27973671
   - author: https://tools.wmflabs.org/scholia/author/Q55099872
   - event: https://tools.wmflabs.org/scholia/event/Q50706744
