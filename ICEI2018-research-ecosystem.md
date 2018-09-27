@@ -40,6 +40,7 @@ Points to consider including
   - journal: https://tools.wmflabs.org/scholia/venue/Q15763359
   - taxon aspect example &mdash; Caenorhabditis elegans?
   - chemical/ pathway examples
+  - events: https://tools.wmflabs.org/scholia/event/Q50706744
 - basic Scholia stats
 - link to biodiversity and ecosystem research
 - open data
