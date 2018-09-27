@@ -1,10 +1,32 @@
 # About
 
-This file hosts a contribution to the [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) taking place on 24-28 September 2018 in Jena and specifically the Session S1.6 ["Semantics for biodiversity and ecosystem research"](https://icei2018.uni-jena.de/session/s1-6-semantics/) at 10:30 - 14:15 on Thursday 27 September 2018 in Lecture Hall 4. This talk is scheduled for around 13:15.
+This file hosts a contribution to the [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/)  (ICEI 2018) taking place on 24-28 September 2018 in Jena and specifically the Session S1.6 ["Semantics for biodiversity and ecosystem research"](https://icei2018.uni-jena.de/session/s1-6-semantics/) at 10:30 - 14:15 on Thursday 27 September 2018 in Lecture Hall 4. This talk is scheduled for around 13:15.
 
 # Title
 
 Visualizing the research ecosystem of ecosystem research via Wikidata
+
+# Demo
+
+* https://twitter.com/EvoMRI/status/1045241579894706176
+* Featuring
+  - topics: 
+    - invasive species https://tools.wmflabs.org/scholia/topic/Q183368
+    - biodiversity https://tools.wmflabs.org/scholia/topic/Q47041
+    - ecosystem https://tools.wmflabs.org/scholia/topic/Q37813
+    - zoonosis https://tools.wmflabs.org/scholia/topic/Q182672
+    - Zika virus https://tools.wmflabs.org/scholia/topic/Q202864
+    - Scholia https://tools.wmflabs.org/scholia/topic/Q45340488
+  - work: https://tools.wmflabs.org/scholia/work/Q27973671
+  - author: https://tools.wmflabs.org/scholia/author/Q55099872
+  - event: https://tools.wmflabs.org/scholia/event/Q50706744
+  - journal: https://tools.wmflabs.org/scholia/venue/Q15763359
+  - reuse: https://www.wikidata.org/wiki/User:Daniel_Mietchen/Wikidata_lists/Usage_of_Template_Scholia
+
+# Plan B
+
+If anything goes wrong with the demo, we will be using this recent presentation as a backup
+* http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/7116/pdf/imm7116.pdf
 
 # Submission abstract
 
