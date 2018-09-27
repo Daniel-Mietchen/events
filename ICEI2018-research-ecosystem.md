@@ -10,6 +10,7 @@ Visualizing the research ecosystem of ecosystem research via Wikidata
 
 * https://twitter.com/EvoMRI/status/1045241579894706176
 * Featuring
+  - Scholia homepage: https://tools.wmflabs.org/scholia/
   - topics: 
     - invasive species https://tools.wmflabs.org/scholia/topic/Q183368
     - biodiversity https://tools.wmflabs.org/scholia/topic/Q47041
@@ -19,10 +20,12 @@ Visualizing the research ecosystem of ecosystem research via Wikidata
     - Scholia https://tools.wmflabs.org/scholia/topic/Q45340488
     - FAIR data https://tools.wmflabs.org/scholia/topic/Q29032648
     - open data https://tools.wmflabs.org/scholia/topic/Q309901
+    - Denmark and machine learning https://tools.wmflabs.org/scholia/country/Q35/topic/Q2539
   - work: https://tools.wmflabs.org/scholia/work/Q27973671
   - author: https://tools.wmflabs.org/scholia/author/Q55099872
   - event: https://tools.wmflabs.org/scholia/event/Q50706744
   - journal: https://tools.wmflabs.org/scholia/venue/Q15763359
+  - chemical class: https://tools.wmflabs.org/scholia/chemical-class/
   - reuse: https://www.wikidata.org/wiki/User:Daniel_Mietchen/Wikidata_lists/Usage_of_Template_Scholia
 
 # Plan B
