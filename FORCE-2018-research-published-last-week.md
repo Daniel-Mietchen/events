@@ -26,7 +26,27 @@ With thousands of research publications coming out each day, it is hard to keep 
 
 This talk is closely related to the one at https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-research-performed-last-week.md , and I would strongly prefer the two to be scheduled back to back in the same room, either before a session covering scholarly communication more broadly, or before a break.
 
+# Query example
+
+```SPARQL
+SELECT ?work ?title ?date_time WHERE {
+  VALUES (?earliest) {("2018-10-03T00:00:00Z"^^xsd:dateTime)}
+  VALUES (?latest) {("2018-10-10T00:00:00Z"^^xsd:dateTime)}
+  ?work wdt:P577 ?date_time .
+  hint:Prior hint:rangeSafe true .
+  FILTER (?date_time >= ?earliest)
+  FILTER (?date_time <= ?latest)
+  ?work wdt:P1476 ?title ;
+        wdt:P356 ?doi .
+} 
+ORDER BY DESC(?date_time)
+LIMIT 100
+```
+
+[Try it!](https://query.wikidata.org/#SELECT%20%3Fwork%20%3Ftitle%20%3Fdate_time%20WHERE%20%7B%0A%20%20VALUES%20%28%3Fearliest%29%20%7B%28%222018-10-03T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20VALUES%20%28%3Flatest%29%20%7B%28%222018-10-10T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20%3Fwork%20wdt%3AP577%20%3Fdate_time%20.%0A%20%20hint%3APrior%20hint%3ArangeSafe%20true%20.%0A%20%20FILTER%20%28%3Fdate_time%20%3E%3D%20%3Fearliest%29%0A%20%20FILTER%20%28%3Fdate_time%20%3C%3D%20%3Flatest%29%0A%20%20%3Fwork%20wdt%3AP1476%20%3Ftitle%20%3B%0A%20%20%20%20%20%20%20%20wdt%3AP356%20%3Fdoi%20.%0A%7D%20%0AORDER%20BY%20DESC%28%3Fdate_time%29%0ALIMIT%20100)
+
 # See also 
 
 * [FORCE-2018.md](FORCE-2018.md)
 * [Bims: Biomed news](http://biomed.news/)
+* [Today's publications](https://github.com/fnielsen/scholia/issues/513)
