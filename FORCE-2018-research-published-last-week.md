@@ -56,14 +56,14 @@ SELECT ?work ?title ?date_time WHERE {
   hint:Prior hint:rangeSafe true .
   FILTER (?date_time >= ?earliest)
   FILTER (?date_time <= ?latest)
-  ?work wdt:P1476 ?title ;
-        wdt:P356 ?doi .
+  ?work wdt:P1476 ?title.
+  { ?work wdt:P356 [] } UNION { ?work wdt:P698 []} UNION { ?work wdt:P932 []}
 } 
 ORDER BY DESC(?date_time)
-LIMIT 100
+LIMIT 10000
 ```
 
-[Try it!](https://query.wikidata.org/#SELECT%20%3Fwork%20%3Ftitle%20%3Fdate_time%20WHERE%20%7B%0A%20%20VALUES%20%28%3Fearliest%29%20%7B%28%222018-10-03T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20VALUES%20%28%3Flatest%29%20%7B%28%222018-10-10T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20%3Fwork%20wdt%3AP577%20%3Fdate_time%20.%0A%20%20hint%3APrior%20hint%3ArangeSafe%20true%20.%0A%20%20FILTER%20%28%3Fdate_time%20%3E%3D%20%3Fearliest%29%0A%20%20FILTER%20%28%3Fdate_time%20%3C%3D%20%3Flatest%29%0A%20%20%3Fwork%20wdt%3AP1476%20%3Ftitle%20%3B%0A%20%20%20%20%20%20%20%20wdt%3AP356%20%3Fdoi%20.%0A%7D%20%0AORDER%20BY%20DESC%28%3Fdate_time%29%0ALIMIT%20100)
+[Try it!](https://query.wikidata.org/#SELECT%20%3Fwork%20%3Ftitle%20%3Fdate_time%20WHERE%20%7B%0A%20%20VALUES%20%28%3Fearliest%29%20%7B%28%222018-10-03T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20VALUES%20%28%3Flatest%29%20%7B%28%222018-10-10T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20%3Fwork%20wdt%3AP577%20%3Fdate_time%20.%0A%20%20hint%3APrior%20hint%3ArangeSafe%20true%20.%0A%20%20FILTER%20%28%3Fdate_time%20%3E%3D%20%3Fearliest%29%0A%20%20FILTER%20%28%3Fdate_time%20%3C%3D%20%3Flatest%29%0A%20%20%3Fwork%20wdt%3AP1476%20%3Ftitle.%0A%20%20%7B%20%3Fwork%20wdt%3AP356%20%5B%5D%20%7D%20UNION%20%7B%20%3Fwork%20wdt%3AP698%20%5B%5D%7D%20UNION%20%7B%20%3Fwork%20wdt%3AP932%20%5B%5D%7D%0A%7D%20%0AORDER%20BY%20DESC%28%3Fdate_time%29%0ALIMIT%2010000)
 
 # See also 
 
