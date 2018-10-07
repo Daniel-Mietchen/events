@@ -15,7 +15,7 @@ This file collects information related to my participation in [SciDataCon 2018](
 
 # Submitted session proposals 
 
-- submitted as per deadline of February 19, 2018
+- submitted as per deadline of [February 19, 2018](https://github.com/Daniel-Mietchen/events/issues/321)
 - Topics
   - [Data sharing in public health emergencies](SciDataCon-2018-data-sharing.md)
   - [Workshop: Integrating Wikidata with research and curation workflows](SciDataCon-2018-Wikidata.md)
