@@ -16,8 +16,11 @@ This file collects information related to my participation in [SciDataCon 2018](
     - [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/) (see session 211)
     - [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://www.scidatacon.org/IDW2018/sessions/164/poster/141/) (see session 164)
     - [WikiCite and Scholia - a Linked Open Data approach to exploring the scholarly literature and related resources](https://www.scidatacon.org/IDW2018/sessions/264/poster/168/) (session 264; details not clear yet)
-- [Session 229: Turning FAIR Data Into Reality: discussion, critique and implementation ](https://www.scidatacon.org/IDW2018/sessions/229/)
-  - Tuesday, 6 November at 14:00–15:30
+- [Session 196: Democratising Data Publishing: A Global Perspective](https://www.scidatacon.org/IDW2018/sessions/196/)
+  - Tuesday, 6 November at **14:00–15:30** and 16:00 - 17:30
+  - oral presentation: [Wikidata and Wikibase as global platforms for democratizing data publishing](https://www.scidatacon.org/IDW2018/sessions/196/paper/849/)
+- [Session 229: Turning FAIR Data Into Reality: discussion, critique and implementation](https://www.scidatacon.org/IDW2018/sessions/229/)
+  - Tuesday, 6 November at **14:00–15:30**
   - panel contribution, "Action Plan for Research Infrastructures"
 - [Session 252: Delivering a Global Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/)
   - Thursday, 8 November at **11:30 - 13:00**
@@ -46,11 +49,18 @@ This file collects information related to my participation in [SciDataCon 2018](
   - [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
     - accepted as a poster
   - [Data sharing as a new component of addressing and preparing for disease outbreaks](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400867604)
+    - accepted as an oral presentation
   - [Wikidata and Wikibase as global platforms for democratizing data publishing](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400858737)
+    - accepted as an oral presentation
   - [A wiki approach to collecting, curating and managing citizen science data](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400861223)
+    - accepted as a poster
   - [A wiki perspective on an Open Science Commons](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400864289)
     - accepted as a poster
   - [WikiCite and Scholia - a Linked Open Data approach to exploring the scholarly literature and related resources](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400893901)
+    - accepted as a poster
+
+# Other topics I had considered for submissions
+
   - Citizen science and open science
   - Wikidata as a FAIR data platform
   - Making ethics data FAIR
