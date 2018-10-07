@@ -1,6 +1,6 @@
 # About
 
-This file collects information related to my participation in [SciDataCon 2018](https://www.scidatacon.org/IDW2018/), which is part of [International Data Week](http://internationaldataweek.org/programme-overview).
+This file collects information related to my participation in [SciDataCon 2018](https://www.scidatacon.org/IDW2018/), which is part of [International Data Week](International-Data-Week-2018.md).
 
 # Sessions I am involved in
 
