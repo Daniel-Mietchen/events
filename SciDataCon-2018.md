@@ -1,17 +1,23 @@
 # About
 
-This file collects information related to my participation in [SciDataCon 2018](https://www.scidatacon.org/IDW2018/).
+This file collects information related to my participation in [SciDataCon 2018](https://www.scidatacon.org/IDW2018/), which is part of [International Data Week](http://internationaldataweek.org/programme-overview).
 
 # Sessions I am involved in
+
+*Times marked in **bold** indicate an overlap*
 
 - [Session 229: Turning FAIR Data Into Reality: discussion, critique and implementation ](https://www.scidatacon.org/IDW2018/sessions/229/)
   - Tuesday, 6 November at 14:00–15:30
   - panel contribution, "Action Plan for Research Infrastructures"
+- [Session 252: Delivering a Global Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/)
+  - Thursday, 8 November at **11:30 - 13:00**
+  - poster: [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/)
+- [Session 221: Citizen Science Data – from Collection to Curation to Management](https://www.scidatacon.org/IDW2018/sessions/211/)
+  - Thursday, 8 November at **11:30 - 13:00** and **14:00–15:30**
+  - poster: [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/)
 - [Session 164: Scientific Data Challenges for Sustainable Development](https://www.scidatacon.org/IDW2018/sessions/164/)
-  - Thursday, 8 November at 14:00–15:30
+  - Thursday, 8 November at **14:00–15:30**
   - poster: [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://www.scidatacon.org/IDW2018/sessions/164/poster/141/)
-    - see also the [original submission](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
-
 
 # Submitted session proposals 
 
@@ -26,10 +32,12 @@ This file collects information related to my participation in [SciDataCon 2018](
 - submission deadline was [28 June 2018](https://github.com/Daniel-Mietchen/events/issues/337)
 - Topics
   - [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
+    - accepted as a poster
   - [Data sharing as a new component of addressing and preparing for disease outbreaks](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400867604)
   - [Wikidata and Wikibase as global platforms for democratizing data publishing](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400858737)
   - [A wiki approach to collecting, curating and managing citizen science data](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400861223)
   - [A wiki perspective on an Open Science Commons](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400864289)
+    - accepted as a poster
   - [WikiCite and Scholia - a Linked Open Data approach to exploring the scholarly literature and related resources](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400893901)
   - Citizen science and open science
   - Wikidata as a FAIR data platform
