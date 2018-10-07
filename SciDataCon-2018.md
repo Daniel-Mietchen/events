@@ -6,6 +6,16 @@ This file collects information related to my participation in [SciDataCon 2018](
 
 *Times marked in **bold** indicate an overlap*
 
+- [Session 262: Open Data from Cell Biology of Infectious Pathogens, how far are we?](https://www.scidatacon.org/IDW2018/sessions/262/)
+  - Monday, 5 November at 11:30-13:00
+  - oral presentation: [Data sharing as a new component of addressing and preparing for disease outbreaks](https://www.scidatacon.org/IDW2018/sessions/262/paper/853/) 
+- Poster session
+  - Monday, 5 November at 17:30-20:00
+  - My posters: 
+    - [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/) (see session 252)
+    - [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/) (see session 211)
+    - [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://www.scidatacon.org/IDW2018/sessions/164/poster/141/) (see session 164)
+    - [WikiCite and Scholia - a Linked Open Data approach to exploring the scholarly literature and related resources](https://www.scidatacon.org/IDW2018/sessions/264/poster/168/) (session 264; details not clear yet)
 - [Session 229: Turning FAIR Data Into Reality: discussion, critique and implementation ](https://www.scidatacon.org/IDW2018/sessions/229/)
   - Tuesday, 6 November at 14:00–15:30
   - panel contribution, "Action Plan for Research Infrastructures"
@@ -24,8 +34,10 @@ This file collects information related to my participation in [SciDataCon 2018](
 - submitted as per deadline of [February 19, 2018](https://github.com/Daniel-Mietchen/events/issues/321)
 - Topics
   - [Data sharing in public health emergencies](SciDataCon-2018-data-sharing.md)
+    - merged into [Session 262: Open Data from Cell Biology of Infectious Pathogens, how far are we?](https://www.scidatacon.org/IDW2018/sessions/262/)
   - [Workshop: Integrating Wikidata with research and curation workflows](SciDataCon-2018-Wikidata.md)
-  - [Turning FAIR Data Into Reality: discussion, critique and implementation ](https://www.scidatacon.org/IDW2018/sessions/229/) (accepted)
+  - [Turning FAIR Data Into Reality: discussion, critique and implementation ](https://www.scidatacon.org/IDW2018/sessions/229/)
+    - accepted
 
 # Submitted contributions to accepted sessions
 
