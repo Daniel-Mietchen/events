@@ -61,6 +61,7 @@ LIMIT 100
 # Google
 
 * via ORCID: https://www.google.com/search?num=100&ei=z4C5W63BPIKCwgSKmZuoCA&q=site%3Aorcid.org+%22oct+2018%22+doi
+* Scholar: https://scholar.google.com/scholar?hl=en&as_ylo=2018&as_yhi=2018&q=%22october+2018%22&btnG=
 
 # See also 
 
