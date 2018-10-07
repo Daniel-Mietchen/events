@@ -28,6 +28,22 @@ This talk is closely related to the one at https://github.com/Daniel-Mietchen/ev
 
 # Query examples
 
+## PubMed/ PMC
+
+* https://www.ncbi.nlm.nih.gov/pubmed/?term=%22last+7+days%22%5BPDat%5D
+* https://www.ncbi.nlm.nih.gov/pubmed/?term=%22last+7+days%22%5BEDat%5D
+* https://www.ncbi.nlm.nih.gov/pmc/?term=(%22viruses%22%5BMeSH+Terms%5D+OR+%22viruses%22%5BAll+Fields%5D+OR+%22virus%22%5BAll+Fields%5D)+AND+(%222018%2F10%2F03%22%5BPDat%5D+%3A+%222018%2F10%2F10%22%5BPDat%5D)&cmd=DetailsSearch
+
+## Twitter
+
+* https://twitter.com/search?f=tweets&vertical=default&q=((doi%20AND%2010)%20OR%20doi.org%20OR%20pmid%20OR%20pmcid%20OR%20arxiv)%20AND%20(published%20OR%20new%20OR%20paper%20OR%20journal%20OR%20article%20OR%20preprint%20OR%20today%20OR%20yesterday%20OR%20week)
+* https://twitter.com/arXiv_trend
+
+## Google
+
+* via ORCID: https://www.google.com/search?num=100&ei=z4C5W63BPIKCwgSKmZuoCA&q=site%3Aorcid.org+%22oct+2018%22+doi
+* Scholar: https://scholar.google.com/scholar?hl=en&as_ylo=2018&as_yhi=2018&q=%22october+2018%22&btnG=
+
 ## Wikidata
 
 ```SPARQL
@@ -46,22 +62,6 @@ LIMIT 100
 ```
 
 [Try it!](https://query.wikidata.org/#SELECT%20%3Fwork%20%3Ftitle%20%3Fdate_time%20WHERE%20%7B%0A%20%20VALUES%20%28%3Fearliest%29%20%7B%28%222018-10-03T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20VALUES%20%28%3Flatest%29%20%7B%28%222018-10-10T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20%3Fwork%20wdt%3AP577%20%3Fdate_time%20.%0A%20%20hint%3APrior%20hint%3ArangeSafe%20true%20.%0A%20%20FILTER%20%28%3Fdate_time%20%3E%3D%20%3Fearliest%29%0A%20%20FILTER%20%28%3Fdate_time%20%3C%3D%20%3Flatest%29%0A%20%20%3Fwork%20wdt%3AP1476%20%3Ftitle%20%3B%0A%20%20%20%20%20%20%20%20wdt%3AP356%20%3Fdoi%20.%0A%7D%20%0AORDER%20BY%20DESC%28%3Fdate_time%29%0ALIMIT%20100)
-
-# PubMed/ PMC
-
-* https://www.ncbi.nlm.nih.gov/pubmed/?term=%22last+7+days%22%5BPDat%5D
-* https://www.ncbi.nlm.nih.gov/pubmed/?term=%22last+7+days%22%5BEDat%5D
-* https://www.ncbi.nlm.nih.gov/pmc/?term=(%22viruses%22%5BMeSH+Terms%5D+OR+%22viruses%22%5BAll+Fields%5D+OR+%22virus%22%5BAll+Fields%5D)+AND+(%222018%2F10%2F03%22%5BPDat%5D+%3A+%222018%2F10%2F10%22%5BPDat%5D)&cmd=DetailsSearch
-
-# Twitter
-
-* https://twitter.com/search?f=tweets&vertical=default&q=((doi%20AND%2010)%20OR%20doi.org%20OR%20pmid%20OR%20pmcid%20OR%20arxiv)%20AND%20(published%20OR%20new%20OR%20paper%20OR%20journal%20OR%20article%20OR%20preprint%20OR%20today%20OR%20yesterday%20OR%20week)
-* https://twitter.com/arXiv_trend
-
-# Google
-
-* via ORCID: https://www.google.com/search?num=100&ei=z4C5W63BPIKCwgSKmZuoCA&q=site%3Aorcid.org+%22oct+2018%22+doi
-* Scholar: https://scholar.google.com/scholar?hl=en&as_ylo=2018&as_yhi=2018&q=%22october+2018%22&btnG=
 
 # See also 
 
