@@ -53,6 +53,15 @@ LIMIT 100
 * https://www.ncbi.nlm.nih.gov/pubmed/?term=%22last+7+days%22%5BEDat%5D
 * https://www.ncbi.nlm.nih.gov/pmc/?term=(%22viruses%22%5BMeSH+Terms%5D+OR+%22viruses%22%5BAll+Fields%5D+OR+%22virus%22%5BAll+Fields%5D)+AND+(%222018%2F10%2F03%22%5BPDat%5D+%3A+%222018%2F10%2F10%22%5BPDat%5D)&cmd=DetailsSearch
 
+# Twitter
+
+* https://twitter.com/search?f=tweets&vertical=default&q=((doi%20AND%2010)%20OR%20doi.org%20OR%20pmid%20OR%20pmcid%20OR%20arxiv)%20AND%20(published%20OR%20new%20OR%20paper%20OR%20journal%20OR%20article%20OR%20preprint%20OR%20today%20OR%20yesterday%20OR%20week)
+* https://twitter.com/arXiv_trend
+
+# Google
+
+* via ORCID: https://www.google.com/search?num=100&ei=z4C5W63BPIKCwgSKmZuoCA&q=site%3Aorcid.org+%22oct+2018%22+doi
+
 # See also 
 
 * [FORCE-2018.md](FORCE-2018.md)
