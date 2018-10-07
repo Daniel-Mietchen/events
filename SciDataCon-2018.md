@@ -23,7 +23,7 @@ This file collects information related to my participation in [SciDataCon 2018](
 
 # Submitted contributions to accepted sessions
 
-- submission deadline was 28 June 2018
+- submission deadline was [28 June 2018](https://github.com/Daniel-Mietchen/events/issues/337)
 - Topics
   - [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
   - [Data sharing as a new component of addressing and preparing for disease outbreaks](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400867604)
