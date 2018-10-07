@@ -36,7 +36,7 @@ This talk is closely related to the one at https://github.com/Daniel-Mietchen/ev
 
 ## Twitter
 
-* https://twitter.com/search?f=tweets&vertical=default&q=((doi%20AND%2010)%20OR%20doi.org%20OR%20pmid%20OR%20pmcid%20OR%20pubmed%20OR%20pmc%20OR%20arxiv)%20AND%20(published%20OR%20new%20OR%20paper%20OR%20journal%20OR%20article%20OR%20preprint%20OR%20today%20OR%20yesterday%20OR%20week)
+* https://twitter.com/search?f=tweets&vertical=default&q=%28%28doi%20AND%2010%29%20OR%20doi.org%20OR%20pmid%20OR%20pmcid%20OR%20pubmed%20OR%20%28ncbi%20AND%20pmc%29%20OR%20arxiv%29%20AND%20%28published%20OR%20new%20OR%20paper%20OR%20journal%20OR%20article%20OR%20preprint%20OR%20today%20OR%20yesterday%20OR%20week%29
   - https://twitter.com/arXiv_trend
   - https://www.technologyreview.com/s/612233/the-best-of-the-physics-arxiv-week-ending-october-6-2018/
 
