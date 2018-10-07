@@ -9,7 +9,7 @@ This file collects information related to my participation in [SciDataCon 2018](
 - [Session 262: Open Data from Cell Biology of Infectious Pathogens, how far are we?](https://www.scidatacon.org/IDW2018/sessions/262/)
   - Monday, 5 November at 11:30-13:00
   - oral presentation: [Data sharing as a new component of addressing and preparing for disease outbreaks](https://www.scidatacon.org/IDW2018/sessions/262/paper/853/) 
-- Poster session
+- [Poster session](https://www.scidatacon.org/IDW2018/posters/)
   - Monday, 5 November at 17:30-20:00
   - My posters: 
     - [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/) (see session 252)
