@@ -2,17 +2,28 @@
 
 This file collects links to my submissions for [SciDataCon 2018](https://www.scidatacon.org/IDW2018/).
 
-# Session proposals 
+# Sessions I am involved in
+
+- [Session 229: Turning FAIR Data Into Reality: discussion, critique and implementation ](https://www.scidatacon.org/IDW2018/sessions/229/)
+  - Tuesday, 6 November at 14:00–15:30
+  - panel contribution, "Action Plan for Research Infrastructures"
+- [Session 164: Scientific Data Challenges for Sustainable Development](https://www.scidatacon.org/IDW2018/sessions/164/)
+  - Thursday, 8 November at 14:00–15:30
+  - poster: [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://www.scidatacon.org/IDW2018/sessions/164/poster/141/)
+    - see also the [original submission](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
+
+
+# Submitted session proposals 
 
 - submitted as per deadline of February 19, 2018
 - Topics
   - [Data sharing in public health emergencies](SciDataCon-2018-data-sharing.md)
   - [Workshop: Integrating Wikidata with research and curation workflows](SciDataCon-2018-Wikidata.md)
-  - FAIR Data Action Plan: discussion, critique and implementation (not public yet; submitted with others)
+  - [Turning FAIR Data Into Reality: discussion, critique and implementation ](https://www.scidatacon.org/IDW2018/sessions/229/) (accepted)
 
-# Contributions to other sessions (putative)
+# Submitted contributions to accepted sessions
 
-- submission deadline is 30 April 2018
+- submission deadline was 28 June 2018
 - Topics
   - Citizen science and open science
   - WikiCite
@@ -22,6 +33,8 @@ This file collects links to my submissions for [SciDataCon 2018](https://www.sci
   - machine-actionable policies
   - a data management plan for a disease outbreak
   - Wikidata and the SDGs
+  - [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
+  - [Data sharing as a new component of addressing and preparing for disease outbreaks](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400867604)
 
 # See also
 
