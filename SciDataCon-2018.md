@@ -1,6 +1,6 @@
 # About
 
-This file collects links to my submissions for [SciDataCon 2018](https://www.scidatacon.org/IDW2018/).
+This file collects information related to my participation in [SciDataCon 2018](https://www.scidatacon.org/IDW2018/).
 
 # Sessions I am involved in
 
@@ -25,16 +25,18 @@ This file collects links to my submissions for [SciDataCon 2018](https://www.sci
 
 - submission deadline was 28 June 2018
 - Topics
+  - [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
+  - [Data sharing as a new component of addressing and preparing for disease outbreaks](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400867604)
+  - [Wikidata and Wikibase as global platforms for democratizing data publishing](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400858737)
+  - [A wiki approach to collecting, curating and managing citizen science data](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400861223)
+  - [A wiki perspective on an Open Science Commons](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400864289)
+  - [WikiCite and Scholia - a Linked Open Data approach to exploring the scholarly literature and related resources](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400893901)
   - Citizen science and open science
-  - WikiCite
-  - Scholia
   - Wikidata as a FAIR data platform
   - Making ethics data FAIR
   - machine-actionable policies
   - a data management plan for a disease outbreak
   - Wikidata and the SDGs
-  - [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
-  - [Data sharing as a new component of addressing and preparing for disease outbreaks](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400867604)
 
 # See also
 
