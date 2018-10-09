@@ -6,4 +6,5 @@ I am mainly involved in two of them
 - [12th Plenary of the Research Data Alliance](http://www.internationaldataweek.org/rda-12th-plenary)
 
 but will also attend some other events throughout the week, e.g.
-- [Data Repositories Day 2018](https://www.icsu-wds.org/events/wds-events/data-repositories-day-2018).
+- [Data Repositories Day 2018](https://www.icsu-wds.org/events/wds-events/data-repositories-day-2018)
+- [UVA/DSI Data Palooza 2018](https://dsi.virginia.edu/datapalooza2018) (remotely).
