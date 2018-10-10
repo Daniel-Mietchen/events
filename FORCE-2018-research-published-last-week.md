@@ -47,11 +47,15 @@ This talk is closely related to the one at https://github.com/Daniel-Mietchen/ev
 
 * keyword search
   - https://twitter.com/search?f=tweets&vertical=default&q=%28%28doi%20AND%2010%29%20OR%20doi.org%20OR%20pmid%20OR%20pmcid%20OR%20pubmed%20OR%20%28ncbi%20AND%20pmc%29%20OR%20arxiv%29%20AND%20%28published%20OR%20new%20OR%20paper%20OR%20journal%20OR%20article%20OR%20preprint%20OR%20today%20OR%20yesterday%20OR%20week%29
-    - a Twitter search can be turned into a TweetedTimes feed ([example](http://tweetedtimes.com/v/10350))
+    - a Twitter search can be turned into a weighted feed ([example](http://tweetedtimes.com/v/10350))
+* lists
+  - https://twitter.com/EvoMRI/lists/labwatching
+    - a Twitter list can be turned into a weighted feed ([example](http://tweetedtimes.com/v/1065), based on [this list](https://twitter.com/EvoMRI/lists/biodiversity))  
 * dedicated accounts  
   - https://twitter.com/arXiv_trend
     - re-use https://www.technologyreview.com/s/612233/the-best-of-the-physics-arxiv-week-ending-october-6-2018/
   - https://twitter.com/ISPM_ZOAP
+  - https://twitter.com/sgclabnotebooks
 
 ## Google
 
