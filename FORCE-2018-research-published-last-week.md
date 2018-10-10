@@ -26,6 +26,15 @@ With thousands of research publications coming out each day, it is hard to keep 
 
 This talk is closely related to the one at https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-research-performed-last-week.md on research *performed* last week, and I would have strongly prefered the two to be scheduled back to back in the same room (either before a session covering scholarly communication more broadly, or before a break), but that other submission did not make it into the program.
 
+# Structure of the session
+
+* Why focus on "last week"?
+* Which definition of "last week"?
+* Research published over *any* week in the past
+* Research *formally* published *over the last week*
+* Research *informally* published *over the last week*
+
+
 # Query examples
 
 ## PubMed/ PMC
