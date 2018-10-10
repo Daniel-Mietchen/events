@@ -137,8 +137,6 @@ LIMIT 10000
 * Questions
   - gaming the metrics via publication date
   - revert workflows altmetric
-  - discovery service
-    - primo / 
   - goal post
   - ORCIDSs making things simpler?
     
