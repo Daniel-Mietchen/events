@@ -111,3 +111,20 @@ LIMIT 10000
 * [FORCE-2018.md](FORCE-2018.md)
 * [Bims: Biomed news](http://biomed.news/)
 * [Today's publications](https://github.com/fnielsen/scholia/issues/513)
+
+
+# Notes
+
+* Twitter 
+  - lists
+  - hashtags
+* Google alerts
+* library workflows
+  - subject librarian/ liaison
+  - systems librarian
+    - PIDs, e.g. ORCID
+* RSS
+* PubCrawler
+* LSHTM
+
+Not mentioned yet: journal TOC alerts
