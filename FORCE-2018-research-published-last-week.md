@@ -132,6 +132,7 @@ LIMIT 10000
   - systems librarian
     - PIDs, e.g. ORCID
 * RSS
+  - using RSS/Atom feeds in Zotero: https://www.zotero.org/support/feeds 
 * PubCrawler
 * LSHTM
 * Not mentioned yet: journal TOC alerts
