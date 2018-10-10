@@ -33,7 +33,7 @@ This talk is closely related to the one at https://github.com/Daniel-Mietchen/ev
 * Research published over *any* week in the past
 * Research *formally* published *over the last week*
 * Research *informally* published *over the last week*
-
+  - with notes on research *performed* last week
 
 # Query examples
 
