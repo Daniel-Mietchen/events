@@ -118,6 +118,7 @@ LIMIT 10000
 * Twitter 
   - lists
   - hashtags
+  - search
 * Google alerts
 * library workflows
   - subject librarian/ liaison
@@ -126,5 +127,4 @@ LIMIT 10000
 * RSS
 * PubCrawler
 * LSHTM
-
-Not mentioned yet: journal TOC alerts
+* Not mentioned yet: journal TOC alerts
