@@ -125,6 +125,9 @@ LIMIT 10000
     - https://scholar.google.ch/scholar_alerts?view_op=list_alerts&hl=en
 * library workflows
   - subject librarian/ liaison
+  - Discover tools
+    - Primo: e.g. https://hollis.harvard.edu/primo-explore/search?vid=HVD2&sortby=rank&lang=en_US
+    - Summon: https://syracuse.summon.serialssolutions.com/search?q=test#!/search?ho=t&l=en&q=test 
   - systems librarian
     - PIDs, e.g. ORCID
 * RSS
