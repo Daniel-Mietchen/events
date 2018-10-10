@@ -130,3 +130,4 @@ LIMIT 10000
 * Not mentioned yet: journal TOC alerts
 * Questions
   - gaming the metrics via publication date
+  - revert workflows altmetric
