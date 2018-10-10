@@ -24,7 +24,7 @@ With thousands of research publications coming out each day, it is hard to keep 
 
 # Anything else we should know? 
 
-This talk is closely related to the one at https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-research-performed-last-week.md , and I would strongly prefer the two to be scheduled back to back in the same room, either before a session covering scholarly communication more broadly, or before a break.
+This talk is closely related to the one at https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-research-performed-last-week.md on research *performed* last week, and I would have strongly prefered the two to be scheduled back to back in the same room (either before a session covering scholarly communication more broadly, or before a break), but that other submission did not make it into the program.
 
 # Query examples
 
@@ -45,6 +45,10 @@ This talk is closely related to the one at https://github.com/Daniel-Mietchen/ev
 
 * via ORCID: https://www.google.com/search?num=100&ei=z4C5W63BPIKCwgSKmZuoCA&q=site%3Aorcid.org+%22oct+2018%22+doi
 * Scholar: https://scholar.google.com/scholar?hl=en&as_ylo=2018&as_yhi=2018&q=%22october+2018%22&btnG=
+
+## Plazi
+
+* Today's new taxa: http://tb.plazi.org/GgServer/static/newToday.html
 
 ## Wikidata
 
