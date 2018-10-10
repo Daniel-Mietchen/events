@@ -128,3 +128,5 @@ LIMIT 10000
 * PubCrawler
 * LSHTM
 * Not mentioned yet: journal TOC alerts
+* Questions
+  - gaming the metrics via publication date
