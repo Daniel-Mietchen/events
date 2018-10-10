@@ -94,7 +94,9 @@ LIMIT 10000
 
 ## Astrophysics Data System
 
-* weekly: myADS Personal Notification Service for arXiv &mdash; http://adsabs.harvard.edu/myADS/cache/324115336_PRE.html
+* weekly: myADS Personal Notification Service for arXiv
+  - http://adsabs.harvard.edu/myADS/cache/278851069_PRE.html
+  - http://adsabs.harvard.edu/myADS/cache/324115336_PRE.html
 * daily: RSS feed for the above http://adsabs.harvard.edu/cgi-bin/exec_myads2/all?id=324115336&db_key=DAILY_PRE&rss=2.1
 
 # See also 
