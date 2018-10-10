@@ -120,6 +120,9 @@ LIMIT 10000
   - hashtags
   - search
 * Google alerts
+  - generic search
+  - Google Scholar
+    - https://scholar.google.ch/scholar_alerts?view_op=list_alerts&hl=en
 * library workflows
   - subject librarian/ liaison
   - systems librarian
