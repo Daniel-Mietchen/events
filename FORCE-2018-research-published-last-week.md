@@ -64,7 +64,12 @@ This talk is closely related to the one at https://github.com/Daniel-Mietchen/ev
 *Here's the query for research published this week last year. Adapting it to this year is left as an exercise to the reader.*
 
 ```SPARQL
-SELECT ?work ?title ?date_time WHERE {
+SELECT DISTINCT 
+?work 
+?title 
+?date_time 
+# ?topiclabel
+WHERE {
   VALUES (?earliest) {("2017-10-03T00:00:00Z"^^xsd:dateTime)}
   VALUES (?latest) {("2017-10-10T00:00:00Z"^^xsd:dateTime)}
   ?work wdt:P577 ?date_time .
@@ -73,12 +78,18 @@ SELECT ?work ?title ?date_time WHERE {
   FILTER (?date_time <= ?latest)
   ?work wdt:P1476 ?title.
   { ?work wdt:P356 [] } UNION { ?work wdt:P698 []} UNION { ?work wdt:P932 []}
+
+#  ?work wdt:P921 ?topic.
+#  ?topic rdfs:label ?topiclabel.
+#  FILTER(LANG(?topiclabel) = "en").
+#  VALUES ?topic { wd:Q11081 wd:Q7892 }
+
 } 
 ORDER BY DESC(?date_time)
-LIMIT 100000
+LIMIT 10000
 ```
 
-* [Try it!](https://query.wikidata.org/#SELECT%20%3Fwork%20%3Ftitle%20%3Fdate_time%20WHERE%20%7B%0A%20%20VALUES%20%28%3Fearliest%29%20%7B%28%222018-10-03T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20VALUES%20%28%3Flatest%29%20%7B%28%222018-10-10T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20%3Fwork%20wdt%3AP577%20%3Fdate_time%20.%0A%20%20hint%3APrior%20hint%3ArangeSafe%20true%20.%0A%20%20FILTER%20%28%3Fdate_time%20%3E%3D%20%3Fearliest%29%0A%20%20FILTER%20%28%3Fdate_time%20%3C%3D%20%3Flatest%29%0A%20%20%3Fwork%20wdt%3AP1476%20%3Ftitle.%0A%20%20%7B%20%3Fwork%20wdt%3AP356%20%5B%5D%20%7D%20UNION%20%7B%20%3Fwork%20wdt%3AP698%20%5B%5D%7D%20UNION%20%7B%20%3Fwork%20wdt%3AP932%20%5B%5D%7D%0A%7D%20%0AORDER%20BY%20DESC%28%3Fdate_time%29%0ALIMIT%2010000)
+* [Try it!]https://query.wikidata.org/#SELECT%20DISTINCT%20%0A%3Fwork%20%0A%3Ftitle%20%0A%3Fdate_time%20%0A%23%20%3Ftopiclabel%0AWHERE%20%7B%0A%20%20VALUES%20%28%3Fearliest%29%20%7B%28%222017-10-03T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20VALUES%20%28%3Flatest%29%20%7B%28%222017-10-10T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20%3Fwork%20wdt%3AP577%20%3Fdate_time%20.%0A%20%20hint%3APrior%20hint%3ArangeSafe%20true%20.%0A%20%20FILTER%20%28%3Fdate_time%20%3E%3D%20%3Fearliest%29%0A%20%20FILTER%20%28%3Fdate_time%20%3C%3D%20%3Flatest%29%0A%20%20%3Fwork%20wdt%3AP1476%20%3Ftitle.%0A%20%20%7B%20%3Fwork%20wdt%3AP356%20%5B%5D%20%7D%20UNION%20%7B%20%3Fwork%20wdt%3AP698%20%5B%5D%7D%20UNION%20%7B%20%3Fwork%20wdt%3AP932%20%5B%5D%7D%0A%0A%23%20%20%3Fwork%20wdt%3AP921%20%3Ftopic.%0A%23%20%20%3Ftopic%20rdfs%3Alabel%20%3Ftopiclabel.%0A%23%20%20FILTER%28LANG%28%3Ftopiclabel%29%20%3D%20%22en%22%29.%0A%23%20%20VALUES%20%3Ftopic%20%7B%20wd%3AQ11081%20wd%3AQ7892%20%7D%0A%0A%7D%20%0AORDER%20BY%20DESC%28%3Fdate_time%29%0ALIMIT%2010000)
   - visualize results in a word cloud, e.g. via https://www.wordclouds.com/
 
 ## Astrophysics Data System
