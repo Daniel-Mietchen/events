@@ -44,6 +44,7 @@ This talk is closely related to the one at https://github.com/Daniel-Mietchen/ev
 * https://www.ncbi.nlm.nih.gov/pmc/?term=(%22viruses%22%5BMeSH+Terms%5D+OR+%22viruses%22%5BAll+Fields%5D+OR+%22virus%22%5BAll+Fields%5D)+AND+(%222018%2F10%2F03%22%5BPDat%5D+%3A+%222018%2F10%2F10%22%5BPDat%5D)&cmd=DetailsSearch
 * Specifically for NCBI -- Automated search with myNCBI: https://www.ncbi.nlm.nih.gov/guide/howto/receive-search-results/  
 * Here is a neat large-scale way to search for stuff:  https://dataguide.nlm.nih.gov/classes/edirect-for-pubmed/materials.html
+  - EDirect is a command line implementation of the NCBI EUtilities, an API for a number of NCBI Databases.  
 
 ## Twitter
 
