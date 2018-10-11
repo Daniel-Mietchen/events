@@ -142,6 +142,13 @@ LIMIT 10000
     - Summon: https://syracuse.summon.serialssolutions.com/search?q=test#!/search?ho=t&l=en&q=test 
   - systems librarian
     - PIDs, e.g. ORCID
+      - problems: 
+        - few researchers have ORCIDS
+        - those who do often provide no or no public information in their ORCID profile
+          - sample search: https://orcid.org/orcid-search/quick-search?searchQuery=Li+Li
+            - example: https://orcid.org/0000-0002-6825-7721
+        - if ORCID profiles have public content, that often does not contain structured information (e.g. DOIs for papers)
+          - example: https://orcid.org/0000-0002-9793-3995
 * RSS
   - using RSS/Atom feeds in Zotero: https://www.zotero.org/support/feeds 
 * PubCrawler
