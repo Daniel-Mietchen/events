@@ -49,6 +49,11 @@ This talk is closely related to the one at https://github.com/Daniel-Mietchen/ev
 
 * keyword search
   - https://twitter.com/search?f=tweets&vertical=default&q=%28%28doi%20AND%2010%29%20OR%20doi.org%20OR%20pmid%20OR%20pmcid%20OR%20pubmed%20OR%20%28ncbi%20AND%20pmc%29%20OR%20arxiv%29%20AND%20%28published%20OR%20new%20OR%20paper%20OR%20journal%20OR%20article%20OR%20preprint%20OR%20today%20OR%20yesterday%20OR%20week%29
+    - some of the resources discovered this way:
+      - https://doi.org/10.1093/afraf/ady037
+      - https://doi.org/10.1039/C8CE01002A
+      - https://doi.org/10.5194/bg-15-5929-2018
+      - https://twitter.com/GScholarDigest/status/1049946274521382912
     - a Twitter search can be turned into a weighted feed ([example](http://tweetedtimes.com/v/10350))
 * lists
   - https://twitter.com/EvoMRI/lists/labwatching
@@ -58,6 +63,11 @@ This talk is closely related to the one at https://github.com/Daniel-Mietchen/ev
     - re-use https://www.technologyreview.com/s/612233/the-best-of-the-physics-arxiv-week-ending-october-6-2018/
   - https://twitter.com/ISPM_ZOAP
   - https://twitter.com/sgclabnotebooks
+  - https://twitter.com/BehavEcolPapers
+  - https://twitter.com/cohesin_papers
+    - https://www.ncbi.nlm.nih.gov/pubmed/30293721?dopt=Abstract&utm_source=dlvr.it&utm_medium=twitter
+  - https://twitter.com/hep_ph
+    - https://arxiv.org/abs/1810.04138
 
 ## Google
 
@@ -146,6 +156,9 @@ LIMIT 10000
 # Browsing history
 
 During the session, we made heavy use of online resources, and I tried to keep track of the main ones by leaving the respective browser tabs open. I will now close them and put the links in here.
+
+
+
 
 - [Wikidata query for authors who published papers between 3 and 10 October 2018](https://query.wikidata.org/#SELECT%20DISTINCT%20%0A%23%3Fwork%20%0A%23%3Ftitle%20%0A%3Fauthor%0A%3Fauthorlabel%0A%3Fdate_time%20%0AWHERE%20%7B%0A%20%20VALUES%20%28%3Fearliest%29%20%7B%28%222018-10-03T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20VALUES%20%28%3Flatest%29%20%7B%28%222018-10-10T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%7D%0A%20%20%3Fwork%20wdt%3AP577%20%3Fdate_time%20.%0A%20%20hint%3APrior%20hint%3ArangeSafe%20true%20.%0A%20%20FILTER%20%28%3Fdate_time%20%3E%3D%20%3Fearliest%29%0A%20%20FILTER%20%28%3Fdate_time%20%3C%3D%20%3Flatest%29%0A%20%20%3Fwork%20wdt%3AP1476%20%3Ftitle.%0A%20%20%7B%20%3Fwork%20wdt%3AP356%20%5B%5D%20%7D%20UNION%20%7B%20%3Fwork%20wdt%3AP698%20%5B%5D%7D%20UNION%20%7B%20%3Fwork%20wdt%3AP932%20%5B%5D%7D%0A%0A%20%20%3Fwork%20wdt%3AP50%20%3Fauthor.%0A%20%20%3Fauthor%20rdfs%3Alabel%20%3Fauthorlabel.%0A%20%20FILTER%28lang%28%3Fauthorlabel%29%20%3D%20%22en%22%29%0A%0A%7D%20%0AORDER%20BY%20DESC%28%3Fdate_time%29%0ALIMIT%2010000)
   - [Scholia profile for one of them](https://tools.wmflabs.org/scholia/author/Q543772)
