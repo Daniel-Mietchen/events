@@ -195,5 +195,5 @@ LIMIT 10000
     
 # Browsing history
 
-During the session, we made heavy use of online resources, and I tried to keep track of the main ones by leaving the respective browser tabs open. I will now close them and put the links in here.
+During the session, we made heavy use of online resources, and I tried to keep track of the main ones by leaving the respective browser tabs open. Those open tabs have now been incorporated in the notes here.
 
