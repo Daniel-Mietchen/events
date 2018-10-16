@@ -66,7 +66,7 @@ This talk is closely related to the one at https://github.com/Daniel-Mietchen/ev
     - re-use https://www.technologyreview.com/s/612233/the-best-of-the-physics-arxiv-week-ending-october-6-2018/
   - https://twitter.com/ISPM_ZOAP
   - https://twitter.com/sgclabnotebooks
-    - see also the "Research performed last week" section below
+    - see also the "[Research performed last week](https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-research-published-last-week.md#research-performed-last-week)" section below
   - https://twitter.com/BehavEcolPapers
   - https://twitter.com/cohesin_papers
     - https://www.ncbi.nlm.nih.gov/pubmed/30293721?dopt=Abstract&utm_source=dlvr.it&utm_medium=twitter
@@ -130,6 +130,17 @@ LIMIT 10000
 * daily: RSS feed for the above http://adsabs.harvard.edu/cgi-bin/exec_myads2/all?id=324115336&db_key=DAILY_PRE&rss=2.1
 
 # Research performed last week
+
+- https://twitter.com/sgclabnotebooks
+- https://twitter.com/EvoMRI/lists/labwatching
+- https://openwetware.org/wiki/Special:RecentChanges
+  - https://openwetware.org/wiki/User:Rachel_Gill/Notebook/Chem_681_2018/2018/10/03
+- http://openzika.ufg.br/experiments/
+- https://zika.labkey.com/project/home/begin.view?
+- https://www.protocols.io/
+- https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki
+- https://wikibase-registry.wmflabs.org/
+
 
 # See also 
 
