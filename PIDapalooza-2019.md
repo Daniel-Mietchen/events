@@ -12,10 +12,16 @@ Many research projects require ethical review, and publications resulting from a
 
 Here, we will look at examples taken from a range of ethics processes from various disciplines and highlight use cases for identifiers in such contexts, as well as the potential for automation, especially in terms of generating, curating and following up on ethics statements in scholarly communications like grant proposals, data management plans or publications. This submission builds on a [PIDapalooza 2016](PIDapalooza-2016.md) talk and will be given from https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza-2019.md .
 
-# How would you run the session to support the spirit of PIDapalooza as a laid-back, welcoming, energetic and exciting, sociable and serious gathering? (Optional)
+# Session philosophy
+
+*How would you run the session to support the spirit of PIDapalooza as a laid-back, welcoming, energetic and exciting, sociable and serious gathering? (Optional)*
 
 - Examples will be drawn from across disciplines, with a certain preference to phrasings that can be interpreted in a funny way.
 
 # Your bio 
 
-https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Biographical_sketch
+* https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Biographical_sketch
+
+# See also 
+
+* [Deon](http://deon.drivendata.org/) &mdash; data science ethics checklist
