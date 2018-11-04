@@ -12,7 +12,6 @@ This file collects information related to my participation in [SciDataCon 2018](
 - [Poster session](https://www.scidatacon.org/IDW2018/posters/)
   - Monday, 5 November at 17:30-20:00
   - My posters: 
-    - 141: [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://www.scidatacon.org/IDW2018/sessions/164/poster/141/) (see session 164)
     - 168: [WikiCite and Scholia - a Linked Open Data approach to exploring the scholarly literature and related resources](https://www.scidatacon.org/IDW2018/sessions/264/poster/168/) (General Poster Session with ID 264, taking place on 5 November at 17:30-20:00 in Room Tsodilo A and Entrance)
     - 150: [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/) (see session 211)
     - 208: [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/) (see session 252)
@@ -24,7 +23,7 @@ This file collects information related to my participation in [SciDataCon 2018](
   - panel contribution, "Action Plan for Research Infrastructures"
 - [Session 164: Scientific Data Challenges for Sustainable Development](https://www.scidatacon.org/IDW2018/sessions/164/)
   - Tuesday, 6 November at 16:00–17:30
-  - poster: [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://www.scidatacon.org/IDW2018/sessions/164/poster/141/)
+  - oral presentation: [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
 - [Session 252: Delivering a Global Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/)
  Session Delivering a Global Open Science Commons with ID 252, which will take place on 11/8/2018 at 11:30 - 13:00
   - Thursday, 8 November at **11:30 - 13:00** in Room Serondela 3
@@ -48,7 +47,7 @@ This file collects information related to my participation in [SciDataCon 2018](
 - submission deadline was [28 June 2018](https://github.com/Daniel-Mietchen/events/issues/337)
 - Topics
   - [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
-    - accepted as a poster
+    - submitted as a talk, accepted as poster 141, then converted back into an oral presentation
   - [Data sharing as a new component of addressing and preparing for disease outbreaks](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400867604)
     - accepted as an oral presentation
   - [Wikidata and Wikibase as global platforms for democratizing data publishing](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400858737)
