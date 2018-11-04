@@ -22,7 +22,8 @@ This file collects information related to my participation in [SciDataCon 2018](
 - [Session 229: Turning FAIR Data Into Reality: discussion, critique and implementation](https://www.scidatacon.org/IDW2018/sessions/229/)
   - Tuesday, 6 November at **14:00–15:30**
   - panel contribution, "Action Plan for Research Infrastructures"
-- Tuesday, 6 November at 16:00–17:30
+- [Session 164: Scientific Data Challenges for Sustainable Development](https://www.scidatacon.org/IDW2018/sessions/164/)
+  - Tuesday, 6 November at 16:00–17:30
   - poster: [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://www.scidatacon.org/IDW2018/sessions/164/poster/141/)
 - [Session 252: Delivering a Global Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/)
   - Thursday, 8 November at **11:30 - 13:00**
@@ -30,7 +31,6 @@ This file collects information related to my participation in [SciDataCon 2018](
 - [Session 221: Citizen Science Data – from Collection to Curation to Management](https://www.scidatacon.org/IDW2018/sessions/211/)
   - Thursday, 8 November at **11:30 - 13:00** and **14:00–15:30**
   - poster: [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/)
-- [Session 164: Scientific Data Challenges for Sustainable Development](https://www.scidatacon.org/IDW2018/sessions/164/)
 
 # Submitted session proposals 
 
