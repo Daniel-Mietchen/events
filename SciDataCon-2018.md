@@ -26,7 +26,8 @@ This file collects information related to my participation in [SciDataCon 2018](
   - Tuesday, 6 November at 16:00–17:30
   - poster: [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://www.scidatacon.org/IDW2018/sessions/164/poster/141/)
 - [Session 252: Delivering a Global Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/)
-  - Thursday, 8 November at **11:30 - 13:00**
+ Session Delivering a Global Open Science Commons with ID 252, which will take place on 11/8/2018 at 11:30 - 13:00
+  - Thursday, 8 November at **11:30 - 13:00** in Room Serondela 3
   - poster: [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/)
 - [Session 221: Citizen Science Data – from Collection to Curation to Management](https://www.scidatacon.org/IDW2018/sessions/211/)
   - Thursday, 8 November at **11:30 - 13:00** and **14:00–15:30**
