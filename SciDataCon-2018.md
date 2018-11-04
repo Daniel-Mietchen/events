@@ -8,7 +8,7 @@ This file collects information related to my participation in [SciDataCon 2018](
 
 - [Session 262: Open Data from Cell Biology of Infectious Pathogens, how far are we?](https://www.scidatacon.org/IDW2018/sessions/262/)
   - Monday, 5 November at 11:30-13:00
-  - oral presentation: [Data sharing as a new component of addressing and preparing for disease outbreaks](https://www.scidatacon.org/IDW2018/sessions/262/paper/853/) 
+  - oral presentation 853: [Data sharing as a new component of addressing and preparing for disease outbreaks](https://www.scidatacon.org/IDW2018/sessions/262/paper/853/) 
 - [Poster session](https://www.scidatacon.org/IDW2018/posters/)
   - Monday, 5 November at 17:30-20:00
   - My posters: 
@@ -18,7 +18,7 @@ This file collects information related to my participation in [SciDataCon 2018](
     - 208: [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/) (see session 252)
 - [Session 196: Democratising Data Publishing: A Global Perspective](https://www.scidatacon.org/IDW2018/sessions/196/)
   - Tuesday, 6 November at **14:00–15:30** and 16:00 - 17:30
-  - oral presentation: [Wikidata and Wikibase as global platforms for democratizing data publishing](https://www.scidatacon.org/IDW2018/sessions/196/paper/849/)
+  - oral presentation 849: [Wikidata and Wikibase as global platforms for democratizing data publishing](https://www.scidatacon.org/IDW2018/sessions/196/paper/849/)
 - [Session 229: Turning FAIR Data Into Reality: discussion, critique and implementation](https://www.scidatacon.org/IDW2018/sessions/229/)
   - Tuesday, 6 November at **14:00–15:30**
   - panel contribution, "Action Plan for Research Infrastructures"
