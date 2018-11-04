@@ -9,5 +9,4 @@ I am mainly involved in three of them
 - [World Data Science Data Repositories Day 2018](https://www.icsu-wds.org/events/wds-events/data-repositories-day-2018)
   - Certification & FAIR
 
-but will also attend some other events throughout the week, e.g.
-- [UVA/DSI Data Palooza 2018](https://dsi.virginia.edu/datapalooza2018) (remotely).
+but will also try to attend [UVA/DSI Data Palooza 2018](https://dsi.virginia.edu/datapalooza2018) remotely.
