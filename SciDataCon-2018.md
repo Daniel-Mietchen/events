@@ -15,14 +15,14 @@ This file collects information related to my participation in [SciDataCon 2018](
 - [Session 222: Health Databases across the African Continent: What do we have and what do we need for Sustainable Development?](https://www.scidatacon.org/IDW2018/sessions/222/) (merged from [Session 262: Open Data from Cell Biology of Infectious Pathogens, how far are we?](https://www.scidatacon.org/IDW2018/sessions/262/))
   - Tuesday, 6 November at **14:00–15:30** in Serondela 1 and 2
   - oral presentation 853: [Data sharing as a new component of addressing and preparing for disease outbreaks](https://www.scidatacon.org/IDW2018/sessions/262/paper/853/) 
-- [Session 196: Democratising Data Publishing: A Global Perspective](https://www.scidatacon.org/IDW2018/sessions/196/)
-  - Tuesday, 6 November at **14:00–15:30** and 16:00 - 17:30 in Serondela 4
-  - oral presentation 849: [Wikidata and Wikibase as global platforms for democratizing data publishing](https://www.scidatacon.org/IDW2018/sessions/196/paper/849/)
 - [Session 229: Turning FAIR Data Into Reality: discussion, critique and implementation](https://www.scidatacon.org/IDW2018/sessions/229/)
   - Tuesday, 6 November at **14:00–15:30** in Okavango 1
   - panel contribution, "Action Plan for Research Infrastructures"
+- [Session 196: Democratising Data Publishing: A Global Perspective](https://www.scidatacon.org/IDW2018/sessions/196/)
+  - Tuesday, 6 November at **14:00–15:30** and **16:00 - 17:30** in Serondela 4
+  - oral presentation 849: [Wikidata and Wikibase as global platforms for democratizing data publishing](https://www.scidatacon.org/IDW2018/sessions/196/paper/849/)
 - [Session 164: Scientific Data Challenges for Sustainable Development](https://www.scidatacon.org/IDW2018/sessions/164/)
-  - Tuesday, 6 November at 16:00–17:30
+  - Tuesday, 6 November at **16:00–17:30** in Tsodilo B3
   - oral presentation: [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
 - [Session 252: Delivering a Global Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/)
  Session Delivering a Global Open Science Commons with ID 252, which will take place on 11/8/2018 at 11:30 - 13:00
