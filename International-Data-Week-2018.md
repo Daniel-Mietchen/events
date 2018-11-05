@@ -10,3 +10,34 @@ I am mainly involved in three of them
   - Certification & FAIR
 
 but will also try to attend [UVA/DSI Data Palooza 2018](https://dsi.virginia.edu/datapalooza2018) remotely.
+
+# Sessions I am involved in
+
+*Times marked in **bold** indicate an overlap*
+
+- [Poster session](https://www.scidatacon.org/IDW2018/posters/)
+  - Monday, 5 November at 17:30-20:00
+  - My posters: 
+    - 168: [WikiCite and Scholia - a Linked Open Data approach to exploring the scholarly literature and related resources](https://www.scidatacon.org/IDW2018/sessions/264/poster/168/) (General Poster Session with ID 264, taking place on 5 November at 17:30-20:00 in Room Tsodilo A and Entrance)
+    - 150: [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/) (see session 211)
+    - 208: [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/) (see session 252)
+- [Session 222: Health Databases across the African Continent: What do we have and what do we need for Sustainable Development?](https://www.scidatacon.org/IDW2018/sessions/222/) (merged from [Session 262: Open Data from Cell Biology of Infectious Pathogens, how far are we?](https://www.scidatacon.org/IDW2018/sessions/262/))
+  - Tuesday, 6 November at **14:00–15:30** in Serondela 1 and 2
+  - oral presentation 853: [Data sharing as a new component of addressing and preparing for disease outbreaks](https://www.scidatacon.org/IDW2018/sessions/262/paper/853/) 
+- [Session 229: Turning FAIR Data Into Reality: discussion, critique and implementation](https://www.scidatacon.org/IDW2018/sessions/229/)
+  - Tuesday, 6 November at **14:00–15:30** in Okavango 1
+  - panel contribution, "Action Plan for Research Infrastructures"
+- [Session 196: Democratising Data Publishing: A Global Perspective](https://www.scidatacon.org/IDW2018/sessions/196/)
+  - Tuesday, 6 November at **14:00–15:30** and **16:00 - 17:30** in Serondela 4
+  - oral presentation 849: [Wikidata and Wikibase as global platforms for democratizing data publishing](https://www.scidatacon.org/IDW2018/sessions/196/paper/849/)
+- [Session 164: Scientific Data Challenges for Sustainable Development](https://www.scidatacon.org/IDW2018/sessions/164/)
+  - Tuesday, 6 November at **16:00–17:30** in Tsodilo B3
+  - oral presentation: [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
+- [Session 252: Delivering a Global Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/)
+ Session Delivering a Global Open Science Commons with ID 252, which will take place on 11/8/2018 at 11:30 - 13:00
+  - Thursday, 8 November at **11:30 - 13:00** in Room Serondela 3
+  - poster: [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/)
+- [Session 211: Citizen Science Data – from Collection to Curation to Management](https://www.scidatacon.org/IDW2018/sessions/211/)
+  - Thursday, 8 November at **11:30 - 13:00** and 14:00–15:30 in Room Serondela 4
+  - poster: [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/)
+
