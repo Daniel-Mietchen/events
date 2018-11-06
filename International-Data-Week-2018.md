@@ -37,7 +37,7 @@ See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes ta
   - Wednesday, 7 November at 9:30 - 11:00 in Room Tsodilo A
 - RDA breakout 5 &mdash; [Data Reuse Ethics : Specifying Roles and Responsibilities](https://www.rd-alliance.org/ig-ethics-and-social-aspects-data-rda-12th-plenary-meeting)
   - Wednesday, 7 November at 14:00 - 15:30 in Room Tsodilo B1
-- SciDataCon [Session 252: Delivering a Global Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/), which will take place on 11/8/2018 at 11:30 - 13:00
+- SciDataCon [Session 252: Delivering a Global Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/)
   - Thursday, 8 November at **11:30 - 13:00** in Room Serondela 3
   - poster: [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/)
 - SciDataCon [Session 211: Citizen Science Data – from Collection to Curation to Management](https://www.scidatacon.org/IDW2018/sessions/211/)
