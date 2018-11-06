@@ -30,6 +30,7 @@ See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes ta
 - SciDataCon [Session 196: Democratising Data Publishing: A Global Perspective](https://www.scidatacon.org/IDW2018/sessions/196/)
   - Tuesday, 6 November at **14:00–15:30** and **16:00 - 17:30** in Serondela 4
   - oral presentation 849: [Wikidata and Wikibase as global platforms for democratizing data publishing](https://www.scidatacon.org/IDW2018/sessions/196/paper/849/)
+    - [slides](https://docs.google.com/presentation/d/1lqrgbA-Z0BQmkXDqDZtdR6EbHqDl0MM9POeyqmHG6KE/edit)
 - SciDataCon [Session 164: Scientific Data Challenges for Sustainable Development](https://www.scidatacon.org/IDW2018/sessions/164/)
   - Tuesday, 6 November at **16:00–17:30** in Tsodilo B3
   - oral presentation: [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
