@@ -8,6 +8,8 @@ I am mainly involved in three of them
 
 but will also try to attend [UVA/DSI Data Palooza 2018](https://dsi.virginia.edu/datapalooza2018) remotely.
 
+See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes taken around the event.
+
 # Sessions I am involved in
 
 *Times marked in **bold** indicate an overlap*
