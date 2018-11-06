@@ -19,7 +19,7 @@ For any specific future disaster, many details are of course unknowable at prese
 
 Similar questions can be asked for other disaster scenarios like earthquakes, wildfires, storms or oil spills, and information related to such questions already forms the backbone of institutionalized disaster response and prevention mechanisms in many contexts. What is often missing, though, is the interoperability - on both long and short time scales - of such existing mechanisms across actors, jurisdictions, disaster types, or research disciplines. Some pockets of basic interoperability exist in various places, e.g. emergency phone numbers are harmonized within most nations and across EU member states, tsunami warnings can be broadcast nationally or regionally within seconds of an earthquake, and high-speed trains can come to a stop in response. How can we achieve similar harmonization around disaster-related data, repositories, APIs, data models, simulations and related issues, how would that affect humans and machines, and how can we track relevant progress with respect to the Sustainable Development Goals?
 
-# Slides
+# Presentation
 
 This talk will not have slides beyond this page. Instead, I will walk the audience through a set of online resources linked below and comment on them from the perspective of how the concept of data/ output management plans that is popularized in research data contexts can be enhanced by ideas about making those plans machine actionable and then applied in the context of managing disaster-related data:
 - Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol 11(10): e1004525. https://doi.org/10.1371/journal.pcbi.1004525
