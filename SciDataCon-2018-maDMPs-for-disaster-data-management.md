@@ -1,10 +1,10 @@
 # About
 
-This file hosts a contribution to SciDataCon 2018 [session 16: Scientific Data Challenges for Sustainable Development4](https://www.scidatacon.org/IDW2018/sessions/164/) in form of an oral presentation.
+This file hosts a contribution to SciDataCon 2018 [session 16: Scientific Data Challenges for Sustainable Development](https://www.scidatacon.org/IDW2018/sessions/164/) in form of an oral presentation. See [here](International-Data-Week-2018.md) for my schedule and notes around the event more generally.
 
 # Title
 
-To what extent can machine-actionable data management plans help automate disaster-related workflows?
+[To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
 
 # Abstract
 
