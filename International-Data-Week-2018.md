@@ -17,9 +17,10 @@ See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes ta
 - [Poster session](https://www.scidatacon.org/IDW2018/posters/)
   - Monday, 5 November at 17:30-20:00
   - My posters: 
-    - 168: [WikiCite and Scholia - a Linked Open Data approach to exploring the scholarly literature and related resources](https://www.scidatacon.org/IDW2018/sessions/264/poster/168/) (General Poster Session with ID 264, taking place on 5 November at 17:30-20:00 in Room Tsodilo A and Entrance)
-    - 150: [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/) (see session 211)
-    - 208: [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/) (see session 252)
+    - RDA poster 7 ["Ten principles for machine-actionable data management plans"](https://www.rd-alliance.org/rdas-12th-plenary-poster-session) ([in action](https://twitter.com/GigaScience/status/1059447556684607488)) and RDA breakout 3 session "[Use cases for machine-actionable data management plans](https://www.rd-alliance.org/wg-dmp-common-standards-rda-12th-plenary-meeting)" this morning
+    - SciDataCon poster 168: [WikiCite and Scholia - a Linked Open Data approach to exploring the scholarly literature and related resources](https://www.scidatacon.org/IDW2018/sessions/264/poster/168/) (General SciDataCon Poster Session with ID 264, taking place on 5 November at 17:30-20:00 in Room Tsodilo A and Entrance)
+    - SciDataCon poster 150: [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/) (see SciDataCon session 211)
+    - SciDataCon poster 208: [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/) (see SciDataCon session 252)
 - SciDataCon [Session 222: Health Databases across the African Continent: What do we have and what do we need for Sustainable Development?](https://www.scidatacon.org/IDW2018/sessions/222/) (merged from [Session 262: Open Data from Cell Biology of Infectious Pathogens, how far are we?](https://www.scidatacon.org/IDW2018/sessions/262/))
   - Tuesday, 6 November at **14:00–15:30** in Serondela 1 and 2
   - oral presentation 853: [Data sharing as a new component of addressing and preparing for disease outbreaks](https://www.scidatacon.org/IDW2018/sessions/262/paper/853/) 
