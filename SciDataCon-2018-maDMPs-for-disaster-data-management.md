@@ -1,6 +1,6 @@
 # About
 
-This file hosts a contribution to SciDataCon 2018 [session 16: Scientific Data Challenges for Sustainable Development](https://www.scidatacon.org/IDW2018/sessions/164/) in form of an oral presentation. See [here](International-Data-Week-2018.md) for my schedule and notes around the event more generally.
+This file hosts a contribution in form of an oral presentation to SciDataCon 2018 [session 164: Scientific Data Challenges for Sustainable Development](https://www.scidatacon.org/IDW2018/sessions/164/) taking place on Tuesday, 6 November at 16:00–17:30 in room Tsodilo B3. See [here](International-Data-Week-2018.md) for my schedule and notes around the event more generally.
 
 # Title
 
