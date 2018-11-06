@@ -24,9 +24,11 @@ See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes ta
 - SciDataCon [Session 222: Health Databases across the African Continent: What do we have and what do we need for Sustainable Development?](https://www.scidatacon.org/IDW2018/sessions/222/) (merged from [Session 262: Open Data from Cell Biology of Infectious Pathogens, how far are we?](https://www.scidatacon.org/IDW2018/sessions/262/))
   - Tuesday, 6 November at **14:00–15:30** in Serondela 1 and 2
   - oral presentation 853: [Data sharing as a new component of addressing and preparing for disease outbreaks](https://www.scidatacon.org/IDW2018/sessions/262/paper/853/) 
+    - [slides](https://github.com/Daniel-Mietchen/events/blob/master/SciDataCon-2018-data-sharing.md)
 - SciDataCon [Session 229: Turning FAIR Data Into Reality: discussion, critique and implementation](https://www.scidatacon.org/IDW2018/sessions/229/)
   - Tuesday, 6 November at **14:00–15:30** in Okavango 1
   - panel contribution, "Action Plan for Research Infrastructures"
+    - [slides](https://drive.google.com/file/d/1xpSt52_I-EspQl4x_ttI5XxaWqp_W6Vz/view?usp=sharing)
 - SciDataCon [Session 196: Democratising Data Publishing: A Global Perspective](https://www.scidatacon.org/IDW2018/sessions/196/)
   - Tuesday, 6 November at **14:00–15:30** and **16:00 - 17:30** in Serondela 4
   - oral presentation 849: [Wikidata and Wikibase as global platforms for democratizing data publishing](https://www.scidatacon.org/IDW2018/sessions/196/paper/849/)
