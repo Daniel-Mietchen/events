@@ -345,18 +345,10 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 (Fire truck photo by [Australian Department of Foreign Affairs and Trade](https://www.flickr.com/people/106853342@N04), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en); data sharing illustration by Ainsley Seago, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en))
 
 
-# See also
-
-* [Data sharing in public health emergencies: A study of current policies, practices and infrastructure supporting the sharing of data to prevent and respond to epidemic and pandemic threats](https://doi.org/10.6084/m9.figshare.5897608.v1) &mdash; a paper that I was [notified](https://twitter.com/ElizabethPisani/status/968259461608562690) of in response to a tweet about this talk. 
-* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) &mdash; a presentation for [SciDataCon 2016](http://www.scidatacon.org/2016/)
-* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
-* [More details on sharing in response to public health emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
-* [Tweets about Endangered Data Week](https://twitter.com/search?vertical=default&q=EndangeredData%20OR%20(endangered%20AND%20data))
-
 
 # About
 
-This file hosts a contribution to [SciDataCon 2018](https://www.scidatacon.org/IDW2018/). Originally submitted as a separate session "Data sharing in public health emergencies", it was then merged into a related session [Open Data from Cell Biology of Infectious Pathogens, how far are we? ](https://www.scidatacon.org/IDW2018/sessions/262/), which was then merged further into the session [Health Databases across the African Continent: What do we have and what do we need for Sustainable Development?](https://www.scidatacon.org/IDW2018/sessions/222/) taking place on 6 November at 14:00–15:30 in rooms Serondela 1 and 2, where this contribution will be one of four oral presentations that lead to a panel discussion.
+This file hosts a contribution to [SciDataCon 2018](https://www.scidatacon.org/IDW2018/). It continues a series of talks on the subject that was started with a [SciDatCon 2016 talk](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md). For SciDataCon 2018, it was originally submitted as a separate session "Data sharing in public health emergencies", then merged into a related session [Open Data from Cell Biology of Infectious Pathogens, how far are we? ](https://www.scidatacon.org/IDW2018/sessions/262/), which was then merged further into the session [Health Databases across the African Continent: What do we have and what do we need for Sustainable Development?](https://www.scidatacon.org/IDW2018/sessions/222/) taking place on 6 November at 14:00–15:30 in rooms Serondela 1 and 2, where this contribution will be one of four oral presentations that lead to a panel discussion.
 
 For a previous version of this talk, given on February 26, 2018 in the framework of [Endangered Data Week](http://endangereddataweek.org/), see [here](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md).
 
@@ -382,3 +374,11 @@ This submission addresses all four of the high-level themes of SciDataCon 2018:
 
 A version of this abstract can be found at https://github.com/Daniel-Mietchen/events/blob/master/SciDataCon-2018-data-sharing.md .
 
+
+# See also
+
+* [Data sharing in public health emergencies: A study of current policies, practices and infrastructure supporting the sharing of data to prevent and respond to epidemic and pandemic threats](https://doi.org/10.6084/m9.figshare.5897608.v1) &mdash; a paper that I was [notified](https://twitter.com/ElizabethPisani/status/968259461608562690) of in response to a tweet about this talk. 
+* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) &mdash; a presentation for [SciDataCon 2016](http://www.scidatacon.org/2016/)
+* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
+* [More details on sharing in response to public health emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
+ - including the [change log](https://github.com/Daniel-Mietchen/datascience/commits/master/emergency-response.md)
