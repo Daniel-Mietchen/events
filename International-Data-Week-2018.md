@@ -33,9 +33,9 @@ See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes ta
   - Tuesday, 6 November at **16:00–17:30** in Tsodilo B3
   - oral presentation: [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
 - RDA breakout 3 &mdash; [Use cases for machine-actionable data management plans](https://www.rd-alliance.org/wg-dmp-common-standards-rda-12th-plenary-meeting)
-  - Wednesday, 7 November at **9:30 - 11:00** in Room Tsodilo A
+  - Wednesday, 7 November at 9:30 - 11:00 in Room Tsodilo A
 - RDA breakout 5 &mdash; [Data Reuse Ethics : Specifying Roles and Responsibilities](https://www.rd-alliance.org/ig-ethics-and-social-aspects-data-rda-12th-plenary-meeting)
-  - Wednesday, 7 November at **14:00 - 15:30** in Room Tsodilo B1
+  - Wednesday, 7 November at 14:00 - 15:30 in Room Tsodilo B1
 - SciDataCon [Session 252: Delivering a Global Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/)
  Session Delivering a Global Open Science Commons with ID 252, which will take place on 11/8/2018 at 11:30 - 13:00
   - Thursday, 8 November at **11:30 - 13:00** in Room Serondela 3
