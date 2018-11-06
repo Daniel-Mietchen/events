@@ -35,7 +35,8 @@ See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes ta
     - [slides](https://docs.google.com/presentation/d/1lqrgbA-Z0BQmkXDqDZtdR6EbHqDl0MM9POeyqmHG6KE/edit)
 - SciDataCon [Session 164: Scientific Data Challenges for Sustainable Development](https://www.scidatacon.org/IDW2018/sessions/164/)
   - Tuesday, 6 November at **16:00–17:30** in Tsodilo B3
-  - oral presentation: [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://github.com/Daniel-Mietchen/events/issues/337#issuecomment-400886404)
+  - oral presentation: [To what extent can machine-actionable data management plans help automate disaster-related workflows?](https://www.scidatacon.org/IDW2018/sessions/164/paper/926/)
+    - [slides](SciDataCon-2018-maDMPs-for-disaster-data-management.md)
 - RDA breakout 3 &mdash; [Use cases for machine-actionable data management plans](https://www.rd-alliance.org/wg-dmp-common-standards-rda-12th-plenary-meeting)
   - Wednesday, 7 November at 9:30 - 11:00 in Room Tsodilo A
 - RDA breakout 5 &mdash; [Data Reuse Ethics : Specifying Roles and Responsibilities](https://www.rd-alliance.org/ig-ethics-and-social-aspects-data-rda-12th-plenary-meeting)
