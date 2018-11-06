@@ -1,7 +1,7 @@
 # Data sharing as a new component of addressing and preparing for disease outbreaks
 
-*[About](Endangered-Data-Week-UVA-2018.md#about)・[Abstract](Endangered-Data-Week-UVA-2018.md#abstract)・[Timeline](Endangered-Data-Week-UVA-2018.md#historic-timeline)・[Reusing data](Endangered-Data-Week-UVA-2018.md#reusing-data)・
-[Future?](Endangered-Data-Week-UVA-2018.md#future)・[Endangered Data Week](Endangered-Data-Week-UVA-2018.md#endangered-data-week)・[Epilog](Endangered-Data-Week-UVA-2018.md#epilog)・[See also](Endangered-Data-Week-UVA-2018.md#see-also)*
+*[About](SciDataCon-2018-data-sharing.md#about)・[Abstract](SciDataCon-2018-data-sharing.md#abstract)・[Timeline](SciDataCon-2018-data-sharing.md#historic-timeline)・[Reusing data](SciDataCon-2018-data-sharing.md#reusing-data)・
+[Future?](SciDataCon-2018-data-sharing.md#future)・[Epilog](SciDataCon-2018-data-sharing.md#epilog)・[See also](SciDataCon-2018-data-sharing.md#see-also)*
 
 [![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) (by [NuclearVacuum](https://commons.wikimedia.org/wiki/User:NuclearVacuum) and [Kahusi](https://commons.wikimedia.org/wiki/User:Kahusi), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
