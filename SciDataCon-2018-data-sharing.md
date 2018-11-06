@@ -1,7 +1,10 @@
+# Data sharing as a new component of addressing and preparing for disease outbreaks
 
-# Title
+*[About](Endangered-Data-Week-UVA-2018.md#about)・[Abstract](Endangered-Data-Week-UVA-2018.md#abstract)・[Timeline](Endangered-Data-Week-UVA-2018.md#historic-timeline)・[Reusing data](Endangered-Data-Week-UVA-2018.md#reusing-data)・
+[Future?](Endangered-Data-Week-UVA-2018.md#future)・[Endangered Data Week](Endangered-Data-Week-UVA-2018.md#endangered-data-week)・[Epilog](Endangered-Data-Week-UVA-2018.md#epilog)・[See also](Endangered-Data-Week-UVA-2018.md#see-also)*
 
-Data sharing as a new component of addressing and preparing for disease outbreaks
+[![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) (by [NuclearVacuum](https://commons.wikimedia.org/wiki/User:NuclearVacuum) and [Kahusi](https://commons.wikimedia.org/wiki/User:Kahusi), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
+
 
 # Abstract
 
@@ -12,21 +15,6 @@ In response, researchers, research institutions, journals, funders and others ha
 In this contribution, I will provide an overview of different ways in which the sharing of data has played a role in public health emergencies, highlighting steps that have already been taken over the last decade as well as challenges still lying ahead.
 
 While focusing on disease outbreaks, I will draw on examples from other public health emergencies as well (e.g. earthquakes or tropical storms) and discuss their applicability in the context of infections. The examples will span the entire data life cycle of public health emergencies, from preventive measures and routine public health surveillance data to the tracking of pathogens, investigating pathogen transmission and other host-pathogen interactions, as well as diagnostics, vaccination, epidemiological modelling, data ethics and other related topics, concluding with considerations around he potential impact of preserving and sharing data, or failing at that.
-
-
-# Data sharing and public health emergencies
-
-*[About](Endangered-Data-Week-UVA-2018.md#about)・[Abstract](Endangered-Data-Week-UVA-2018.md#abstract)・[Timeline](Endangered-Data-Week-UVA-2018.md#historic-timeline)・[Reusing data](Endangered-Data-Week-UVA-2018.md#reusing-data)・
-[Future?](Endangered-Data-Week-UVA-2018.md#future)・[Endangered Data Week](Endangered-Data-Week-UVA-2018.md#endangered-data-week)・[Epilog](Endangered-Data-Week-UVA-2018.md#epilog)・[See also](Endangered-Data-Week-UVA-2018.md#see-also)*
-
-[![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) (by [NuclearVacuum](https://commons.wikimedia.org/wiki/User:NuclearVacuum) and [Kahusi](https://commons.wikimedia.org/wiki/User:Kahusi), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
-
-
-# Abstract
-
-Public health emergencies require profound and swift action at scale with limited resources, often on the basis of incomplete information and frequently under rapidly evolving circumstances. While emergency-triggered sharing goes back millennia, data sharing is a relatively new facet of public health emergency responses. As our societies become ever more digital and globally connected, the profile of data is growing in many ways, and with it the potential impact of preserving and sharing data, or failing at that.
-
-The talk will be given on the basis of [https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md), which will be continuously expanded until the event takes place, and possibly thereafter.
 
 
 # Historic timeline
