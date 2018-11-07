@@ -41,6 +41,7 @@ See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes ta
     - [slides](SciDataCon-2018-maDMPs-for-disaster-data-management.md)
 - RDA breakout 5 &mdash; [Data Reuse Ethics : Specifying Roles and Responsibilities](https://www.rd-alliance.org/ig-ethics-and-social-aspects-data-rda-12th-plenary-meeting)
   - Wednesday, 7 November at 14:00 - 15:30 in Room Tsodilo B1
+  - oral presentation: Making Ethical Review Processes more Machine Actionable 
     - [slides](https://docs.google.com/presentation/d/1weJvgcMYgJ1vfhyJ6SE5hHDwrSZ7dk_DkfLIKO1f5kU/edit)
 - SciDataCon [Session 252: Delivering a Global Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/)
   - Thursday, 8 November at **11:30 - 13:00** in Room Serondela 3
@@ -48,4 +49,6 @@ See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes ta
 - SciDataCon [Session 211: Citizen Science Data – from Collection to Curation to Management](https://www.scidatacon.org/IDW2018/sessions/211/)
   - Thursday, 8 November at **11:30 - 13:00** and 14:00–15:30 in Room Serondela 4
   - poster: [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/)
-- WDS [EU FAIR Data Expert Group Report](https://www.icsu-wds.org/files/data-repositories-day-draft-agenda.pdf)
+- WDS 
+  - Friday, 9 November
+  - [EU FAIR Data Expert Group Report](https://www.icsu-wds.org/files/data-repositories-day-draft-agenda.pdf)
