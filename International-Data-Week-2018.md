@@ -16,7 +16,7 @@ See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes ta
 
 - [Poster session](https://www.scidatacon.org/IDW2018/posters/)
   - Monday, 5 November at 17:30-20:00
-  - My posters: 
+  - [My posters](https://www.wikidata.org/wiki/User:Daniel_Mietchen/International_Data_Week_2018): 
     - RDA poster 7 ["Ten principles for machine-actionable data management plans"](https://www.rd-alliance.org/rdas-12th-plenary-poster-session) ([in action](https://twitter.com/GigaScience/status/1059447556684607488)) and RDA breakout 3 session "[Use cases for machine-actionable data management plans](https://www.rd-alliance.org/wg-dmp-common-standards-rda-12th-plenary-meeting)" this morning
     - SciDataCon poster 168: [WikiCite and Scholia - a Linked Open Data approach to exploring the scholarly literature and related resources](https://www.scidatacon.org/IDW2018/sessions/264/poster/168/) (General SciDataCon Poster Session with ID 264, taking place on 5 November at 17:30-20:00 in Room Tsodilo A and Entrance)
     - SciDataCon poster 150: [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/) (see SciDataCon session 211)
