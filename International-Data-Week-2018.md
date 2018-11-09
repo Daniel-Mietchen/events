@@ -49,6 +49,7 @@ See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes ta
 - SciDataCon [Session 211: Citizen Science Data – from Collection to Curation to Management](https://www.scidatacon.org/IDW2018/sessions/211/)
   - Thursday, 8 November at **11:30 - 13:00** and 14:00–15:30 in Room Serondela 4
   - poster: [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/)
-- WDS 
-  - Friday, 9 November
-  - [EU FAIR Data Expert Group Report](https://www.icsu-wds.org/files/data-repositories-day-draft-agenda.pdf)
+- [WDS ](https://www.icsu-wds.org/files/data-repositories-day-draft-agenda.pdf)
+  - Friday, 9 November, University of Botswana
+  - [EU FAIR Data Expert Group Report](https://drive.google.com/drive/folders/1gky1sajZnp0PwHQUpA24ylvcvfW-8o_7)
+  
