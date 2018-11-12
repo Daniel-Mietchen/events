@@ -25,3 +25,4 @@ Here, we will look at examples taken from a range of ethics processes from vario
 # See also 
 
 * [Deon](http://deon.drivendata.org/) &mdash; data science ethics checklist
+* [Federal Policy for the Protection of Human Subjects](https://www.federalregister.gov/documents/2017/01/19/2017-01058/federal-policy-for-the-protection-of-human-subjects)
