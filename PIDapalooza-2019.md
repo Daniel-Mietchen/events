@@ -27,3 +27,4 @@ Here, we will look at examples taken from a range of ethics processes from vario
 * [Making Ethical Review Processes more Machine Actionable](https://docs.google.com/presentation/d/1weJvgcMYgJ1vfhyJ6SE5hHDwrSZ7dk_DkfLIKO1f5kU/edit) &mdash; talk at the [12th RDA Plenary on 7 November 2018 in Gaborone](https://www.rd-alliance.org/ig-ethics-and-social-aspects-data-rda-12th-plenary-meeting)
 * [Deon](http://deon.drivendata.org/) &mdash; data science ethics checklist
 * [Federal Policy for the Protection of Human Subjects](https://www.federalregister.gov/documents/2017/01/19/2017-01058/federal-policy-for-the-protection-of-human-subjects)
+* [Dynamic jurisdiction mapping](https://cleanapp.io/cleanappmap/) &mdash; see also [this discussion](https://twitter.com/EvoMRI/status/1064055126795657216)
