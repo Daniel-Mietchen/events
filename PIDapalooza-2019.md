@@ -1,6 +1,6 @@
 # About
 
-This file hosts a contribution to [PIDapalooza 2019](https://pidapalooza.org). It was submitted on 21 September 2018.
+This file hosts a contribution to [PIDapalooza 2019](https://pidapalooza.org). It was submitted on 21 September 2018 and accepted on 5 November 2018.
 
 # Title
 
@@ -28,3 +28,4 @@ Here, we will look at examples taken from a range of ethics processes from vario
 * [Deon](http://deon.drivendata.org/) &mdash; data science ethics checklist
 * [Federal Policy for the Protection of Human Subjects](https://www.federalregister.gov/documents/2017/01/19/2017-01058/federal-policy-for-the-protection-of-human-subjects)
 * [Dynamic jurisdiction mapping](https://cleanapp.io/cleanappmap/) &mdash; see also [this discussion](https://twitter.com/EvoMRI/status/1064055126795657216)
+* [PIDs for policy elements](https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza-2018.md) &mdash; a presentation given at PIDapalooza 2018
