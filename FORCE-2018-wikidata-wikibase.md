@@ -26,6 +26,12 @@ Over the past several years, interest in leveraging Wikidata as an open knowledg
 
 The submission was filed by Dario.
 
+# The actual talk
+
+- [session description](https://force2018.sched.com/event/F7u7/wikidata-wikibase-and-a-federated-ecosystem-of-structured-knowledge-for-open-science)
+- [Slides](https://docs.google.com/presentation/d/1PtsEFgK0IuZbYn5o57mfDRaiHjluRJ4OhYgRMxdXv30/edit)
+- [Video recording](https://www.youtube.com/watch?v=Bdwg168elaE)
+
 # See also 
 
 * [FORCE-2018.md](FORCE-2018.md)
