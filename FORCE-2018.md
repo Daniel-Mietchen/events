@@ -19,3 +19,7 @@ This file is auxiliary to my submissions to the [Force 2018 Conference](https://
 * [Author disambiguation: a collaborative approach](https://tools.wmflabs.org/sourcemd/new_resolve_authors.php?name=Jane+Smith&doit=Look+for+author)
 * [Scholia](https://tools.wmflabs.org/scholia/)
 * [DoesItFart? A case study in communicating research](https://github.com/Daniel-Mietchen/ideas/issues/199)
+
+# See also 
+
+* [notes on the event](https://github.com/Daniel-Mietchen/events/issues/325)
