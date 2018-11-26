@@ -1,23 +1,23 @@
-[International Data Week 2018](http://internationaldataweek.org/programme-overview) combines a number of events around data, particularly research data.
+[International Data Week 2018](http://internationaldataweek.org/programme-overview) combined a number of events around data, particularly research data.
 
-I am mainly involved in three of them
+I was mainly involved in three of them
 - [SciDataCon 2018](https://www.scidatacon.org/IDW2018/programme/) &mdash; see the SciDataCon sessions in the schedule below
   - see my notes specifically on this at [SciDataCon-2018.md](SciDataCon-2018.md)
 - [12th Plenary of the Research Data Alliance](http://www.internationaldataweek.org/rda-12th-plenary) &mdash; see the RDA sessions in the schedule below
 - [World Data Science Data Repositories Day 2018](https://www.icsu-wds.org/events/wds-events/data-repositories-day-2018) &mdash; see the WDS session in the schedule below
 
-but will also try to attend [UVA/DSI Data Palooza 2018](https://dsi.virginia.edu/datapalooza2018) remotely.
+but also attended parts of [UVA/DSI Data Palooza 2018](https://dsi.virginia.edu/datapalooza2018) remotely.
 
-See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes taken around the event.
+See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes taken throughout the week.
 
-# Sessions I am involved in
+# Sessions I was involved in
 
 *Times marked in **bold** indicate an overlap*
 
 - [Poster session](https://www.scidatacon.org/IDW2018/posters/)
   - Monday, 5 November at 17:30-20:00
   - [My posters](https://www.wikidata.org/wiki/User:Daniel_Mietchen/International_Data_Week_2018): 
-    - RDA poster 7 ["Ten principles for machine-actionable data management plans"](https://doi.org/10.5281/zenodo.1461712) ([in action](https://twitter.com/GigaScience/status/1059447556684607488)) and RDA breakout 3 session "[Use cases for machine-actionable data management plans](https://www.rd-alliance.org/wg-dmp-common-standards-rda-12th-plenary-meeting)" this morning
+    - RDA poster 7 ["Ten principles for machine-actionable data management plans"](https://doi.org/10.5281/zenodo.1461712) ([in action](https://twitter.com/GigaScience/status/1059447556684607488)) and RDA breakout 3 session "[Use cases for machine-actionable data management plans](https://www.rd-alliance.org/wg-dmp-common-standards-rda-12th-plenary-meeting)" on Tuesday
     - SciDataCon poster 168: [WikiCite and Scholia - a Linked Open Data approach to exploring the scholarly literature and related resources](https://www.scidatacon.org/IDW2018/sessions/264/poster/168/) (General SciDataCon Poster Session with ID 264, taking place on 5 November at 17:30-20:00 in Room Tsodilo A and Entrance)
     - SciDataCon poster 150: [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/) (see SciDataCon session 211)
     - SciDataCon poster 208: [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/) (see SciDataCon session 252)
