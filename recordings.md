@@ -10,7 +10,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 * 2018-11-27, Berkeley, WikiCite 2018: 
   - [Building a WikiCite corpus](https://meta.wikimedia.org/wiki/WikiCite_2018/Program/Building_a_WikiCite_corpus)
-  - [Scholia as of November 2018](https://www.youtube.com/watch?v=4CZDJ2uHrTk&index=4&list=PLN4mEhpy3b8Sayl_QsSjpa8H1wqo82hxr&t=0s) ([slides](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/7125/pdf/imm7125.pdf))
+  - [Scholia as of November 2018](https://www.youtube.com/watch?v=4CZDJ2uHrTk&index=4&list=PLN4mEhpy3b8Sayl_QsSjpa8H1wqo82hxr&t=3m12s) ([slides](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/7125/pdf/imm7125.pdf))
 * 2018-10-12, Montreal, Force 2018: [A hands-on introduction to Wikidata and WikiCite (with Dario Taraborelli)](https://www.youtube.com/watch?v=uTu1Y6nRn-Y) ([slides](https://doi.org/10.6084/m9.figshare.7201469))
 * 2018-10-11, Montreal, Force 2018:
   - [Wikidata, Wikibase, & a federated ecosystem of knowledge (with Dario Taraborelli)](https://www.youtube.com/watch?v=Bdwg168elaE) ([slides](https://doi.org/10.6084/m9.figshare.7195358))
