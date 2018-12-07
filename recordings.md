@@ -12,6 +12,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2018-10-11, Montreal, Force 2018:
   - [Wikidata, Wikibase, & a federated ecosystem of knowledge (with Dario Taraborelli)](https://www.youtube.com/watch?v=Bdwg168elaE) ([slides](https://doi.org/10.6084/m9.figshare.7195358))
   - [How Europe can make FAIR data a reality: An Action Plan](https://www.youtube.com/watch?v=8p6Hxm-cty0) ([slides](https://doi.org/10.5281/zenodo.1299251))
+* 2018-09-04, Bologna, Workshop on Open Citations: [A guided tour through citation networks around public health emergencies](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/Talks/Workshop_on_Open_Citations_2018)
 * 2018-07-29, Milano, State of the Map: [Maps based on Wikidata queries](https://m.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/State_of_the_Map_2018)
 * 2018-06-27, Washington DC, Advancing Open Science in the EU and the US: [Towards a FAIR Data ecosystem](https://youtu.be/L2tTHaH0ZsQ) (pre-recorded version; life version was [recorded as well](https://www.youtube.com/watch?v=-9lVolRMhGY#t=8m), albeit with some technical difficulties) &mdash; [slides](https://doi.org/10.5281/zenodo.1299251)
 * 2018-03-12, Berlin, Open Science Barcamp: 
