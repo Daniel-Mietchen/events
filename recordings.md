@@ -8,6 +8,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 ## In English
 
+* 2018-12-18, online, VIVO Developers webinar: [Wikidata and VIVO in 2018](https://www.wikidata.org/wiki/Wikidata:WikiProject_Scholia/Talks/Wikidata_and_VIVO_in_2018)
 * 2018-11-27, Berkeley, WikiCite 2018: 
   - [Building a WikiCite corpus](https://meta.wikimedia.org/wiki/WikiCite_2018/Program/Building_a_WikiCite_corpus)
   - I was also involved in [Scholia as of November 2018](https://www.youtube.com/watch?v=4CZDJ2uHrTk&index=4&list=PLN4mEhpy3b8Sayl_QsSjpa8H1wqo82hxr&t=3m12s) ([slides](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/7125/pdf/imm7125.pdf)) but did not present it
