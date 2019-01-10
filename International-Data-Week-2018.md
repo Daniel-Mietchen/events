@@ -31,7 +31,7 @@ See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes ta
   - Tuesday, 6 November at **14:00–15:30** in Okavango 1
   - panel contribution, "Action Plan for Research Infrastructures"
     - [slides](https://drive.google.com/file/d/1xpSt52_I-EspQl4x_ttI5XxaWqp_W6Vz/view?usp=sharing)
-    - the final report has been published on 23 November 2018 and is available [here](https://ec.europa.eu/info/sites/info/files/turning_fair_into_reality_1.pdf)
+    - the final report has been published on 23 November 2018 and is available [here](http://doi.org/10.2777/1524)
 - SciDataCon [Session 196: Democratising Data Publishing: A Global Perspective](https://www.scidatacon.org/IDW2018/sessions/196/)
   - Tuesday, 6 November at **14:00–15:30** and **16:00 - 17:30** in Serondela 4
   - oral presentation 849: [Wikidata and Wikibase as global platforms for democratizing data publishing](https://www.scidatacon.org/IDW2018/sessions/196/paper/849/)
