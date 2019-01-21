@@ -11,7 +11,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2019-01-18, Berlin, Workshop on Data Quality Management in Wikidata: [data quality (Q1757694) & Wikidata (Q2013) &mdash; summary (Q776754)](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/Talks/Workshop_on_Data_Quality_Management_in_Wikidata_2019)
 * 2018-12-18, online, VIVO Developers webinar: [Wikidata and VIVO in 2018](https://www.wikidata.org/wiki/Wikidata:WikiProject_Scholia/Talks/Wikidata_and_VIVO_in_2018)
 * 2018-11-29, Berkeley, WikiCite 2018: 
-  - [Open Science Radio, issue 139: interview with Daniel Mietchen on racapitulating WikiCite 2018](http://www.openscienceradio.org/2019/01/21/osr139-wikicite-2018-recap-with-daniel-en/)
+  - [Open Science Radio, episode 139: interview with Daniel Mietchen on recapitulating WikiCite 2018](http://www.openscienceradio.org/2019/01/21/osr139-wikicite-2018-recap-with-daniel-en/)
     - best consumed after listening to [episode 134](http://www.openscienceradio.org/2019/01/06/osr134-wikicite-2018-enjoy-the-community-en/)
 * 2018-11-27, Berkeley, WikiCite 2018: 
   - [Building a WikiCite corpus](https://meta.wikimedia.org/wiki/WikiCite_2018/Program/Building_a_WikiCite_corpus)
