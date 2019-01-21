@@ -1,6 +1,6 @@
 # About
 
-This file hosts a contribution to [PIDapalooza 2019](https://pidapalooza.org). It was submitted on 21 September 2018 and accepted on 5 November 2018.
+This file hosts a contribution to [PIDapalooza 2019](https://pidapalooza.org). It was submitted on 21 September 2018 and accepted on 5 November 2018. In the end, I could not attend, but remain interested in comments and exchanges related to making ethics processes more FAIR, andon the role that persistent identifiers can play in such contexts.
 
 # Title
 
