@@ -1,7 +1,7 @@
 # Data sharing as a new component of addressing and preparing for disease outbreaks
 
-*[About](SciDataCon-2018-data-sharing.md#about)・[Abstract](SciDataCon-2018-data-sharing.md#abstract)・[Timeline](SciDataCon-2018-data-sharing.md#historic-timeline)・[Reusing data](SciDataCon-2018-data-sharing.md#reusing-data)・
-[Future?](SciDataCon-2018-data-sharing.md#future)・[Epilog](SciDataCon-2018-data-sharing.md#epilog)・[See also](SciDataCon-2018-data-sharing.md#see-also)*
+*[About](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#about)・[Abstract](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#abstract)・[Timeline](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#historic-timeline)・[Reusing data](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#reusing-data)・
+[Future?](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#future)・[Epilog](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#epilog)・[See also](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#see-also)*
 
 [![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) (by [NuclearVacuum](https://commons.wikimedia.org/wiki/User:NuclearVacuum) and [Kahusi](https://commons.wikimedia.org/wiki/User:Kahusi), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
@@ -372,7 +372,7 @@ This submission addresses all four of the high-level themes of SciDataCon 2018:
 - applications, progress and challenges of data intensive research;
 - data infrastructure and enabling practices for international and collaborative research.
 
-A version of this abstract can be found at https://github.com/Daniel-Mietchen/events/blob/master/SciDataCon-2018-data-sharing.md .
+A version of this abstract can be found at https://github.com/Daniel-Mietchen/events/blob/master/Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md .
 
 
 # See also
