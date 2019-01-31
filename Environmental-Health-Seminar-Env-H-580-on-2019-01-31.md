@@ -1,6 +1,6 @@
 # Data Sharing as a Key Component of Addressing and Preparing for Disease Outbreaks
 
-*[About](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#about)・[Abstract](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#abstract)・[Timeline](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#historic-timeline)・[Reusing data](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#reusing-data)・
+*[About](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#about)・[Abstract](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#abstract)・[Current examples](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#current-examples)・[Historical timeline](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#historic-timeline)・[Reusing data](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#reusing-data)・
 [Future?](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#future)・[Epilog](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#epilog)・[See also](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#see-also)*
 
 [![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) (by [NuclearVacuum](https://commons.wikimedia.org/wiki/User:NuclearVacuum) and [Kahusi](https://commons.wikimedia.org/wiki/User:Kahusi), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
@@ -15,6 +15,32 @@ In response, researchers, research institutions, journals, funders and others ha
 In this contribution, I will provide an overview of different ways in which the sharing of data has played a role in public health emergencies, highlighting steps that have already been taken over the last decade as well as challenges still lying ahead.
 
 While focusing on disease outbreaks, I will draw on examples from other public health emergencies as well (e.g. earthquakes or tropical storms) and discuss their applicability in the context of infections. The examples will span the entire data life cycle of public health emergencies, from preventive measures and routine public health surveillance data to the tracking of pathogens, investigating pathogen transmission and other host-pathogen interactions, as well as diagnostics, vaccination, epidemiological modelling, data ethics and other related topics, concluding with considerations around the potential impact of preserving and sharing data, or failing at that.
+
+# Examples from the past week
+
+## Fragments of Ebola Zaire virus RNA have been found in a _Miniopterus inflatus_ bat in Liberia
+
+- press release by the Liberian Ministry of Health, announcing the finding on January 24, 2019:
+  - http://nationalphil.org/index.php/press-release/
+    - see also [multiple news pieces on the matter](https://www.ecosia.org/search?q=%22Miniopterus+inflatus%22+ebola)
+      - e.g. [doi:10.1126/science.aaw7864](https://doi.org/10.1126/science.aaw7864), [Das Virus in der Fledermaus](https://www.zeit.de/wissen/gesundheit/2019-01/ebola-westafrika-fledermaus-virus-uebertragung/komplettansicht)
+
+>  “felt that this was an important finding to bring to the public irrespective of a scientific publication” 
+
+- only fragments identified so far
+- find in a single sample out of > 11,000 that were analyzed
+- sample was taken in 2016 from a _Miniopterus inflatus_ bat in a cave in Liberia
+- that species is common across multiple countries, but Ebola virus had never been identified in it in West Africa
+
+Q: Am I allowed to embed their press release in this presentation?
+A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Liberia)
+
+## Cases of Norovirus amongst University of Virginia students
+
+- [first brief news piece](http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population) on January 30 ([archived](https://web.archive.org/web/20190131011709/http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population)), simply informing about an email sent to UVa students, faculty and staff
+- [follow-up](http://www.nbc29.com/story/39879637/doctors-offer-protections-against-norovirus-spread-at-uva) later the same day ([archived](https://web.archive.org/web/20190131010145/http://www.nbc29.com/story/39879637/doctors-offer-protections-against-norovirus-spread-at-uva)), highlighting preventive measures as outlined in the original email
+
+- [literature overview for Norovirus](https://tools.wmflabs.org/scholia/topic/Q1142751)
 
 
 # Historic timeline
@@ -347,7 +373,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 
 # About
 
-This file hosts a guest lecture given remotely on January 31, 2019, as part of the [Environmental Health Seminar (Env H 580)](https://deohs.washington.edu/calendar/environmental-health-seminar) at the Department of Environmental Health & Occupational Safety in the School of Public Health of Washington University, Seattle. It continues a series of talks on the subject that was started with a [SciDataCon 2016 talk](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md). 
+This file hosts a guest lecture given remotely on January 31, 2019, as part of the [Environmental Health Seminar (Env H 580)](https://deohs.washington.edu/calendar/environmental-health-seminar) at the Department of Environmental & Occupational Health Sciences at the University of Washington. It continues a series of talks on the subject that was started with a [SciDataCon 2016 talk](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md). 
 
 
 # See also
