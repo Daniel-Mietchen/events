@@ -310,11 +310,13 @@ A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules
     - reused blood samples to sequence patient genomes to analyze the spread of HIV
 
 ## Reusing data
+
+* [National Outbreak Recording System](https://www.cdc.gov/nors/index.html) &mdash; collates data pertaining to various outbreaks and makes it searchable, which is helpful when attending to ongoing or future outbreaks, or even potential ones
 * Zika data reuse
   - [Country-level surveillance data aggregated by CDC](https://github.com/cdcepi/zika)
     - [Corresponding dashboard](https://github.com/cdcepi/zika)
       - [Zika_Data2LinkedData](https://github.com/andrawaag/Zika_Data2LinkedData)
-* [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](http://dx.doi.org/10.12688/f1000research.9110.1)
+* [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](https://doi.org/10.12688/f1000research.9110.1)
   * [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
   * [Docker image](https://hub.docker.com/r/maayanlab/zika/)
     * could in principle be [run on a mobile phone](https://twitter.com/KyleCranmer/status/698240530900193282)
@@ -324,7 +326,7 @@ A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules
 * [Dynamic forecasting of Zika epidemics using Google Trends](http://dx.doi.org/10.1101/076521)
 * many [Zika-themed hackathons](https://twitter.com/search?vertical=default&q=zikahackathon%20OR%20zikahack%20OR%20hackzika%20OR%20%28zika%20AND%20hackathon%29)
   * e.g. [University of Texas at Austin](https://github.com/cloudera-cares-austin/zika-hackathon) 
-
+* [Recent disasters](https://www.wikidata.org/wiki/Wikidata:WikiProject_Humanitarian_Wikidata/Recent_disasters) &mdash; a Wikidata-based prototype to collect structured information about disasters worldwide
 
 ### Data modeling
 
@@ -337,11 +339,11 @@ A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules
 
 ## Future?
 
-* [Make Data Sharing Routine to Prepare for Public Health Emergencies](http://dx.doi.org/10.1371/journal.pmed.1002109)
+* [Make Data Sharing Routine to Prepare for Public Health Emergencies](https://doi.org/10.1371/journal.pmed.1002109)
 * [Big Data for Infectious Disease Surveillance and Modeling](https://doi.org/10.1093/infdis/jiw400)
 * [Global correlates of emerging zoonoses: Anthropogenic, environmental, and biodiversity risk factors](https://doi.org/10.1016/j.ijid.2016.11.057)
 * [Quantifying the global attention to public health threats through Wikipedia pageview data](https://meta.wikimedia.org/wiki/Research:Quantifying_the_global_attention_to_public_health_threats_through_Wikipedia_pageview_data)
-  * [Forecasting the 2013–2014 Influenza Season Using Wikipedia](http://dx.doi.org/10.1371/journal.pcbi.1004239.g001)
+  * [Forecasting the 2013–2014 Influenza Season Using Wikipedia](https://doi.org/10.1371/journal.pcbi.1004239.g001)
 * Data Management Plans for entire disease outbreaks and similar public health emergency scenarios
   - [Ten simple rules for machine-actionable data management plans](https://doi.org/10.5281/zenodo.1172672)
     - [some public examples of data management plans](https://riojournal.com/browse_journal_articles.php?form_name=filter_articles&sortby=0&journal_id=17&search_in_=0&section_type%5B%5D=231)
@@ -360,36 +362,6 @@ A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules
     - [Wikidata](http://listen.hatnote.com/#wikidata)
 * Your ideas here.
 
-
-## Endangered Data Week
-
-* Problems
-  - Link rot 
-    - [Computational Biology Resources Lack Persistence and Usability](https://doi.org/10.1371/journal.pcbi.1000136)
-    - [Digital preservation of epidemic resources](http://web.archive.org/web/20131115124842/https://www.epimarketplace.net/)
-    - governmental documents
-      - ["report from the National Science and Technology Council of the Executive Office of the President"](https://www.huffingtonpost.com/entry/computing-and-the-fight-against-epidemics_us_587fd401e4b0aa1c47ac27d6)
-      - [search](https://search.archives.gov/search?query=https%3A%2F%2Fwww.whitehouse.gov%2Fsites%2Fdefault%2Ffiles%2Fmicrosites%2Fostp%2FNSTC%2Ftowards_epidemic_prediction-federal_efforts_and_opportunitie&op=Search&affiliate=obamawhitehouse)
-      - multiple examples highlighted throughout this talk (e.g. in the [Tōhoku earthquake](Endangered-Data-Week-UVA-2018.md#2011-t%C5%8Dhoku-earthquake-and-tsunami) section)
-      - conclusion
-        - > [If you are working on disaster relief in a digital capacity, submit your page(s) for archiving through @internetarchive OFTEN. Link rot is a major issue for disaster-related data projects and archive mitigates the losses.](https://twitter.com/TheAmbericanWay/status/968219717214367744)
-  - [Data Centers affected by disaster](https://www.geekwire.com/2017/cloud-data-center-providers-dealing-hurricane-harvey/)
-  - [low-quality metadata](https://orcid.org/orcid-search/quick-search/?searchQuery=%20Shweta%20Bansal%20)
-  - [global applicability is not a given](http://dx.doi.org/10.12688/wellcomeopenres.12259.1)
-  - some potential data (e.g. on physiological adaptations, ecological interactions or chemical compounds) cannot be gathered because of biodiversity loss
-  - [intentional removal](https://www.reuters.com/article/us-usa-trump-epa-climatechange/trump-administration-tells-epa-to-cut-climate-page-from-website-sources-idUSKBN15906G) by those who have control over the data
-  - ...
-* Initiatives
-  - Technical
-    - [Data Refuge](https://www.datarefuge.org/)
-      - [The Data Refuge Stories project](http://lovedataweek.org/2018/02/12/the-data-refuge-stories-project/)
-    - [Metadata 2020](http://www.metadata2020.org/)
-    - [Memento](http://timetravel.mementoweb.org/)
-  - Social
-    - [Statement on data sharing in public health emergencies](https://wellcome.ac.uk/what-we-do/our-work/statement-data-sharing-public-health-emergencies)
-      - [Progress so far](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5407259/)
-    - [Increasing the interaction between Citizen Science and Open Science](https://ecsa.citizen-science.net/blog/citizen-science-open-science-policy-brief-out)
-    - [The Global Virome Project](http://www.globalviromeproject.org/)
 
 # Epilog
 
@@ -418,3 +390,34 @@ This file hosts a guest lecture given remotely on January 31, 2019, as part of t
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
 * [More details on sharing in response to public health emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
   - including the [change log](https://github.com/Daniel-Mietchen/datascience/commits/master/emergency-response.md)
+  
+ ## Endangered Data Week
+
+* Problems
+  - Link rot 
+    - [Computational Biology Resources Lack Persistence and Usability](https://doi.org/10.1371/journal.pcbi.1000136)
+    - [Digital preservation of epidemic resources](http://web.archive.org/web/20131115124842/https://www.epimarketplace.net/)
+    - governmental documents
+      - ["report from the National Science and Technology Council of the Executive Office of the President"](https://www.huffingtonpost.com/entry/computing-and-the-fight-against-epidemics_us_587fd401e4b0aa1c47ac27d6)
+      - [search](https://search.archives.gov/search?query=https%3A%2F%2Fwww.whitehouse.gov%2Fsites%2Fdefault%2Ffiles%2Fmicrosites%2Fostp%2FNSTC%2Ftowards_epidemic_prediction-federal_efforts_and_opportunitie&op=Search&affiliate=obamawhitehouse)
+      - multiple examples highlighted throughout this talk (e.g. in the [Tōhoku earthquake](Endangered-Data-Week-UVA-2018.md#2011-t%C5%8Dhoku-earthquake-and-tsunami) section)
+      - conclusion
+        - > [If you are working on disaster relief in a digital capacity, submit your page(s) for archiving through @internetarchive OFTEN. Link rot is a major issue for disaster-related data projects and archive mitigates the losses.](https://twitter.com/TheAmbericanWay/status/968219717214367744)
+  - [Data Centers affected by disaster](https://www.geekwire.com/2017/cloud-data-center-providers-dealing-hurricane-harvey/)
+  - [low-quality metadata](https://orcid.org/orcid-search/quick-search/?searchQuery=%20Shweta%20Bansal%20)
+  - [global applicability is not a given](http://dx.doi.org/10.12688/wellcomeopenres.12259.1)
+  - some potential data (e.g. on physiological adaptations, ecological interactions or chemical compounds) cannot be gathered because of biodiversity loss
+  - [intentional removal](https://www.reuters.com/article/us-usa-trump-epa-climatechange/trump-administration-tells-epa-to-cut-climate-page-from-website-sources-idUSKBN15906G) by those who have control over the data
+  - ...
+* Initiatives
+  - Technical
+    - [Data Refuge](https://www.datarefuge.org/)
+      - [The Data Refuge Stories project](http://lovedataweek.org/2018/02/12/the-data-refuge-stories-project/)
+    - [Metadata 2020](http://www.metadata2020.org/)
+    - [Memento](http://timetravel.mementoweb.org/)
+  - Social
+    - [Statement on data sharing in public health emergencies](https://wellcome.ac.uk/what-we-do/our-work/statement-data-sharing-public-health-emergencies)
+      - [Progress so far](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5407259/)
+    - [Increasing the interaction between Citizen Science and Open Science](https://ecsa.citizen-science.net/blog/citizen-science-open-science-policy-brief-out)
+    - [The Global Virome Project](http://www.globalviromeproject.org/)
+ 
