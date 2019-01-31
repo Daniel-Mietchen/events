@@ -38,8 +38,17 @@ While focusing on disease outbreaks, I will draw on examples from other public h
 - sample was taken in 2016 from a _Miniopterus inflatus_ bat in a cave in Liberia
 - that species is common across multiple countries, but Ebola virus had never been identified in it in West Africa
 
+Q: What does _Miniopterus inflatus_ feed on? 
+A: [Mostly insects](https://en.wikipedia.org/wiki/Vespertilionidae).
+
+Q: Where does _Miniopterus inflatus_ live? 
+A: [In caves in various places across Sub-Saharan Africa](https://www.iucnredlist.org/species/13565/22104819).
+
+Q: Are they migrating?
+A: Some closely related and equally insectivorous bat species are, e.g. the [Natal long-fingered bat (Miniopterus natalensis)](https://africanbats.org/programs/bats-on-the-move/miniopterus-on-the-move/).
+
 Q: Am I allowed to embed their press release in this presentation?
-A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Liberia)
+A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Liberia).
 
 
 ## Cases of Norovirus amongst University of Virginia students
