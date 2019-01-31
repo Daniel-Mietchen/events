@@ -42,7 +42,7 @@ Q: Where does _Miniopterus inflatus_ live?
 A: [In caves in various places across Sub-Saharan Africa](https://www.iucnredlist.org/species/13565/22104819).
 
 Q: Are they migrating?
-A: Some closely related and equally insectivorous bat species are, e.g. the [Natal long-fingered bat (Miniopterus natalensis)](https://africanbats.org/programs/bats-on-the-move/miniopterus-on-the-move/).
+A: Some closely related and equally insectivorous bat species are, e.g. the [Natal long-fingered bat (_Miniopterus natalensis_)](https://africanbats.org/programs/bats-on-the-move/miniopterus-on-the-move/).
 
 Q: Am I allowed to embed their press release in this presentation?
 A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Liberia).
@@ -50,9 +50,9 @@ A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules
 
 ## Cases of Norovirus amongst University of Virginia students
 
-| 3D-printed Norovirus structure | Serpentine wall in UVa's Academic Village |
+|  |  |
 | --- | --- |
-| [![3D-printed structure of Norwalk virus](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Norwalk_Virus_%2814550066332%29.jpg/1280px-Norwalk_Virus_%2814550066332%29.jpg)](https://commons.wikimedia.org/wiki/File:Norwalk_Virus_(14550066332).jpg) [NIH, CC BY](https://commons.wikimedia.org/wiki/File:Norwalk_Virus_(14550066332).jpg) | [![Serpentine wall at UVa](https://upload.wikimedia.org/wikipedia/commons/1/18/SerpentineWall.jpg)](https://commons.wikimedia.org/wiki/File:SerpentineWall.jpg) [Public Domain](https://commons.wikimedia.org/wiki/File:SerpentineWall.jpg)
+| [![3D-printed structure of Norwalk virus](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Norwalk_Virus_%2814550066332%29.jpg/1280px-Norwalk_Virus_%2814550066332%29.jpg)](https://commons.wikimedia.org/wiki/File:Norwalk_Virus_(14550066332).jpg) 3D-printed Norovirus structure. [NIH, CC BY](https://commons.wikimedia.org/wiki/File:Norwalk_Virus_(14550066332).jpg) | [![Serpentine wall at UVa](https://upload.wikimedia.org/wikipedia/commons/1/18/SerpentineWall.jpg)](https://commons.wikimedia.org/wiki/File:SerpentineWall.jpg) Serpentine wall in UVa's Academic Village. [User:Uris, Public Domain](https://commons.wikimedia.org/wiki/File:SerpentineWall.jpg)
 
 - [first brief news piece](http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population) on January 30 ([archived](https://web.archive.org/web/20190131011709/http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population)), simply informing about an email sent to UVa students, faculty and staff
 - [follow-up](http://www.nbc29.com/story/39879637/doctors-offer-protections-against-norovirus-spread-at-uva) later the same day ([archived](https://web.archive.org/web/20190131010145/http://www.nbc29.com/story/39879637/doctors-offer-protections-against-norovirus-spread-at-uva)), highlighting preventive measures as outlined in the original email
