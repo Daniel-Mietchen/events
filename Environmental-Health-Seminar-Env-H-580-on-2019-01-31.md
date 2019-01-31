@@ -8,7 +8,7 @@
 
 # Abstract
 
-Public health emergencies require profound and swift action at scale with limited resources, often on the basis of incomplete information and frequently under rapidly evolving circumstances. While emergency-triggered sharing goes back millennia, data sharing is a relatively new flavour under this broader theme, but one that has been receiving attention over the last few years, especially in the context of public health emergencies like the Ebola or Zika outbreaks.
+Public health emergencies require profound and swift action at scale with limited resources, often on the basis of incomplete information and frequently under rapidly evolving circumstances. While emergency-triggered sharing goes back millennia, the sharing of data and associated metadata is a relatively new flavour under this broader theme, but one that has been receiving steadily growing attention over the last few years, especially in the context of the Ebola or Zika outbreaks. By now, we have reached a point where data sharing must be considered a key component of addressing present, future and even past public health emergencies.
 
 In response, researchers, research institutions, journals, funders and others have taken steps towards increasing the sharing of data around ongoing public health emergencies and in preparation for future ones. These measures range from the adoption of open lab notebooks to modifications of policies and funding lines, and they include conversations around infrastructure and cultural change.
 
