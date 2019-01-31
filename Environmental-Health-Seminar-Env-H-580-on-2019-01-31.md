@@ -1,4 +1,4 @@
-# Data sharing as a new component of addressing and preparing for disease outbreaks
+# Data Sharing as a Key Component of Addressing and Preparing for Disease Outbreaks
 
 *[About](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#about)・[Abstract](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#abstract)・[Timeline](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#historic-timeline)・[Reusing data](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#reusing-data)・
 [Future?](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#future)・[Epilog](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#epilog)・[See also](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#see-also)*
@@ -14,7 +14,7 @@ In response, researchers, research institutions, journals, funders and others ha
 
 In this contribution, I will provide an overview of different ways in which the sharing of data has played a role in public health emergencies, highlighting steps that have already been taken over the last decade as well as challenges still lying ahead.
 
-While focusing on disease outbreaks, I will draw on examples from other public health emergencies as well (e.g. earthquakes or tropical storms) and discuss their applicability in the context of infections. The examples will span the entire data life cycle of public health emergencies, from preventive measures and routine public health surveillance data to the tracking of pathogens, investigating pathogen transmission and other host-pathogen interactions, as well as diagnostics, vaccination, epidemiological modelling, data ethics and other related topics, concluding with considerations around he potential impact of preserving and sharing data, or failing at that.
+While focusing on disease outbreaks, I will draw on examples from other public health emergencies as well (e.g. earthquakes or tropical storms) and discuss their applicability in the context of infections. The examples will span the entire data life cycle of public health emergencies, from preventive measures and routine public health surveillance data to the tracking of pathogens, investigating pathogen transmission and other host-pathogen interactions, as well as diagnostics, vaccination, epidemiological modelling, data ethics and other related topics, concluding with considerations around the potential impact of preserving and sharing data, or failing at that.
 
 
 # Historic timeline
@@ -261,7 +261,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
   * [Docker image](https://hub.docker.com/r/maayanlab/zika/)
     * could in principle be [run on a mobile phone](https://twitter.com/KyleCranmer/status/698240530900193282)
-* [Data-driven identification of potential Zika virus vectors](http://dx.doi.org/10.1101/077966)
+* [Data-driven identification of potential Zika virus vectors](https://doi.org/10.1101/077966)
 * [How mobile data visualization helped reduce malaria cases by 93% — Zika could be next](http://venturebeat.com/2016/08/31/mobile-data-visualization-reduce-malaria-93-zika/)
 * [Mapping the global geographic potential of Zika virus spread](http://dx.doi.org/10.1590/0074-02760160149)
 * [Dynamic forecasting of Zika epidemics using Google Trends](http://dx.doi.org/10.1101/076521)
