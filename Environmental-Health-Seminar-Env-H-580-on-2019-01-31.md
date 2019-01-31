@@ -18,7 +18,7 @@ While focusing on disease outbreaks, I will draw on examples from other public h
 
 # Notes
 
-An Etherpad has been set up to allow for collaborative note taking. It can be found at [https://etherpad.wikimedia.org/p/Env-H-580-on-2019-01-31](https://etherpad.wikimedia.org/p/Env-H-580-on-2019-01-31).
+An Etherpad has been set up to allow for collaborative note taking and to facilitate discussion. It can be found at [https://etherpad.wikimedia.org/p/Env-H-580-on-2019-01-31](https://etherpad.wikimedia.org/p/Env-H-580-on-2019-01-31).
 
 
 # Historic timeline
