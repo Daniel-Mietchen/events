@@ -1,6 +1,6 @@
 # Data Sharing as a Key Component of Addressing and Preparing for Disease Outbreaks
 
-*[About](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#about)・[Abstract](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#abstract)・[Current examples](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#examples-from-the-past-week)・[Historical timeline](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#historic-timeline)・[Reusing data](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#reusing-data)・
+*[About](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#about)・[Abstract](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#abstract)・[Notes](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#notes)・[Historical timeline](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#historic-timeline)・[Current examples](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#examples-from-the-past-week)・[Reusing data](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#reusing-data)・
 [Future?](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#future)・[Epilog](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#epilog)・[See also](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#see-also)*
 
 [![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) (by [NuclearVacuum](https://commons.wikimedia.org/wiki/User:NuclearVacuum) and [Kahusi](https://commons.wikimedia.org/wiki/User:Kahusi), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
@@ -16,60 +16,9 @@ In this contribution, I will provide an overview of different ways in which the 
 
 While focusing on disease outbreaks, I will draw on examples from other public health emergencies as well (e.g. earthquakes or tropical storms) and discuss their applicability in the context of infections. The examples will span the entire data life cycle of public health emergencies, from preventive measures and routine public health surveillance data to the tracking of pathogens, investigating pathogen transmission and other host-pathogen interactions, as well as diagnostics, vaccination, epidemiological modelling, data ethics and other related topics, concluding with considerations around the potential impact of preserving and sharing data, or failing at that.
 
+# Notes
 
-# Examples from the past week
-
-## Fragments of Ebola Zaire virus RNA have been found in a _Miniopterus inflatus_ bat in Liberia
-
-[![_Miniopterus inflatus_, the greater long-fingered bat](https://upload.wikimedia.org/wikipedia/commons/f/fa/Miniopterus_inflatus.jpg)](https://commons.wikimedia.org/wiki/File:Miniopterus_inflatus.jpg) _Miniopterus inflatus_, the greater long-fingered bat. Drawing from Allen, J. A., Lang, H., & Chapin, J. P. (1917), [Public domain](https://commons.wikimedia.org/wiki/File:Miniopterus_inflatus.jpg). See [here](https://vizhub.healthdata.org/lbd/pandemics/) for a map of environmental suitability for Ebola virus ([more details](https://doi.org/10.7554/eLife.16412)).
-
-- press release by the Liberian Ministry of Health, announcing the finding on January 24, 2019:
-  - http://nationalphil.org/index.php/press-release/
-    - see also [multiple news pieces on the matter](https://www.ecosia.org/search?q=%22Miniopterus+inflatus%22+ebola)
-      - e.g. [doi:10.1126/science.aaw7864](https://doi.org/10.1126/science.aaw7864), [Das Virus in der Fledermaus](https://www.zeit.de/wissen/gesundheit/2019-01/ebola-westafrika-fledermaus-virus-uebertragung/komplettansicht)
-
->  “felt that this was an important finding to bring to the public irrespective of a scientific publication” 
-
-- only fragments identified so far, so precise strain is as yet uncertain
-- find was limited to a single sample out of > 11,000 that were analyzed
-- sample was taken in 2016 from a _Miniopterus inflatus_ bat in a cave in Liberia
-- that species is common across multiple countries, but Ebola virus had never been identified in it in West Africa
-
-Q: What does _Miniopterus inflatus_ feed on? 
-A: [Mostly insects](https://en.wikipedia.org/wiki/Vespertilionidae).
-
-Q: Where does _Miniopterus inflatus_ live? 
-A: [In caves in various places across Sub-Saharan Africa](https://www.iucnredlist.org/species/13565/22104819).
-
-Q: Are they migrating?
-A: Some closely related and equally insectivorous bat species are, e.g. the [Natal long-fingered bat (_Miniopterus natalensis_)](https://africanbats.org/programs/bats-on-the-move/miniopterus-on-the-move/).
-
-Q: Am I allowed to embed their press release in this presentation?
-A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Liberia).
-
-
-## Cases of Norovirus amongst University of Virginia students
-
-|  |  |
-| --- | --- |
-| [![3D-printed structure of Norwalk virus](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Norwalk_Virus_%2814550066332%29.jpg/1280px-Norwalk_Virus_%2814550066332%29.jpg)](https://commons.wikimedia.org/wiki/File:Norwalk_Virus_(14550066332).jpg) 3D-printed Norovirus structure. [NIH, CC BY](https://commons.wikimedia.org/wiki/File:Norwalk_Virus_(14550066332).jpg) | [![Serpentine wall at UVa](https://upload.wikimedia.org/wikipedia/commons/1/18/SerpentineWall.jpg)](https://commons.wikimedia.org/wiki/File:SerpentineWall.jpg) Serpentine wall in UVa's Academic Village. [User:Uris, Public Domain](https://commons.wikimedia.org/wiki/File:SerpentineWall.jpg)
-
-- [first brief news piece](http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population) on January 30 ([archived](https://web.archive.org/web/20190131011709/http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population)), simply informing about an email sent to UVa students, faculty and staff
-- [follow-up](http://www.nbc29.com/story/39879637/doctors-offer-protections-against-norovirus-spread-at-uva) later the same day ([archived](https://web.archive.org/web/20190131010145/http://www.nbc29.com/story/39879637/doctors-offer-protections-against-norovirus-spread-at-uva)), highlighting preventive measures as outlined in the original email
-
-- [literature overview for Norovirus](https://tools.wmflabs.org/scholia/topic/Q1142751)
-
-- [UVa-affiliated authors of publications about Norovirus](https://query.wikidata.org/#%0A%20%23defaultView%3ATable%0ASELECT%20%3Fpublication_date%20%3Fwork%20%3FworkLabel%20%3Fresearchers%0AWITH%20%7B%0A%20%20SELECT%20%0A%20%20%20%20%28MIN%28%3Fpublication_datetimes%29%20AS%20%3Fpublication_datetime%29%20%3Fwork%20%0A%20%20%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fresearcher_label%3B%20separator%3D%27%2C%20%27%29%20AS%20%3Fresearchers%29%0A%20%20WHERE%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%3Fresearcher%20%28%20wdt%3AP108%20%7C%20wdt%3AP463%20%7C%20wdt%3AP1416%20%29%20%2F%20wdt%3AP361%2a%20wd%3AQ213439%20.%0A%20%20%20%20%3Fwork%20wdt%3AP50%20%3Fresearcher%20.%0A%20%20%20%20%3Fwork%20wdt%3AP921%20wd%3AQ1142751%20.%0A%20%20%20%20%3Fresearcher%20rdfs%3Alabel%20%3Fresearcher_label%20.%20FILTER%20%28LANG%28%3Fresearcher_label%29%20%3D%20%27en%27%29%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fwork%20wdt%3AP577%20%3Fpublication_datetimes%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20GROUP%20BY%20%3Fwork%0A%20%20ORDER%20BY%20DESC%28%3Fpublication_datetime%29%0A%20%20LIMIT%20200%20%20%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20%20BIND%28xsd%3Adate%28%3Fpublication_datetime%29%20AS%20%3Fpublication_date%29%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cda%2Cde%2Ces%2Cfr%2Cjp%2Cnl%2Cnl%2Cru%2Czh%22.%20%7D%0A%7D%0AORDER%20BY%20DESC%28%3Fpublication_date%29%0A%20LIMIT%2010)
-  - [and University of Washington?](https://query.wikidata.org/#%0A%20%23defaultView%3ATable%0ASELECT%20%3Fpublication_date%20%3Fwork%20%3FworkLabel%20%3Fresearchers%0AWITH%20%7B%0A%20%20SELECT%20%0A%20%20%20%20%28MIN%28%3Fpublication_datetimes%29%20AS%20%3Fpublication_datetime%29%20%3Fwork%20%0A%20%20%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fresearcher_label%3B%20separator%3D%27%2C%20%27%29%20AS%20%3Fresearchers%29%0A%20%20WHERE%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%3Fresearcher%20%28%20wdt%3AP108%20%7C%20wdt%3AP463%20%7C%20wdt%3AP1416%20%29%20%2F%20wdt%3AP361%2a%20wd%3AQ219563%20.%0A%20%20%20%20%3Fwork%20wdt%3AP50%20%3Fresearcher%20.%0A%20%20%20%20%3Fwork%20wdt%3AP921%20wd%3AQ1142751%20.%0A%20%20%20%20%3Fresearcher%20rdfs%3Alabel%20%3Fresearcher_label%20.%20FILTER%20%28LANG%28%3Fresearcher_label%29%20%3D%20%27en%27%29%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fwork%20wdt%3AP577%20%3Fpublication_datetimes%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20GROUP%20BY%20%3Fwork%0A%20%20ORDER%20BY%20DESC%28%3Fpublication_datetime%29%0A%20%20LIMIT%20200%20%20%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20%20BIND%28xsd%3Adate%28%3Fpublication_datetime%29%20AS%20%3Fpublication_date%29%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cda%2Cde%2Ces%2Cfr%2Cjp%2Cnl%2Cnl%2Cru%2Czh%22.%20%7D%0A%7D%0AORDER%20BY%20DESC%28%3Fpublication_date%29%0A%20LIMIT%2010)
-
-- [Which institutions have affiliated researchers who published about Norovirus?](https://query.wikidata.org/#%23%20%23defaultView%3AGraph%0ASELECT%20%3Fciting_organization%20%3Fciting_organizationLabel%20%3Fcited_organization%20%3Fcited_organizationLabel%0AWITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Fciting_organization%20%3Fcited_organization%20WHERE%20%7B%0A%20%20%20%20%3Fciting_author%20%28wdt%3AP108%7Cwdt%3AP1416%29%20%3Fciting_organization%20.%20%0A%20%20%20%20%3Fcited_author%20%28wdt%3AP108%7Cwdt%3AP1416%29%20%3Fcited_organization%20.%20%0A%0A%20%20%20%20%3Fciting_work%20wdt%3AP50%20%3Fciting_author%20.%20%0A%20%20%20%20%3Fciting_work%20wdt%3AP921%20wd%3AQ1142751%20.%0A%20%20%20%20%3Fcited_work%20wdt%3AP921%20wd%3AQ1142751%20%20.%0A%20%20%20%20%3Fciting_work%20wdt%3AP2860%20%3Fcited_work%20.%20%0A%20%20%20%20%3Fcited_work%20wdt%3AP50%20%3Fcited_author%20.%20%20%0A%20%20%20%20FILTER%20%28%3Fciting_work%20%21%3D%20%3Fcited_work%29%0A%20%20%20%20FILTER%20NOT%20EXISTS%20%7B%0A%20%20%20%20%20%20%3Fciting_work%20wdt%3AP50%20%3Fauthor%20.%0A%20%20%20%20%20%20%3Fciting_work%20wdt%3AP2860%20%3Fcited_work%20.%0A%20%20%20%20%20%20%3Fcited_work%20%20wdt%3AP50%20%3Fauthor%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%20%20%20%20%20%20%20%20%0A%20%7D%0A)
-
-- [CDC-affiliated authors of publications about Norovirus](https://query.wikidata.org/#%0A%20%23defaultView%3ATable%0ASELECT%20%3Fpublication_date%20%3Fwork%20%3FworkLabel%20%3Fresearchers%0AWITH%20%7B%0A%20%20SELECT%20%0A%20%20%20%20%28MIN%28%3Fpublication_datetimes%29%20AS%20%3Fpublication_datetime%29%20%3Fwork%20%0A%20%20%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fresearcher_label%3B%20separator%3D%27%2C%20%27%29%20AS%20%3Fresearchers%29%0A%20%20WHERE%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%3Fresearcher%20%28%20wdt%3AP108%20%7C%20wdt%3AP463%20%7C%20wdt%3AP1416%20%29%20%2F%20wdt%3AP361%2a%20wd%3AQ583725%20.%0A%20%20%20%20%3Fwork%20wdt%3AP50%20%3Fresearcher%20.%0A%20%20%20%20%3Fwork%20wdt%3AP921%20wd%3AQ1142751%20.%0A%20%20%20%20%3Fresearcher%20rdfs%3Alabel%20%3Fresearcher_label%20.%20FILTER%20%28LANG%28%3Fresearcher_label%29%20%3D%20%27en%27%29%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fwork%20wdt%3AP577%20%3Fpublication_datetimes%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20GROUP%20BY%20%3Fwork%0A%20%20ORDER%20BY%20DESC%28%3Fpublication_datetime%29%0A%20%20LIMIT%20200%20%20%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20%20BIND%28xsd%3Adate%28%3Fpublication_datetime%29%20AS%20%3Fpublication_date%29%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cda%2Cde%2Ces%2Cfr%2Cjp%2Cnl%2Cnl%2Cru%2Czh%22.%20%7D%0A%7D%0AORDER%20BY%20DESC%28%3Fpublication_date%29%0A%20LIMIT%20100)
-
-- [Human Sera Collected between 1979 and 2010 Possess Blocking-Antibody Titers to Pandemic GII.4 Noroviruses Isolated over Three Decades](https://doi.org/10.1128/JVI.00567-17)
-  - how to find such samples taken in the past?
-  - similar case: [1970s and ‘Patient 0’ HIV-1 genomes illuminate early HIV/AIDS history in North America](https://doi.org/10.1038/nature19827)
-    - reused blood samples to sequence patient genomes to analyze the spread of HIV
+An Etherpad has been set up to allow for collaborative note taking. It can be found at [https://etherpad.wikimedia.org/p/Env-H-580-on-2019-01-31](https://etherpad.wikimedia.org/p/Env-H-580-on-2019-01-31).
 
 
 # Historic timeline
@@ -306,6 +255,59 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * [Final Rule for FDAAA 801 and NIH Policy on Clinical Trial Reporting](https://www.nih.gov/news-events/news-releases/hhs-take-steps-provide-more-information-about-clinical-trials-public)
   * [PCORI consultation on their data sharing policy](https://via.hypothes.is/http://www.pcori.org/sites/default/files/PCORI-Data-Access-Data-Sharing-DRAFT-for-Public-Comment-October-2016.pdf)
 
+# Examples from the past week
+
+## Fragments of Ebola Zaire virus RNA have been found in a _Miniopterus inflatus_ bat in Liberia
+
+[![_Miniopterus inflatus_, the greater long-fingered bat](https://upload.wikimedia.org/wikipedia/commons/f/fa/Miniopterus_inflatus.jpg)](https://commons.wikimedia.org/wiki/File:Miniopterus_inflatus.jpg) _Miniopterus inflatus_, the greater long-fingered bat. Drawing from Allen, J. A., Lang, H., & Chapin, J. P. (1917), [Public domain](https://commons.wikimedia.org/wiki/File:Miniopterus_inflatus.jpg). See [here](https://vizhub.healthdata.org/lbd/pandemics/) for a map of environmental suitability for Ebola virus ([more details](https://doi.org/10.7554/eLife.16412)).
+
+- press release by the Liberian Ministry of Health, announcing the finding on January 24, 2019:
+  - http://nationalphil.org/index.php/press-release/
+    - see also [multiple news pieces on the matter](https://www.ecosia.org/search?q=%22Miniopterus+inflatus%22+ebola)
+      - e.g. [doi:10.1126/science.aaw7864](https://doi.org/10.1126/science.aaw7864), [Das Virus in der Fledermaus](https://www.zeit.de/wissen/gesundheit/2019-01/ebola-westafrika-fledermaus-virus-uebertragung/komplettansicht)
+
+>  “felt that this was an important finding to bring to the public irrespective of a scientific publication” 
+
+- only fragments identified so far, so precise strain is as yet uncertain
+- find was limited to a single sample out of > 11,000 that were analyzed
+- sample was taken in 2016 from a _Miniopterus inflatus_ bat in a cave in Liberia
+- that species is common across multiple countries, but Ebola virus had never been identified in it in West Africa
+
+Q: What does _Miniopterus inflatus_ feed on? 
+A: [Mostly insects](https://en.wikipedia.org/wiki/Vespertilionidae).
+
+Q: Where does _Miniopterus inflatus_ live? 
+A: [In caves in various places across Sub-Saharan Africa](https://www.iucnredlist.org/species/13565/22104819).
+
+Q: Are they migrating?
+A: Some closely related and equally insectivorous bat species are, e.g. the [Natal long-fingered bat (_Miniopterus natalensis_)](https://africanbats.org/programs/bats-on-the-move/miniopterus-on-the-move/).
+
+Q: Am I allowed to embed their press release in this presentation?
+A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Liberia).
+
+
+## Cases of Norovirus amongst University of Virginia students
+
+|  |  |
+| --- | --- |
+| [![3D-printed structure of Norwalk virus](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Norwalk_Virus_%2814550066332%29.jpg/1280px-Norwalk_Virus_%2814550066332%29.jpg)](https://commons.wikimedia.org/wiki/File:Norwalk_Virus_(14550066332).jpg) 3D-printed Norovirus structure. [NIH, CC BY](https://commons.wikimedia.org/wiki/File:Norwalk_Virus_(14550066332).jpg) | [![Serpentine wall at UVa](https://upload.wikimedia.org/wikipedia/commons/1/18/SerpentineWall.jpg)](https://commons.wikimedia.org/wiki/File:SerpentineWall.jpg) Serpentine wall in UVa's Academic Village. [User:Uris, Public Domain](https://commons.wikimedia.org/wiki/File:SerpentineWall.jpg)
+
+- [first brief news piece](http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population) on January 30 ([archived](https://web.archive.org/web/20190131011709/http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population)), simply informing about an email sent to UVa students, faculty and staff
+- [follow-up](http://www.nbc29.com/story/39879637/doctors-offer-protections-against-norovirus-spread-at-uva) later the same day ([archived](https://web.archive.org/web/20190131010145/http://www.nbc29.com/story/39879637/doctors-offer-protections-against-norovirus-spread-at-uva)), highlighting preventive measures as outlined in the original email
+
+- [literature overview for Norovirus](https://tools.wmflabs.org/scholia/topic/Q1142751)
+
+- [UVa-affiliated authors of publications about Norovirus](https://query.wikidata.org/#%0A%20%23defaultView%3ATable%0ASELECT%20%3Fpublication_date%20%3Fwork%20%3FworkLabel%20%3Fresearchers%0AWITH%20%7B%0A%20%20SELECT%20%0A%20%20%20%20%28MIN%28%3Fpublication_datetimes%29%20AS%20%3Fpublication_datetime%29%20%3Fwork%20%0A%20%20%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fresearcher_label%3B%20separator%3D%27%2C%20%27%29%20AS%20%3Fresearchers%29%0A%20%20WHERE%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%3Fresearcher%20%28%20wdt%3AP108%20%7C%20wdt%3AP463%20%7C%20wdt%3AP1416%20%29%20%2F%20wdt%3AP361%2a%20wd%3AQ213439%20.%0A%20%20%20%20%3Fwork%20wdt%3AP50%20%3Fresearcher%20.%0A%20%20%20%20%3Fwork%20wdt%3AP921%20wd%3AQ1142751%20.%0A%20%20%20%20%3Fresearcher%20rdfs%3Alabel%20%3Fresearcher_label%20.%20FILTER%20%28LANG%28%3Fresearcher_label%29%20%3D%20%27en%27%29%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fwork%20wdt%3AP577%20%3Fpublication_datetimes%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20GROUP%20BY%20%3Fwork%0A%20%20ORDER%20BY%20DESC%28%3Fpublication_datetime%29%0A%20%20LIMIT%20200%20%20%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20%20BIND%28xsd%3Adate%28%3Fpublication_datetime%29%20AS%20%3Fpublication_date%29%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cda%2Cde%2Ces%2Cfr%2Cjp%2Cnl%2Cnl%2Cru%2Czh%22.%20%7D%0A%7D%0AORDER%20BY%20DESC%28%3Fpublication_date%29%0A%20LIMIT%2010)
+  - [and University of Washington?](https://query.wikidata.org/#%0A%20%23defaultView%3ATable%0ASELECT%20%3Fpublication_date%20%3Fwork%20%3FworkLabel%20%3Fresearchers%0AWITH%20%7B%0A%20%20SELECT%20%0A%20%20%20%20%28MIN%28%3Fpublication_datetimes%29%20AS%20%3Fpublication_datetime%29%20%3Fwork%20%0A%20%20%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fresearcher_label%3B%20separator%3D%27%2C%20%27%29%20AS%20%3Fresearchers%29%0A%20%20WHERE%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%3Fresearcher%20%28%20wdt%3AP108%20%7C%20wdt%3AP463%20%7C%20wdt%3AP1416%20%29%20%2F%20wdt%3AP361%2a%20wd%3AQ219563%20.%0A%20%20%20%20%3Fwork%20wdt%3AP50%20%3Fresearcher%20.%0A%20%20%20%20%3Fwork%20wdt%3AP921%20wd%3AQ1142751%20.%0A%20%20%20%20%3Fresearcher%20rdfs%3Alabel%20%3Fresearcher_label%20.%20FILTER%20%28LANG%28%3Fresearcher_label%29%20%3D%20%27en%27%29%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fwork%20wdt%3AP577%20%3Fpublication_datetimes%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20GROUP%20BY%20%3Fwork%0A%20%20ORDER%20BY%20DESC%28%3Fpublication_datetime%29%0A%20%20LIMIT%20200%20%20%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20%20BIND%28xsd%3Adate%28%3Fpublication_datetime%29%20AS%20%3Fpublication_date%29%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cda%2Cde%2Ces%2Cfr%2Cjp%2Cnl%2Cnl%2Cru%2Czh%22.%20%7D%0A%7D%0AORDER%20BY%20DESC%28%3Fpublication_date%29%0A%20LIMIT%2010)
+
+- [Which institutions have affiliated researchers who published about Norovirus?](https://query.wikidata.org/#%23%20%23defaultView%3AGraph%0ASELECT%20%3Fciting_organization%20%3Fciting_organizationLabel%20%3Fcited_organization%20%3Fcited_organizationLabel%0AWITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Fciting_organization%20%3Fcited_organization%20WHERE%20%7B%0A%20%20%20%20%3Fciting_author%20%28wdt%3AP108%7Cwdt%3AP1416%29%20%3Fciting_organization%20.%20%0A%20%20%20%20%3Fcited_author%20%28wdt%3AP108%7Cwdt%3AP1416%29%20%3Fcited_organization%20.%20%0A%0A%20%20%20%20%3Fciting_work%20wdt%3AP50%20%3Fciting_author%20.%20%0A%20%20%20%20%3Fciting_work%20wdt%3AP921%20wd%3AQ1142751%20.%0A%20%20%20%20%3Fcited_work%20wdt%3AP921%20wd%3AQ1142751%20%20.%0A%20%20%20%20%3Fciting_work%20wdt%3AP2860%20%3Fcited_work%20.%20%0A%20%20%20%20%3Fcited_work%20wdt%3AP50%20%3Fcited_author%20.%20%20%0A%20%20%20%20FILTER%20%28%3Fciting_work%20%21%3D%20%3Fcited_work%29%0A%20%20%20%20FILTER%20NOT%20EXISTS%20%7B%0A%20%20%20%20%20%20%3Fciting_work%20wdt%3AP50%20%3Fauthor%20.%0A%20%20%20%20%20%20%3Fciting_work%20wdt%3AP2860%20%3Fcited_work%20.%0A%20%20%20%20%20%20%3Fcited_work%20%20wdt%3AP50%20%3Fauthor%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%20%20%20%20%20%20%20%20%0A%20%7D%0A)
+
+- [CDC-affiliated authors of publications about Norovirus](https://query.wikidata.org/#%0A%20%23defaultView%3ATable%0ASELECT%20%3Fpublication_date%20%3Fwork%20%3FworkLabel%20%3Fresearchers%0AWITH%20%7B%0A%20%20SELECT%20%0A%20%20%20%20%28MIN%28%3Fpublication_datetimes%29%20AS%20%3Fpublication_datetime%29%20%3Fwork%20%0A%20%20%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fresearcher_label%3B%20separator%3D%27%2C%20%27%29%20AS%20%3Fresearchers%29%0A%20%20WHERE%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%3Fresearcher%20%28%20wdt%3AP108%20%7C%20wdt%3AP463%20%7C%20wdt%3AP1416%20%29%20%2F%20wdt%3AP361%2a%20wd%3AQ583725%20.%0A%20%20%20%20%3Fwork%20wdt%3AP50%20%3Fresearcher%20.%0A%20%20%20%20%3Fwork%20wdt%3AP921%20wd%3AQ1142751%20.%0A%20%20%20%20%3Fresearcher%20rdfs%3Alabel%20%3Fresearcher_label%20.%20FILTER%20%28LANG%28%3Fresearcher_label%29%20%3D%20%27en%27%29%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fwork%20wdt%3AP577%20%3Fpublication_datetimes%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20GROUP%20BY%20%3Fwork%0A%20%20ORDER%20BY%20DESC%28%3Fpublication_datetime%29%0A%20%20LIMIT%20200%20%20%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20%20BIND%28xsd%3Adate%28%3Fpublication_datetime%29%20AS%20%3Fpublication_date%29%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cda%2Cde%2Ces%2Cfr%2Cjp%2Cnl%2Cnl%2Cru%2Czh%22.%20%7D%0A%7D%0AORDER%20BY%20DESC%28%3Fpublication_date%29%0A%20LIMIT%20100)
+
+- [Human Sera Collected between 1979 and 2010 Possess Blocking-Antibody Titers to Pandemic GII.4 Noroviruses Isolated over Three Decades](https://doi.org/10.1128/JVI.00567-17)
+  - how to find such samples taken in the past?
+  - similar case: [1970s and ‘Patient 0’ HIV-1 genomes illuminate early HIV/AIDS history in North America](https://doi.org/10.1038/nature19827)
+    - reused blood samples to sequence patient genomes to analyze the spread of HIV
 
 ## Reusing data
 * Zika data reuse
