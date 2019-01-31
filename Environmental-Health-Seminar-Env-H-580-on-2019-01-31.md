@@ -347,8 +347,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 
 # About
 
-This file hosts a guest lecture given remotely on January 31, 2019, as part of the [Environmental Health Seminar (Env H 580)](Environmental Health Seminar (Env H 580) at the Department of Environmental Health & Occupational Safety in the School of Public Health of Washington University, Seattle. It continues a series of talks on the subject that was started with a [SciDatCon 2016 talk](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md). 
-For a previous version of this talk, given on November 6, 2018 in the framework of [SciDataCon 2018](https://www.scidatacon.org/IDW2018/), see [here](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md).
+This file hosts a guest lecture given remotely on January 31, 2019, as part of the [Environmental Health Seminar (Env H 580)](https://deohs.washington.edu/calendar/environmental-health-seminar) at the Department of Environmental Health & Occupational Safety in the School of Public Health of Washington University, Seattle. It continues a series of talks on the subject that was started with a [SciDataCon 2016 talk](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md). 
 
 
 # See also
