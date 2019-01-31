@@ -268,10 +268,12 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 
 >  “felt that this was an important finding to bring to the public irrespective of a scientific publication” 
 
-- only fragments identified so far, so precise strain is as yet uncertain
+- only fragments of the viral sequence identified so far, so precise strain is as yet uncertain
 - find was limited to a single sample out of > 11,000 that were analyzed
 - sample was taken in 2016 from a _Miniopterus inflatus_ bat in a cave in Liberia
 - that species is common across multiple countries, but Ebola virus had never been identified in it in West Africa
+- press release also highlights preventive measures and reiterates that there is no current outbreak in Liberia
+- background: Liberia was the country most affected by the 2014 Ebola outbreak, which caught their health system by surprise, despite paywalled [findings](https://web.archive.org/web/20171214145557/https://www.nytimes.com/2015/04/08/opinion/yes-we-were-warned-about-ebola.html) by foreign researchers "indicat[ing] that Liberia has to be included in the Ebola virus endemic zone" decades earlier
 
 Q: What does _Miniopterus inflatus_ feed on? 
 A: [Mostly insects](https://en.wikipedia.org/wiki/Vespertilionidae).
@@ -292,7 +294,7 @@ A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules
 | --- | --- |
 | [![3D-printed structure of Norwalk virus](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Norwalk_Virus_%2814550066332%29.jpg/1280px-Norwalk_Virus_%2814550066332%29.jpg)](https://commons.wikimedia.org/wiki/File:Norwalk_Virus_(14550066332).jpg) 3D-printed Norovirus structure. [NIH, CC BY](https://commons.wikimedia.org/wiki/File:Norwalk_Virus_(14550066332).jpg) | [![Serpentine wall at UVa](https://upload.wikimedia.org/wikipedia/commons/1/18/SerpentineWall.jpg)](https://commons.wikimedia.org/wiki/File:SerpentineWall.jpg) Serpentine wall in UVa's Academic Village. [User:Uris, Public Domain](https://commons.wikimedia.org/wiki/File:SerpentineWall.jpg)
 
-- [first brief news piece](http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population) on January 30 ([archived](https://web.archive.org/web/20190131011709/http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population)), simply informing about an email sent to UVa students, faculty and staff
+- [first brief news piece](http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population) on January 30 ([archived](https://web.archive.org/web/20190131011709/http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population)), simply informing about an email sent to UVa students, faculty and staff that alerted the community to the presence of the virus and provided some behavioral recommendations
 - [follow-up](http://www.nbc29.com/story/39879637/doctors-offer-protections-against-norovirus-spread-at-uva) later the same day ([archived](https://web.archive.org/web/20190131010145/http://www.nbc29.com/story/39879637/doctors-offer-protections-against-norovirus-spread-at-uva)), highlighting preventive measures as outlined in the original email
 
 - [literature overview for Norovirus](https://tools.wmflabs.org/scholia/topic/Q1142751)
@@ -378,6 +380,7 @@ A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules
 
 This file hosts a guest lecture given remotely on January 31, 2019, as part of the [Environmental Health Seminar (Env H 580)](https://deohs.washington.edu/calendar/environmental-health-seminar) at the Department of Environmental & Occupational Health Sciences at the University of Washington. It continues a series of talks on the subject that was started with a [SciDataCon 2016 talk](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md). 
 
+For information about the presenter, see [here](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Biographical_sketch).
 
 # See also
 
