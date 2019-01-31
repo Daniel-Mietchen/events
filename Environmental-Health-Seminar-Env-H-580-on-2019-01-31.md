@@ -21,8 +21,7 @@ While focusing on disease outbreaks, I will draw on examples from other public h
 
 ## Fragments of Ebola Zaire virus RNA have been found in a _Miniopterus inflatus_ bat in Liberia
 
- _Miniopterus inflatus_, the greater long-fingered bat 
-[![_Miniopterus inflatus_, the greater long-fingered bat](https://upload.wikimedia.org/wikipedia/commons/f/fa/Miniopterus_inflatus.jpg)](https://commons.wikimedia.org/wiki/File:Miniopterus_inflatus.jpg) Allen, J. A., Lang, H., & Chapin, J. P., [Public domain](https://commons.wikimedia.org/wiki/File:Miniopterus_inflatus.jpg). See [here](https://vizhub.healthdata.org/lbd/pandemics/) for a map of environmental suitability for Ebola virus ([more details](https://doi.org/10.7554/eLife.16412))
+[![_Miniopterus inflatus_, the greater long-fingered bat](https://upload.wikimedia.org/wikipedia/commons/f/fa/Miniopterus_inflatus.jpg)](https://commons.wikimedia.org/wiki/File:Miniopterus_inflatus.jpg) _Miniopterus inflatus_, the greater long-fingered bat . Drawing from Allen, J. A., Lang, H., & Chapin, J. P. (1917), [Public domain](https://commons.wikimedia.org/wiki/File:Miniopterus_inflatus.jpg). See [here](https://vizhub.healthdata.org/lbd/pandemics/) for a map of environmental suitability for Ebola virus ([more details](https://doi.org/10.7554/eLife.16412)).
 
 - press release by the Liberian Ministry of Health, announcing the finding on January 24, 2019:
   - http://nationalphil.org/index.php/press-release/
