@@ -408,6 +408,7 @@ This file hosts a guest lecture given remotely on January 31, 2019, as part of t
 # See also
 
 * [Data sharing as a new component of addressing and preparing for disease outbreaks](SciDataCon-2018-data-sharing.md) &mdash; a presentation given at [SciDataCon 2018](https://www.scidatacon.org/IDW2018/)
+* [A guided tour through citation networks around public health emergencies ](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/Talks/Workshop_on_Open_Citations_2018)
 * [Data sharing and public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md) &mdash; a presentation for [Endangered Data Week](http://endangereddataweek.org/) 2018
   - [Data sharing in public health emergencies: A study of current policies, practices and infrastructure supporting the sharing of data to prevent and respond to epidemic and pandemic threats](https://doi.org/10.6084/m9.figshare.5897608.v1) &mdash; a paper that I was [notified](https://twitter.com/ElizabethPisani/status/968259461608562690) of in response to a tweet about this talk. 
   - the same slides were also used for a presentation at the [Institute of Geoinformatics of the University of Heidelberg](https://www.geog.uni-heidelberg.de/gis/index.html) on June 8, 2018
