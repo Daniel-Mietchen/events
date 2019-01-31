@@ -345,40 +345,18 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 (Fire truck photo by [Australian Department of Foreign Affairs and Trade](https://www.flickr.com/people/106853342@N04), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en); data sharing illustration by Ainsley Seago, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en))
 
 
-
 # About
 
-This file hosts a contribution to [SciDataCon 2018](https://www.scidatacon.org/IDW2018/). It continues a series of talks on the subject that was started with a [SciDatCon 2016 talk](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md). For SciDataCon 2018, it was originally submitted as a separate session "Data sharing in public health emergencies", then merged into a related session [Open Data from Cell Biology of Infectious Pathogens, how far are we? ](https://www.scidatacon.org/IDW2018/sessions/262/), which was then merged further into the session [Health Databases across the African Continent: What do we have and what do we need for Sustainable Development?](https://www.scidatacon.org/IDW2018/sessions/222/) taking place on 6 November at 14:00–15:30 in rooms Serondela 1 and 2, where this contribution will be one of four oral presentations that lead to a panel discussion.
-
-For a previous version of this talk, given on February 26, 2018 in the framework of [Endangered Data Week](http://endangereddataweek.org/), see [here](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md).
-
-# Title of the original session submission
-
-Data sharing in public health emergencies
-
-# Session description for the original session submission 
-
-Humanity has a long history of sharing, especially in the wake of disasters. Data sharing is a relatively new flavour under this broader theme, but one that has been receiving attention over the last few years, especially in the context of public health emergencies like the Ebola or Zika outbreaks. 
-
-In response, researchers, research institutions, journals, funders and others have taken steps towards increasing the sharing of data around public health emergencies. These measures range from the adoption of open lab notebooks to modifications of policies and funding lines, and they include conversations around infrastructure and cultural change. 
-
-In this session, representatives from various stakeholder groups are invited to contribute their perspectives in a series of lightning talks, highlighting steps that have already been taken as well as challenges still lying ahead.
-
-Together, these talks - and the ensuing discussion - are to span the entire data life cycle of public health emergencies, from preventive measures and routine public health surveillance data to the tracking of pathogens, investigating pathogen transmission and other host-pathogen interactions, as well as diagnostics, vaccination, epidemiological modelling and other related efforts.
-
-This submission addresses all four of the high-level themes of SciDataCon 2018:
-- The digital frontiers of global science;
-- a global and inclusive data revolution;
-- applications, progress and challenges of data intensive research;
-- data infrastructure and enabling practices for international and collaborative research.
-
-A version of this abstract can be found at https://github.com/Daniel-Mietchen/events/blob/master/Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md .
+This file hosts a guest lecture given remotely on January 31, 2019, as part of the [Environmental Health Seminar (Env H 580)](Environmental Health Seminar (Env H 580) at the Department of Environmental Health & Occupational Safety in the School of Public Health of Washington University, Seattle. It continues a series of talks on the subject that was started with a [SciDatCon 2016 talk](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md). 
+For a previous version of this talk, given on November 6, 2018 in the framework of [SciDataCon 2018](https://www.scidatacon.org/IDW2018/), see [here](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md).
 
 
 # See also
 
-* [Data sharing as a new component of addressing and preparing for disease outbreaks](SciDataCon-2018-data-sharing.md) &mdash; a presentation given at [SciDataCon 2018](http://www.scidatacon.org/2018/)
-* [Data sharing in public health emergencies: A study of current policies, practices and infrastructure supporting the sharing of data to prevent and respond to epidemic and pandemic threats](https://doi.org/10.6084/m9.figshare.5897608.v1) &mdash; a paper that I was [notified](https://twitter.com/ElizabethPisani/status/968259461608562690) of in response to a tweet about a previous version of this talk. 
+* [Data sharing as a new component of addressing and preparing for disease outbreaks](SciDataCon-2018-data-sharing.md) &mdash; a presentation given at [SciDataCon 2018](https://www.scidatacon.org/IDW2018/)
+* [Data sharing and public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md) &mdash; a presentation for [Endangered Data Week](http://endangereddataweek.org/) 2018
+  - [Data sharing in public health emergencies: A study of current policies, practices and infrastructure supporting the sharing of data to prevent and respond to epidemic and pandemic threats](https://doi.org/10.6084/m9.figshare.5897608.v1) &mdash; a paper that I was [notified](https://twitter.com/ElizabethPisani/status/968259461608562690) of in response to a tweet about this talk. 
+  - the same slides were also used for a presentation at the [Institute of Geoinformatics of the University of Heidelberg](https://www.geog.uni-heidelberg.de/gis/index.html) on June 8, 2018
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) &mdash; a presentation for [SciDataCon 2016](http://www.scidatacon.org/2016/)
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
 * [More details on sharing in response to public health emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
