@@ -19,7 +19,7 @@ See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes ta
   - [My posters](https://www.wikidata.org/wiki/User:Daniel_Mietchen/International_Data_Week_2018): 
     - RDA poster 7 ["Ten principles for machine-actionable data management plans"](https://doi.org/10.5281/zenodo.1461712) ([in action](https://twitter.com/GigaScience/status/1059447556684607488)) and RDA breakout 3 session "[Use cases for machine-actionable data management plans](https://www.rd-alliance.org/wg-dmp-common-standards-rda-12th-plenary-meeting)" on Tuesday
     - SciDataCon poster 168: [WikiCite and Scholia - a Linked Open Data approach to exploring the scholarly literature and related resources](https://www.scidatacon.org/IDW2018/sessions/264/poster/168/) (General SciDataCon Poster Session with ID 264, taking place on 5 November at 17:30-20:00 in Room Tsodilo A and Entrance)
-    - SciDataCon poster 150: [A wiki approach to collecting, curating and managing citizen science data](https://www.scidatacon.org/IDW2018/sessions/211/poster/150/) (see SciDataCon session 211)
+    - SciDataCon poster 150: [A wiki approach to collecting, curating and managing citizen science data](https://doi.org/10.5281/zenodo.2560018) (see SciDataCon session 211)
     - SciDataCon poster 208: [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/) (see SciDataCon session 252)
 - RDA breakout 3 &mdash; [Use cases for machine-actionable data management plans](https://www.rd-alliance.org/wg-dmp-common-standards-rda-12th-plenary-meeting)
   - Tuesday, 6 November at 9:30 - 11:00 in Room Tsodilo A
@@ -43,7 +43,7 @@ See [here](https://github.com/Daniel-Mietchen/events/issues/211) for my notes ta
 - RDA breakout 5 &mdash; [Data Reuse Ethics : Specifying Roles and Responsibilities](https://www.rd-alliance.org/ig-ethics-and-social-aspects-data-rda-12th-plenary-meeting)
   - Wednesday, 7 November at 14:00 - 15:30 in Room Tsodilo B1
   - oral presentation: Making Ethical Review Processes more Machine Actionable 
-    - [slides](https://docs.google.com/presentation/d/1weJvgcMYgJ1vfhyJ6SE5hHDwrSZ7dk_DkfLIKO1f5kU/edit)
+    - [slides](https://doi.org/10.5281/zenodo.2559997)
 - SciDataCon [Session 252: Delivering a Global Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/)
   - Thursday, 8 November at **11:30 - 13:00** in Room Serondela 3
   - poster: [A wiki perspective on an Open Science Commons](https://www.scidatacon.org/IDW2018/sessions/252/poster/208/)
