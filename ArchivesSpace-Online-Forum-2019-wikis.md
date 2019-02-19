@@ -1,6 +1,6 @@
 # About
 
-This file hosts a contribution to the [ArchivesSpace Online Forum](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/802127927/ArchivesSpace+Online+Forum+2019) taking place on 18 March 2019.
+This file hosts a contribution to the [ArchivesSpace Online Forum](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/802127927/ArchivesSpace+Online+Forum+2019) taking place on 18 March 2019. It was submitted shortly before the deadline on February 18, 2019.
 
 # Title 
 
