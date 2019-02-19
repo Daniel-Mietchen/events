@@ -13,3 +13,9 @@ Public health emergencies require profound and swift action at scale with limite
 In response, researchers, research institutions, journals, funders and others have taken steps towards increasing the sharing of data around ongoing public health emergencies and in preparation for future ones. These measures range from the adoption of open lab notebooks to modifications of policies and funding lines, and they include conversations around infrastructure and cultural change as well as around the provenance and persistence of emergency-related resources.
 
 This presentation will be given on the basis of https://github.com/Daniel-Mietchen/events/blob/master/ArchivesSpace-Online-Forum-2019-emergencies.md and provide an overview of different ways in which the sharing of data has played a role in public health emergencies, highlighting steps that have already been taken over the last decade as well as challenges still lying ahead and concluding with considerations around the potential impact of preserving and sharing data or associated metadata, or failing at that.
+
+# Notes
+
+*I will use this section to prepare the presentation.*
+
+* OECD report: [Assessing the Real Cost of Disasters](http://www.oecd.org/fr/publications/assessing-the-real-cost-of-disasters-9789264298798-en.htm)
