@@ -10,4 +10,4 @@ Sharing research all along research cycle
 
 Human societies engage in research in order to advance their understanding and mastering of the world they live in. This involves sharing of various aspects of research. Starting from the research results and the underlying methodology, more and more aspects of research are now being shared, often with communities much broader than classical research teams.
 
-In this talk, we will zoom in on various individual steps of a number of research cycles and examine ways in which these steps have been or could have been shared, and what kinds of reuses are being enabled by such sharing. The examples will be drawn from various fields, e.g. public health emergencies, Bablyonian archaeology or meteorology.
+In this talk, we will zoom in on various individual steps of a number of research cycles and examine ways in which these steps have been or could have been shared, and what kinds of reuses are being enabled by such sharing. The examples will be drawn from various fields, e.g. public health emergencies, Babylonian archaeology or meteorology.
