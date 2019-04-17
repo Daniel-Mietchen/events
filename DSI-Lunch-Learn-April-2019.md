@@ -4,7 +4,7 @@ This file hosts a contribution to the [Lunch & Learn series](https://datascience
 
 # Title
 
-Sharing research all along research cycle
+Sharing research all along the research cycle
 
 # Abstract
 
@@ -12,12 +12,16 @@ Human societies engage in research in order to advance their understanding and m
 
 In this talk, we will zoom in on various individual steps of a number of research cycles and examine ways in which these steps have been or could have been shared, and what kinds of reuses are being enabled by such sharing. The examples will be drawn from various fields, e.g. public health emergencies, Babylonian archaeology or meteorology.
 
+# How do data science and open research go together?
 
-# Open data: central element of an open research ecosystem
-*You can watch the [video recording](https://www.youtube.com/watch?v=6qDEeRsMv7s#t=10m) of the presentation.*
+## What is data science? 
 
-["Open data … can help create $3 trillion a year"](https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/open-data-unlocking-innovation-and-performance-with-liquid-information)
-- "[underestimate](https://twitter.com/hudsonhollister/status/928996816640794628)"
+## What is open research? 
+
+https://www.youtube.com/watch?v=Qqj9z5ip7ac
+
+
+# Open data as a central element of an open research ecosystem
 
 [Listen to open data](http://listen.hatnote.com/#en,fa,ar,sa,es,de,ru,jp,zh,ko)
 
@@ -35,13 +39,15 @@ In this talk, we will zoom in on various individual steps of a number of researc
 
 All images are linked to pages with metadata about them, including licensing information. The licensing is always compatible with the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
+# Things to add
+
+* FAIR 
+
 # See also
 
-- [Slides of the other Research Highlights talks](https://docs.google.com/presentation/d/1gWa2N8yjVetzDO6g6GQj8-Wbho4QZsjZHrcgsa2d4VU/edit), including the report from the [Biomedical Data Science hackathon](https://github.com/databio/bds_hackathon).
+- [Open data: central element of an open research ecosystem](https://github.com/Daniel-Mietchen/events/blob/master/UVA-Datapalooza-2017.md)
 - A [video introduction to open research](https://www.youtube.com/watch?v=LwW1-X3glak)
 - [Open Science Q & A](https://openscience.ub.uni-bielefeld.de/)
-- [The event app](http://goo.gl/qLkj9h).
-  - My number is 441. 
 - Twitter:
   - hashtag: [#Datapalooza2017](https://twitter.com/hashtag/datapalooza2017?f=tweets&vertical=default), not [#Datapalooza](https://twitter.com/hashtag/datapalooza?f=tweets&vertical=default), but [here are both](https://twitter.com/search?f=tweets&vertical=default&q=datapalooza2017%20OR%20datapalooza)
   - I'm [@EvoMRI](https://twitter.com/EvoMRI)
