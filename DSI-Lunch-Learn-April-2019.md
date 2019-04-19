@@ -14,14 +14,12 @@ In this talk, we will zoom in on various individual steps of a number of researc
 
 # How do data science and open research go together?
 
-## What is data science? 
-
 ## What is open research? 
 
-https://www.youtube.com/watch?v=Qqj9z5ip7ac
+[Brief introductory video](https://www.youtube.com/watch?v=Qqj9z5ip7ac)
 
 
-# Open data as a central element of an open research ecosystem
+## Open data as a central element of an open research ecosystem
 
 [Listen to open data](http://listen.hatnote.com/#en,fa,ar,sa,es,de,ru,jp,zh,ko)
 
