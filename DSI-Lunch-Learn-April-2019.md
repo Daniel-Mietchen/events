@@ -20,9 +20,10 @@ In this talk, we will zoom in on various individual steps of a number of researc
 
 [Brief introductory video](https://www.youtube.com/watch?v=Qqj9z5ip7ac)
 
-## A data perspective on the research cycle
+## What is a research cycle?
 
-* [brought to you by UVA libraries](https://data.library.virginia.edu/data-management/lifecycle/)
+* [details depend, but basically the series of steps involved in moving research forward](https://www.ecosia.org/search?q=research+cycle&addon=firefox&addonversion=4.0.4)
+* [a data perspective](https://data.library.virginia.edu/data-management/lifecycle/)
 
 ## Open data as a central element of an open research ecosystem
 
