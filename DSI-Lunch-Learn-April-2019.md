@@ -62,6 +62,7 @@ All images are linked to pages with metadata about them, including licensing inf
 # See also
 
 - [Open data: central element of an open research ecosystem](https://github.com/Daniel-Mietchen/events/blob/master/UVA-Datapalooza-2017.md)
+- [Opening up the research data life cycle](https://github.com/Daniel-Mietchen/events/blob/master/3rd-BEXIS-2-User-and-Developer-Conference.md)
 - [Open Science Q & A](https://openscience.ub.uni-bielefeld.de/)
   - I'm [@EvoMRI](https://twitter.com/EvoMRI)
 
