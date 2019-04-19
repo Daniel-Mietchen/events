@@ -32,13 +32,14 @@ In this talk, we will zoom in on various individual steps of a number of researc
 ## Some of my activities in this space
 
 - helping to improve [data sharing in public health emergencies](http://www.who.int/bulletin/volumes/95/4/17-192096/en/)
-- working on [making data mangement plans machine actionable, versioned and public](https://doi.org/10.3897/rio.3.e13086)
+- working on [making data mangement plans machine actionable, versioned and public](https://doi.org/10.1371/journal.pcbi.1006750)
 - helped shape the [Open Science Prize](http://openscienceprize.org/)
 - helping to explore [technical aspects of preprint services in the life sciences](https://doi.org/10.3897/rio.3.e11825)
-- helping to [collect citations for the sum of human knowledge](https://meta.wikimedia.org/wiki/WikiCite_2017)
-- contributing to [data science policy in the European Union](https://github.com/FAIR-EG/consultation)
+- helping to [collect citations for the sum of human knowledge](https://meta.wikimedia.org/wiki/WikiCite_2018)
+- contributing to [data science policy in the European Union](https://doi.org/10.2777/1524)
 - helping to [organize events around modernizing scholarly communication](https://www.force11.org/group/force2017-organizing-committee/program-committee)
 - editing an open-science [journal](http://riojournal.com/browse_articles) that aims to make entire research processes visible, not just the results
+- building a [tool](https://tools.wmflabs.org/scholia/) for profiling research topics, organizations, awards, researchers and related concepts
 - running a [bot](https://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) that feeds openly licensed multimedia from PubMed Central into Wikimedia Commons for reuse on Wikipedia and elsewhere
 - editing the [Topic Pages](http://collections.plos.org/topic-pages) collection at PLOS Computational Biology
 
