@@ -21,7 +21,7 @@ In this talk, we will zoom in on various individual steps of a number of researc
 
 ## Open data as a central element of an open research ecosystem
 
-[Listen to open data](listen.hatnote.com/#wikidata,fr,de,it,rm,en,ru,en,fa,ko,se,es,ca,pt)
+[Listen to open data](http://listen.hatnote.com/#wikidata,fr,de,it,rm,en,ru,en,fa,ko,se,es,ca,pt)
 
 [![Research in progress](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Discovery_in_process.jpg/1280px-Discovery_in_process.jpg)](https://commons.wikimedia.org/wiki/File:Discovery_in_process.jpg)
 
