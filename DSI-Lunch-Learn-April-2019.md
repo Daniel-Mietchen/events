@@ -50,6 +50,7 @@ In this talk, we will zoom in on various individual steps of a number of researc
 * [data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md)
 * [research published last week](https://github.com/Daniel-Mietchen/events/blob/master/FORCE-2018-research-published-last-week.md)
 * [data archaeology](https://github.com/Daniel-Mietchen/datascience/blob/master/data-archaeology.md)
+* [What would an efficient bus system look like for Charlottesville?](https://github.com/Daniel-Mietchen/ideas/issues/1153)
 
 # Image credits
 
