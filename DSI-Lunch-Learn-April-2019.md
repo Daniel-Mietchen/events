@@ -16,14 +16,31 @@ In this talk, we will zoom in on various individual steps of a number of researc
 
 # How do data science and open research go together?
 
-## What is open research? 
+## The research data life cycle
 
-[Brief introductory video](https://www.youtube.com/watch?v=Qqj9z5ip7ac)
+- can be framed in [many ways](https://www.google.de/search?q=%22data+life+cycle%22)
+  - ([UVA example](http://data.library.virginia.edu/data-management/lifecycle/))
+- key components: plan **・** get permissions **・** get funding **・** get infrastructure **・** collect metadata **・** collect data **・** process data **・** analyze data **・** *publish* **・** curate data **・** preserve data **・** reuse metadata **・** find data **・** access data **・** reuse data **・** reproduce data **・** delete data
+- exact arrangement can and does vary
+- frequent 'rinse and repeat'
 
-## What is a research cycle?
+## What does it mean to open it up?
 
-* [details depend, but basically the series of steps involved in moving research forward](https://www.ecosia.org/search?q=research+cycle&addon=firefox&addonversion=4.0.4)
-* [a data perspective](https://data.library.virginia.edu/data-management/lifecycle/)
+- no single *publishing* step within the cycle, since every intermediate step is an opportunity to share
+- [video](https://www.youtube.com/watch?v=LwW1-X3glak)
+
+## Some of my activities in this space
+
+- helping to improve [data sharing in public health emergencies](http://www.who.int/bulletin/volumes/95/4/17-192096/en/)
+- working on [making data mangement plans machine actionable, versioned and public](https://doi.org/10.3897/rio.3.e13086)
+- helped shape the [Open Science Prize](http://openscienceprize.org/)
+- helping to explore [technical aspects of preprint services in the life sciences](https://doi.org/10.3897/rio.3.e11825)
+- helping to [collect citations for the sum of human knowledge](https://meta.wikimedia.org/wiki/WikiCite_2017)
+- contributing to [data science policy in the European Union](https://github.com/FAIR-EG/consultation)
+- helping to [organize events around modernizing scholarly communication](https://www.force11.org/group/force2017-organizing-committee/program-committee)
+- editing an open-science [journal](http://riojournal.com/browse_articles) that aims to make entire research processes visible, not just the results
+- running a [bot](https://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) that feeds openly licensed multimedia from PubMed Central into Wikimedia Commons for reuse on Wikipedia and elsewhere
+- editing the [Topic Pages](http://collections.plos.org/topic-pages) collection at PLOS Computational Biology
 
 ## Open data as a central element of an open research ecosystem
 
@@ -46,6 +63,8 @@ In this talk, we will zoom in on various individual steps of a number of researc
   - the curresponding *data* should be as closed as necessary
 
 # Zooming in
+
+## How to discover research that is being *performed now* or *planned for the near future*?
 
 * [Demo of a real-time research dashboard](http://myresearch.institute/)
 * [data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md)
