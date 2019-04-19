@@ -1,6 +1,6 @@
 # About
 
-This file hosts a contribution to the [Lunch & Learn series](https://datascience.virginia.edu/pages/research-lunch-and-learn-series) organized by the [Data Science Institute](https://datascience.virginia.edu/) at the University of Virginia. It is to be presented on 19 April 2019.
+This file hosts a contribution to the [Lunch & Learn series](https://datascience.virginia.edu/pages/research-lunch-and-learn-series) organized by the [Data Science Institute](https://datascience.virginia.edu/) at the University of Virginia. It is to be presented [on 19 April 2019](https://datascience.virginia.edu/pages/sharing-research-along-entire-research-cycle) from 11:30 a.m. to 1 p.m. EDT in room G006 of [Ruffner Hall](https://www.google.com/maps/place/Ruffner+Hall+(Curry+School+of+Education)/@38.0346734,-78.5116714,17z/data=!3m1!4b1!4m5!3m4!1s0x89b3865acb9c1fa7:0x96877eaa32f81e54!8m2!3d38.0346734!4d-78.5094827?shorturl=1).
 
 # Title
 
