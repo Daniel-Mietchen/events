@@ -173,3 +173,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 # About
 
 This file hosts my session proposal for [PIDapalooza 2018](https://doi.org/10.5438/11.0002). It was submitted on September 22, 2017, which was the extended [submission deadline](https://github.com/Daniel-Mietchen/events/issues/208). On October 11, I was notified that the proposal had been accepted. The session took place [at 2pm CET on January 24](https://pidapalooza18.sched.com/event/Cwn9/pids-for-policyyeah-like-putting-ids-on-individual-elements-within-policiescool-righto) on [Stage 2](https://pidapalooza18.sched.com/venue/Stage+2).
+
+# See also 
+
+* [Persistent identifier for a policy](https://doi.org/10.13003/CED-terms-of-use)
