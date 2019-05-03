@@ -177,3 +177,4 @@ This file hosts my session proposal for [PIDapalooza 2018](https://doi.org/10.54
 # See also 
 
 * [Persistent identifier for a policy](https://doi.org/10.13003/CED-terms-of-use)
+* [Policy versioning via GitHub](https://dmptool.org/terms)
