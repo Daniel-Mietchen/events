@@ -76,5 +76,6 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * Some other resources with detailed comments on some of my activities
   * 2016-06-20: [SPARC Innovator: RIO Journal](https://sparcopen.org/our-work/innovator/rio-journal/)
   * 2014-01-16: [Building knowledge tools for the public good](http://clintlalonde.net/2014/01/16/building-knowledge-tools-for-the-public-good/)
+  * 2012-11-06: [Ever Wonder What Elephants Would Have to Say?](https://www.nytimes.com/2012/11/06/science/surrounded-by-humans-korean-elephant-learns-to-speak.html)
   * 2012-05-12: [Turkic Wikimedia Conference 2012, Almaty: Other Highlights and Summing Up](https://aharoni.wordpress.com/2012/05/12/almaty-2012-other-highlights-and-summing-up/)
 * Some [tweets about me that do not mention my Twitter handle](https://twitter.com/search?f=tweets&vertical=default&q=%22Daniel%20Mietchen%22%20-evomri)
