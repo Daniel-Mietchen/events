@@ -72,5 +72,9 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 # See also
 
 * [Biosketch](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Biographical_sketch)
-* A [YouTube search](https://www.youtube.com/results?search_query=daniel+mietchen) brings about a few more examples, which will hopefully make their way onto this list eventually. There are also recordings of my band Tschiltan, e.g. [this set of snippets](https://www.youtube.com/watch?v=1GFU6L6qUMg) from the 2003 Music Festival "Sharq Taronalari" (Eastern Melodies) in Samarqnd.
+* A [YouTube search](https://www.youtube.com/results?search_query=daniel+mietchen) brings about a few more examples, which will hopefully make their way onto this list eventually. There are also recordings of my band Tschiltan, e.g. [this set of snippets](https://www.youtube.com/watch?v=1GFU6L6qUMg) from the 2003 Music Festival "Sharq Taronalari" (Eastern Melodies) in Samarqand.
+* Some other resources with detailed comments on some of my activities
+  * 2016-06-20: [SPARC Innovator: RIO Journal](https://sparcopen.org/our-work/innovator/rio-journal/)
+  * 2014-01-16: [Building knowledge tools for the public good](http://clintlalonde.net/2014/01/16/building-knowledge-tools-for-the-public-good/)
+  * 2012-05-12: [Turkic Wikimedia Conference 2012, Almaty: Other Highlights and Summing Up](https://aharoni.wordpress.com/2012/05/12/almaty-2012-other-highlights-and-summing-up/)
 * Some [tweets about me that do not mention my Twitter handle](https://twitter.com/search?f=tweets&vertical=default&q=%22Daniel%20Mietchen%22%20-evomri)
