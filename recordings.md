@@ -74,6 +74,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * [Biosketch](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Biographical_sketch)
 * A [YouTube search](https://www.youtube.com/results?search_query=daniel+mietchen) brings about a few more examples, which will hopefully make their way onto this list eventually. There are also recordings of my band Tschiltan, e.g. [this set of snippets](https://www.youtube.com/watch?v=1GFU6L6qUMg) from the 2003 Music Festival "Sharq Taronalari" (Eastern Melodies) in Samarqand.
 * Some other resources with detailed comments on some of my activities
+  * 2019-06-30: [Democratizing the research ecosystem](https://datascience.virginia.edu/people/daniel-mietchen/profile)
   * 2016-06-20: [SPARC Innovator: RIO Journal](https://sparcopen.org/our-work/innovator/rio-journal/)
   * 2014-02-15: [Open Science Interview mit Daniel Mietchen](http://doi.org/10.5281/zenodo.12337)
   * 2014-01-16: [Building knowledge tools for the public good](http://clintlalonde.net/2014/01/16/building-knowledge-tools-for-the-public-good/)
