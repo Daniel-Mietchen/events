@@ -61,7 +61,7 @@ In this talk, we will zoom in on various individual steps of a number of researc
 
 * FAIR: making research **F**indable, **A**ccessible, **I**nteroperable and **R**eusable for both humans and machines
   - *metadata* should be open by default
-  - the curresponding *data* should be as closed as necessary
+  - the corresponding *data* should be as closed as necessary
 
 # Zooming in
 
