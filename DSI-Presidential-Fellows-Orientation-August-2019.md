@@ -1,12 +1,10 @@
 # About
 
-This file hosts a contribution to the [Lunch & Learn series](https://datascience.virginia.edu/pages/research-lunch-and-learn-series) organized by the [Data Science Institute](https://datascience.virginia.edu/) at the University of Virginia. It is to be presented [on 19 April 2019](https://datascience.virginia.edu/pages/sharing-research-along-entire-research-cycle) from 11:30 a.m. to 1 p.m. EDT in room G006 of [Ruffner Hall](https://www.google.com/maps/place/Ruffner+Hall+(Curry+School+of+Education)/@38.0346734,-78.5116714,17z/data=!3m1!4b1!4m5!3m4!1s0x89b3865acb9c1fa7:0x96877eaa32f81e54!8m2!3d38.0346734!4d-78.5094827?shorturl=1). 
-
-It is complemented by [this document](https://docs.google.com/document/d/17sEfoaK0cz45V1A58gMnwuSPqZoup7LuMn-wtkjxB2k/edit?usp=sharing) for collaborative note-taking.
+This file hosts a contribution to the Orientation Day organized by the [Data Science Institute](https://datascience.virginia.edu/) at the University of Virginia for its [Presidential Fellows](https://datascience.virginia.edu/academics/presidential-fellows). It is to be presented on 23 August 2019 from about 2:30 p.m. to 3 p.m. EDT in the [Research Collaboration Corner](https://news.virginia.edu/content/new-corner-collaborative-space-boost-uva-research) (also know as the Corner Building).
 
 # Title
 
-Sharing research all along the research cycle
+Sharing research all along the research cycle, both with humans and machines
 
 # Abstract
 
@@ -81,6 +79,7 @@ All images are linked to pages with metadata about them, including licensing inf
 
 # See also
 
+- [Sharing research all along the research cycle](DSI-Lunch-Learn-April-2019.md) &mdash; a contribution to DSI's Lunch & Learn series
 - [Open data: central element of an open research ecosystem](https://github.com/Daniel-Mietchen/events/blob/master/UVA-Datapalooza-2017.md)
 - [Opening up the research data life cycle](https://github.com/Daniel-Mietchen/events/blob/master/3rd-BEXIS-2-User-and-Developer-Conference.md)
 - [Open Science Q & A](https://openscience.ub.uni-bielefeld.de/)
