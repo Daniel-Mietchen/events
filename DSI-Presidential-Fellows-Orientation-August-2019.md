@@ -4,7 +4,7 @@ This file hosts a contribution to the Orientation Day organized by the [Data Sci
 
 # Title
 
-Sharing research all along the research cycle, both with humans and machines
+Open & FAIR practices for sharing research all along the research cycle, both with humans and machines
 
 # Abstract
 
