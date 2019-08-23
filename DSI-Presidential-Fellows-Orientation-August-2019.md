@@ -1,6 +1,6 @@
 # About
 
-This file hosts a contribution to the Orientation Day organized by the [Data Science Institute](https://datascience.virginia.edu/) at the University of Virginia for its [Presidential Fellows](https://datascience.virginia.edu/academics/presidential-fellows). It is to be presented on 23 August 2019 from about 2:30 p.m. to 3 p.m. EDT in the [Research Collaboration Corner](https://news.virginia.edu/content/new-corner-collaborative-space-boost-uva-research) (also know as the Corner Building).
+This file hosts a contribution to the Orientation Day organized by the [Data Science Institute](https://datascience.virginia.edu/) at the University of Virginia for its [Presidential Fellows](https://datascience.virginia.edu/academics/presidential-fellows). It is to be presented on 23 August 2019 from about 2:30 p.m. to 3 p.m. EDT in the [Research Collaboration Corner](https://news.virginia.edu/content/new-corner-collaborative-space-boost-uva-research) (also know as the Corner Building; see [map](https://goo.gl/maps/npYxAok7SYZo3uuk9)).
 
 # Title
 
