@@ -172,6 +172,8 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 * [Persistent identifier for a policy](https://doi.org/10.13003/CED-terms-of-use)
 * [Policy versioning via GitHub](https://dmptool.org/terms)
 * [Policy-driven file archiving and backups](https://www.aparavi.com/file-retention-cloud-archive/)
+* [Studying Immigrant Policy One Law at a Time](https://doi.org/10.7910/DVN/F8YTX2)
+  - with "law-level information for 2,703 legislative actions by the 50 American states from 2005-2015"
 
 # About
 
