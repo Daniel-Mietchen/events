@@ -1,6 +1,6 @@
 # About
 
-This is an abstract for a poster presented as part of the conference "[Bridging Science, Art, and Community in the New Arctic](https://github.com/Daniel-Mietchen/events/issues/593)" on 23-25 September 2019 in Charlottesville. It was submitted on 29 August 2019. 
+This is an abstract for a poster presented as part of the conference "[Bridging Science, Art, and Community in the New Arctic](https://github.com/Daniel-Mietchen/events/issues/593)" on 23-25 September 2019 in Charlottesville. It was submitted on 29 August 2019. The poster was presented on 24 September 2019.
 
 # Poster title
 
