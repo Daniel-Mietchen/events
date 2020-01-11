@@ -9,7 +9,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 ## In English
 
 * 2019-01-18, Berlin, Workshop on Data Quality Management in Wikidata: [data quality (Q1757694) & Wikidata (Q2013) &mdash; summary (Q776754)](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/Talks/Workshop_on_Data_Quality_Management_in_Wikidata_2019)
-* 2019-01-01, Tel Aviv University, guest lecture at Wiki-Med elective course: [Wikidata & Medicine](https://www.youtube.com/watch?v=b7Ta6jWWIHI) 
+* 2019-01-01, Tel Aviv University, guest lecture at Wiki-Med elective course: [Wikidata & Medicine](https://www.youtube.com/watch?v=b7Ta6jWWIHI) &mdash; [notes](https://etherpad.wikimedia.org/p/Wikidata-and-medical-research-at-TAU-20190101/timeslider#125)
 * 2018-12-18, online, VIVO Developers webinar: [Wikidata and VIVO in 2018](https://www.wikidata.org/wiki/Wikidata:WikiProject_Scholia/Talks/Wikidata_and_VIVO_in_2018)
 * 2018-11-29, Berkeley, WikiCite 2018: 
   - [Open Science Radio, episode 139: interview with Daniel Mietchen on recapitulating WikiCite 2018](http://www.openscienceradio.org/2019/01/21/osr139-wikicite-2018-recap-with-daniel-en/)
