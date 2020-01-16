@@ -81,4 +81,4 @@ Most of my talks are in English, and for those that are not, the slides (if ther
   * 2014-01-16: [Building knowledge tools for the public good](http://clintlalonde.net/2014/01/16/building-knowledge-tools-for-the-public-good/)
   * 2012-11-06: [Ever Wonder What Elephants Would Have to Say?](https://www.nytimes.com/2012/11/06/science/surrounded-by-humans-korean-elephant-learns-to-speak.html)
   * 2012-05-12: [Turkic Wikimedia Conference 2012, Almaty: Other Highlights and Summing Up](https://aharoni.wordpress.com/2012/05/12/almaty-2012-other-highlights-and-summing-up/)
-* Some [tweets about me that do not mention my Twitter handle](https://twitter.com/search?f=tweets&vertical=default&q=%22Daniel%20Mietchen%22%20-evomri)
+* Some [tweets about me that do not mention my Twitter handle](https://twitter.com/search?q=(daniel%20AND%20mietchen)%20-evomri&f=live)
