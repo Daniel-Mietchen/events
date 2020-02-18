@@ -335,7 +335,7 @@ A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules
 * Ontological issues
   - [Pathogen transmission ontology](https://www.wikidata.org/wiki/Property_talk:P1060#Ontology)
   - compare to [Wikipedia article](https://en.wikipedia.org/wiki/Transmission_(medicine))
-* [How does Friday 13th compare to other days in terms of probabiity of disaster?](https://twitter.com/generalising/status/942424468525387778)
+* [How does Friday 13th compare to other days in terms of probability of disaster?](https://twitter.com/generalising/status/942424468525387778)
 
 
 ## Future?
