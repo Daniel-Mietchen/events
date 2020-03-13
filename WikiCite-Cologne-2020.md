@@ -1,6 +1,6 @@
 # About
 
-This page details my contributions to [WikiCite Satellite Cologne 2020](https://www.wikidata.org/wiki/Wikidata:WikiCite_Satellite_Cologne_2020) taking place on 6-8 May 2020 in Cologne.
+This page details my contributions to [WikiCite Satellite Cologne 2020](https://www.wikidata.org/wiki/Wikidata:WikiCite_Satellite_Cologne_2020) taking place in late 2020 (postponed from an original time of 6-8 May 2020) in Cologne.
 
 # Keynote
 
