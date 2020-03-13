@@ -20,3 +20,7 @@ I have proposed the following two workshops:
 
 - [Scholia workshop](https://www.wikidata.org/wiki/Wikidata:WikiCite_Satellite_Cologne_2020/Submission/Scholia_workshop)
 - [Planning remote-first WikiCite events](https://www.wikidata.org/wiki/Wikidata:WikiCite_Satellite_Cologne_2020/Submission/Planning_remote-first_WikiCite_events)
+
+# Editathon
+
+As a satellite to the official event, I have proposed an [editathon](https://de.wikipedia.org/wiki/Wikipedia:Lokal_K/WikiCite_2020) in the local Wikimedia premises, focused on WikiCite activities with some connection to Cologne.
