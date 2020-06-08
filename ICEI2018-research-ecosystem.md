@@ -10,22 +10,22 @@ Visualizing the research ecosystem of ecosystem research via Wikidata
 
 * https://twitter.com/EvoMRI/status/1045241579894706176
 * Featuring
-  - Scholia homepage: https://tools.wmflabs.org/scholia/
+  - Scholia homepage: https://http://scholia.toolforge.org//
   - topics: 
-    - invasive species https://tools.wmflabs.org/scholia/topic/Q183368
-    - biodiversity https://tools.wmflabs.org/scholia/topic/Q47041
-    - ecosystem https://tools.wmflabs.org/scholia/topic/Q37813
-    - zoonosis https://tools.wmflabs.org/scholia/topic/Q182672
-    - Zika virus https://tools.wmflabs.org/scholia/topic/Q202864
-    - Scholia https://tools.wmflabs.org/scholia/topic/Q45340488
-    - FAIR data https://tools.wmflabs.org/scholia/topic/Q29032648
-    - open data https://tools.wmflabs.org/scholia/topic/Q309901
-    - Denmark and machine learning https://tools.wmflabs.org/scholia/country/Q35/topic/Q2539
-  - work: https://tools.wmflabs.org/scholia/work/Q27973671
-  - author: https://tools.wmflabs.org/scholia/author/Q55099872
-  - event: https://tools.wmflabs.org/scholia/event/Q50706744
-  - journal: https://tools.wmflabs.org/scholia/venue/Q15763359
-  - chemical class: https://tools.wmflabs.org/scholia/chemical-class/
+    - invasive species https://scholia.toolforge.org/topic/Q183368
+    - biodiversity https://scholia.toolforge.org/topic/Q47041
+    - ecosystem https://scholia.toolforge.org/topic/Q37813
+    - zoonosis https://scholia.toolforge.org/topic/Q182672
+    - Zika virus https://scholia.toolforge.org/topic/Q202864
+    - Scholia https://scholia.toolforge.org/topic/Q45340488
+    - FAIR data https://scholia.toolforge.org/topic/Q29032648
+    - open data https://scholia.toolforge.org/topic/Q309901
+    - Denmark and machine learning https://scholia.toolforge.org/country/Q35/topic/Q2539
+  - work: https://scholia.toolforge.org/work/Q27973671
+  - author: https://scholia.toolforge.org/author/Q55099872
+  - event: https://scholia.toolforge.org/event/Q50706744
+  - journal: https://scholia.toolforge.org/venue/Q15763359
+  - chemical class: https://scholia.toolforge.org/chemical-class/
   - reuse: https://www.wikidata.org/wiki/User:Daniel_Mietchen/Wikidata_lists/Usage_of_Template_Scholia
 
 # Plan B
@@ -39,7 +39,7 @@ Like research in general, biodiversity and ecosystem research takes place in a s
 
 Wikidata is a community-curated open knowledge base in which concepts covered in any Wikipedia &mdash; and beyond &mdash; can be described in a structured fashion that can be mapped to RDF and queried using SPARQL as well as various other means. Its community of close to 20,000 monthly contributors oversees a corpus that currently comprises nearly 50 million 'items', i.e. entries about concepts. These items are annotated and linked via almost 5000 'properties' that describe relationships between items or between items and external entities or that express specific values. The items and properties have persistent unique identifiers, to which labels and descriptions can be attached in about 300 natural languages. For instance, Q61457 represents the item for 'acetaldehyde' and Q183339 '*Antilope cervicapra*', while P3063 stands for the property of 'average gestation period', and P3117 for 'DSSTOX substance identifier'. Besides taxa, chemical compounds, toxicology, geomorphological features or ecological interactions, Wikidata also contains information about researchers and many components of their research ecosystems, including a growing body of publications and databases, particularly in the life sciences.
 
-A range of open-source tools is available to interact with Wikidata &mdash; to enter information, curate and query it. One of them is Scholia, a frontend to Wikidata's SPARQL endpoint. Available via https://tools.wmflabs.org/scholia/ , it can be used to explore research publications and how they relate to authors, institutions, funders and other parts of the research ecosystem, as well as to taxa, metabolic networks, or geolocations. 
+A range of open-source tools is available to interact with Wikidata &mdash; to enter information, curate and query it. One of them is Scholia, a frontend to Wikidata's SPARQL endpoint. Available via https://scholia.toolforge.org/ , it can be used to explore research publications and how they relate to authors, institutions, funders and other parts of the research ecosystem, as well as to taxa, metabolic networks, or geolocations. 
 
 In this presentation &mdash; which will be given on the basis of https://github.com/Daniel-Mietchen/events/blob/master/ICEI2018-research-ecosystem.md &mdash; we will use Scholia as a starting point for exploring how information about biodiversity and ecosystem research is represented in Wikidata and how it can be explored, curated and reused.
 
@@ -55,19 +55,19 @@ Points to consider including
   - SDGs
 - examples
   - topics: 
-    - invasive species https://tools.wmflabs.org/scholia/topic/Q183368
-    - biodiversity https://tools.wmflabs.org/scholia/topic/Q47041
-    - ecosystem https://tools.wmflabs.org/scholia/topic/Q37813
-    - zoonosis https://tools.wmflabs.org/scholia/topic/Q182672
-  - work: https://tools.wmflabs.org/scholia/work/Q27973671
+    - invasive species https://scholia.toolforge.org/topic/Q183368
+    - biodiversity https://scholia.toolforge.org/topic/Q47041
+    - ecosystem https://scholia.toolforge.org/topic/Q37813
+    - zoonosis https://scholia.toolforge.org/topic/Q182672
+  - work: https://scholia.toolforge.org/work/Q27973671
   - authors: 
-    - https://tools.wmflabs.org/scholia/author/Q55099872
+    - https://scholia.toolforge.org/author/Q55099872
     - some of the keynotes?
   - [institutions](https://query.wikidata.org/#%23%20%23defaultView%3AGraph%0ASELECT%20%3Fciting_organization%20%3Fciting_organizationLabel%20%3Fcited_organization%20%3Fcited_organizationLabel%0AWITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Fciting_organization%20%3Fcited_organization%20WHERE%20%7B%0A%20%20%20%20%3Fciting_author%20%28wdt%3AP108%7Cwdt%3AP1416%29%20%3Fciting_organization%20.%20%0A%20%20%20%20%3Fcited_author%20%28wdt%3AP108%7Cwdt%3AP1416%29%20%3Fcited_organization%20.%20%0A%0A%20%20%20%20%3Fciting_work%20wdt%3AP50%20%3Fciting_author%20.%20%0A%20%20%20%20%7B%20%3Fciting_work%20wdt%3AP921%20wd%3AQ183368%20.%7D%20UNION%20%20%20%20%20%7B%20%3Fciting_work%20wdt%3AP921%20wd%3AQ42985020%20.%7D%20%0A%20%20%20%20%7B%20%3Fcited_work%20wdt%3AP921%20wd%3AQ183368%20.%7D%20UNION%20%20%20%20%20%7B%20%3Fcited_work%20wdt%3AP921%20wd%3AQ42985020%20.%7D%20%0A%20%20%20%20%3Fciting_work%20wdt%3AP2860%20%3Fcited_work%20.%20%0A%20%20%20%20%3Fcited_work%20wdt%3AP50%20%3Fcited_author%20.%20%20%0A%20%20%20%20FILTER%20%28%3Fciting_work%20%21%3D%20%3Fcited_work%29%0A%20%20%20%20FILTER%20NOT%20EXISTS%20%7B%0A%20%20%20%20%20%20%3Fciting_work%20wdt%3AP50%20%3Fauthor%20.%0A%20%20%20%20%20%20%3Fciting_work%20wdt%3AP2860%20%3Fcited_work%20.%0A%20%20%20%20%20%20%3Fcited_work%20%20wdt%3AP50%20%3Fauthor%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%20%20%20%20%20%20%20%20%0A%20%7D%0A) 
-  - journal: https://tools.wmflabs.org/scholia/venue/Q15763359
+  - journal: https://scholia.toolforge.org/venue/Q15763359
   - taxon aspect example &mdash; Caenorhabditis elegans?
   - chemical/ pathway examples
-  - events: https://tools.wmflabs.org/scholia/event/Q50706744
+  - events: https://scholia.toolforge.org/event/Q50706744
 - basic Scholia stats
 - link to biodiversity and ecosystem research
 - open data
