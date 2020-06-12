@@ -27,3 +27,6 @@ Zielgruppe: Tagungsteilnehmer, die beruflich oder ehrenamtlich mit Kommunikation
 Format: Einleitender Vortrag von mir (mit Demos, insgesamt ca. 30 Minuten), dann Gruppenarbeit (Begutachtung von Wikimedia-Inhalten, ca. 30 Minuten), anschliessend Diskussion und gemeinsame Besprechung verschiedener Praxisbeispiele aus der Katastrophenvorsorge mit Fokus auf digitale Elemente und Integrationspotential mit Wikimedia-Inhalten.
 
 
+# See also
+
+* [How Wikipedia became a trusted source for COVID-19 information](https://www.youtube.com/watch?v=42n6igyp-Fk)
