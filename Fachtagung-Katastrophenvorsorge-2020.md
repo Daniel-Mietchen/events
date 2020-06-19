@@ -4,6 +4,8 @@ This file hosts information regarding my planned contributions to the "Fachtagun
 
 One way to contribute to the event is to organize a workshop, for which they issued a call with an (extended) deadline of May 22 (as per [this ticket](https://github.com/Daniel-Mietchen/events/issues/679)), by which I submitted my proposal. Apart from personal data about me and potential affiliations (where I chose [Wikimedians for Disaster Response](https://meta.wikimedia.org/wiki/Wikimedians_for_Disaster_Response)), they had the following questions, which I am pasting in here in their German original, along with my responses (also in German). They also asked which language the workshop would be in, where I picked the "both English and German" option, as I plan to have the slides in English but will be flexible in using English or German as needed or as the participants prefer.
 
+On June 19, I was notified that the proposal has been accepted, that all workshops will be 90 minutes long and remote and that plannings are underway to work out details. I replied that I am fine with these arrangements.
+
 # Workshop submission form questions
 
 ## Sind noch weitere Organisationen / Partner beteiligt? Soweit bereits bekannt, bitten wir um Angabe der jeweiligen Organisation sowie den vollständigen Namen der Ansprechpartner*innen
