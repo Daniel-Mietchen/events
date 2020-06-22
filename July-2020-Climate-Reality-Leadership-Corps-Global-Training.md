@@ -1,6 +1,6 @@
 # About
 
-This file hosts materials related to my planned participation in the [https://climaterealityproject.org/apply/globaltraining  July 2020 Climate Reality Leadership Corps: Global Training].
+This file hosts materials related to my planned participation in the [July 2020 Climate Reality Leadership Corps: Global Training](https://climaterealityproject.org/apply/globaltraining).
 
 Apart from lots of personal information, their form also asked "What do you hope to get out of the Climate Reality Leadership Corps training?", for which a field with a maximum of 1000 characters was allocated but the form would not let me submit it if I had any text in that field. So here is what I wanted to put in there (slightly reformatted):
 
