@@ -1,6 +1,6 @@
 # About
 
-This file hosts materials related to my planned participation in the [July 2020 Climate Reality Leadership Corps: Global Training](https://climaterealityproject.org/apply/globaltraining).
+This file hosts materials related to my planned participation in a [Climate Reality Global Training](https://climaterealityproject.org/apply/globaltraining). I initially applied to join the training on July 18-26, 2020, but on July 7, I was notified that my slot would rather be in the follow-up training on August 28-September 3, 2020.
 
 Apart from lots of personal information, their form also asked "What do you hope to get out of the Climate Reality Leadership Corps training?", for which a field with a maximum of 1000 characters was allocated but the form would not let me submit it if I had any text in that field. So here is what I wanted to put in there (slightly reformatted):
 
