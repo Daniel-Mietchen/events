@@ -10,6 +10,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 * 2020-02-13, Warsaw, Cost MOBILISE Wikidata Workshop: [Exploring biodiversity through Scholia](https://doi.org/10.5281/zenodo.3665804)
 * 2020-01-14, Tel Aviv University, guest lecture at Wiki-Med elective course: [Wikidata and Medicine](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Talks/Wikimedia_for_Medicine_course_at_Tel_Aviv_University_2020)
+  - [Part 1](https://www.youtube.com/watch?v=yaX6Bjz-HHc), [Part 2](https://www.youtube.com/watch?v=UwQ93BlDGAM), [Part 3](https://www.youtube.com/watch?v=9W4mgJrXYjE), [Part 4](https://www.youtube.com/watch?v=j5QO7Tbynzw), [Part 5](https://www.youtube.com/watch?v=8ULGFfugeCU), [Part 6](https://www.youtube.com/watch?v=ZI81S2regiQ)
 * 2019-01-18, Berlin, Workshop on Data Quality Management in Wikidata: [data quality (Q1757694) & Wikidata (Q2013) &mdash; summary (Q776754)](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/Talks/Workshop_on_Data_Quality_Management_in_Wikidata_2019)
 * 2019-01-01, Tel Aviv University, guest lecture at Wiki-Med elective course: [Wikidata & Medicine](https://www.youtube.com/watch?v=b7Ta6jWWIHI) &mdash; [notes](https://etherpad.wikimedia.org/p/Wikidata-and-medical-research-at-TAU-20190101/timeslider#125)
 * 2018-12-18, online, VIVO Developers webinar: [Wikidata and VIVO in 2018](https://www.wikidata.org/wiki/Wikidata:WikiProject_Scholia/Talks/Wikidata_and_VIVO_in_2018)
