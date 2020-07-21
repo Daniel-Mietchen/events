@@ -8,7 +8,7 @@ The submission form has a number of fields. I will document my responses to the 
 
 ## Title
 
-* Usage of Jupyter notebooks across the Wikimedia ecosystem
+* Jupyter and the Wikimedia ecosystem
 
 ## Audience level
 
@@ -18,12 +18,17 @@ The submission form has a number of fields. I will document my responses to the 
 
 *Short paragraph, maximum 400 characters. If your proposal is accepted, this will be in the public program.*
 
-Jupyter notebooks interact in various ways with the ecosystem formed by Wikimedia projects. For instance, they serve as references in Wikipedia, to generate illustrations for Wikimedia Commons, or to edit Wikidata. They also serve educational and testing purposes within the community of Wikimedia contributors, and the Wikimedia Foundation is running a JupyterHub that facilitates such activities.
+Jupyter interacts in various ways with Wikipedia and its sister sites. Jupyter notebooks serve as references, help generate illustrations, assist in wiki editing or form the subject of wiki pages. They also serve educational and testing purposes within the Wikimedia community, and a JupyterHub facilitates such activities. This talk will look into how the Jupyter community can help scale this up.
 
 ## Outline
 
 *This is a self-contained statement that summarizes the objective of the proposal, its outline, central thesis, and key takeaways. After reading the description, the audience should have an idea of the overall presentation and what they will learn. The description should also make clear what background knowledge is expected from the attendees. Include links to relevant source code, articles, videos, or other information that add context to your proposal.*
 
+<DRAFTy draft>
+Jupyter notebooks interact in various ways with the ecosystem formed by Wikimedia projects. For instance, they serve as references in Wikipedia, to generate illustrations for Wikimedia Commons, or to edit Wikidata. They also serve educational and testing purposes within the community of Wikimedia contributors, and the Wikimedia Foundation is running a JupyterHub that facilitates such activities.
+</DRAFTy draft>
+
+Wikidata keeps track of literature 
 
 ## Affiliation 
 
