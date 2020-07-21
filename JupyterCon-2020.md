@@ -18,6 +18,7 @@ The submission form has a number of fields. I will document my responses to the 
 
 *Short paragraph, maximum 400 characters. If your proposal is accepted, this will be in the public program.*
 
+Jupyter notebooks interact in various ways with the ecosystem formed by Wikimedia projects. For instance, they serve as references in Wikipedia, to generate illustrations for Wikimedia Commons, or to edit Wikidata. They also serve educational and testing purposes within the community of Wikimedia contributors, and the Wikimedia Foundation is running a JupyterHub that facilitates such activities.
 
 ## Outline
 
