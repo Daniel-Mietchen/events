@@ -53,6 +53,7 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
 
 
 * Usage examples
+  * [quick search](https://www.google.com/search?q=%28site%3Awikipedia.org+OR+site%3Awikivoyage.org+OR+site%3Awikimedia.org+OR+site%3Amediawiki.org+OR+site%3Awikitech.org+OR+site%3Awikisource.org+OR+site%3Awikiquote.org+OR+site%3Awikinews.org+OR+site%3Awikidata.org%29+AND+%28nbviewer+OR+mybinder+OR+jupyter+OR+ipython%29)
   * Wiki pages about Jupyter
     * Wikipedia
       * English
