@@ -1,6 +1,6 @@
 # About
 
-This file hosts a submission to [JupyterCon 2020](https://jupytercon.com/). 
+This file hosts a proposal to [JupyterCon 2020](https://jupytercon.com/), which I [submitted](https://twitter.com/EvoMRI/status/1285746449846870016) on 21 July 2020. 
 
 # Form fields
 
