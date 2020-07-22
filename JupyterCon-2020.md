@@ -71,6 +71,7 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
   * Jupyter notebooks as references
   * Jupyter notebooks to generate illustrations
   * Jupyter notebooks for educational purposes
+    - [PyWikiBot tutorial](https://commons.wikimedia.org/wiki/File:Paws_notebook_showing_how_to_load_wikidata_item_dictionary.png)
   * Jupyter notebooks for presentional purposes
   * Jupyter notebooks for testing purposes
   * PAWS
