@@ -24,12 +24,33 @@ Jupyter interacts in various ways with Wikipedia and its sister sites. It forms 
 
 *This is a self-contained statement that summarizes the objective of the proposal, its outline, central thesis, and key takeaways. After reading the description, the audience should have an idea of the overall presentation and what they will learn. The description should also make clear what background knowledge is expected from the attendees. Include links to relevant source code, articles, videos, or other information that add context to your proposal.*
 
-Objective
+This presentation is intended to (i) make the Jupyter community more familiar with current and potential usages of Jupyter in Wikimedia contexts, (ii) explore how Jupyter resources can become more findable and accessible by leveraging the reach of Wikimedia projects. It will be given based on https://github.com/Daniel-Mietchen/events/blob/master/JupyterCon-2020.md and does not assume any background knowledge other than a basic familiarity with Jupyter.
 
-* Make Jupyter community more familiar with current and potential usage of Jupyter in Wikimedia contexts
-* Make Jupyter resources more findable and accessible by leveraging the reach of Wikimedia projects
+After a brief introduction to Wikimedia projects - which includes Wikipedia, Wikimedia Commons and Wikidata - we will explore existing usage examples of Jupyter in Wikimedia contexts. Based on the assumption that the two communities are mission-aligned and would benefit from closer interaction, we will then consider potential usage examples based on overlaps in mission and activity of the Jupyter and Wikimedia communities. 
 
-Outline
+In closing, developers and maintainers of Jupyter-based educational materials or Jupyter-related functionality shall be stimulated to consider whether and how such materials or functionality might fit into the Wikimedia ecosystem, or, conversely, how they can leverage Wikimedia resources for educational and related purposes.
+
+
+## Affiliation 
+
+*For the purpose of this talk.*
+
+* School of Data Science, University of Virginia, USA
+
+## Past experience and any other information you would like the reviewers to know.
+
+*If you have given a talk or poster before, feel free to include links to slides or videos.*
+
+I briefly hinted at some aspects of the interaction between Wikimedia and Jupyter in my 2017 JupyterCon talk - see https://www.youtube.com/watch?v=Via7gBrjxHI#t=4m55s .
+For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/events/blob/master/recordings.md .
+
+## Is this your first time presenting at JupyterCon? 
+
+* No.
+
+
+# Notes
+
 
 * Usage examples
   * Wiki pages about Jupyter
@@ -53,35 +74,7 @@ Outline
   * Jupyter notebooks for presentional purposes
   * Jupyter notebooks for testing purposes
   * PAWS
-
-Central thesis
-
-* The two communities are mission-aligned and would benefit from closer interaction
-
-Key takeaways
-
 * If you wrote a Jupyter notebook for educational purposes, chances are that it could serve these purposes through Wikimedia projects too.
 * If you wrote code that adds functionality to Jupyter notebooks, JupyterHub, Binder or othere parts of the Jupyter ecosystem, chances are that the functionality would be of interest to Jupyter users within the Wikimedia community, or even to users of Wikimedia contents.
-
-Required background knowledge
-
-* Just the basics of Jupyter notebooks
-
-## Affiliation 
-
-*For the purpose of this talk.*
-
-* School of Data Science, University of Virginia, USA
-
-## Past experience and any other information you would like the reviewers to know.
-
-*If you have given a talk or poster before, feel free to include links to slides or videos.*
-
-I briefly hinted at some aspects of the interaction between Wikimedia and Jupyter in my 2017 JupyterCon talk - see https://www.youtube.com/watch?v=Via7gBrjxHI#t=4m55s .
-For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/events/blob/master/recordings.md .
-
-## Is this your first time presenting at JupyterCon? 
-
-* No.
 
 
