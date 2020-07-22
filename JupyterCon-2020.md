@@ -26,8 +26,11 @@ Jupyter interacts in various ways with Wikipedia and its sister sites. It forms 
 
 This presentation is intended to (i) make the Jupyter community more familiar with current and potential usages of Jupyter in Wikimedia contexts, (ii) explore how Jupyter resources can become more findable and accessible by leveraging the reach of Wikimedia projects. It will be given based on https://github.com/Daniel-Mietchen/events/blob/master/JupyterCon-2020.md and does not assume any background knowledge other than a basic familiarity with Jupyter.
 
-After a brief introduction to Wikimedia projects - which includes Wikipedia, Wikimedia Commons and Wikidata - we will explore existing usage examples of Jupyter in Wikimedia contexts. Based on the assumption that the two communities are mission-aligned and would benefit from closer interaction, we will then consider potential usage examples based on overlaps in mission and activity of the Jupyter and Wikimedia communities. 
+This presentation is intended to (i) make the Jupyter community more familiar with current and potential usages of Jupyter in Wikimedia contexts, (ii) explore how Jupyter resources can become more findable and accessible by leveraging the reach of Wikimedia projects. It will be given based on https://github.com/Daniel-Mietchen/events/blob/master/JupyterCon-2020.md and does not assume any background knowledge other than a basic familiarity with Jupyter.
 
+After a brief introduction to Wikimedia projects - which include Wikipedia, Wikimedia Commons and Wikidata and similar collaborative sites - we will explore existing usage examples of Jupyter in Wikimedia contexts. Based on the assumption that the two communities are mission-aligned and would benefit from closer interaction, we will then consider potential usage examples based on overlaps in mission and activity of the Jupyter and Wikimedia communities.
+
+In closing, developers and maintainers of Jupyter-based educational materials or Jupyter-related functionality shall be stimulated to consider whether and how such materials or functionality might fit into the Wikimedia ecosystem, or, conversely, how they can leverage Wikimedia resources for educational and related purposes.
 In closing, developers and maintainers of Jupyter-based educational materials or Jupyter-related functionality shall be stimulated to consider whether and how such materials or functionality might fit into the Wikimedia ecosystem, or, conversely, how they can leverage Wikimedia resources for educational and related purposes.
 
 
