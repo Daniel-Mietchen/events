@@ -1,6 +1,6 @@
 # About
 
-This file supports a submission to the Workshop "[Data Science in Climate and Climate Impact Research](https://wcr.ethz.ch/news-and-events/events/workshop--data-science-in-climate-and-climate-impact-research-.html)" taking place on 20-21 August 2020 in Zurich and online. It was co-authored by Cristina Sarasua from University of Zurich and submitted on 6 April 2020 before the extended deadline. On 20 April, I was notified of its acceptance.
+This file supports a contribution to the Workshop "[Data Science in Climate and Climate Impact Research](https://wcr.ethz.ch/news-and-events/events/workshop--data-science-in-climate-and-climate-impact-research-.html)" taking place on 20-21 August 2020 in Zurich and online. It was co-authored by Cristina Sarasua from University of Zurich and submitted on 6 April 2020 before the extended deadline. On 20 April, I was notified of its acceptance.
 
 # Title
 
@@ -16,8 +16,17 @@ Wikidata is a community-curated open knowledge base in which concepts covered in
 
 A range of open-source tools is available to interact with Wikidata — to enter information, curate and query it. In this presentation — available via https://github.com/Daniel-Mietchen/events/blob/master/data-science-in-climate-and-climate-impact-research.md — we will outline a range of tools that allow to explore Wikidata content through frontends tailored to specific communities. In particular, we will take a look at Scholia, which is available via https://tools.wmflabs.org/scholia/ and allows to generate and explore scholarly profiles of authors, institutions, funders and other parts of the research ecosystem, as well as of the world in which it is embedded, from geomorphological features to economic indicators and environmental policies, from natural ecosystems and disasters to biogeochemical cycles.
 
-# See also
+# Companion talk
 
 * There is an accompanying submission (also accepted on 20 April) led by Cristina and co-authored by me, entitled "Multilingual Structured Climate Research Data in Wikidata - The Community Perspective". Its abstract reads as follows:
   * > Empirical sciences experience a transformation enabled by a myriad of technological solutions that facilitate collecting, sharing and analyzing large- and small-scale research data. Citation networks can be mined, scientific workflows can be reproduced and extended, and data-driven search portals allow scientists to dive into a sea with millions of data sets. While technology is crucial, the success of this transformation heavily depends on social change and commitment. At the core of such a social response, the Open Science movement promotes values such as participation and collaboration. Tightly connected to Open Science, the Free Knowledge initiative advocated by Wikimedia has succeeded in bringing scientific output (and general human knowledge) closer to the global population through platforms like Wikipedia. Wikidata is a community-supported knowledge base, where thousands of volunteers enter, complete, link, monitor and correct data. Wikidata is connected to Wikipedia articles and images in Wikimedia Commons, and it can be queried as machine-readable Linked Data. In this presentation, we would like to showcase Wikidata’s special features in terms of collaborative knowledge management. We will demonstrate how ranks and references allow Wikidata to portray a plural reality in which contradictory statements might have been published by different sources. We will also demonstrate the way federated queries can facilitate data comparison. Moreover, we will describe the process that editors follow to address schema and data quality management collectively, as well as human-bot cooperation. We will also talk about the possibility of transferring many of Wikidata’s features to self-organized communities via Wikibase. Through concrete examples and descriptive statistics, we aim to show the benefits that a community-based data management cycle can provide to many disciplines, including the field of Climate Research. 
-* I gave a presentation "Visualizing the research ecosystem of ecosystem research via Wikidata" at the [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) (ICEI 2018) on 27 September 2018 in Jena, co-authored by Finn Årup Nielsen and Egon Willighagen
+
+# Presentation
+
+* [Slides for both talks](https://docs.google.com/presentation/d/1EbocwNrGq6f_YyLnbkqbjiHdC-J6q8OZU2Aowfr9-0A/edit)
+* [Scholia entry for the event](https://scholia.toolforge.org/event/Q98457439)
+
+# See also
+
+* I gave a presentation "Visualizing the research ecosystem of ecosystem research via Wikidata" at the [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) (ICEI 2018) on 27 September 2018 in Jena, co-authored by Finn Årup Nielsen and Egon Willighagen. That event was also attended by Markus Reichstein, one of the keynote speakers at the climate workshop.
+
