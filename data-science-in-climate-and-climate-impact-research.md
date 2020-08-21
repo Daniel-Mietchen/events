@@ -2,10 +2,6 @@
 
 This file supports a contribution to the Workshop "[Data Science in Climate and Climate Impact Research](https://wcr.ethz.ch/news-and-events/events/workshop--data-science-in-climate-and-climate-impact-research-.html)" taking place on 20-21 August 2020 in Zurich and online. It was co-authored by Cristina Sarasua from University of Zurich and submitted on 6 April 2020 before the extended deadline. On 20 April, I was notified of its acceptance.
 
-# Citation
-
-Mietchen, Daniel, & Sarasua, Cristina. (2020, August). Multilingual Structured Climate Research Data in Wikidata - The Data Perspective. Zenodo. [http://doi.org/10.5281/zenodo.3994266](http://doi.org/10.5281/zenodo.3994266).
-
 # Title
 
 Multilingual Structured Climate Research Data in Wikidata - The Data Perspective
@@ -19,6 +15,10 @@ Mechanisms for describing concepts related to climate research are growing in br
 Wikidata is a community-curated open knowledge base in which concepts covered in any Wikipedia — and beyond — can be described in a structured and FAIR fashion that can be mapped to RDF and queried using SPARQL as well as various other means. Its community of over 20,000 monthly contributors oversees a corpus of currently over 80 million ‘items’ for concepts that are linked amongst each other, to external databases or to specific values via over 7000 'properties'. Items and properties have persistent unique identifiers, to which labels, descriptions and dedicated lexemes and their forms and senses can be attached in over 300 natural languages. 
 
 A range of open-source tools is available to interact with Wikidata — to enter information, curate and query it. In this presentation — available via https://github.com/Daniel-Mietchen/events/blob/master/data-science-in-climate-and-climate-impact-research.md — we will outline a range of tools that allow to explore Wikidata content through frontends tailored to specific communities. In particular, we will take a look at Scholia, which is available via https://tools.wmflabs.org/scholia/ and allows to generate and explore scholarly profiles of authors, institutions, funders and other parts of the research ecosystem, as well as of the world in which it is embedded, from geomorphological features to economic indicators and environmental policies, from natural ecosystems and disasters to biogeochemical cycles.
+
+# Citation
+
+Mietchen, Daniel, & Sarasua, Cristina. (2020, August). Multilingual Structured Climate Research Data in Wikidata - The Data Perspective. Zenodo. [http://doi.org/10.5281/zenodo.3994266](http://doi.org/10.5281/zenodo.3994266).
 
 # Companion talk
 
