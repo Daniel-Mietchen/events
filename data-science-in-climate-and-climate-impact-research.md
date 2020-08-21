@@ -37,5 +37,6 @@ A range of open-source tools is available to interact with Wikidata — to enter
 
 # See also
 
+* [Etherpad for the event](https://etherpad.wikimedia.org/p/data-science-in-climate-workshop) &mdash; contains links to several slide sets
 * I gave a presentation "Visualizing the research ecosystem of ecosystem research via Wikidata" at the [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) (ICEI 2018) on 27 September 2018 in Jena, co-authored by Finn Årup Nielsen and Egon Willighagen. That event was also attended by Markus Reichstein, one of the keynote speakers at the climate workshop.
 
