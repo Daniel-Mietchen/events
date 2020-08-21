@@ -27,6 +27,7 @@ A range of open-source tools is available to interact with Wikidata — to enter
 * Zenodo snapshots:
   *  [Multilingual Structured Climate Research Data in Wikidata - The Community Perspective (DOI: 10.5281/zenodo.3994272)](https://doi.org/10.5281/zenodo.3994272)
   *  [Multilingual Structured Climate Research Data in Wikidata - The Data Perspective (DOI: 10.5281/zenodo.3994266)](https://doi.org/10.5281/zenodo.3994266)
+    * Backup copy on YouTube: [https://youtu.be/ntI6hmT-rRc](https://youtu.be/ntI6hmT-rRc)
 * [Scholia entry for the event](https://scholia.toolforge.org/event/Q98457439)
 
 # See also
