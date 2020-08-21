@@ -1,6 +1,6 @@
 # About
 
-This file supports a contribution to the Workshop "[Data Science in Climate and Climate Impact Research](https://wcr.ethz.ch/news-and-events/events/workshop--data-science-in-climate-and-climate-impact-research-.html)" taking place on 20-21 August 2020 in Zurich and online. It was co-authored by Cristina Sarasua from University of Zurich and submitted on 6 April 2020 before the extended deadline. On 20 April, I was notified of its acceptance.
+This file supports a contribution to the Workshop "[Data Science in Climate and Climate Impact Research](https://wcr.ethz.ch/news-and-events/events/workshop--data-science-in-climate-and-climate-impact-research-.html)" taking place on 20-21 August 2020 in Zurich and online. 
 
 # Title
 
@@ -19,6 +19,10 @@ A range of open-source tools is available to interact with Wikidata — to enter
 # Citation
 
 Mietchen, Daniel, & Sarasua, Cristina. (2020, August). Multilingual Structured Climate Research Data in Wikidata - The Data Perspective. Zenodo. [http://doi.org/10.5281/zenodo.3994266](http://doi.org/10.5281/zenodo.3994266).
+
+# History
+
+The submission was co-authored by Cristina Sarasua from University of Zurich and submitted on 6 April 2020 before the extended deadline. On 20 April, I was notified of its acceptance.
 
 # Companion talk
 
