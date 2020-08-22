@@ -8,16 +8,16 @@ Situating AI on the road from data sharing to societal impact
 
 ## Some other titles I have considered
 
-The societal impact of data sharing seen through the lens of AI
-The societal impact of data sharing in light of AI
-Societal impact of data sharing in light of AI
-Societal impact of data sharing, and what AI has got to do with it
-From data sharing to societal impact via AI
-AI on the road from data sharing to societal impact
-Situating AI on the road from data sharing to societal impact
-The societal impact of data sharing, considered through the lens of AI
-The societal impact of data sharing and what it means for AI
-Artificial intelligence in the context of data sharing, open science and disasters
+* The societal impact of data sharing seen through the lens of AI
+* The societal impact of data sharing in light of AI
+* Societal impact of data sharing in light of AI
+* Societal impact of data sharing, and what AI has got to do with it
+* From data sharing to societal impact via AI
+* AI on the road from data sharing to societal impact
+* Situating AI on the road from data sharing to societal impact
+* The societal impact of data sharing, considered through the lens of AI
+* The societal impact of data sharing and what it means for AI
+* Artificial intelligence in the context of data sharing, open science and disasters
 
 # Abstract
 
