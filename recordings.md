@@ -8,6 +8,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 ## In English
 
+* 2020-08-21, online, Workshop "Data Science in Climate and Climate Impact Research": [Multilingual Structured Climate Research Data in Wikidata - The Data Perspective](http://doi.org/10.5281/zenodo.3994266)
 * 2020-02-13, Warsaw, Cost MOBILISE Wikidata Workshop: [Exploring biodiversity through Scholia](https://doi.org/10.5281/zenodo.3665804)
 * 2020-01-14, Tel Aviv University, guest lecture at Wiki-Med elective course: [Wikidata and Medicine](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Talks/Wikimedia_for_Medicine_course_at_Tel_Aviv_University_2020)
   - [Part 1](https://www.youtube.com/watch?v=yaX6Bjz-HHc), [Part 2](https://www.youtube.com/watch?v=UwQ93BlDGAM), [Part 3](https://www.youtube.com/watch?v=9W4mgJrXYjE), [Part 4](https://www.youtube.com/watch?v=j5QO7Tbynzw), [Part 5](https://www.youtube.com/watch?v=8ULGFfugeCU), [Part 6](https://www.youtube.com/watch?v=ZI81S2regiQ)
