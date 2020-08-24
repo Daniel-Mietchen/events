@@ -1,8 +1,8 @@
 # About
 
-This file hosts materials related to my planned participation in a [Climate Reality Global Training](https://climaterealityproject.org/apply/globaltraining), for whicch there was an application process. 
+This file hosts materials related to my participation in a [Climate Reality Global Training](https://climaterealityproject.org/apply/globaltraining) in summer 2020, for which there was an application process. 
 
-Apart from lots of personal information, their form also asked "What do you hope to get out of the Climate Reality Leadership Corps training?", for which a field with a maximum of 1000 characters was allocated but the form would not let me submit it if I had any text in that field. So here is what I wanted to put in there (slightly reformatted):
+Apart from lots of personal information, their application form also asked "What do you hope to get out of the Climate Reality Leadership Corps training?", for which a field with a maximum of 1000 characters was allocated but the form would not let me submit it if I had any text in that field. So here is what I wanted to put in there (slightly reformatted):
 
 1. Further systematic progress with my first [New Year Resolution for 2020](https://github.com/Daniel-Mietchen/ideas/blob/master/new-year-resolutions/2020.md), which is to "review all of my major professional, volunteer and family activities from the perspective of their sustainability"
 1. Increasing my climate-related contact network within and beyond the circles through which I usually engage in climate matters, i.e.  open science, open data, open knowledge and open collaboration, including via Wikipedia and its sister projects
