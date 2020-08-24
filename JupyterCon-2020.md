@@ -81,6 +81,6 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
   * Jupyter notebooks for testing purposes
   * PAWS
 * If you wrote a Jupyter notebook for educational purposes, chances are that it could serve these purposes through Wikimedia projects too.
-* If you wrote code that adds functionality to Jupyter notebooks, JupyterHub, Binder or othere parts of the Jupyter ecosystem, chances are that the functionality would be of interest to Jupyter users within the Wikimedia community, or even to users of Wikimedia contents.
+* If you wrote code that adds functionality to Jupyter notebooks, JupyterHub, Binder or other parts of the Jupyter ecosystem, chances are that the functionality would be of interest to Jupyter users within the Wikimedia community, or even to users of Wikimedia contents.
 
 
