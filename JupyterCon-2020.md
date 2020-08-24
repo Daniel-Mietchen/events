@@ -1,6 +1,6 @@
 # About
 
-This file hosts a proposal to [JupyterCon 2020](https://jupytercon.com/), which I [submitted](https://twitter.com/EvoMRI/status/1285746449846870016) on 21 July 2020. 
+This file hosts a proposal to [JupyterCon 2020](https://jupytercon.com/), which I [submitted](https://twitter.com/EvoMRI/status/1285746449846870016) on 21 July 2020. On August 22, I was notified of its acceptance. They requested confirmation that I still plan to give the talk, which I provided. 
 
 # Form fields
 
@@ -23,8 +23,6 @@ Jupyter interacts in various ways with Wikipedia and its sister sites. It forms 
 ## Outline
 
 *This is a self-contained statement that summarizes the objective of the proposal, its outline, central thesis, and key takeaways. After reading the description, the audience should have an idea of the overall presentation and what they will learn. The description should also make clear what background knowledge is expected from the attendees. Include links to relevant source code, articles, videos, or other information that add context to your proposal.*
-
-This presentation is intended to (i) make the Jupyter community more familiar with current and potential usages of Jupyter in Wikimedia contexts, (ii) explore how Jupyter resources can become more findable and accessible by leveraging the reach of Wikimedia projects. It will be given based on https://github.com/Daniel-Mietchen/events/blob/master/JupyterCon-2020.md and does not assume any background knowledge other than a basic familiarity with Jupyter.
 
 This presentation is intended to (i) make the Jupyter community more familiar with current and potential usages of Jupyter in Wikimedia contexts, (ii) explore how Jupyter resources can become more findable and accessible by leveraging the reach of Wikimedia projects. It will be given based on https://github.com/Daniel-Mietchen/events/blob/master/JupyterCon-2020.md and does not assume any background knowledge other than a basic familiarity with Jupyter.
 
@@ -51,9 +49,12 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
 
 * No.
 
+# Reviewer comments
+
+* "Make sure the presentation has live demos of these current usages and previews of the potential ones."
+* explain benefits and downsides (ideally for both sides) of linking from Wikipedia to the Jupyter ecosystem and back
 
 # Notes
-
 
 * Usage examples
   * [quick search](https://www.google.com/search?q=%28site%3Awikipedia.org+OR+site%3Awikivoyage.org+OR+site%3Awikimedia.org+OR+site%3Amediawiki.org+OR+site%3Awikitech.org+OR+site%3Awikisource.org+OR+site%3Awikiquote.org+OR+site%3Awikinews.org+OR+site%3Awikidata.org%29+AND+%28nbviewer+OR+mybinder+OR+jupyter+OR+ipython%29)
