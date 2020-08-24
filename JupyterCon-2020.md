@@ -56,14 +56,17 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
 
 # Notes
 
+* Precursor presentation at WikiCite 2017: [Jupyter notebooks on Wikimedia sites](https://meta.wikimedia.org/wiki/WikiCite_2017/Jupyter_notebooks_on_Wikimedia_sites)
 * Usage examples
   * [quick search](https://www.google.com/search?q=%28site%3Awikipedia.org+OR+site%3Awikivoyage.org+OR+site%3Awikimedia.org+OR+site%3Amediawiki.org+OR+site%3Awikitech.org+OR+site%3Awikisource.org+OR+site%3Awikiquote.org+OR+site%3Awikinews.org+OR+site%3Awikidata.org%29+AND+%28nbviewer+OR+mybinder+OR+jupyter+OR+ipython%29)
   * Wiki pages about Jupyter
     * Wikipedia
+      * [site search](https://www.google.com/search?q=site%3Awikipedia.org+jupyter)
       * English
         * Project Jupyter
         * Jupyter notebook
         * JupyterHub
+        * [Binder Project](https://en.wikipedia.org/wiki/Binder_Project)
       * many other languages
     * Wikimedia Commons
     * Wikidata
@@ -72,6 +75,10 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
         - [Scholia](https://scholia.toolforge.org/topic/Q70357595)
     * Wikibooks
     * Wikimania
+      * [2019](https://wikimania.wikimedia.org/w/index.php?search=Jupyter&title=Special%3ASearch&go=Go&ns0=1&ns128=1)
+      * [pre-2019](https://meta.wikimedia.org/w/index.php?search=Jupyter+Wikimania&title=Special%3ASearch&go=Go&ns0=1&ns12=1&ns200=1&ns202=1)
+    * [Meta]()
+      * e.g. [Map Making Workshop](https://github.com/KBNLwikimedia/WikidataMapMakingWorkshop)
     * etc.
   * Jupyter notebooks as references
   * Jupyter notebooks to generate illustrations
@@ -80,6 +87,8 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
   * Jupyter notebooks for presentional purposes
   * Jupyter notebooks for testing purposes
   * PAWS
+  * [PAWS-Internal](https://meta.wikimedia.org/wiki/Discovery/Analytics#PAWS_Internal)
+  * [Mention in WMF 2017-2018 Annual Plan](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2017-2018/Final/SinglePage)
 * If you wrote a Jupyter notebook for educational purposes, chances are that it could serve these purposes through Wikimedia projects too.
 * If you wrote code that adds functionality to Jupyter notebooks, JupyterHub, Binder or other parts of the Jupyter ecosystem, chances are that the functionality would be of interest to Jupyter users within the Wikimedia community, or even to users of Wikimedia contents.
 
