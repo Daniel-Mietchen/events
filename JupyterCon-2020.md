@@ -122,3 +122,4 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
 * If you wrote a Jupyter notebook for educational purposes, chances are that it could serve these purposes through Wikimedia projects too.
 * If you wrote code that adds functionality to Jupyter notebooks, JupyterHub, Binder or other parts of the Jupyter ecosystem, chances are that the functionality would be of interest to Jupyter users within the Wikimedia community, or even to users of Wikimedia contents.
 * [Candidate items to be portrayed in Jupyter notebooks](https://w.wiki/aH8)
+* [Wikipedia as a gateway to biomedical research: The relative distribution and use of citations in the English Wikipedia](https://doi.org/10.1371/journal.pone.0190046)
