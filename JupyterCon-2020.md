@@ -115,6 +115,8 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
   * PAWS
   * [PAWS-Internal](https://meta.wikimedia.org/wiki/Discovery/Analytics#PAWS_Internal)
   * [Mention in WMF 2017-2018 Annual Plan](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2017-2018/Final/SinglePage)
+  * Internet in a Box
+    * via Kolibri
   * data modelling: 
     * how to model a Jupyter notebook?
     * how to cite a Jupyter notebook?
