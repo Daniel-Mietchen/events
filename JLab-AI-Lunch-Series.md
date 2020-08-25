@@ -33,3 +33,7 @@ By its very nature, Artificial Intelligence depends on the availability of data 
 * Research with AI on the red team
 * Research as an adversarial network playing against nature
 * What if AI were (also) on science's red team?
+
+## Notes
+
+* [Wikipedia as training data](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22training+data+*+wikipedia%22+OR+%22wikipedia+*+training+data%22&btnG=)
