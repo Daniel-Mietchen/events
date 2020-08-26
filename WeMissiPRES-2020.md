@@ -1,6 +1,6 @@
 # About
 
-This file hosts a submission to [WeMissiPRES](https://www.dpconline.org/events/wemissipres), the virtual iPRES conference on 22-24 September 2020 that replaces the canceled in-person one. I submitted it shortly before the deadline on 19 August 2020, and the content I entered in their form is also available below.
+This file hosts a submission to [WeMissiPRES](https://www.dpconline.org/events/wemissipres), the virtual iPRES conference on 22-24 September 2020 that replaces the canceled in-person one. I submitted it shortly before the deadline on 19 August 2020, and the content I entered in their form is also available below. On August 26, I was informed of the acceptance of the submission, and we were requested to confirm our intention to present, which we did.
 
 # Questions from the submission form
 
