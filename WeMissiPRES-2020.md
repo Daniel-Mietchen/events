@@ -27,3 +27,8 @@ In catastrophic events, be they natural or human-triggered, circumstances can ch
 ## Please describe the intended format for your presentation e.g. slides with voice over, lecture with camera on, demo, multiple presenters, live survey etc (50 words max) *
 
 Slides and demo with voiceover, by both presenters and with a live survey
+
+# See also
+
+* [COVID-19: The duty to document does not cease in a crisis, it becomes more essential](https://www.dpconline.org/news/the-duty-to-document-covid)
+  - mentions "ephemeral technologies", linked to [The 'Bit List' of Digitally Endangered Species](https://www.dpconline.org/digipres/champion-digital-preservation/bit-list), which seems worth combing through from the perspective of technologies used in disaster contexts
