@@ -37,3 +37,4 @@ By its very nature, Artificial Intelligence depends on the availability of data 
 ## Notes
 
 * [Wikipedia as training data](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22training+data+*+wikipedia%22+OR+%22wikipedia+*+training+data%22&btnG=)
+* [Omdena is a collaborative platform to build innovative, ethical, and efficient AI solutions to real-world problems](https://omdena.com/projects/#running_challenges)
