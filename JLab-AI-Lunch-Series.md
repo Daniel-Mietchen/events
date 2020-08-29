@@ -38,3 +38,7 @@ By its very nature, Artificial Intelligence depends on the availability of data 
 
 * [Wikipedia as training data](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22training+data+*+wikipedia%22+OR+%22wikipedia+*+training+data%22&btnG=)
 * [Omdena is a collaborative platform to build innovative, ethical, and efficient AI solutions to real-world problems](https://omdena.com/projects/#running_challenges)
+* [Climate TRACE Coalition](https://www.climatetrace.org/)
+  - commentaries:
+    - [The entire world’s carbon emissions will finally be trackable in real time](https://www.vox.com/energy-and-environment/2020/7/16/21324662/climate-change-air-pollution-tracking-greenhouse-gas-emissions-trace-coalition)
+    - [This Al Gore-supported project uses AI to track the world’s emissions in near real time](https://www.fastcompany.com/90527328/this-al-gore-supported-project-uses-ai-to-track-the-worlds-emissions-in-near-real-time)
