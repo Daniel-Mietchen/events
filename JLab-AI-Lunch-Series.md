@@ -44,3 +44,4 @@ By its very nature, Artificial Intelligence depends on the availability of data 
     - [This Al Gore-supported project uses AI to track the world’s emissions in near real time](https://www.fastcompany.com/90527328/this-al-gore-supported-project-uses-ai-to-track-the-worlds-emissions-in-near-real-time)
 * [Data4COVID19](https://data4covid19.org/)
   - resulted from [A Call for Action &mdash; Toward building the data infrastructure and ecosystem we need to tackle pandemics and other dynamic societal and environmental threats](https://medium.com/data-stewards-network/a-call-for-action-813669f32244)
+* [Wikidata concept tree generator](https://observablehq.com/@repmax/wikidata-concept-tree-generator)
