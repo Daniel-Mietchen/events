@@ -65,3 +65,4 @@ By its very nature, Artificial Intelligence depends on the availability of data 
 * [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433)
 * [How artificial intelligence can tackle climate change](https://www.nationalgeographic.com/environment/2019/07/artificial-intelligence-climate-change/)
 * [Climate Change AI](https://www.climatechange.ai/)
+* [AI for social good: unlocking the opportunity for positive impact](https://doi.org/10.1038/s41467-020-15871-z)
