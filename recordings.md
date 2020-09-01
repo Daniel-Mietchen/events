@@ -50,6 +50,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2014-08-19, Rio de Janeiro: [Wikimedia projects as platforms for Open Science](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Ci%C3%AAncia_Aberta,_Quest%C3%B5es_Abertas)
 * 2014-04-01, Bethesda: [Inconsistent XML as a Barrier to Reuse of Open Access Content](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/JATS-Con_2014/Inconsistent_XML_as_a_Barrier_to_Reuse_of_Open_Access_Content)
 * 2013-09-14, Berlin: [Visualizing Complex Science](https://www.youtube.com/watch?v=dS62HPURNWk) (interview)
+* 2013-02, Hamburg: [Open Science Interview mit Daniel Mietchen](http://doi.org/10.5281/zenodo.12337)
 * 2012-09-05, Geneva: [Wikimedia as a Platform for Scientific Information](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/CERN_2012/Wikimedia_as_a_platform_for_science_communication)
 * 2012-07-14, Washington, DC: [Group authoring of web content - how to keep quality and accuracy high and resolve conflicts: the Wikipedia example](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikimania_2012/FESIN_North_American_Mycoflora_Workshop)
 * 2012-07-11, Washington, DC: [Wikimedia as a Platform for Biotechnology Information](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikimania_2012/National_Center_for_Biotechnology_Information)
