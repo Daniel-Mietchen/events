@@ -86,3 +86,4 @@ By its very nature, Artificial Intelligence depends on the availability of data 
 * [Using AI for Metadata Creation](https://www.cmswire.com/information-management/using-ai-for-creating-metadata/)
 * [How AI Enhances Metadata Creation](https://www.m-files.com/blog/how-artificial-intelligence-ai-enhances-metadata-creation/)
 * [Global Corruption Report: Climate Change](https://www.transparency.org/en/publications/global-corruption-report-climate-change)
+* [Depixellation? Or hallucination?](https://aiweirdness.com/post/622002033086578688/depixellation-or-hallucination)
