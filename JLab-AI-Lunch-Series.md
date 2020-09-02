@@ -154,3 +154,6 @@ By its very nature, Artificial Intelligence depends on the availability of data 
 * [DNA Data Storage Is Closer Than You Think](https://www.scientificamerican.com/article/dna-data-storage-is-closer-than-you-think/)
 * [MAPLE (modular automated platform for large-scale experiments), a robot for integrated organism-handling and phenotyping](https://dx.doi.org/10.7554%2FeLife.37166)
 
+## Feedback
+
+* [Thanks from the organizer](http://web.archive.org/web/20200902203419/https://twitter.com/tennant_cd/status/1301208255797002244)
