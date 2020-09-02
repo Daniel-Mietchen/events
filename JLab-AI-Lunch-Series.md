@@ -153,6 +153,7 @@ By its very nature, Artificial Intelligence depends on the availability of data 
 * [The Capacity of DNA for Information Encoding](https://doi.org/10.1007/11493785_25)
 * [DNA Data Storage Is Closer Than You Think](https://www.scientificamerican.com/article/dna-data-storage-is-closer-than-you-think/)
 * [MAPLE (modular automated platform for large-scale experiments), a robot for integrated organism-handling and phenotyping](https://dx.doi.org/10.7554%2FeLife.37166)
+* [AI Should not Leave Structured Data Behind!](https://towardsdatascience.com/ai-should-not-leave-structured-data-behind-33474f9cd07a)
 
 ## Feedback
 
