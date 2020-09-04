@@ -1,6 +1,6 @@
 # About
 
-This file hosts a proposal to [JupyterCon 2020](https://jupytercon.com/), which I [submitted](https://twitter.com/EvoMRI/status/1285746449846870016) on 21 July 2020. On August 22, I was notified of its acceptance. They requested confirmation that I still plan to give the talk, which I provided. 
+This file hosts a proposal to [JupyterCon 2020](https://jupytercon.com/), which I [submitted](https://twitter.com/EvoMRI/status/1285746449846870016) on 21 July 2020. On August 22, I was notified of its acceptance. They requested confirmation that I still plan to give the talk, which I provided. On September 4, they sent me detailed instructions regarding how to do and submit the recordings of the talk, for which there is now a [dedicated ticket](https://github.com/Daniel-Mietchen/events/issues/699).
 
 # Form fields
 
