@@ -132,3 +132,4 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
 
 * Awesome lists, e.g. 
   - Project Jupyter's [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+  - [Reproducibility of the Results of Climate Modeling Experiments](https://sites.nationalacademies.org/cs/groups/dbassesite/documents/webpage/dbasse_186748.pdf)
