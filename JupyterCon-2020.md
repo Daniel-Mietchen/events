@@ -120,8 +120,10 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
     * via Kolibri
   * data modelling: 
     * how to model a Jupyter notebook?
+      * ShEx?
     * how to cite a Jupyter notebook?
       * mention software citation principles
+  * lexemes
 * If you wrote a Jupyter notebook for educational purposes, chances are that it could serve these purposes through Wikimedia projects too.
 * If you wrote code that adds functionality to Jupyter notebooks, JupyterHub, Binder or other parts of the Jupyter ecosystem, chances are that the functionality would be of interest to Jupyter users within the Wikimedia community, or even to users of Wikimedia contents.
 * [Candidate items to be portrayed in Jupyter notebooks: items with no image or Commons category but a mathematical formula](https://w.wiki/aH8)
@@ -134,3 +136,4 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
 * Awesome lists, e.g. 
   - Project Jupyter's [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
   - [Reproducibility of the Results of Climate Modeling Experiments](https://sites.nationalacademies.org/cs/groups/dbassesite/documents/webpage/dbasse_186748.pdf)
+* [Video Wiki](https://videowiki.wmflabs.org/) &mdash; consider doing one on Jupyter
