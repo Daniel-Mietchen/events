@@ -115,6 +115,7 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
   * Jupyter notebooks for testing purposes
   * Jupyter notebooks for editing
     * [page redirects](https://de.wikipedia.org/w/index.php?title=Wikipedia:Fragen_zur_Wikipedia/Archiv/2018/Woche_17&oldid=177213623#Fehlende_Weiterleitungen_effizient_anlegen)
+    * [Wikidata Integrator example](https://www.wikidata.org/wiki/Wikidata:Creating_a_bot#Example_Notebook)
   * PAWS
   * [PAWS-Internal](https://meta.wikimedia.org/wiki/Discovery/Analytics#PAWS_Internal)
   * [Mention in WMF 2017-2018 Annual Plan](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2017-2018/Final/SinglePage)
