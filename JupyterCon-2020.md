@@ -75,6 +75,7 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
         - [WikiDP](https://wikidp.org/search?string=Jupyter)
         - [Scholia](https://scholia.toolforge.org/topic/Q70357595)
           - note that we are exploring to use Jupyter for generating the visualizations; suggestions and comments most welcome
+          - also check "use" aspect
     * Wikibooks
       * [Découverte de Python et de Jupyter](https://fr.wikibooks.org/wiki/Python_pour_le_calcul_scientifique/D%C3%A9couverte_de_Python_et_de_Jupyter#Installer_Jupyter)
       * [Introducing Julia/Working with text files](https://en.wikibooks.org/w/index.php?title=Introducing_Julia/Working_with_text_files&oldid=3678056#File_information)
