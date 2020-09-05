@@ -127,3 +127,8 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
 * [Wikipedia as a gateway to biomedical research: The relative distribution and use of citations in the English Wikipedia](https://doi.org/10.1371/journal.pone.0190046)
 * Lots of code examples in Jupyter-supported languages in Wikipedia pages about algorithms, standards and similar concepts relevant to computational sciences. Would be nice to have a robust and straightforward way to link these example snippets to a Jupyter notebook that runs out of the box.
   * e.g. Python and Unity C# in [Centripetal Catmull–Rom spline](https://en.wikipedia.org/w/index.php?title=Centripetal_Catmull%E2%80%93Rom_spline&oldid=956131687#Code_example_in_Python)
+
+# See also
+
+* Awesome lists, e.g. 
+  - Project Jupyter's [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
