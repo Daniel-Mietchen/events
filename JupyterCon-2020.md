@@ -107,6 +107,8 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
       * points to a URL that gives a 404; code has been [reorganized](https://github.com/redisa/QiskitTutorial/blob/master/games/quantum_awesomeness.ipynb)
   * Jupyter notebooks for educational purposes
     - [PyWikiBot tutorial](https://commons.wikimedia.org/wiki/File:Paws_notebook_showing_how_to_load_wikidata_item_dictionary.png)
+  * Jupyter notebooks for Wikidata queries
+    - example: [Binder link](https://gitlab.com/PersonalDataIO/wikidata/blob/master/README.md)
   * Jupyter notebooks in discussions
     * [finite element modelling](https://de.wikipedia.org/w/index.php?title=Wikipedia:Auskunft/Archiv/2017/Woche_25&oldid=194920685#Kostenlose_FEM-Software)
   * Jupyter notebooks for presentional purposes
@@ -130,6 +132,7 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
 * [Wikipedia as a gateway to biomedical research: The relative distribution and use of citations in the English Wikipedia](https://doi.org/10.1371/journal.pone.0190046)
 * Lots of code examples in Jupyter-supported languages in Wikipedia pages about algorithms, standards and similar concepts relevant to computational sciences. Would be nice to have a robust and straightforward way to link these example snippets to a Jupyter notebook that runs out of the box.
   * e.g. Python and Unity C# in [Centripetal Catmull–Rom spline](https://en.wikipedia.org/w/index.php?title=Centripetal_Catmull%E2%80%93Rom_spline&oldid=956131687#Code_example_in_Python)
+* [Wikidata:WikiProject PersonalData/Jupyter wikidata](https://www.wikidata.org/wiki/Wikidata:WikiProject_PersonalData/Jupyter_wikidata)
 
 # See also
 
