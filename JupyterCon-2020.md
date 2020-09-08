@@ -92,8 +92,9 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
       - [search](https://meta.wikimedia.org/w/index.php?sort=relevance&search=ipynb&title=Special:Search&profile=advanced&fulltext=1&advancedSearch-current=%7B%7D&ns0=1&ns1=1&ns2=1&ns3=1&ns4=1&ns5=1&ns6=1&ns7=1&ns8=1&ns9=1&ns10=1&ns11=1&ns12=1&ns13=1&ns14=1&ns15=1&ns200=1&ns201=1&ns202=1&ns203=1&ns206=1&ns207=1&ns470=1&ns471=1&ns482=1&ns483=1&ns828=1&ns829=1&ns866=1&ns867=1&ns1198=1&ns1199=1&ns2300=1&ns2301=1&ns2302=1&ns2303=1&searchToken=2m0bvery58w03wupd1b8ntv9z)
     * Phabricator
       * [RStudio Server running on JupyterHub on internal PAWS](https://phabricator.wikimedia.org/T180270)
+    * MediaWiki extension [NotebookViewer](https://www.mediawiki.org/wiki/Extension:NotebookViewer)
     * etc.
-  * Jupyter notebooks in articles
+  * Jupyter notebooks in wiki pages 
     * as references
       * [baseball stats](https://en.wikipedia.org/w/index.php?title=Chuck_Nieson&oldid=971841978#cite_note-1)
       * [optimization software](https://en.wikipedia.org/w/index.php?title=Gekko_(optimization_software)&oldid=970061912#cite_note-26)
