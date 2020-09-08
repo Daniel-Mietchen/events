@@ -120,10 +120,13 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
       - [Jupyter notebook (on Colab) to copy items from Wikidata into another Wikibase](https://colab.research.google.com/drive/1DDws0pGPmP6eKwuDeSCHTCf6PYYMw9OL)
     * [prototyping of bot code](https://colab.research.google.com/drive/1GRVji8FBQd4xw3JipY8b5vG1Soip98My)
     * [importing schema.org into a Wikibase instance](https://colab.research.google.com/drive/1wVKGNYggYDnojKiqKMvt5Z5o_fzXbm00)
+  * Jupyter notebooks to analyze event/ campaign participation data
+    - [Wiki Loves Africa 2019](https://public.paws.wmcloud.org/User:CS_natematias/Query%20WikiLovesAfrica%20Images%20and%20How%20Often%20They%20Were%20Viewed.ipynb)
   * Jupyter notebooks for editing
     * [page redirects](https://de.wikipedia.org/w/index.php?title=Wikipedia:Fragen_zur_Wikipedia/Archiv/2018/Woche_17&oldid=177213623#Fehlende_Weiterleitungen_effizient_anlegen)
     * [Wikidata Integrator example](https://www.wikidata.org/wiki/Wikidata:Creating_a_bot#Example_Notebook)
   * PAWS
+    - [public view](https://public.paws.wmcloud.org/)
   * [PAWS-Internal](https://meta.wikimedia.org/wiki/Discovery/Analytics#PAWS_Internal)
   * [Mention in WMF 2017-2018 Annual Plan](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2017-2018/Final/SinglePage)
   * Colab
