@@ -151,10 +151,13 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
   * e.g. Python and Unity C# in [Centripetal Catmull–Rom spline](https://en.wikipedia.org/w/index.php?title=Centripetal_Catmull%E2%80%93Rom_spline&oldid=956131687#Code_example_in_Python)
 * [Wikidata:WikiProject PersonalData/Jupyter wikidata](https://www.wikidata.org/wiki/Wikidata:WikiProject_PersonalData/Jupyter_wikidata)
 
+# Outlook
+*Some ideas of what's possible but has not been realized yet*
+* Turn Project Jupyter's [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) into a Wikibase that has the NotebookViewer extension installed to view notebooks, links to Binder to facilitate re-running them, and has a SPARQL endpoint that allows to query across the collection, perhaps in a federated way.
+
 # See also
 
 * Awesome lists, e.g. 
-  - Project Jupyter's [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
   - [Reproducibility of the Results of Climate Modeling Experiments](https://sites.nationalacademies.org/cs/groups/dbassesite/documents/webpage/dbasse_186748.pdf)
 * [Video Wiki](https://videowiki.wmflabs.org/) &mdash; consider doing one on Jupyter
 * [LIGO binder](https://github.com/minrk/ligo-binder)
