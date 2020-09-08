@@ -120,8 +120,9 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
   * Jupyter notebooks in discussions
     * [finite element modelling](https://de.wikipedia.org/w/index.php?title=Wikipedia:Auskunft/Archiv/2017/Woche_25&oldid=194920685#Kostenlose_FEM-Software)
   * Jupyter notebooks for presentional purposes
+    * see also under Wikimania
   * Jupyter notebooks for testing purposes
-    * [Wikidata subsetting](Wikidata:WikiProject Schemas/Subsetting)
+    * [Wikidata subsetting](https://www.wikidata.org/wiki/Wikidata:WikiProject_Schemas/Subsetting)
       - [Jupyter notebook (on Colab) to copy items from Wikidata into another Wikibase](https://colab.research.google.com/drive/1DDws0pGPmP6eKwuDeSCHTCf6PYYMw9OL)
     * [prototyping of bot code](https://colab.research.google.com/drive/1GRVji8FBQd4xw3JipY8b5vG1Soip98My)
     * [importing schema.org into a Wikibase instance](https://colab.research.google.com/drive/1wVKGNYggYDnojKiqKMvt5Z5o_fzXbm00)
