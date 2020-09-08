@@ -76,14 +76,16 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
         - [Scholia](https://scholia.toolforge.org/topic/Q70357595)
           - note that we are exploring to use Jupyter for generating the visualizations; suggestions and comments most welcome
           - also check "use" aspect
+      * [Map Making Workshop](https://github.com/KBNLwikimedia/WikidataMapMakingWorkshop) by [Royal Dutch Library](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland)
     * Wikibooks
       * [Découverte de Python et de Jupyter](https://fr.wikibooks.org/wiki/Python_pour_le_calcul_scientifique/D%C3%A9couverte_de_Python_et_de_Jupyter#Installer_Jupyter)
       * [Introducing Julia/Working with text files](https://en.wikibooks.org/w/index.php?title=Introducing_Julia/Working_with_text_files&oldid=3678056#File_information)
     * Wikimania
       * [2019](https://wikimania.wikimedia.org/w/index.php?search=Jupyter&title=Special%3ASearch&go=Go&ns0=1&ns128=1)
       * [pre-2019](https://meta.wikimedia.org/w/index.php?search=Jupyter+Wikimania&title=Special%3ASearch&go=Go&ns0=1&ns12=1&ns200=1&ns202=1)
-    * [Meta]()
-      * e.g. [Map Making Workshop](https://github.com/KBNLwikimedia/WikidataMapMakingWorkshop)
+        - e.g. Wikimania 2014 talk [Open Scholarship Tools](https://nbviewer.jupyter.org/github/IanMulvany/wikimania-open-scholarship-tools/blob/master/WikimaniaOpenScholarshipTalk.ipynb)
+    * Meta
+      - [search](https://meta.wikimedia.org/w/index.php?sort=relevance&search=ipynb&title=Special:Search&profile=advanced&fulltext=1&advancedSearch-current=%7B%7D&ns0=1&ns1=1&ns2=1&ns3=1&ns4=1&ns5=1&ns6=1&ns7=1&ns8=1&ns9=1&ns10=1&ns11=1&ns12=1&ns13=1&ns14=1&ns15=1&ns200=1&ns201=1&ns202=1&ns203=1&ns206=1&ns207=1&ns470=1&ns471=1&ns482=1&ns483=1&ns828=1&ns829=1&ns866=1&ns867=1&ns1198=1&ns1199=1&ns2300=1&ns2301=1&ns2302=1&ns2303=1&searchToken=2m0bvery58w03wupd1b8ntv9z)
     * Phabricator
       * [RStudio Server running on JupyterHub on internal PAWS](https://phabricator.wikimedia.org/T180270)
     * etc.
@@ -107,6 +109,7 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
       * points to a URL that gives a 404; code has been [reorganized](https://github.com/redisa/QiskitTutorial/blob/master/games/quantum_awesomeness.ipynb)
   * Jupyter notebooks for educational purposes
     - [PyWikiBot tutorial](https://commons.wikimedia.org/wiki/File:Paws_notebook_showing_how_to_load_wikidata_item_dictionary.png)
+    - [SPARQL tutorial](https://colab.research.google.com/drive/1EJiMsyYofEr3lOLTGY2sYaFQpKuN_IlN#scrollTo=qL8XNH13k2Wq)
   * Jupyter notebooks for Wikidata queries
     - example: [Binder link](https://gitlab.com/PersonalDataIO/wikidata/blob/master/README.md)
   * Jupyter notebooks in discussions
@@ -115,12 +118,15 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
   * Jupyter notebooks for testing purposes
     * [Wikidata subsetting](Wikidata:WikiProject Schemas/Subsetting)
       - [Jupyter notebook (on Colab) to copy items from Wikidata into another Wikibase](https://colab.research.google.com/drive/1DDws0pGPmP6eKwuDeSCHTCf6PYYMw9OL)
+    * [prototyping of bot code](https://colab.research.google.com/drive/1GRVji8FBQd4xw3JipY8b5vG1Soip98My)
+    * [importing schema.org into a Wikibase instance](https://colab.research.google.com/drive/1wVKGNYggYDnojKiqKMvt5Z5o_fzXbm00)
   * Jupyter notebooks for editing
     * [page redirects](https://de.wikipedia.org/w/index.php?title=Wikipedia:Fragen_zur_Wikipedia/Archiv/2018/Woche_17&oldid=177213623#Fehlende_Weiterleitungen_effizient_anlegen)
     * [Wikidata Integrator example](https://www.wikidata.org/wiki/Wikidata:Creating_a_bot#Example_Notebook)
   * PAWS
   * [PAWS-Internal](https://meta.wikimedia.org/wiki/Discovery/Analytics#PAWS_Internal)
   * [Mention in WMF 2017-2018 Annual Plan](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2017-2018/Final/SinglePage)
+  * Colab
   * Internet in a Box
     * via Kolibri
   * data modelling: 
