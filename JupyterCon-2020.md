@@ -127,7 +127,8 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
     * [prototyping of bot code](https://colab.research.google.com/drive/1GRVji8FBQd4xw3JipY8b5vG1Soip98My)
     * [importing schema.org into a Wikibase instance](https://colab.research.google.com/drive/1wVKGNYggYDnojKiqKMvt5Z5o_fzXbm00)
   * Jupyter notebooks to analyze event/ campaign participation data
-    - [Wiki Loves Africa 2019](https://public.paws.wmcloud.org/User:CS_natematias/Query%20WikiLovesAfrica%20Images%20and%20How%20Often%20They%20Were%20Viewed.ipynb)
+    - [Wiki Loves Africa 2019](https://meta.wikimedia.org/w/index.php?title=Wiki_Loves_Africa_2020/Mass_messages&oldid=20344248#Helpful_figures_and_stats)
+      - [notebook](https://public.paws.wmcloud.org/User:CS_natematias/Query%20WikiLovesAfrica%20Images%20and%20How%20Often%20They%20Were%20Viewed.ipynb)
   * Jupyter notebooks for editing
     * [page redirects](https://de.wikipedia.org/w/index.php?title=Wikipedia:Fragen_zur_Wikipedia/Archiv/2018/Woche_17&oldid=177213623#Fehlende_Weiterleitungen_effizient_anlegen)
     * [Wikidata Integrator example](https://www.wikidata.org/wiki/Wikidata:Creating_a_bot#Example_Notebook)
