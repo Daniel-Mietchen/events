@@ -145,6 +145,8 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
     * how to cite a Jupyter notebook?
       * mention software citation principles
   * lexemes
+  * tool use stats
+    - e.g. [Scholia](https://hub.paws.wmcloud.org/hub/user/Daniel_Mietchen/notebooks/Toolforge-pageview-stats/pageview-statistics-scholia.ipynb)
 * If you wrote a Jupyter notebook for educational purposes, chances are that it could serve these purposes through Wikimedia projects too.
 * If you wrote code that adds functionality to Jupyter notebooks, JupyterHub, Binder or other parts of the Jupyter ecosystem, chances are that the functionality would be of interest to Jupyter users within the Wikimedia community, or even to users of Wikimedia contents.
 * [Candidate items to be portrayed in Jupyter notebooks: items with no image or Commons category but a mathematical formula](https://w.wiki/aH8)
