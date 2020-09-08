@@ -113,6 +113,8 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
     * [finite element modelling](https://de.wikipedia.org/w/index.php?title=Wikipedia:Auskunft/Archiv/2017/Woche_25&oldid=194920685#Kostenlose_FEM-Software)
   * Jupyter notebooks for presentional purposes
   * Jupyter notebooks for testing purposes
+    * [Wikidata subsetting](Wikidata:WikiProject Schemas/Subsetting)
+      - [Jupyter notebook (on Colab) to copy items from Wikidata into another Wikibase](https://colab.research.google.com/drive/1DDws0pGPmP6eKwuDeSCHTCf6PYYMw9OL)
   * Jupyter notebooks for editing
     * [page redirects](https://de.wikipedia.org/w/index.php?title=Wikipedia:Fragen_zur_Wikipedia/Archiv/2018/Woche_17&oldid=177213623#Fehlende_Weiterleitungen_effizient_anlegen)
     * [Wikidata Integrator example](https://www.wikidata.org/wiki/Wikidata:Creating_a_bot#Example_Notebook)
