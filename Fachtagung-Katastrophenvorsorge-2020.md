@@ -71,3 +71,4 @@ Format: Einleitender Vortrag von mir (mit Demos, insgesamt ca. 30 Minuten), dann
 # See also
 
 * [How Wikipedia became a trusted source for COVID-19 information](https://www.youtube.com/watch?v=42n6igyp-Fk)
+* [Wikipedia:Meetup/Online edit-a-thon SDGs September 2020](https://en.wikipedia.org/wiki/Wikipedia:Meetup/Online_edit-a-thon_SDGs_September_2020)
