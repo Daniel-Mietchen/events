@@ -61,6 +61,8 @@ Format: Einleitender Vortrag von mir (mit Demos, insgesamt ca. 30 Minuten), dann
     - in the presentation
     - for stretching
   - group work
+  - registration form
+    - upon registration for the conference, the registration form asked "In einem Satz, was interessiert sie an der Fachtagung besonders und zu welchem Thema möchten Sie sich mehr austauschen?", to which I responded "🇬🇧 I am particularly interested in the integration of classical disaster preparedness and response with digital platforms, communities and workflows, especially those of the Wikipedia ecosystem, citizen science and OpenStreetMap. / 🇩🇪 Ich bin speziell an der Verzahnung klassischer Katastrophenvorsorge mit digitalen Plattformen, Communitys und Arbeitsabläufen interessiert, insbesondere mit dem Wikipedia-Ökosystem, Bürgerwissenschaften und OpenStreetMap."
 
 
 # See also
