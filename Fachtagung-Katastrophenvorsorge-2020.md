@@ -28,9 +28,39 @@ Zielgruppe: Tagungsteilnehmer, die beruflich oder ehrenamtlich mit Kommunikation
 
 Format: Einleitender Vortrag von mir (mit Demos, insgesamt ca. 30 Minuten), dann Gruppenarbeit (Begutachtung von Wikimedia-Inhalten, ca. 30 Minuten), anschliessend Diskussion und gemeinsame Besprechung verschiedener Praxisbeispiele aus der Katastrophenvorsorge mit Fokus auf digitale Elemente und Integrationspotential mit Wikimedia-Inhalten.
 
-## Etherpad
+# Notes
+
+## For the workshop itself: Etherpad
 
 * [https://etherpad.wikimedia.org/p/Fachtagung-Katastropenvorsorge-2020-Wikipedia](https://etherpad.wikimedia.org/p/Fachtagung-Katastropenvorsorge-2020-Wikipedia)
+  - background: [Das Etherpad-Prinzip weitergeführt: 5 Tools für spezifische Kollaborationsherausforderungen](https://ebildungslabor.de/blog/etherpadprinzip/)
+
+## For preparing the workshop
+
+* Think about 
+  - privacy notice regarding all the tools/ channels used
+  - spam
+  - a round of introductions
+    - mentimeter-like quick surveys/ "show of hands", perhaps directly in the Etherpad, using emoji
+      - gibt es TeilnehmerInnen, die an dem Workshop nicht teilnehmen koennten, wenn er nur auf Englisch waere?
+      - anyone not comfortable if this workshop were run in German only?
+    - brief biosketch/ interests/ contact info, directly in the etherpad or ethercalc
+      - [ethercalc demo](https://ethercalc.net/fpcesl1hzpl6)
+    - little exercise
+      - make sure everyone has something to drink
+        - let them share where they got the vessel that they are drinking it from (e.g. coffee cup)
+          - [ethermap test](https://getethermap.org/m/test-for-fachtagung-katastrophenvorsorge)
+          - use this later to generate a Wikidata-powered map of locations represented at the event
+  - the moment of silence after the end of the presentation part
+    - could be alleviated by
+      - encouraging Q & A in the Etherpad already during the presentation
+      - displaying 
+        - an overview of some key images from the presentation
+        - some version of a key issue that came up early in the presentation
+  - pauses 
+    - in the presentation
+    - for stretching
+  - group work
 
 
 # See also
