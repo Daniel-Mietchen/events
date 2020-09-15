@@ -53,6 +53,11 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
 * "Make sure the presentation has live demos of these current usages and previews of the potential ones."
 * explain benefits and downsides (ideally for both sides) of linking from Wikipedia to the Jupyter ecosystem and back
 
+# DOI for the talk
+
+* [10.5281/zenodo.4031806](https://doi.org/10.5281/zenodo.4031806) for the first version
+* [10.5281/zenodo.4031805](https://doi.org/10.5281/zenodo.4031805) for any version
+
 # Notes
 
 * Precursor presentation at WikiCite 2017: [Jupyter notebooks on Wikimedia sites](https://meta.wikimedia.org/wiki/WikiCite_2017/Jupyter_notebooks_on_Wikimedia_sites)
