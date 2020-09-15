@@ -116,7 +116,9 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
     - [PyWikiBot tutorial](https://commons.wikimedia.org/wiki/File:Paws_notebook_showing_how_to_load_wikidata_item_dictionary.png)
     - [SPARQL tutorial](https://colab.research.google.com/drive/1EJiMsyYofEr3lOLTGY2sYaFQpKuN_IlN#scrollTo=qL8XNH13k2Wq)
   * Jupyter notebooks for Wikidata queries
-    - example: [Binder link](https://gitlab.com/PersonalDataIO/wikidata/blob/master/README.md)
+    - examples: 
+      - [Binder link](https://gitlab.com/PersonalDataIO/wikidata/blob/master/README.md)
+      - [COVID-19 information](https://public.paws.wmcloud.org/User:99of9/Covid-19.ipynb)
   * Jupyter notebooks in discussions
     * [finite element modelling](https://de.wikipedia.org/w/index.php?title=Wikipedia:Auskunft/Archiv/2017/Woche_25&oldid=194920685#Kostenlose_FEM-Software)
   * Jupyter notebooks for presentional purposes
