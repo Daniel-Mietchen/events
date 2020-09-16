@@ -144,6 +144,8 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
   * [PAWS-Internal](https://meta.wikimedia.org/wiki/Discovery/Analytics#PAWS_Internal)
   * [Mention in WMF 2017-2018 Annual Plan](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2017-2018/Final/SinglePage)
   * Colab
+  * StackOverflow
+    - [Jupyter notebook as a comment on a SPARQL question](https://stackoverflow.com/questions/54162289/finding-the-three-longest-substrings-in-a-string-using-sparql-on-the-wikidata-qu#comment95158274_54162289)
   * Internet in a Box
     * via Kolibri
   * data modelling: 
