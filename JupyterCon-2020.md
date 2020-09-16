@@ -53,6 +53,10 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
 * "Make sure the presentation has live demos of these current usages and previews of the potential ones."
 * explain benefits and downsides (ideally for both sides) of linking from Wikipedia to the Jupyter ecosystem and back
 
+# Slides
+
+* started a draft at [https://hub.paws.wmcloud.org/user/Research_Bot/notebooks/JupyterCon%202020%20talk.ipynb](https://hub.paws.wmcloud.org/user/Research_Bot/notebooks/JupyterCon%202020%20talk.ipynb)
+
 # DOI for the talk
 
 * [10.5281/zenodo.4031806](https://doi.org/10.5281/zenodo.4031806) for the first version
