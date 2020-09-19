@@ -55,10 +55,10 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
 
 # Slides
 
-* started a draft at [https://hub.paws.wmcloud.org/user/Research_Bot/notebooks/JupyterCon%202020%20talk.ipynb](https://hub.paws.wmcloud.org/user/Research_Bot/notebooks/JupyterCon%202020%20talk.ipynb)
+* started a draft at [https://hub.paws.wmcloud.org/user/Research_Bot/notebooks/JupyterCon%202020%20talk.ipynb](https://hub.paws.wmcloud.org/user/Research_Bot/notebooks/JupyterCon%202020%20talk.ipynb), which has since been superseded by [https://public.paws.wmcloud.org/user/Daniel_Mietchen/notebooks/JupyterCon-2020/JupyterCon%202020%20talk.ipynb](https://public.paws.wmcloud.org/user/Daniel_Mietchen/notebooks/JupyterCon-2020/JupyterCon%202020%20talk.ipynb)
 
 # DOI for the talk
-
+*The DOI has been reserved, but will only be activated upon posting of the materials.*
 * [10.5281/zenodo.4031806](https://doi.org/10.5281/zenodo.4031806) for the first version
 * [10.5281/zenodo.4031805](https://doi.org/10.5281/zenodo.4031805) for any version
 
