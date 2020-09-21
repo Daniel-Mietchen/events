@@ -1,6 +1,20 @@
 # About
 
-This file hosts a proposal to [JupyterCon 2020](https://jupytercon.com/), which I [submitted](https://twitter.com/EvoMRI/status/1285746449846870016) on 21 July 2020. On August 22, I was notified of its acceptance. They requested confirmation that I still plan to give the talk, which I provided. On September 4, they sent me detailed instructions regarding how to do and submit the recordings of the talk by mid-September, for which there is now a [dedicated ticket](https://github.com/Daniel-Mietchen/events/issues/699).
+This file hosts a contribution to [JupyterCon 2020](https://jupytercon.com/).
+
+# Slides
+
+The slides are actually a Jupyter notebook that is available via
+Mietchen, Daniel. (2020, September). Jupyter in the Wikimedia ecosystem. Zenodo. http://doi.org/10.5281/zenodo.4031806 , along with a recording of the talk.
+
+A copy of the notebook is also available via https://public.paws.wmcloud.org/User:Daniel_Mietchen/JupyterCon-2020/JupyterCon%202020%20talk.ipynb .
+A copy of the video is also available via https://www.youtube.com/watch?v=hH86K0LEDc8 .
+
+*The fields below mostly pertain to the submission and to the preparation of the talk and are kept here for archival purposes.*
+
+# History
+
+I [submitted](https://twitter.com/EvoMRI/status/1285746449846870016) the proposal on 21 July 2020. On August 22, I was notified of its acceptance. They requested confirmation that I still plan to give the talk, which I provided. On September 4, they sent me detailed instructions regarding how to do and submit the recordings of the talk by mid-September, as per [this dedicated ticket](https://github.com/Daniel-Mietchen/events/issues/699).
 
 # Form fields
 
