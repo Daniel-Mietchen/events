@@ -1,6 +1,6 @@
 # About
 
-This file hosts a contribution to [JupyterCon 2020](https://jupytercon.com/).
+This file hosts a contribution to [JupyterCon 2020](http://web.archive.org/web/20200919212552if_/https://jupytercon.com/).
 
 # Slides
 
