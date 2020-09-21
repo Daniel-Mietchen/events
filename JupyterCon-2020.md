@@ -188,3 +188,16 @@ For other recordings of talks I gave, see https://github.com/Daniel-Mietchen/eve
 * [Seismo-Live](https://krischer.github.io/seismo_live_build/tree/index.html)
 * Jupyter notebooks on COVID-19, e.g. [by Ingo Dahn](https://github.com/ingodahn/Corona)
 * Jupyter notebooks associated with PMC or astronomy papers
+
+* Image credits
+
+| image | file name | creator | license |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Coloured-transition-metal-solutions.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Coloured-transition-metal-solutions.jpg" width=100></a>  | [Coloured-transition-metal-solutions.jpg](https://commons.wikimedia.org/wiki/File:Coloured-transition-metal-solutions.jpg) | [Benjah-bmm27](https://commons.wikimedia.org/wiki/User:Benjah-bmm27) | [public domain](https://en.wikipedia.org/wiki/Public_domain)  |
+| <a href="https://commons.wikimedia.org/wiki/File:Wikimedia_logo_family_complete-2013.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wikimedia_logo_family_complete-2013.svg/600px-Wikimedia_logo_family_complete-2013.svg.png" width=100></a>  | [Wikimedia_logo_family_complete-2013.svg](https://commons.wikimedia.org/wiki/File:Wikimedia_logo_family_complete-2013.svg) | [PiRSquared17](https://meta.wikimedia.org/wiki/User:PiRSquared17) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)  |
+| <a href="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" width=100></a>  | [Jupyter logo.svg](https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg) | [Project Jupyter](https://github.com/jupyter/jupyter.github.io/commits/master/assets/main-logo.svg) | [BSD](https://choosealicense.com/licenses/bsd-3-clause/)  |
+| <a href="https://commons.wikimedia.org/wiki/File:Animation_of_media_files_in_the_Wikimedia_Commons_category_for_animations_of_sort_algorithms,_as_of_18_September_2020.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Animation_of_media_files_in_the_Wikimedia_Commons_category_for_animations_of_sort_algorithms%2C_as_of_18_September_2020.gif/407px-Animation_of_media_files_in_the_Wikimedia_Commons_category_for_animations_of_sort_algorithms%2C_as_of_18_September_2020.gif" width=100></a>  | [File:Animation of media files in the Wikimedia Commons category for animations of sort algorithms, as of 18 September 2020.gif](https://commons.wikimedia.org/wiki/File:Animation_of_media_files_in_the_Wikimedia_Commons_category_for_animations_of_sort_algorithms,_as_of_18_September_2020.gif) | screenshot by me, depicting images uploaded by several others | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)  |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
