@@ -8,7 +8,8 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 ## In English
 
-* 2020-09-21, online, pre-recording for JupyterCon 2020 talk [Jupyter in the Wikimedia ecosystem](http://doi.org/10.5281/zenodo.4031806)
+* 2020-09-21, online, pre-recording for JupyterCon 2020 talk [Jupyter in the Wikimedia ecosystem](http://doi.org/10.5281/zenodo.4031806), in the education track
+* 2020-09-09, online: [State of WikiCite in 2020](http://doi.org/10.5281/zenodo.4019954) &mdash; a contribution to the [Workshop On Open Citations And Open Scholarly Metadata 2020](https://web.archive.org/web/20200918204644/https://workshop-oc.github.io/)
 * 2020-08-21, online, Workshop "Data Science in Climate and Climate Impact Research": [Multilingual Structured Climate Research Data in Wikidata - The Data Perspective](http://doi.org/10.5281/zenodo.3994266)
 * 2020-02-13, Warsaw, Cost MOBILISE Wikidata Workshop: [Exploring biodiversity through Scholia](https://doi.org/10.5281/zenodo.3665804)
 * 2020-01-14, Tel Aviv University, guest lecture at Wiki-Med elective course: [Wikidata and Medicine](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Talks/Wikimedia_for_Medicine_course_at_Tel_Aviv_University_2020)
