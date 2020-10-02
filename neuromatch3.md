@@ -1,6 +1,6 @@
 # About
 
-This file hosts a contribution to the [neuromatch 3.0](https://neuromatch.io/) conference taking place online on October 26-30, 2020, as per [this ticket](https://github.com/Daniel-Mietchen/events/issues/701). The contribution is submitted in response to their call for proposals to the deadline of October 7, 2020, as per [this ticket](https://github.com/Daniel-Mietchen/events/issues/702).
+This file hosts a contribution to the [neuromatch 3.0](https://neuromatch.io/) conference taking place online on October 26-30, 2020, as per [this ticket](https://github.com/Daniel-Mietchen/events/issues/701). The contribution has been submitted on October 2, 2020, in response to their call for proposals with a deadline of October 7, 2020, as per [this ticket](https://github.com/Daniel-Mietchen/events/issues/702).
 
 # Abstract
 
