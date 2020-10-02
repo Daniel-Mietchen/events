@@ -42,5 +42,6 @@ The submission was co-authored by Cristina Sarasua from University of Zurich and
 # See also
 
 * [Etherpad for the event](https://etherpad.wikimedia.org/p/data-science-in-climate-workshop) &mdash; contains links to several slide sets
-* I gave a presentation "Visualizing the research ecosystem of ecosystem research via Wikidata" at the [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) (ICEI 2018) on 27 September 2018 in Jena, co-authored by Finn Årup Nielsen and Egon Willighagen. That event was also attended by Markus Reichstein, one of the keynote speakers at the climate workshop.
+* I gave a presentation "[Visualizing the research ecosystem of ecosystem research via Wikidata](ICEI2018-research-ecosystem.md)" at the [10th International Conference on Ecological Informatics](http://icei2018.uni-jena.de/) (ICEI 2018) on 27 September 2018 in Jena, co-authored by Finn Årup Nielsen and Egon Willighagen. That event was also attended by Markus Reichstein, one of the keynote speakers at the climate workshop.
+* Presentation "[Visualizing the research ecosystem of neuroscience research via Wikidata](neuromatch3.md)" at [neuromatch 3.0](https://neuromatch.io/) in October 2020
 
