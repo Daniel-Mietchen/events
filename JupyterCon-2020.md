@@ -16,13 +16,13 @@ A copy of the video is also available via https://www.youtube.com/watch?v=hH86K0
 
 [![](http://img.youtube.com/vi/hH86K0LEDc8/0.jpg)](http://www.youtube.com/watch?v=hH86K0LEDc8 "JupyterCon 2020 Presentation - Jupyter in the Wikimedia ecosystem")
 
-*The fields below mostly pertain to the submission and to the preparation of the talk and are kept here for archival purposes.*
-
 # Contact
 
 Feel free to ping me via GitHub, [on Twitter](https://twitter.com/EvoMRI) or [via email](https://datascience.virginia.edu/people/daniel-mietchen).
 
 # History
+
+*The content below mostly pertains to the submission and to the preparation of the talk and is kept here for archival purposes.*
 
 I [submitted](https://twitter.com/EvoMRI/status/1285746449846870016) the proposal on 21 July 2020. On August 22, I was notified of its acceptance. They requested confirmation that I still plan to give the talk, which I provided. On September 4, they sent me detailed instructions regarding how to do and submit the recordings of the talk by mid-September, as per [this dedicated ticket](https://github.com/Daniel-Mietchen/events/issues/699).
 
