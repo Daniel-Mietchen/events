@@ -7,7 +7,12 @@ This file hosts a contribution to [JupyterCon 2020](http://web.archive.org/web/2
 The slides are actually a Jupyter notebook that is available via http://doi.org/10.5281/zenodo.4031806 , along with a recording of the talk.
 
 A copy of the notebook is also available via https://public.paws.wmcloud.org/User:Daniel_Mietchen/JupyterCon-2020/JupyterCon%202020%20talk.ipynb .
+
+[![](https://user-images.githubusercontent.com/465923/95768394-4226fd80-0c84-11eb-9309-7047d1ba504e.png)](https://public.paws.wmcloud.org/User:Daniel_Mietchen/JupyterCon-2020/JupyterCon%202020%20talk.ipynb)
+
 A copy of the video is also available via https://www.youtube.com/watch?v=hH86K0LEDc8 .
+
+[![](http://img.youtube.com/vi/hH86K0LEDc8/0.jpg)](http://www.youtube.com/watch?v=hH86K0LEDc8 "JupyterCon 2020 Presentation - Jupyter in the Wikimedia ecosystem")
 
 *The fields below mostly pertain to the submission and to the preparation of the talk and are kept here for archival purposes.*
 
