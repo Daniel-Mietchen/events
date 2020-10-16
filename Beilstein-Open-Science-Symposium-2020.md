@@ -1,6 +1,6 @@
 # About
 
-This file hosts a contribution to the [https://web.archive.org/web/20201016172948/https://www.beilstein-institut.de/en/symposia/open-science/ Beilstein Open Science Symposium 2020] taking place online on 27 & 28 October, 2020.
+This file hosts a contribution to the [Beilstein Open Science Symposium 2020](https://web.archive.org/web/20201016172948/https://www.beilstein-institut.de/en/symposia/open-science/) taking place online on 27 & 28 October, 2020.
 
 Slots for talks have already been selected by the organizers, but they invite submissions for "poster demos", which is hence the intent heere.
 
