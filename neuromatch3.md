@@ -20,7 +20,8 @@ A range of open-source tools is available to interact with Wikidata — to enter
 # See also
 
 * The [etherpad for the session](https://etherpad.wikimedia.org/p/zenodo.4064274)
-* Two similar presentations have been given so far:
+* Similar presentations:
+  - [Open profiling of chemical knowledge](https://github.com/Daniel-Mietchen/events/blob/master/Beilstein-Open-Science-Symposium-2020.md)
   - [Multilingual Structured Climate Research Data in Wikidata - The Data Perspective](data-science-in-climate-and-climate-impact-research.md) on 21 August 2020
   - [Visualizing the research ecosystem of ecosystem research via Wikidata](https://github.com/Daniel-Mietchen/events/blob/master/ICEI2018-research-ecosystem.md) on 27 September 2018
   
