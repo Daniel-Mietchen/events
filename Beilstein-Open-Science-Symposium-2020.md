@@ -10,10 +10,6 @@ Open profiling of chemical knowledge
 
 # Abstract
 
-*300 words maximum*
-
-Visualizing the research ecosystem of chemical research via Wikidata
-
 Chemical research — like research in general — takes place in a sociotechnical ecosystem that connects researchers, institutions, funders, databases, locations, publications, methodologies and related concepts with the objects of study and the natural and cultural worlds around them.
 
 Mechanisms for describing concepts related to chemistry are growing in breadth and depth, number and popularity. In parallel, more and more chemistry-related data — and particularly metadata — are being made available under open licenses, which facilitates discoverability, reproducibility and reuse, as well as data integration.
