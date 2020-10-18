@@ -80,6 +80,7 @@ Format: Einleitender Vortrag von mir (mit Demos, insgesamt ca. 30 Minuten), dann
   - also [here](https://docs.google.com/presentation/d/e/2PACX-1vQJLMKVEyOX5-loE_91d5iL8TwZLflxO8RffzRzcqnPhFgSM1Bd007I18G5KEIW1ail79pMyU05afzj/pub?start=false&loop=false&delayms=3000#slide=id.g3560b8a584_2_75)
 * http://www.allourideas.org/wikimania2017-disaster-response/results?all=true
 * [The human cost of disasters: an overview of the last 20 years (2000-2019) ](https://www.undrr.org/publication/human-cost-disasters-overview-last-20-years-2000-2019)
+  - [sample figure on most impactful disaster types over the last decade](https://twitter.com/UNDRR/status/1316543954125545472)
 
 # See also
 
