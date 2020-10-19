@@ -1,10 +1,14 @@
 # About
 
-This file hosts information regarding my planned contributions to the [German Conference on Disaster Risk Reduction](https://www.fachtagung-katastrophenvorsorge.de/2020/index_en) &mdash; the "[Fachtagung Katastrophenvorsorge 2020](https://www.fachtagung-katastrophenvorsorge.de/2020)" &mdash; which is the 2020 edition of an annual event in Germany focused on disaster preparedness, which is to take place on 19-20 October 2020 in Berlin and online, as per [this ticket](https://github.com/Daniel-Mietchen/events/issues/678).
+This file hosts information regarding my contributions to the [German Conference on Disaster Risk Reduction](https://www.fachtagung-katastrophenvorsorge.de/2020/index_en) &mdash; the "[Fachtagung Katastrophenvorsorge 2020](https://www.fachtagung-katastrophenvorsorge.de/2020)" &mdash; which is the 2020 edition of an annual event in Germany focused on disaster preparedness, which is to take place on 19-20 October 2020 in Berlin and online, as per [this ticket](https://github.com/Daniel-Mietchen/events/issues/678).
 
 One way to contribute to the event is to organize a workshop, for which they issued a call with an (extended) deadline of May 22 (as per [this ticket](https://github.com/Daniel-Mietchen/events/issues/679)), by which I submitted my proposal. Apart from personal data about me and potential affiliations (where I chose [Wikimedians for Disaster Response](https://meta.wikimedia.org/wiki/Wikimedians_for_Disaster_Response)), they had the following questions, which I am pasting in here in their German original, along with my responses (also in German). They also asked which language the workshop would be in, where I picked the "both English and German" option, as I plan to have the slides in English but will be flexible in using English or German as needed or as the participants prefer.
 
 On June 19, I was notified that the proposal has been accepted, that all workshops will be 90 minutes long and remote and be recorded and that plannings are underway to work out details. I replied that I am fine with these arrangements. By September 8, the program of the event was [online](https://www.fachtagung-katastrophenvorsorge.de/2020/programm), with [several workshops](https://www.fachtagung-katastrophenvorsorge.de/2020/workshops), including [this one](http://web.archive.org/web/20201018000745/https://www.fachtagung-katastrophenvorsorge.de/2020/ws_wikimedians).
+
+# Archive
+
+A copy of the presentation has been uploaded to [http://doi.org/10.5281/zenodo.4105179](http://doi.org/10.5281/zenodo.4105179).
 
 # Workshop submission form questions
 
