@@ -69,19 +69,22 @@ Format: Einleitender Vortrag von mir (mit Demos, insgesamt ca. 30 Minuten), dann
 
 ## Still to consider for potential incorporation
 
-* https://meta.wikimedia.org/wiki/Wikimedians_for_Disaster_Response
-* https://meta.wikimedia.org/wiki/Wikimedians_for_Disaster_Response/Events
 * https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Disaster_management
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Humanitarian_Wikidata
-* https://wikimania.wikimedia.org/wiki/2019:Poster_session/What_is_the_role_of_Wiki_during_volcanic_eruptions%3F
-* https://wikimania2017.wikimedia.org/wiki/Submissions/The_role_of_Wikimedia_in_emergency_response
-* https://wikiconference.org/wiki/Submissions:2019/Wikimedia_in_humanitarian_contexts
 * https://de.wikipedia.org/wiki/Wikipedia:WikiCon_2018/Programm/Katastrophen_und_Katastrophenmanagement
   - also [here](https://docs.google.com/presentation/d/e/2PACX-1vQJLMKVEyOX5-loE_91d5iL8TwZLflxO8RffzRzcqnPhFgSM1Bd007I18G5KEIW1ail79pMyU05afzj/pub?start=false&loop=false&delayms=3000#slide=id.g3560b8a584_2_75)
-* http://www.allourideas.org/wikimania2017-disaster-response/results?all=true
 * [The human cost of disasters: an overview of the last 20 years (2000-2019) ](https://www.undrr.org/publication/human-cost-disasters-overview-last-20-years-2000-2019)
   - [sample figure on most impactful disaster types over the last decade](https://twitter.com/UNDRR/status/1316543954125545472)
 * some disaster-related lexemes
+* https://pageviews.toolforge.org/mediaviews/?project=commons.wikimedia.org&platform=&referer=all-referers&start=2015-01-01&end=2020-10-17&files=7042_lores-Ebola-Zaire-CDC_Photo.jpg
+* OSM Mapathon tonight
+* WikiProject COVID-19
+  - https://en.wikipedia.org/wiki/Template:COVID-19_pandemic
+  - https://en.wikipedia.org/wiki/Wikipedia%27s_response_to_the_COVID-19_pandemic
+  - some COVID-19 visualizations
+* Bing/ NYT coverage of Ebola
+* Wikimedians organize themselves
+* Bias, e.g. as per [Uneven Coverage of Natural Disasters in Wikipedia: the Case of Flood](https://arxiv.org/abs/2001.08810)
 
 # See also
 
