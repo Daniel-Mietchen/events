@@ -3,7 +3,7 @@
 This file hosts materials related to my participation in the ASAPbio Design Sprint [Encouraging Preprint Curation and Review](http://web.archive.org/web/20201020183912/https://asapbio.org/sprint) in November-December 2020.
 
 # Project proposal template
-*Based on the [ASAPbio Preprint Sprint Proposal Template](http://web.archive.org/web/20201020184303/https://docs.google.com/document/d/1JzMXnSk9W7W0k02MdTV2BqYhja1v6VVQ1kSk63hECpM/edit)*, which is to be submitted bu 3 November 2020.
+*Based on the [ASAPbio Preprint Sprint Proposal Template](http://web.archive.org/web/20201020184303/https://docs.google.com/document/d/1JzMXnSk9W7W0k02MdTV2BqYhja1v6VVQ1kSk63hECpM/edit)*, which is to be submitted by 3 November 2020.
 
 ## Title
 
@@ -48,16 +48,26 @@ Ideally, such an analysis would be performed automatically on a daily basis ther
 
 ### Plan for monitoring project outcome
 
+There are several milestones for the project to reach, in an iterative fashion
+- identification of the initial test corpus
+- identification of the initial set of criteria for analyzing the test corpus
+- identification of best practice examples (perhaps with further improvements) with respect to these criteria
+- distillation of the analysis into best practice recommendations
+- distillation of the recommendations into validation tools
+- testing, documentation and training regarding the above
 
 ## What’s needed for success
 ### Additional technology development
 
-- Validation tools that check preprints (individually or in bulk) for compliance with the recommendations.
+- Development of validation tools that can check  &mdash; individually or in bulk &mdash; preprints or possibly also published articles for compliance with the recommendations.
+- Development of the technical components of a badge system that signals compliance with the recommendations at the level of individual preprints and perhaps platforms or other units of organization (e.g. journals).
+- Development of a dashboard to monitor adoption of the recommendations across the preprint landscape.
 
 ### Feedback, beta testing, collaboration, endorsement
 
 - Collaborative development of the best practice recommendations and suitable examples.
-- Training materials for authors and reviewers of preprints as well as operators of preprint platforms.
+- Development and testing of the validation and badge systems.
+- Documentation and training materials for authors and reviewers of preprints as well as operators of preprint platforms or other stakeholders.
 
 ### Funding
 
