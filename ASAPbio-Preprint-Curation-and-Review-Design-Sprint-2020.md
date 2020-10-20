@@ -29,12 +29,12 @@ Curation of preprints has to take into account the submitted files and any assoc
 Peer review of preprints typically has two main components: 
 - general comments on parameters like the quality, scope, topicality or structure of the manuscript
 - comments on details, e.g. inaccuracies, missing references, confusing plot parameters, unsubstantiated claims, typos
-The general part usually is a synthesis that is best expressed in a new piece of text. Claims in this text are frequently substantiated with examples from the details part.
+The general part is usually a synthesis that is best expressed in a new piece of text. Claims in this text are frequently substantiated with examples from the details part, though rarely in a click-through manner.
 
 ### Overview of the challenge to overcome
 
 Reviewing or curating the materials associated with preprints poses challenges that can and do vary as a function of parameters like their kind, format or location.
-For instance, if the preprint (i) is publicly available online in HTML format, (ii) is not versioned, (iii) does not contain non-textual elements like figures, tables, equations, code snippets or external identifiers and (iv) does not depend on things like software or data located elsewhere, then it can be reviewed by simply posting web annotations by means of a tool like Hypothesis ([example](https://via.hypothes.is/https://wellcomeopenresearch.org/articles/2-63/v1)). If any of these conditions are not met, then the review and/or curation workflows may require modification, particularly for the detailed comments. Some of these modifications can be simple (e.g. just mentioning the preprint's version ID in the review report can be enough to address the versioning problem), others may be more complex, e.g. reviewing software typically requires installing and running it, which may by complicated by dependencies or incompatibilities with respect to external software or data.
+For instance, if the preprint (i) is publicly available online in HTML format, (ii) is not versioned, (iii) does not contain non-textual elements like figures, tables, equations, code snippets or external identifiers and (iv) does not depend on things like software or data located elsewhere, then it can be reviewed by simply posting web annotations by means of a tool like Hypothesis ([example](https://via.hypothes.is/https://wellcomeopenresearch.org/articles/2-63/v1)). If any of these conditions are not met, then the review and/or curation workflows may require modification, particularly for the detailed comments. Some of these modifications can be simple (e.g. just mentioning the preprint's version ID in the review report can be enough to address the versioning problem), others may be more complex, e.g. reviewing software typically requires installing and running it, which may by complicated by dependencies or incompatibilities with respect to external software () or data.
 
 ### The ideal outcome or output of the project
 
@@ -53,7 +53,7 @@ There are several milestones for the project to reach, in an iterative fashion
 - identification of the initial set of criteria for analyzing the test corpus
 - identification of best practice examples (perhaps with further improvements) with respect to these criteria
 - distillation of the analysis into best practice recommendations
-- distillation of the recommendations into validation tools
+- distillation of the recommendations into validation tools, badge system and dashboard
 - testing, documentation and training regarding the above
 
 ## What’s needed for success
