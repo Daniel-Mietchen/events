@@ -26,9 +26,8 @@ ongoing
 
 Preprints may include - or be accompanied by - a variety of materials, possibly in various file formats and locations. 
 Curation of preprints has to take into account the submitted files and any associated materials, as well as appropriate metadata.
-Peer review of preprints typically has two main components (a) general comments on parameters like the quality, scope, topicality or structure of the manuscript and (b) comments on details, e.g. inaccuracies, missing references, confusing plot parameters, unsubstantiated claims, typos.
 
-The general part is usually a synthesis that is best expressed in a new piece of text. Claims in this text are frequently substantiated with examples from the details part, though rarely in a click-through manner.
+Peer review of preprints typically has two main components (a) general comments on parameters like the quality, scope, topicality or structure of the manuscript and (b) comments on details, e.g. inaccuracies, missing references, confusing plot parameters, unsubstantiated claims, typos. The general part is usually a synthesis that is best expressed in a new piece of text. Claims in this text are frequently substantiated with examples from the details part, though rarely in a click-through manner.
 
 ### Overview of the challenge to overcome
 
@@ -70,4 +69,4 @@ There are several milestones for the project to reach, in an iterative fashion
 
 ### Funding
 
-- To move any of the above forward
+- To move any of the above forward.
