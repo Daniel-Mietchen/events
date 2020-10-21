@@ -60,11 +60,13 @@ There are several milestones for the project to reach, in an iterative fashion
 - Development of validation tools that can check  &mdash; individually or in bulk &mdash; preprints or possibly also published articles for compliance with the recommendations.
 - Development of the technical components of a badge system that signals compliance with the recommendations at the level of individual preprints and perhaps platforms or other units of organization (e.g. journals).
 - Development of a dashboard to monitor adoption of the recommendations across the preprint landscape.
+- Tools assisting with the discovery, review and curation of specific content types.
 
 ### Feedback, beta testing, collaboration, endorsement
 
 - Collaborative development of the best practice recommendations and suitable examples.
 - Development and testing of the validation and badge systems.
+- Development and testing of mechanisms to discover, review and curate specific content types.
 - Documentation and training materials for authors and reviewers of preprints as well as operators of preprint platforms or other stakeholders.
 
 ### Funding
