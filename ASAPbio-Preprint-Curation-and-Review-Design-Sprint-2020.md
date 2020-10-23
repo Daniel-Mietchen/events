@@ -24,10 +24,13 @@ ongoing
 ## Project aims
 ### Background
 
+Peer review of preprints typically has two main components (a) general comments on parameters like the quality, scope, topicality or structure of the manuscript and (b) comments on details, e.g. inaccuracies, missing references, confusing plot parameters, unsubstantiated claims, typos. The general part is usually a synthesis that is best expressed in a new piece of text. Claims in this text are frequently substantiated with examples from the details part, though rarely in a click-through manner.
+
 Preprints may include - or be accompanied by - a variety of materials, possibly in various file formats and locations. 
 Curation of preprints has to take into account the submitted files and any associated materials, as well as appropriate metadata.
 
-Peer review of preprints typically has two main components (a) general comments on parameters like the quality, scope, topicality or structure of the manuscript and (b) comments on details, e.g. inaccuracies, missing references, confusing plot parameters, unsubstantiated claims, typos. The general part is usually a synthesis that is best expressed in a new piece of text. Claims in this text are frequently substantiated with examples from the details part, though rarely in a click-through manner.
+Feedback on preprints is more likely if (c) it is honoured in some way, (d) the preprint or its components appear in the workflows of potential reviewers, (e) it is clearer how to review certain kinds of materials, (f) tooling is available to support the review process, (g) a few other things. This proposal is mostly about e, partly about d and e, and it would perhaps add a nudge to c and g.
+
 
 ### Overview of the challenge to overcome
 
