@@ -2,7 +2,7 @@
 
 This file hosts a contribution to the [Beilstein Open Science Symposium 2020](https://web.archive.org/web/20201016172948/https://www.beilstein-institut.de/en/symposia/open-science/) taking place online on 27 & 28 October, 2020.
 
-Slots for talks have already been selected by the organizers, but they invite submissions for "poster demos", which is hence the intent here.
+Slots for talks had already been selected by the organizers, but they invited submissions for "poster demos", which is hence the intent here. My proposal was submitted on October 19, 2020, and approved the next day, for a 3-min lightning talk followed by the poster session, both on 27 October 2020.
 
 # Title
 
@@ -23,7 +23,7 @@ A range of open-source tools is available to interact with Wikidata — to enter
 
 * The [etherpad for the session](https://etherpad.wikimedia.org/p/zenodo.4095649)
 * Similar presentations:
-  - [Visualizing the research ecosystem of neuroscience research via Wikidata](https://github.com/Daniel-Mietchen/events/blob/master/neuromatch3.md) in October 2020
+  - [Visualizing the research ecosystem of neuroscience research via Wikidata](https://github.com/Daniel-Mietchen/events/blob/master/neuromatch3.md) on October 27, 2020
   - [Multilingual Structured Climate Research Data in Wikidata - The Data Perspective](data-science-in-climate-and-climate-impact-research.md) on 21 August 2020
   - [Visualizing the research ecosystem of ecosystem research via Wikidata](https://github.com/Daniel-Mietchen/events/blob/master/ICEI2018-research-ecosystem.md) on 27 September 2018
   
