@@ -21,9 +21,13 @@ In the following, I will provide the key questions from the [submission form](ht
 
 *(15 words)*
 
+* **The Wikimedia ecosystem as a key component of an open science landscape**
+
 ### What's your talk about?
 
 *(250 words)*
+
+As Wikipedia is approaching its 20th anniversary, this talk will provide a brief overview of the myriad of ways in which the ecosystem around it - including platforms like [Wikidata](https://wikidata.org/), initiatives like [WikiCite](https://meta.wikimedia.org/wiki/WikiCite) or tools like [Scholia](https://scholia.toolforge.org/) - is benefiting from open research, contributing to it, amplifying it or paving the way for it. On that basis, I will outline some opportunities to intensify these interactions to mutual benefit and to that of the research ecosystem and society at large, and I would like to encourage active contributors to the open research ecosystem to reflect on their interactions with the Wikimedia ecosystem and on how these could be improved.
 
 
 ## “Open in Practice” Breakout Discussions
@@ -88,15 +92,13 @@ I don't have this fully worked out but think that combining some people from the
   - proposed as a breakout session
 - Disaster risk reduction
   - proposed as a panel
+- The Wikimedia ecosystem as a key component of an open science landscape
+  - proposed as a lightning talk
 
 ## Topics I would also consider useful
 
 - Thank you button
-- The Wikimedia ecosystem as a key component of an open science landscape
-  - Wikidata
-    - WikiCite
-      - Scholia
-  - PAWS
+  - mentioned in breakout session proposal
 - RIO Journal: Publishing all along the research cycle
 - The importance of documentation
 - Open learning
