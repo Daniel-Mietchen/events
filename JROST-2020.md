@@ -11,7 +11,7 @@ The call is for three types of contributions:
 
 The relative time afforded to the different session types has already been sketched out in the [preliminary agenda](web.archive.org/web/20201103004337/https://investinopen.org/jrost2020-agenda/). 
 
-In the following, I will provide the key questions from the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSe7iKPRgNEKGogVd9xdKNL8JzzwkYw6MuENA-rYU8AmrK2mgw/viewform?usp=sf_link), as well as my responses
+In the following, I will provide the key questions from the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSe7iKPRgNEKGogVd9xdKNL8JzzwkYw6MuENA-rYU8AmrK2mgw/viewform?usp=sf_link), as well as my responses. The form is designed such that it allows a maximum of one per session type.
 
 ## Lightning talks
 
