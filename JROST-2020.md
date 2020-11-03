@@ -35,9 +35,13 @@ In the following, I will provide the key questions from the [submission form](ht
 
 *(15 words)*
 
+* **Calling home: hello open world!**
+
 ### What would you like to share? 
 
 *(250 words)*
+
+One way of building a strong community is by linking creators and maintainers of infrastructures, services and other resources with their users, and various mechanisms have evolved for that in a range of communities. What I want to explore in this session is standard mechanisms by which open tools, services and individual users could be encouraged (but not forced) to ping other members of the open research ecosystem, and potential recipients of such pings encouraged to listen in on at least a reasonable subset of those pings, provided that there is decent spam protection. For instance, many infrastructures or services are providing resources like tutorials that encourage users to familiarize themselves with the offerings. For new users, the first steps are often the most difficult, yet if the community around them were more aware of their efforts, help would be more readily available. Likewise, creators and maintainers as well as experienced users could perhaps learn from the use cases presented by new users, and consider adapting their offerings accordingly. So what I would like this session to explore is something like a mixture of a "Hello World" in programming with a log book as used on mountain summits and geocaches or indeed for version control in software repos or wiki pages, yet it should work across systems that meet some basic JROST standards. On that basis, further community-wide communication standards could be pondered, e.g. a button to thank someone for any of their contributions to the open ecosystem.
 
 
 ## Panel Discussions
@@ -49,7 +53,7 @@ In the following, I will provide the key questions from the [submission form](ht
 
 *(15 words)*
 
-* ["Open data matters most when the stakes are high"](https://web.archive.org/web/20150906201924/https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9)
+* **["Open data matters most when the stakes are high"](https://web.archive.org/web/20150906201924/https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9)**
 
 ### What's the panel about?
 
@@ -78,16 +82,26 @@ I don't have this fully worked out but think that combining some people from the
 
 # Candidate topics
 
-- Thank you button
+## Proposed 
+
 - Calling home
+  - proposed as a breakout session
+- Disaster risk reduction
+  - proposed as a panel
+
+## Topics I would also consider useful
+
+- Thank you button
 - The Wikimedia ecosystem as a key component of an open science landscape
   - Wikidata
     - WikiCite
       - Scholia
   - PAWS
-- RIO
-- Disaster risk reduction
+- RIO Journal: Publishing all along the research cycle
+- The importance of documentation
+- Open learning
 - Doathon
+
 
 # See also
 
