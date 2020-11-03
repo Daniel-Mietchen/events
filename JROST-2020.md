@@ -49,19 +49,31 @@ In the following, I will provide the key questions from the [submission form](ht
 
 *(15 words)*
 
+* ["Open data matters most when the stakes are high"](https://web.archive.org/web/20150906201924/https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9)
+
 ### What's the panel about?
 
 *(250 words)*
+
+In response to disasters, humanity often responds by sharing more than usual. This sharing takes place in a myriad of ways, some of which have not evolved much in millenia, while others evolve at every occasion or are unique to a particular event. The point of this panel would be to explore mechanisms by which open infrastructures could be leveraged more quickly, more routinely and more comprehensively to reduce disaster risk, to prepare for disasters, to respond to disasters and to share lessons learned from them. The main motivation behind that is that some of the key features of open research &mdash; e.g. speed, verifiability and scalability &mdash; are especially important in disaster contexts, yet the overlap between the open research and the disaster mitigation communities is currently rather limited, so that potential often cannot be fully leveraged.
+
 
 ### Panelist suggestions--please list
 
 *(50 words)*
 
+I don't have this fully worked out but think that combining some people from the JROST community with representatives from organizations like the following would be a promising recipe:
+
+- [Humanitarian Data Exchange](https://humdata.org/)
+- [Humanitarian OpenStreetMap](https://www.hotosm.org/)
+- [Global Indigenous Data Alliance](https://www.gida-global.org/)
+- [PreventionWeb](https://www.preventionweb.net)
+
 ### Do you want to moderate/lead this panel?
 
 * [ ] Yes (I or someone I identify will lead)
 * [ ] No (I'm hoping someone else might run with this!)
-* [ ] Maybe (I could be convinced with the right support)
+* [X] Maybe (I could be convinced with the right support)
 
 # Candidate topics
 
