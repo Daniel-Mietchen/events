@@ -68,6 +68,7 @@ I don't have this fully worked out but think that combining some people from the
 - [Humanitarian OpenStreetMap](https://www.hotosm.org/)
 - [Global Indigenous Data Alliance](https://www.gida-global.org/)
 - [PreventionWeb](https://www.preventionweb.net)
+- [Open Data for Resilience Initiative](https://opendri.org/)
 
 ### Do you want to moderate/lead this panel?
 
