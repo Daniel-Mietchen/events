@@ -65,7 +65,16 @@ In the following, I will provide the key questions from the [submission form](ht
 
 # Candidate topics
 
-
+- Thank you button
+- Calling home
+- The Wikimedia ecosystem as a key component of an open science landscape
+  - Wikidata
+    - WikiCite
+      - Scholia
+  - PAWS
+- RIO
+- Disaster risk reduction
+- Doathon
 
 # See also
 
