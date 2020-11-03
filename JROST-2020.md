@@ -61,3 +61,11 @@ In the following, I will provide the key questions from the [submission form](ht
 [ ] Yes (I or someone I identify will lead)
 [ ] No (I'm hopng someone else might run with this!)
 [ ] Maybe (I could be convinced with the right support)
+
+# Candidate topics
+
+
+
+# See also
+
+* My [posters for International Data Week 2018](https://www.wikidata.org/wiki/User:Daniel_Mietchen/International_Data_Week_2018)
