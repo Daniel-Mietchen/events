@@ -60,7 +60,7 @@ In the following, I will provide the key questions from the [submission form](ht
 ### Do you want to moderate/lead this panel?
 
 * [ ] Yes (I or someone I identify will lead)
-* [ ] No (I'm hopng someone else might run with this!)
+* [ ] No (I'm hoping someone else might run with this!)
 * [ ] Maybe (I could be convinced with the right support)
 
 # Candidate topics
