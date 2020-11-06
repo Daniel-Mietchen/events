@@ -28,7 +28,7 @@ Wikidata: Persistent identifiers as the basis for multilingual and human-machine
 
 Bring some words or phrases that you find interesting, in a language that you can type into an etherpad or speak into your computer's microphone. Feel free to [sing them](https://commons.wikimedia.org/wiki/File:Citation_sound_effect_-_the_English_word_citation_sung_by_a_soprano_singer.wav) too! Then let's explore them together and see how they are related to meanings or to words and phrases in other languages, and at what points in that network of interactions the introduction of persistent identifiers would be beneficial.
 
-Materials related to the session shall be available via https://10.5281/zenodo.4253308 when the session starts. 
+The session's etherpad sits at [https://etherpad.wikimedia.org/p/zenodo.4253308](https://etherpad.wikimedia.org/p/zenodo.4253308) . Further materials related to the session shall be available via https://10.5281/zenodo.4253308 when the session starts. 
 
 
 ## Which language(s) would your session be in? *
