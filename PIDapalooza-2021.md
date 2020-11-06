@@ -11,7 +11,7 @@ Daniel Mietchen
 
 ## How does your session tie in with the overall theme of PIDs and the open research infrastructure? *
 
-Words and phrases convey meaning and as such are key components of human communication or research about it. Wikidata is an open knowledge graph collaboratively curated by a global multilingual community as well as automated tools. It is organized around persistent and machine-actionable identifiers for millions of concepts that are organized in a nearly language-independent manner and linked to the words and phrases expressing the corresponding meanings in potentially any human language.
+Words and phrases convey meaning and as such are key components of human communication or research about it. Wikidata is an open knowledge graph built around persistent and machine-actionable identifiers for millions of concepts that are organized in a nearly language-independent manner and linked to the words and phrases expressing the corresponding meanings in potentially any human language. It is collaboratively curated by a global multilingual community of over 20 thousand monthly contributors as well as a range of automated tools.
 
 ## Which theme inspired your session? *
 
@@ -23,7 +23,7 @@ Wikidata: Persistent identifiers as the basis for multilingual and human-machine
 
 ## Session description (please note, this will be used in the program so make it good!) *
 
-Bring some words or phrases that you find interesting, in a language that you can type into an etherpad, speak or sing. Then let's explore them together and see how they are related to meanings or to words and phrases in other languages, and at what points in that network of interactions the introduction of persistent identifiers would be beneficial.
+Bring some words or phrases that you find interesting, in a language that you can type into an etherpad or speak into your computer's microphone. Feel free to [sing them](https://commons.wikimedia.org/wiki/File:Citation_sound_effect_-_the_English_word_citation_sung_by_a_soprano_singer.wav) too! Then let's explore them together and see how they are related to meanings or to words and phrases in other languages, and at what points in that network of interactions the introduction of persistent identifiers would be beneficial.
 
 ## Which language(s) would your session be in? *
 
@@ -32,11 +32,11 @@ The main part would be in English, with examples drawn from about a dozen other 
 ## How would you run the session to support the spirit of PIDapalooza as a laid-back, welcoming, energetic and exciting, sociable and serious gathering? *
 *We encourage audience participation. This can be done in many ways: Q&A, polling the audience, etc. Please describe which tactics you would use to engage the audience.*
 
-The session would be seeded with a demo by me of how words and phrases, word forms and meanings can be encoded in Wikidata and to what extent this has already been done. Session participants would be encouraged to contribute - via an etherpad - other words, phrases, concepts or identifiers, which would then form the basis of further explorations of the Wikidata knowledge graph, the interactions between nodes within the graph and with external resources like monolingual databases, as well as the role of identifiers in all of that. There will also be the possibility to record word and phrases and to add them into the knowledge graph.
+The session would be seeded with a demo by me of how words and phrases, word forms and meanings can be encoded in Wikidata and to what extent this has already been done. Session participants would be encouraged to contribute - via an etherpad - other words, phrases, concepts or identifiers, which would then form the basis of further explorations of the Wikidata knowledge graph, the interactions between nodes within the graph and with external resources like monolingual databases, as well as the role of identifiers in all of that. There will also be a demo of recording individual words and phrases and of attaching those recordings onto the knowledge graph.
 
 ## Speaker bio(s) (this will also appear in the program) *
 
-By the time I was about 9, the persistent identifiers I had seen on number plates of cars during the last few hours or sometimes days would often get stuck in my head and entertain my thoughts about where the vehicles or their passengers were from, where they were heading and whether there was an interesting pattern in or a meaning behind those character sequences. 
+By the time I was about 9, the persistent identifiers I had seen on cars, trams or trains during the last few hours or sometimes days would often get stuck in my head and entertain my thoughts about where the vehicles or their passengers were from, where they were heading and whether there was an interesting pattern in or a meaning behind those character sequences. 
 
 At about the same time, I began to learn my first foreign language at school. I did not know anyone who did not speak my mother tongue, so my motivation to learn that new one was limited. One day, the teacher gave me a book in that language and told me I should read it and give a talk about it the following week. I had never read a book in another language, and it took me about two hours to work my way through the wall of text on the first page, so I had no idea whether or how I would make it through that book in a week's time. 
 
