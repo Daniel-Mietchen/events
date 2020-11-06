@@ -23,7 +23,7 @@ Wikidata: Persistent identifiers as the basis for multilingual and human-machine
 
 ## Session description (please note, this will be used in the program so make it good!) *
 
-Bring some words or phrases that you find interesting, in a language that you can type into an etherpad or sing. Then let's explore them together and see how they are related to meanings or to words and phrases in other languages, and at what points in that network of interactions the introduction of persistent identifiers would be beneficial.
+Bring some words or phrases that you find interesting, in a language that you can type into an etherpad, speak or sing. Then let's explore them together and see how they are related to meanings or to words and phrases in other languages, and at what points in that network of interactions the introduction of persistent identifiers would be beneficial.
 
 ## Which language(s) would your session be in? *
 
