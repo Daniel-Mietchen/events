@@ -48,7 +48,7 @@ Session participants would be encouraged to contribute - via the [etherpad](http
 
 ## Speaker bio(s) (this will also appear in the program) *
 
-By the time I was about 9, the persistent identifiers I had seen on cars, trams or trains during the last few hours or sometimes days would often get stuck in my head and entertain my thoughts about where the vehicles or their passengers were from, where they were heading and whether there was an interesting pattern in or a meaning behind those character sequences. 
+By the time I was about 9, the persistent identifiers I had seen on buses, cars, trams or trains during the last few hours or sometimes days would often get stuck in my head and entertain my thoughts about where the vehicles or their passengers were from, where they were heading and whether there was an interesting pattern in or a meaning behind those character sequences. 
 
 At about the same time, I began to learn my first foreign language at school. I did not know anyone who did not speak my mother tongue, so my motivation to learn that new one was limited. One day, the teacher gave me a book in that language and told me I should read it and give a talk about it the following week. I had never read a book in another language, and it took me about two hours to work my way through the wall of text on the first page, so I had no idea whether or how I would make it through that book in a week's time. 
 
