@@ -52,7 +52,8 @@ At about the same time, I began to learn my first foreign language at school. I 
 * dm7gn /at/ virginia.edu
 
 ## Your Twitter handle
-https://twitter.com/EvoMRI
+
+* https://twitter.com/EvoMRI
 
 ## Please sum up your session in a tweet (280 characters or less)
 
