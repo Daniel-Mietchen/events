@@ -3,7 +3,7 @@
 This file hosts materials related to my contribution to [PIDapalooza 2021](http://web.archive.org/web/20201106021021/https://www.pidapalooza.org/upcoming-festival), taking place online for 24h starting at 2.30pm UTC on January 27, 2021.
 
 # Questions from the PIDapalooza 2021 Proposal Form
-* Required
+* ```*``` Required
 
 ## Your name(s) *
 
