@@ -57,7 +57,7 @@ At about the same time, I began to learn my first foreign language at school. I 
 
 ## Please sum up your session in a tweet (280 characters or less)
 
-* draft: https://twitter.com/EvoMRI/status/1324575017896693760
+* https://twitter.com/EvoMRI/status/1324820104060805128
 
 ## Would you like to suggest a song for the PIDapalooza 2021 playlist?
 * https://soundcloud.com/geraldo-moratta/altai-kai-turkic-throat-singing
