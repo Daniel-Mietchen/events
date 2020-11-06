@@ -43,7 +43,7 @@ The session would be seeded with a demo by me of how words and phrases, word for
 
 ## We encourage audience participation. This can be done in many ways: Q&A, polling the audience, etc. Please describe which tactics you would use to engage the audience.*
 
-Session participants would be encouraged to contribute - via an [etherpad](https://etherpad.wikimedia.org/p/zenodo.4253308) - words or phrases in any language they master, or concepts or identifiers for any of these.
+Session participants would be encouraged to contribute - via the [etherpad](https://etherpad.wikimedia.org/p/zenodo.4253308) - words or phrases in any language they master, or concepts or identifiers for any of these.
 
 
 ## Speaker bio(s) (this will also appear in the program) *
