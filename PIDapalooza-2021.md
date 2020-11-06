@@ -32,7 +32,7 @@ The main part would be in English, with examples drawn from about a dozen other 
 ## How would you run the session to support the spirit of PIDapalooza as a laid-back, welcoming, energetic and exciting, sociable and serious gathering? *
 *We encourage audience participation. This can be done in many ways: Q&A, polling the audience, etc. Please describe which tactics you would use to engage the audience.*
 
-The session would be seeded with a demo by me of how words and phrases, word forms and meanings can be encoded in Wikidata and to what extent this has already been done. Session participants would be encouraged to contribute - via an etherpad - other words, phrases, concepts or identifiers, which would then form the basis of further explorations of the Wikidata knowledge graph, the interactions between nodes within the graph and with external resources like monolingual databases, as well as the role of identifiers in all of that.
+The session would be seeded with a demo by me of how words and phrases, word forms and meanings can be encoded in Wikidata and to what extent this has already been done. Session participants would be encouraged to contribute - via an etherpad - other words, phrases, concepts or identifiers, which would then form the basis of further explorations of the Wikidata knowledge graph, the interactions between nodes within the graph and with external resources like monolingual databases, as well as the role of identifiers in all of that. There will also be the possibility to record word and phrases and to add them into the knowledge graph.
 
 ## Speaker bio(s) (this will also appear in the program) *
 
@@ -62,3 +62,13 @@ At about the same time, I began to learn my first foreign language at school. I 
 ## Would you like to suggest a song for the PIDapalooza 2021 playlist?
 * https://soundcloud.com/geraldo-moratta/altai-kai-turkic-throat-singing
 * https://soundcloud.com/cyrille-totozafy/08-uutai-passing
+
+# See also
+* [PIDapalooza-2019.md](https://github.com/Daniel-Mietchen/events/edit/master/PIDapalooza-2019.md)
+* [PIDapalooza-2018.md](https://github.com/Daniel-Mietchen/events/edit/master/PIDapalooza-2018.md)
+* [PIDapalooza-2016.md](https://github.com/Daniel-Mietchen/events/edit/master/PIDapalooza-2016.md)
+* [Wikidata:Lexicographical_data](https://www.wikidata.org/wiki/Wikidata:Lexicographical_data)
+* [Ordia](https://ordia.toolforge.org/)
+* [Lexeme forms](https://tools.wmflabs.org/lexeme-forms/)
+* [MakesSense](https://machtsinn.toolforge.org/)
+* [LinguaLibre](https://lingualibre.org/)
