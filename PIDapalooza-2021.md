@@ -5,7 +5,8 @@ This file hosts materials related to my contribution to [PIDapalooza 2021](http:
 # Questions from the PIDapalooza 2021 Proposal Form
 * Required
 
-Your name(s) *
+## Your name(s) *
+
 Daniel Mietchen
 
 ## How does your session tie in with the overall theme of PIDs and the open research infrastructure? *
@@ -22,7 +23,7 @@ Wikidata: Persistent identifiers as the basis for multilingual and human-machine
 
 ## Session description (please note, this will be used in the program so make it good!) *
 
-Bring some words or phrases that you find interesting, in a language that you can type into an etherpad. Then let's explore them together and see how they are related to meanings or to words and phrases in other languages, and at what points in that network of interactions the introduction of persistent identifiers would be beneficial.
+Bring some words or phrases that you find interesting, in a language that you can type into an etherpad or sing. Then let's explore them together and see how they are related to meanings or to words and phrases in other languages, and at what points in that network of interactions the introduction of persistent identifiers would be beneficial.
 
 ## Which language(s) would your session be in? *
 
@@ -55,6 +56,7 @@ https://twitter.com/EvoMRI
 
 ## Please sum up your session in a tweet (280 characters or less)
 
+* draft: https://twitter.com/EvoMRI/status/1324575017896693760
 
 ## Would you like to suggest a song for the PIDapalooza 2021 playlist?
 * https://soundcloud.com/geraldo-moratta/altai-kai-turkic-throat-singing
