@@ -37,9 +37,13 @@ The main part would be in English, with examples drawn from about a dozen other 
 
 
 ## How would you run the session to support the spirit of PIDapalooza as a laid-back, welcoming, energetic and exciting, sociable and serious gathering? *
-*We encourage audience participation. This can be done in many ways: Q&A, polling the audience, etc. Please describe which tactics you would use to engage the audience.*
 
-The session would be seeded with a demo by me of how words and phrases, word forms and meanings can be encoded in Wikidata and to what extent this has already been done. Session participants would be encouraged to contribute - via an [etherpad](https://etherpad.wikimedia.org/p/zenodo.4253308) - other words, phrases, concepts or identifiers, which would then form the basis of further explorations of the Wikidata knowledge graph, the interactions between nodes within the graph and with external resources like monolingual databases, as well as the role of identifiers in all of that. There will also be a demo of recording individual words and phrases and of integrating such recordings into the knowledge graph.
+The session would be seeded with a demo by me of how words and phrases, word forms and meanings can be encoded in Wikidata and to what extent this has already been done. We will then use some audience-suggested examples to explore the Wikidata knowledge graph, the interactions between nodes within the graph and with external resources like monolingual databases, as well as the role of identifiers in all of that. Towards the end, there will also be a demo of recording individual words and phrases and of integrating such recordings into the knowledge graph.
+
+
+## We encourage audience participation. This can be done in many ways: Q&A, polling the audience, etc. Please describe which tactics you would use to engage the audience.*
+
+Session participants would be encouraged to contribute - via an [etherpad](https://etherpad.wikimedia.org/p/zenodo.4253308) - words or phrases in any language they master, or concepts or identifiers for any of these.
 
 
 ## Speaker bio(s) (this will also appear in the program) *
