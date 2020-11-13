@@ -29,7 +29,7 @@ Peer review of preprints typically has two main components (a) general comments 
 Preprints may include - or be accompanied by - a variety of materials, possibly in various file formats and locations. 
 Curation of preprints has to take into account the submitted files and any associated materials, as well as appropriate metadata.
 
-Feedback on preprints is more likely if (c) it is honoured in some way, (d) the preprint or its components appear in the workflows of potential reviewers, (e) it is clearer how to review certain kinds of materials, (f) tooling is available to support the review process, (g) a few other things. This proposal is mostly about e, partly about d and e, and it would perhaps add a nudge to c and g.
+Feedback on preprints is more likely if (c) it is honoured in some way, (d) the preprint or its components appear in the workflows of potential reviewers, (e) it is clearer how to review certain kinds of materials, (f) tooling is available to support the review process, (g) a few other things. This proposal is mostly about e, partly about d and f, and it would perhaps add a nudge to c and g.
 
 
 ### Overview of the challenge to overcome
