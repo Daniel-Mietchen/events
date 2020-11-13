@@ -1,9 +1,9 @@
 # About
 
-This file hosts materials related to my participation in the ASAPbio Design Sprint [Encouraging Preprint Curation and Review](http://web.archive.org/web/20201023035646/https://asapbio.org/sprint) in November-December 2020.
+This file hosts materials related to my participation in the ASAPbio Design Sprint [Encouraging Preprint Curation and Review](http://web.archive.org/web/20201023035646/https://asapbio.org/sprint) from 13 November till 3 December 2020.
 
 # Project proposal template
-*Based on the [ASAPbio Preprint Sprint Proposal Template](http://web.archive.org/web/20201020184303/https://docs.google.com/document/d/1JzMXnSk9W7W0k02MdTV2BqYhja1v6VVQ1kSk63hECpM/edit)*, which is to be submitted by 3 November 2020.
+*Based on the [ASAPbio Preprint Sprint Proposal Template](http://web.archive.org/web/20201020184303/https://docs.google.com/document/d/1JzMXnSk9W7W0k02MdTV2BqYhja1v6VVQ1kSk63hECpM/edit)*, which was to be submitted by 3 November 2020. The accepted proposals are listed [here](https://asapbio.org/category/preprint-sprint-proposals), including [the one that was drafted here](https://asapbio.org/preprint-review-and-curation-by-content-type)
 
 ## Title
 
