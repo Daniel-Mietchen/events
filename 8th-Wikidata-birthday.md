@@ -12,7 +12,7 @@ As originally outliined [here](https://github.com/Daniel-Mietchen/ideas/issues/1
     - video recording available [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WikiCite_2020_Research_output_items.webm) (my part starts at about 1:10 min in) as well as [on YouTube](https://www.youtube.com/watch?v=us_yYR6tAUY) (at about 1:30 min)
 
 - Tuesday, October 27, 2020
-  -  **8:30 AM EST = 12:30 AM UTC** [Visualizing the research ecosystem of neuroscience research via Wikidata](https://github.com/Daniel-Mietchen/events/blob/master/neuromatch3.md) at [neuromatch](https://neuromatch.io/agenda) (10 min talk + 5 min Q&A)
+  - **8:30 AM EST = 12:30 AM UTC** [Visualizing the research ecosystem of neuroscience research via Wikidata](https://github.com/Daniel-Mietchen/events/blob/master/neuromatch3.md) at [neuromatch](https://neuromatch.io/agenda) (10 min talk + 5 min Q&A)
     - slides and pre-recorded video up at [http://doi.org/10.5281/zenodo.4064274](http://doi.org/10.5281/zenodo.4064274)
     - the video is also available [on YouTube](https://www.youtube.com/watch?v=OPMoj7uMXRU)
     - actual recording up at [https://www.youtube.com/watch?v=_bSZq22yiGU](https://www.youtube.com/watch?v=_bSZq22yiGU)
