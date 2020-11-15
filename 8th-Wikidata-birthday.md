@@ -15,13 +15,13 @@ As originally outliined [here](https://github.com/Daniel-Mietchen/ideas/issues/1
   - **8:30 AM EST = 12:30 AM UTC** [Visualizing the research ecosystem of neuroscience research via Wikidata](https://github.com/Daniel-Mietchen/events/blob/master/neuromatch3.md) at [neuromatch](https://neuromatch.io/agenda) (10 min talk + 5 min Q&A)
     - slides and pre-recorded video up at [http://doi.org/10.5281/zenodo.4064274](http://doi.org/10.5281/zenodo.4064274)
     - the video is also available [on YouTube](https://www.youtube.com/watch?v=OPMoj7uMXRU)
-    - actual recording up at [https://www.youtube.com/watch?v=_bSZq22yiGU](https://www.youtube.com/watch?v=_bSZq22yiGU)
+    - actual recording is also up [on YouTube](https://www.youtube.com/watch?v=_bSZq22yiGU)
   - **ca. 16:15 CET = 15:15 UTC** - [Open Profiling of Chemical Knowledge](https://github.com/Daniel-Mietchen/events/blob/master/Beilstein-Open-Science-Symposium-2020.md) at [Beilstein Open Science Symposium 2020](http://web.archive.org/web/20201020231727/https://www.beilstein-institut.de/en/symposia/open-science/program/) (3 min lightning talk)
     - slides and pre-recorded video up at [http://doi.org/10.5281/zenodo.4095649](http://doi.org/10.5281/zenodo.4095649)
     - the video is also available [via YouTube](https://www.youtube.com/watch?v=aM2pUMvg81o)
     - **This is followed by a poster session from 4.45 pm until 5.15 pm CET, i.e. 15:45 UTC - 15:15 UTC &mdash; in other words, in parallel to my next session**
   - **15:45 UTC** [Présentation du projet WikiCite et démonstration de Scholia comme un outil ouvert d’analyse scientométrique](https://meta.wikimedia.org/wiki/WikiCite/2020_Virtual_conference/Pr%C3%A9sentation_du_projet_WikiCite_et_d%C3%A9monstration_de_Scholia_comme_un_outil_ouvert_d%E2%80%99analyse_scientom%C3%A9trique) (45 min talk + 15 min Q&A) as part of the [WikiCite et scientométrie ouverte](https://meta.wikimedia.org/wiki/WikiCite/2020_Virtual_conference#WikiCite_et_scientom%C3%A9trie_ouverte) session of the [2020 Virtual WikiCite conference](https://meta.wikimedia.org/wiki/WikiCite/2020_Virtual_conference) in honour of [Wikidata's 8th birthday](https://www.wikidata.org/wiki/Wikidata:Eighth_Birthday)
-    - pre-recorded video up at [http://doi.org/10.5281/zenodo.4139288](http://doi.org/10.5281/zenodo.4139288)
+    - pre-recorded video up at [http://doi.org/10.5281/zenodo.4139288](http://doi.org/10.5281/zenodo.4139288) and [on YouTube](https://www.youtube.com/watch?v=GtagO0XOR-A)
     - a video of the actual talk is also available [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WikiCite_2020_Scientom%C3%A9trie_ouverte.webm) (my part starts at about 2h 21min) and [on YouTube](https://www.youtube.com/watch?v=PoY0cWhLOWQ#t=2h22m) (at ca. 2h 22 min)
 
 - Wednesday, October 28, 2020
