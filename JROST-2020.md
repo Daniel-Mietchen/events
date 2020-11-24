@@ -1,6 +1,6 @@
 # About
 
-This file hosts information related to my participation in the [JROST 2020](https://web.archive.org/web/20201103004144/https://investinopen.org/community/jrost-2020-conference/) conference taking place online on 14-16 December 2020.
+This file hosts information related to my participation in the [JROST 2020](https://web.archive.org/web/20201103004144/https://investinopen.org/community/jrost-2020-conference/) conference taking place online on 14-16 December 2020. My proposal below for a lightning talk was submitted on November 2 and accepted on November 20. It is now scheduled for Tuesday, December 15th at 12:00pm EST (17:00 UTC).
 
 # Call for session proposals
 
