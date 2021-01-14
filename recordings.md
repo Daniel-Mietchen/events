@@ -8,6 +8,8 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 ## In English
 
+* 2020-12-15, online: Talk "The Wikimedia ecosystem as a key component of an open science landscape" at the [JROST 2020](https://web.archive.org/web/20201103004144/https://investinopen.org/community/jrost-2020-conference/) conference
+  - [slides and a pre-recorded video](http://doi.org/10.5281/zenodo.4321982) (the video is also [on YouTube](https://youtu.be/SZH7JGawsrY))
 * 2020-10-27, online: Talk "Visualizing the research ecosystem of neuroscience research via Wikidata" at the [Neuromatch 3](https://neuromatch.io/) conference
   - [slides/ poster (along with a pre-recorded video)](http://doi.org/10.5281/zenodo.4064274) (that video is also [on YouTube](https://youtu.be/OPMoj7uMXRU)), [actual recording (with Q&A) on YouTube](https://www.youtube.com/watch?v=_bSZq22yiGU)
 * 2020-10-19, online: Workshop [Wikimedia and Disaster Response](https://github.com/Daniel-Mietchen/events/blob/master/Fachtagung-Katastrophenvorsorge-2020.md) ([slides](https://meta.wikimedia.org/wiki/Wikimedians_for_Disaster_Response/Talks/Fachtagung_Katastrophenvorsorge_2020)) at the [Fachtagung Katastrophenvorsorge (Conference on Disaster Risk Reduction)](http://web.archive.org/web/20201019121952/https://www.fachtagung-katastrophenvorsorge.de/2020)
