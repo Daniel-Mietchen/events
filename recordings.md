@@ -76,6 +76,11 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2013-09-14, Berlin: [8x8 questions on Open Educational Resources](http://pb21.de/2013/10/8x8-fragen-zu-oer-daniel-mietchen/) (interview) &mdash; see [here](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/World_Open_Educational_Resources_Congress_2012/How_Open_Access_and_Open_Science_can_mutually_fertilize_with_Open_Educational_Resources) for English slides from an OER-focused talk
   - [another interview](https://vimeo.com/74846650) on open educational resources, from the same event
 
+## In Russian
+
+* 2021-01-25, Jena: [Happy 20th birthday, Wikipedia - С днём рождения, Википедия!](http://doi.org/10.5281/zenodo.4462221) (radio interview + video)
+
+
 # Recordings with remarks about me
 
 * 2017-20-03, Berlin: [Open Science Radio issue OSR068: Documenting Open Science Knowledge #oscibar](http://www.openscienceradio.de/2017/03/20/osr068-documenting-open-science-knowledge-oscibar-en/#t=11:00.000)
