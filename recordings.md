@@ -69,6 +69,10 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2010-08-23, Prague: [Wikis as platforms for scholarly publishing](http://zeeba.tv/wikis-as-platforms-for-scholoarly-publishing/) ([slides](http://en.citizendium.org/wiki/User:Daniel_Mietchen/Talks/COASP_2010))
 * 2007-11-09, Budapest: [The scientist's perspective on evidence based policy making](http://mta.videotorium.hu/hu/recordings/1339/the-scientist-s-perspective-on-evidence-based-policy-making) ([discussion](http://mta.videotorium.hu/hu/recordings/1342/discussion))
 
+## In French
+
+* 2020-10-27: [WikiCite et Scholia](https://www.youtube.com/watch?v=GtagO0XOR-A)
+
 ## In German
 
 * 2017-09-12, Brussels: [WikiStammtisch Episode 0070 Wikimania 2017 Review](http://wikistammtisch.org/wikistammtisch-episode-0070-wikimania-2017-review/) (group interview as part of a podcast series; more details [here](https://wikimania2017.wikimedia.org/wiki/User:Daniel_Mietchen))
