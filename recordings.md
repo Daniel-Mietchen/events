@@ -35,6 +35,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 * 2018-09-04, Bologna, Workshop on Open Citations: [A guided tour through citation networks around public health emergencies](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/Talks/Workshop_on_Open_Citations_2018)
 * 2018-07-29, Milano, State of the Map: [Maps based on Wikidata queries](https://m.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/State_of_the_Map_2018)
 * 2018-06-27, Washington DC, Advancing Open Science in the EU and the US: [Towards a FAIR Data ecosystem](https://youtu.be/L2tTHaH0ZsQ) (pre-recorded version; life version was [recorded as well](https://www.youtube.com/watch?v=-9lVolRMhGY#t=8m), albeit with some technical difficulties) &mdash; [slides](https://doi.org/10.5281/zenodo.1299251)
+* 2018-06-13, Paris: [Disruptive technologies](https://www.youtube.com/watch?v=4x0SOATck08) (interview)
 * 2018-03-12, Berlin, Open Science Barcamp: 
   - [Scholia - scholarly profiles based on Wikidata](http://www.openscienceradio.org/2018/03/12/osr103-scholia-profiles-based-on-wikidata-oscibar-en/)
   - [Valid reasons for opting out of sharing openly](http://www.openscienceradio.org/2018/03/13/osr110-opting-out-oscibar-en/)
