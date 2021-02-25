@@ -85,9 +85,9 @@ At about the same time, I began to learn my first foreign language at school. I 
 
 # See also
 
-* [PIDapalooza-2019.md](https://github.com/Daniel-Mietchen/events/edit/master/PIDapalooza-2019.md)
-* [PIDapalooza-2018.md](https://github.com/Daniel-Mietchen/events/edit/master/PIDapalooza-2018.md)
-* [PIDapalooza-2016.md](https://github.com/Daniel-Mietchen/events/edit/master/PIDapalooza-2016.md)
+* [PIDapalooza-2019.md](https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza-2019.md)
+* [PIDapalooza-2018.md](https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza-2018.md)
+* [PIDapalooza-2016.md](https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza-2016.md)
 * [Wikidata:Lexicographical_data](https://www.wikidata.org/wiki/Wikidata:Lexicographical_data)
 * [Ordia](https://ordia.toolforge.org/)
 * [Lexeme forms](https://tools.wmflabs.org/lexeme-forms/)
