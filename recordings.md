@@ -2,7 +2,7 @@
 
 This page helps me keep an overview of links to recordings of talks or interviews that I have given. It is likely incomplete &mdash; additions and corrections are welcome.
 
-Most of my talks are [in English](recordings.md#in-english), and for those that are not (which are usually in [[French](recordings.md#in-french), German](recordings.md#in-german) or [Russian](](recordings.md#in-russian))), the slides (if there are any) are usually in English. Slides for most of my talks are available in public &mdash; see the overview [here](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks). Only very few of them have been recorded. In the list below, I am usually just pointing to the URL of the slides, which should have a prominent mention of words like "listen" or "watch", "recording", "audio" or "video". If items on this list are not talks (e.g. an interview), this is indicated.
+Most of my talks are [in English](recordings.md#in-english), and for those that are not (which are usually in [French](recordings.md#in-french), [German](recordings.md#in-german) or [Russian](](recordings.md#in-russian))), the slides (if there are any) are usually in English. Slides for most of my talks are available in public &mdash; see the overview [here](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks). Only very few of them have been recorded. In the list below, I am usually just pointing to the URL of the slides, which should have a prominent mention of words like "listen" or "watch", "recording", "audio" or "video". If items on this list are not talks (e.g. an interview), this is indicated.
 
 # List
 
