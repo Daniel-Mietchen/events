@@ -146,6 +146,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 # See also
 
 - Wikipedia: [Comparative law](https://en.wikipedia.org/wiki/Comparative_law)
+- [Law as Data](http://web.archive.org/web/20201103185631if_/https://www.sfipress.org/books/law-as-data)
 - [A Pattern-Based Method for Identifying and Analyzing Laws](https://doi.org/10.1007/978-3-642-28714-5_23)
 - [Scalable Preservation Environments (SCAPE)](http://scape-project.eu/)
   - [Data policy as activity network](https://epubs.stfc.ac.uk/work/35227831)
