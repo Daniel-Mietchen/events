@@ -114,5 +114,5 @@ Most of my talks are [in English](recordings.md#in-english), and for those that 
   * 2013-02: [Open Science Interview mit Daniel Mietchen](http://doi.org/10.5281/zenodo.12337)
   * 2012-11-06: [Ever Wonder What Elephants Would Have to Say?](https://www.nytimes.com/2012/11/06/science/surrounded-by-humans-korean-elephant-learns-to-speak.html)
   * 2012-05-12: [Turkic Wikimedia Conference 2012, Almaty: Other Highlights and Summing Up](https://aharoni.wordpress.com/2012/05/12/almaty-2012-other-highlights-and-summing-up/)
-  * 2012: [웅진 어린이 과학공작소 - 4권 좋아 좋아 말하는 코끼리 (생명)](https://cafe.naver.com/bookmothersclub/121786) (a Korean children's book about my research into vocal learning in an Asian elephant)
+  * 2012-04-06: [웅진 어린이 과학공작소 - 4권 좋아 좋아 말하는 코끼리 (생명)](https://cafe.naver.com/bookmothersclub/121786) (a Korean children's book about my research into vocal learning in an Asian elephant)
 * Some [tweets about me that do not mention my Twitter handle](https://twitter.com/search?q=(daniel%20AND%20mietchen)%20-evomri&f=live)
