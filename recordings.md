@@ -8,10 +8,20 @@ Most of my talks are [in English](recordings.md#in-english), and for those that 
 
 ## In English
 
-* 2020-12-15, online: Talk "The Wikimedia ecosystem as a key component of an open science landscape" at the [JROST 2020](https://web.archive.org/web/20201103004144/https://investinopen.org/community/jrost-2020-conference/) conference
+* 2021-02-26, online: Talk "[COVID-19 coverage on Wikidata](https://www.youtube.com/watch?v=eYJvBgVWTqM)" at [Flash Forward Fest](https://ffwd.flashgrants.org/)
+* 2021-02-26, online: Talk "[Platforms facilitating open science](https://www.youtube.com/watch?v=lzjzonr1FoI)" at [Flash Forward Fest](https://ffwd.flashgrants.org/)
+* 2021-02-24, online: Talk "[Visualizing the research ecosystem via Wikidata and Scholia](http://doi.org/10.5281/zenodo.4552926)" at [Flash Forward Fest](https://ffwd.flashgrants.org/)
+* 2021-02-23, online: Talk "[Bring your own thoughts: The Wikimedia ecosystem and the open research landscape](https://www.youtube.com/watch?v=45DAiRle8yg)" at [Flash Forward Fest](https://ffwd.flashgrants.org/)
+* 2021-01-28, online: Talk "[Wikidata: Persistent identifiers as the basis for multilingual and human-machine collaboration](https://www.youtube.com/watch?v=g5VCr--Q1Ig)" at [PIDapalooza 2021](http://web.archive.org/web/20210318154848/https://www.pidapalooza.org/schedule)
+* 2020-12-15, online: Talk "[The Wikimedia ecosystem as a key component of an open science landscape](http://doi.org/10.5281/zenodo.4321982)" at the [JROST 2020](https://web.archive.org/web/20201103004144/https://investinopen.org/community/jrost-2020-conference/) conference
   - [slides and a pre-recorded video](http://doi.org/10.5281/zenodo.4321982) (the video is also [on YouTube](https://youtu.be/SZH7JGawsrY))
+* 2020-10-28, online: Lightning talk "[Scholia and other Wikimedia resources/tools](https://www.youtube.com/watch?v=4kQnT5Yra1U#t=1h20m)" at the [2020 Virtual WikiCite conference](https://meta.wikimedia.org/wiki/WikiCite/2020_Virtual_conference)
+* 2020-10-27, online: Talk "[Open profiling of chemical knowledge](http://doi.org/10.5281/zenodo.4095649)" at the [Beilstein Open Science Symposium 2020](https://www.beilstein-institut.de/en/symposia/open-science/)
 * 2020-10-27, online: Talk "Visualizing the research ecosystem of neuroscience research via Wikidata" at the [Neuromatch 3](https://neuromatch.io/) conference
   - [slides/ poster (along with a pre-recorded video)](http://doi.org/10.5281/zenodo.4064274) (that video is also [on YouTube](https://youtu.be/OPMoj7uMXRU)), [actual recording (with Q&A) on YouTube](https://www.youtube.com/watch?v=_bSZq22yiGU)
+* 2020-10-27, online: Talk "[Collaborative curation via Wikidata: the case of citations and source metadata](https://meta.wikimedia.org/wiki/WikiCite/2020_Virtual_conference/Collaborative_curation_via_Wikidata:_the_case_of_citations_and_source_metadata)" at the [2020 Virtual WikiCite conference](https://meta.wikimedia.org/wiki/WikiCite/2020_Virtual_conference)
+* 2020-10-26, online: Workshop "[Politicians and Politics in Scholia](https://commons.wikimedia.org/wiki/File:WikiCite_2020_Citations_in_Swedish_Parliamentary_documents.webm)" at the [2020 Virtual WikiCite conference](https://meta.wikimedia.org/wiki/WikiCite/2020_Virtual_conference)
+* 2020-10-26, online: Talk "[The State of WikiCite in 2020](https://meta.wikimedia.org/wiki/WikiCite/2020_Virtual_conference/The_State_of_WikiCite_in_2020)" at the [2020 Virtual WikiCite conference](https://meta.wikimedia.org/wiki/WikiCite/2020_Virtual_conference)
 * 2020-10-19, online: Workshop [Wikimedia and Disaster Response](https://github.com/Daniel-Mietchen/events/blob/master/Fachtagung-Katastrophenvorsorge-2020.md) ([slides](https://meta.wikimedia.org/wiki/Wikimedians_for_Disaster_Response/Talks/Fachtagung_Katastrophenvorsorge_2020)) at the [Fachtagung Katastrophenvorsorge (Conference on Disaster Risk Reduction)](http://web.archive.org/web/20201019121952/https://www.fachtagung-katastrophenvorsorge.de/2020)
 * 2020-09-21, online, pre-recording for JupyterCon 2020 talk [Jupyter in the Wikimedia ecosystem](http://doi.org/10.5281/zenodo.4031806), in the education track
 * 2020-09-09, online: [State of WikiCite in 2020](http://doi.org/10.5281/zenodo.4019954) &mdash; a contribution to the [Workshop On Open Citations And Open Scholarly Metadata 2020](https://web.archive.org/web/20200918204644/https://workshop-oc.github.io/)
@@ -73,7 +83,7 @@ Most of my talks are [in English](recordings.md#in-english), and for those that 
 
 ## In French
 
-* 2020-10-27: [WikiCite et Scholia](https://www.youtube.com/watch?v=GtagO0XOR-A)
+* 2020-10-27: [WikiCite et Scholia](https://www.youtube.com/watch?v=GtagO0XOR-A) at the [2020 Virtual WikiCite conference](https://meta.wikimedia.org/wiki/WikiCite/2020_Virtual_conference)
 
 ## In German
 
@@ -104,4 +114,5 @@ Most of my talks are [in English](recordings.md#in-english), and for those that 
   * 2013-02: [Open Science Interview mit Daniel Mietchen](http://doi.org/10.5281/zenodo.12337)
   * 2012-11-06: [Ever Wonder What Elephants Would Have to Say?](https://www.nytimes.com/2012/11/06/science/surrounded-by-humans-korean-elephant-learns-to-speak.html)
   * 2012-05-12: [Turkic Wikimedia Conference 2012, Almaty: Other Highlights and Summing Up](https://aharoni.wordpress.com/2012/05/12/almaty-2012-other-highlights-and-summing-up/)
+  * 2012: [웅진 어린이 과학공작소 - 4권 좋아 좋아 말하는 코끼리 (생명)](https://cafe.naver.com/bookmothersclub/121786) (a Korean children's book about my research into vocal learning in an Asian elephant)
 * Some [tweets about me that do not mention my Twitter handle](https://twitter.com/search?q=(daniel%20AND%20mietchen)%20-evomri&f=live)
