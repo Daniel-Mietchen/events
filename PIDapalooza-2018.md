@@ -182,6 +182,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
   - Intellectual Property Challenges
   - The Ethical Use of iPS Cells
   - Clinical Translation
+* [Coding of COVID-related policies](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 
 # About
 
