@@ -184,6 +184,8 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
   - Clinical Translation
 * [Coding of COVID-related policies](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 * [Climate Policy Database](https://climatepolicydatabase.org/policies?policy_type[906]=906)
+* [International Energy Agency (IEA): Policy database](https://www.iea.org/policies/)
+*   - [sample policy](https://www.iea.org/policies/8506-gas-boilers-replacement-by-low-carbon-heating-systems)
 
 # About
 
