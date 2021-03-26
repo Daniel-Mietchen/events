@@ -182,10 +182,18 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
   - Intellectual Property Challenges
   - The Ethical Use of iPS Cells
   - Clinical Translation
-* [Coding of COVID-related policies](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
+* COVID-related policies
+  - [OxCGRT](https://github.com/OxCGRT/covid-policy-tracker/)
+    - [Code book](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
+  - [CoronaNet](https://www.coronanet-project.org/)
+    - [Code book](https://www.coronanet-project.org/assets/CoronaNet_Codebook.pdf)
+  - [COVID-19 EU PolicyWatch](https://www.eurofound.europa.eu/data/covid-19-eu-policywatch)
+  - [Asian Development Bank: COVID-19 Policy Database](https://covid19policy.adb.org/)
+    - [Republic of Korea](http://web.archive.org/web/20201219011553/https://covid19policy.adb.org/policy-measures/KOR)
+    - [United States](http://web.archive.org/web/20210116111049/https://covid19policy.adb.org/policy-measures/USA)
 * [Climate Policy Database](https://climatepolicydatabase.org/policies?policy_type[906]=906)
 * [International Energy Agency (IEA): Policy database](https://www.iea.org/policies/)
-*   - [sample policy](https://www.iea.org/policies/8506-gas-boilers-replacement-by-low-carbon-heating-systems)
+  - [sample policy](https://www.iea.org/policies/8506-gas-boilers-replacement-by-low-carbon-heating-systems)
 
 # About
 
