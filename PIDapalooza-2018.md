@@ -183,6 +183,7 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
   - The Ethical Use of iPS Cells
   - Clinical Translation
 * [Coding of COVID-related policies](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
+* [Climate Policy Database](https://climatepolicydatabase.org/policies?policy_type[906]=906)
 
 # About
 
