@@ -175,6 +175,13 @@ Since I am new to the topic of analyzing legal language, I am trying to get an o
 * [Policy-driven file archiving and backups](https://www.aparavi.com/file-retention-cloud-archive/)
 * [Studying Immigrant Policy One Law at a Time](https://doi.org/10.7910/DVN/F8YTX2)
   - with "law-level information for 2,703 legislative actions by the 50 American states from 2005-2015"
+* [iPS cells: mapping the policy issues](https://pubmed.ncbi.nlm.nih.gov/20005794/)
+  - Privacy
+  - Consent, and Withdrawal of Consent
+  - Reach-through Rights
+  - Intellectual Property Challenges
+  - The Ethical Use of iPS Cells
+  - Clinical Translation
 
 # About
 
