@@ -8,11 +8,19 @@ The call for proposals lists four potential submission types, all of which are p
 
 ## Unconferences
 
+- Valid reasons not to share data
+
 ## Hackathons
+
+- Teaching machines to search for evidence for or against a given hypothesis
 
 ## Workshops
 
+- Building open scholarly profiles via Scholia
+
 ## Short Presentations
+
+Lessons learned from publishing all around the research cycle
 
 # See also 
 
