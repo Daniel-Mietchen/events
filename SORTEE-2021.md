@@ -9,6 +9,11 @@ The call for proposals lists four potential submission types, all of which are p
 ## Unconferences
 
 - Valid reasons not to share data
+  - Variants:
+    - What are typical arguments for not being open, and how to respond to them?
+    - Arguments against open science, and how to respond to them
+- The ecological footprint of computational replication attempts
+- When was research that was published last week actually performed?
 
 ## Hackathons
 
@@ -16,11 +21,13 @@ The call for proposals lists four potential submission types, all of which are p
 
 ## Workshops
 
-- Building open scholarly profiles via Scholia
+- Visualizing the research ecosystem of ecosystem research via Wikidata
 
 ## Short Presentations
 
-Lessons learned from publishing all around the research cycle
+- Insights from publishing all along the research cycle
+- Ask Open Science: an open Q & A site for questions all around open science
+
 
 # See also 
 
