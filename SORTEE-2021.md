@@ -13,6 +13,7 @@ The call for proposals lists four potential submission types, all of which are p
     - What are typical arguments for not being open, and how to respond to them?
     - Arguments against open science, and how to respond to them
 - When was research that was published last week actually performed?
+- Why SORTEE session proposals should default to being open upon submission
 
 ## Hackathons
 
