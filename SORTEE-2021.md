@@ -12,16 +12,19 @@ The call for proposals lists four potential submission types, all of which are p
   - Variants:
     - What are typical arguments for not being open, and how to respond to them?
     - Arguments against open science, and how to respond to them
-- The ecological footprint of computational replication attempts
 - When was research that was published last week actually performed?
 
 ## Hackathons
 
 - Teaching machines to search for evidence for or against a given hypothesis
+- The ecological footprint of computational replication attempts
 
 ## Workshops
 
 - Visualizing the research ecosystem of ecosystem research via Wikidata
+  - variants:
+    - Building open scholarly profiles via Scholia
+    - Scholia: Building scholarly profiles via open-source visualizations of open data
 
 ## Short Presentations
 
