@@ -8,6 +8,7 @@ Most of my talks are [in English](recordings.md#in-english), and for those that 
 
 ## In English
 
+* 2021-04-30, online: Talk "[Open and FAIR science in an institutional context](http://doi.org/10.5281/zenodo.4720432)" at [Fraunhofer Institute for Biomedical Engineering](https://www.ibmt.fraunhofer.de)
 * 2021-02-26, online: Talk "[COVID-19 coverage on Wikidata](https://www.youtube.com/watch?v=eYJvBgVWTqM)" at [Flash Forward Fest](https://ffwd.flashgrants.org/)
 * 2021-02-26, online: Talk "[Platforms facilitating open science](https://www.youtube.com/watch?v=lzjzonr1FoI)" at [Flash Forward Fest](https://ffwd.flashgrants.org/)
 * 2021-02-24, online: Talk "[Visualizing the research ecosystem via Wikidata and Scholia](http://doi.org/10.5281/zenodo.4552926)" at [Flash Forward Fest](https://ffwd.flashgrants.org/)
