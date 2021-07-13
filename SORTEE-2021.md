@@ -46,3 +46,4 @@ The call for proposals lists four potential submission types, all of which are p
   - Wikimedia projects as citizen science platforms
   - Community-curated Linked Open Data about the Sustainable Development Goals, their targets and indicators
   - Visualizing the research ecosystem of ecosystem research via Wikidata
+* [Notes on SORTEE advocacy](https://docs.google.com/document/d/1GUj02L83TJ6fFjA7NrSRaNYGoXoJGBiXk0vtwJua1Ck/edit#)
