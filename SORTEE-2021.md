@@ -5,6 +5,16 @@ This file hosts materials related to my potential participation in the [Society 
 * Topic: The closed nature of submissions to events organized under an open flag
 * Abstract: The discussion should sharpen the participants' thoughts on the relative merits of conference submission processes defaulting to open or closed. To this end, I will briefly introduce some open examples and then stimulate discussion of the advantages and disadvantages of such open approaches, particularly in the context of SORTEE.
 
+# Etherpad
+
+* https://etherpad.wikimedia.org/p/SORTEE-2021-U11-open-proposals
+
+# Backchannels
+
+* SORTEE 2021 Slack: #conf2021-u11-open-proposals
+* Twitter: [SORTEE2021 OR sortecoevo](https://twitter.com/search?q=SORTEE2021%20OR%20sortecoevo&src=typed_query&f=live)
+
+
 # Archive
 *Content in this section has been used at some point in the past but is not actively maintained any more.*
 
