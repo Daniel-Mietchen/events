@@ -57,3 +57,4 @@ The call for proposals lists four potential submission types, all of which are p
   - Community-curated Linked Open Data about the Sustainable Development Goals, their targets and indicators
   - Visualizing the research ecosystem of ecosystem research via Wikidata
 * [Notes on SORTEE advocacy](https://docs.google.com/document/d/1GUj02L83TJ6fFjA7NrSRaNYGoXoJGBiXk0vtwJua1Ck/edit#)
+* [Notes on Open Science & Science Communication session](https://app.mural.co/t/scicommnceas4064/m/scicommnceas4064/1625095929635/41edd90cdcc564ff97b509b3cc7f612d08f644ec?sender=a474ac0d-d235-49e0-a860-e1d99f4fc4e1)
