@@ -103,8 +103,8 @@ Most of my talks are [in English](recordings.md#in-english), and for those that 
 
 # Recordings with remarks about me
 
-* 2017-20-03, Berlin: [Open Science Radio issue OSR068: Documenting Open Science Knowledge #oscibar](http://www.openscienceradio.de/2017/03/20/osr068-documenting-open-science-knowledge-oscibar-en/#t=11:00.000)
-* 2015-10-28, San Francisco: [Wikipedia and Open Access Panel](https://www.youtube.com/watch?v=t-cF7433aT4#t=7m20s)
+* 2017-20-03, Berlin: [Open Science Radio issue OSR068: Documenting Open Science Knowledge #oscibar](http://www.openscienceradio.de/2017/03/20/osr068-documenting-open-science-knowledge-oscibar-en/#t=11:00.000) (at ca. 11 min)
+* 2015-10-28, San Francisco: [Wikipedia and Open Access Panel](https://www.youtube.com/watch?v=t-cF7433aT4#t=7m20s) (at ca. 7m 20s)
 
 # See also
 
