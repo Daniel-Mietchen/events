@@ -4,7 +4,7 @@ This file facilitates a talk given [online](https://uni-wuerzburg.zoom.us/j/9769
 
 # Slides
 
-* [https://doi.org/10.5281/zenodo.5513579](https://doi.org/10.5281/zenodo.5513579)
+* [https://doi.org/10.5281/zenodo.5513579](https://doi.org/10.5281/zenodo.5513579) (to be released by the time the talk starts)
 
 # See also
 
