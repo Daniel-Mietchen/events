@@ -10,4 +10,4 @@ This file facilitates a talk given [online](https://uni-wuerzburg.zoom.us/j/9769
 
 * [FAIR Ethics: Making Ethical Review Processes more Machine Actionable](https://doi.org/10.5281/zenodo.2559998) &mdash; an earlier version of this talk (from 2018)
 * [Situating AI on the road from data sharing to societal impact](https://doi.org/10.5281/zenodo.3996019) &mdash; a 2020 talk with partial overlap
-* [Making ethics data FAIR](https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza-2016.md)(2016)
+* [Making ethics data FAIR](https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza-2016.md) (2016)
