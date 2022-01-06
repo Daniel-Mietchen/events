@@ -113,6 +113,7 @@ Most of my talks are [in English](recordings.md#in-english), and for those that 
 * Some other resources with detailed comments on some of my activities
   * 2019-06-30: [Democratizing the research ecosystem](https://web.archive.org/web/20210115185402/https://datascience.virginia.edu/projects/robustifying-scholia)
   * 2016-06-20: [SPARC Innovator: RIO Journal](https://sparcopen.org/our-work/innovator/rio-journal/)
+  * early 2016: [Comments](https://meta.wikimedia.org/wiki/User:Daniel_Mietchen/European_Commission_Open_Science_Policy_Platform#Comments) on my application to join the European Commission Open Science Policy Platform
   * 2014-01-16: [Building knowledge tools for the public good](http://clintlalonde.net/2014/01/16/building-knowledge-tools-for-the-public-good/)
   * 2013-02: [Open Science Interview mit Daniel Mietchen](http://doi.org/10.5281/zenodo.12337)
   * 2012-11-06: [Ever Wonder What Elephants Would Have to Say?](https://www.nytimes.com/2012/11/06/science/surrounded-by-humans-korean-elephant-learns-to-speak.html)
