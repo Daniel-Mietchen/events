@@ -127,7 +127,7 @@ Open research, peer review and the role of funders
    * and, in particular, "lead efforts to promulgate and implement best practices in open source, open science, standards, and data harmonization, forming partnerships across communities, stakeholder organizations, agencies, and countries" as well as "be an active participant in the design and oversight of programs that incentivize and celebrate the open sharing of data and resources."
 
 # Data management plans
-* Anyone here ever booked an organized travel? What did you travel agency provide you with?
+* Anyone here ever booked an organized travel? What did your travel agency provide you with?
 * Now imagine it's not people that travel, but data.
 * [Data management plans at NIH](http://libguides.northwestern.edu/c.php?g=217095&p=1433951#s-lg-box-wrapper-5412965)
 * [Ten Simple Rules for Creating a Good Data Management Plan](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525)
