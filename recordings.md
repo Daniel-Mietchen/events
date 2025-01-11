@@ -8,6 +8,10 @@ Most of my talks are [in English](recordings.md#in-english), and for those that 
 
 ## In English
 
+* 2024-08-09, Katowice: Contributor to a Wikimania 2024 session [Strengthening Wikimedia Collaborations with and for Open Science](https://wikimania.wikimedia.org/wiki/2024:Program/Strengthening_Wikimedia_Collaborations_with_and_for_Open_Science) &mdash; [video recording](https://youtu.be/LWWUXW1O3Q4?list=PLhV3K_DS5YfJ1xyY0LNDNX3RKyRQEXOdB&t=3106)
+* 2024-07-11, online: [NFDI-related knowledge graphs - a transdisciplinary perspective](https://doi.org/10.5281/zenodo.12702110) &mdash; [video recording](https://youtu.be/UjihkXuQbHs) 
+* 2024-05-06, online: [How Wikimedia projects can assist in language learning](https://doi.org/10.5281/zenodo.11118429) &mdash; [video recording](https://youtu.be/ANKV4ssp570)
+* 2023-07-05, Cologne, keynote at Open Science Festival 2023: "Open Research in Practice: Iterating between Ideas, Communities and Societal Impact" &mdash; [video recording](https://youtu.be/A7Ht2soAco4)
 * 2023-05-11, Paris, JupyterCon 2023: [Computational reproducibility of Jupyter notebooks from biomedical publications](https://doi.org/10.5281/zenodo.7854503) &mdash; [video recording](https://www.youtube.com/watch?v=2rSPDba7RnM)
 * 2021-08-17, online: Workshop "[Wikimedia and Sustainability &mdash; Selecting topics for impact](https://wikimania.wikimedia.org/wiki/2021:Submissions/Wikimedia_and_Sustainability-Selecting_topics_for_impact#Session_Outcomes)" &mdash; [video recording](https://www.youtube.com/watch?v=d1pdJbdZnrY)
 * 2021-08-14, online: Talk "[An overview of the COVID-19-related content of Wikimedia projects](https://wikimania.wikimedia.org/wiki/2021:Submissions/An_overview_of_the_COVID-19-related_content_of_Wikimedia_projects)" at [Wikimania 2021](https://wikimania.wikimedia.org/wiki/2021:Wikimania) &mdash; [slides](https://doi.org/10.5281/zenodo.5201623)
@@ -91,6 +95,7 @@ Most of my talks are [in English](recordings.md#in-english), and for those that 
 
 ## In German
 
+* 2024-05-22, Berlin: "Wissensgraphen: Biodiversität aus neuen Blickwinkeln" &mdash; [video recording](https://youtu.be/l2cYtCxipK4)
 * 2017-09-12, Brussels: [WikiStammtisch Episode 0070 Wikimania 2017 Review](http://wikistammtisch.org/wikistammtisch-episode-0070-wikimania-2017-review/) (group interview as part of a podcast series; more details [here](https://wikimania2017.wikimedia.org/wiki/User:Daniel_Mietchen))
 * 2015-12-03, Vienna: [Open research, peer review and the role of funders](https://github.com/Daniel-Mietchen/events/blob/master/Open-Science-Jetzt-Vienna-2015.md)
 * 2014-09-15, Vienna: [An introduction to citizen science](https://www.youtube.com/watch?v=LDYEA00VwQs)
