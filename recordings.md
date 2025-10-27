@@ -60,6 +60,7 @@ Most of my talks are [in English](recordings.md#in-english), and for those that 
 * 2018-03-12, Berlin, Open Science Barcamp: 
   - [Scholia - scholarly profiles based on Wikidata](http://www.openscienceradio.org/2018/03/12/osr103-scholia-profiles-based-on-wikidata-oscibar-en/)
   - [Valid reasons for opting out of sharing openly](http://www.openscienceradio.org/2018/03/13/osr110-opting-out-oscibar-en/)
+* 2018-02-24, Tel Aviv University, guest lecture at Wiki-Med elective course [5D Wikidata, Medicine & Research](https://www.youtube.com/watch?v=9jWl0QRiYfE)
 * 2017-11-10, Charlottesville (Virginia), Data Palooza: [Open data: central element of an open research ecosystem](https://www.youtube.com/watch?v=6qDEeRsMv7s#t=10m) ([slide](https://github.com/Daniel-Mietchen/events/blob/master/UVA-Datapalooza-2017.md))
 * 2017-10-29, Berlin, WikidataCon: [Using Wikidata to make research data FAIR](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/Using_Wikidata_to_make_research_data_FAIR)
 * 2017-10-28, Berlin, WikidataCon:
