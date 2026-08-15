@@ -119,7 +119,7 @@ Most of my talks are [in English](recordings.md#in-english), and for those that 
 # See also
 
 * [Biosketch](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Biographical_sketch)
-* A [YouTube search](https://www.youtube.com/results?search_query=daniel+mietchen) brings about a few more examples, which will hopefully make their way onto this list eventually. There are also recordings of my band Tschiltan, e.g. [this set of snippets](https://www.youtube.com/watch?v=1GFU6L6qUMg) from the 2003 Music Festival "Sharq Taronalari" (Eastern Melodies) in Samarqand.
+* A [YouTube search](https://www.youtube.com/results?search_query=daniel+mietchen) brings about a few more examples, which will hopefully make their way onto this list eventually. There are also recordings of my band Tschiltan, e.g. [this set of snippets](https://www.youtube.com/watch?v=1GFU6L6qUMg) from the 2003 Music Festival "Sharq Taronalari" (Eastern Melodies) in Samarqand, or [this one](https://youtu.be/KvbUkRPylFM) from 2026 in Berlin.
 * Some other resources with detailed comments on some of my activities
   * 2019-06-30: [Democratizing the research ecosystem](https://web.archive.org/web/20210115185402/https://datascience.virginia.edu/projects/robustifying-scholia)
   * 2016-06-20: [SPARC Innovator: RIO Journal](https://sparcopen.org/our-work/innovator/rio-journal/)
