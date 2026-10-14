@@ -8,6 +8,7 @@ Most of my talks are [in English](recordings.md#in-english), and for those that 
 
 ## In English
 
+* 2026-02-09, online: [WiNoDa seminar](https://winoda.de/event/) [From Drawers to the Open Web: Wikidata for Natural History Museum Collections](https://winoda.de/event/webinar-wikidata-de/) &mdash; the [video recording](https://www.youtube.com/watch?v=WMRILU3a-nI) contains parts of an interactive demo of various aspects of Wikimedia projects that are relevant to natural history collections and their specimen drawers
 * 2025-02-17, online: [KGI4NFDI - Introducing the Knowledge Graph Infrastructure Base Service](https://doi.org/10.5281/zenodo.14844417) &mdash; [video recording](https://www.youtube.com/watch?v=U7gSEnOPqZA)
 * 2024-08-09, Katowice: Contributor to a Wikimania 2024 session [Strengthening Wikimedia Collaborations with and for Open Science](https://wikimania.wikimedia.org/wiki/2024:Program/Strengthening_Wikimedia_Collaborations_with_and_for_Open_Science) &mdash; [video recording](https://youtu.be/LWWUXW1O3Q4?list=PLhV3K_DS5YfJ1xyY0LNDNX3RKyRQEXOdB&t=3106)
 * 2024-07-11, online: [NFDI-related knowledge graphs - a transdisciplinary perspective](https://doi.org/10.5281/zenodo.12702110) &mdash; [video recording](https://youtu.be/UjihkXuQbHs) 
